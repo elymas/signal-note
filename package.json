@@ -1,0 +1,28 @@
+{
+  "name": "signal-note-research",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "postbuild": "node scripts/create-spa-fallback.mjs",
+    "preview": "vite preview --host 0.0.0.0",
+    "reels:prepare": "node scripts/reels-analysis-prepare.mjs",
+    "reels:progress": "node scripts/reels-analysis-progress.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "1.25.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "react-router-dom": "7.18.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "6.0.4",
+    "vite": "8.1.5"
+  },
+  "engines": {
+    "node": ">=22.12.0 <23"
+  },
+  "packageManager": "npm@11.16.0"
+}
