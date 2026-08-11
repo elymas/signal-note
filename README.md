@@ -2,6 +2,15 @@
 
 기존 사이트와 별도로 빌드·배포하는 영상 리서치 사이트입니다. UI, 라우팅, 릴스·유튜브 분석 데이터를 모두 이 폴더 안에 보유하므로 독립 실행할 수 있습니다.
 
+## 현재 상태
+
+- Facebook Reels: 9개 출처, 2,754 / 5,269편 분석 완료(52.3%)
+- YouTube: 3개 채널, 공개 영상 150 / 150편 분석 완료
+- 로그인·연령·멤버십·지역 제한으로 불완전하게 분석된 공개 YouTube 영상: 0편
+- 공개 배포: `https://elymas.github.io/signal-note/`
+
+사이트 분리, 채널별 진척률, 품질 점검, 배포 및 동기화 기준은 [작업 현황 문서](docs/PROJECT_STATUS_2026-08-11.md)를 참고합니다.
+
 ## 실행
 
 ```bash
@@ -11,13 +20,13 @@ npm run build
 npm run preview
 ```
 
-루트 관리 명령을 사용하려면 `npm run research:dev`, `npm run research:build`를 실행합니다. 생성물은 이 폴더의 `dist/`에 출력됩니다.
+`hiddenriches-mimic` 모노레포 루트에서는 `npm run research:dev`, `npm run research:build`를 실행할 수 있습니다. 생성물은 이 프로젝트의 `dist/`에 출력됩니다.
 
 ## 라우트
 
 - `/signal-note/` 영상 증거 아카이브 홈
-- `/signal-note/reels` 릴스 리서치
-- `/signal-note/youtube` 유튜브 채널 분석
+- `/signal-note/reels/` 릴스 리서치
+- `/signal-note/youtube/` 유튜브 채널 분석
 
 ## 폴더
 
@@ -25,6 +34,12 @@ npm run preview
 - `src/data/` 릴스·유튜브 분석 데이터
 - `scripts/` 릴스 분석 준비·진척 스크립트
 - `research/`, `docs/` 수집 체크포인트와 감사 문서
+
+## 동기화
+
+로컬 원본은 `hiddenriches-mimic/output_research/`, GitHub Pages 배포 저장소는 별도의 `signal-note/`입니다. 로컬 원본을 수정하는 것만으로는 배포되지 않으며, 관리 대상 파일을 배포 저장소에 동기화한 뒤 `signal-note/main`에 commit·push해야 합니다.
+
+`node_modules/`, `dist/`, `.DS_Store`, 로컬 캐시와 임시 파일은 동기화하지 않습니다.
 
 GitHub Pages 배포 주소는 `https://elymas.github.io/signal-note/`입니다. 빌드 후 각 공개 라우트에 정적 `index.html`을 만들고, 알 수 없는 경로에는 `404.html`을 제공해 `/signal-note/reels`, `/signal-note/youtube` 직접 접속도 React Router로 연결합니다.
 

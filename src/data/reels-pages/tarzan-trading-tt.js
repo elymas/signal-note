@@ -593,7 +593,7 @@ export const tarzanTradingTTResearch = {
     },
     {
       id: '1383230493684531', sourceUrl: 'https://www.facebook.com/reel/1383230493684531/', date: '2026.07.04', duration: '14:56',
-      title: 'fresh supply·demand zone에 상위 추세·candle 확인·3R을 결합', originalTitle: "Don't Make These Mistakes When Trading Supply & Demand Zones", 
+      title: 'fresh supply·demand zone에 상위 추세·candle 확인·3R을 결합', originalTitle: "Don't Make These Mistakes When Trading Supply & Demand Zones",
       kind: 'setup', verdict: '검증 필요', fidelity: '원본 15분 영상·영어 전사·zone checklist·pin/doji/inside bar·top-down·1–2%·3R 화면 전체 직접 확인', tags: ['supply demand', 'candlestick confirmation', 'top-down', '3R', '1–2% risk'],
       core: '큰 단방향 candle로 이탈하고 중요한 구조를 깬 fresh supply·demand zone 중 최소 3R 공간이 있는 곳만 고른다. 상위 시간대 추세에 맞춰 zone의 pin bar·gravestone doji·inside bar 돌파 등 확인 뒤 진입하고, 스윕 후 zone 안 복귀에는 새 극단 밖 손절로 재진입할 수 있다고 설명한다.',
       rules: ['큰 candle·fresh retest·구조 이탈·최소 3R의 네 zone 기준을 사전에 수치화한다.', '5/15m scalping은 1H, 1H day trade는 daily, 4H swing은 weekly, daily는 monthly 추세와 정렬한다.', 'zone 안 pin·doji·engulfing·inside bar 중 사전 선택한 확인 패턴의 완성 또는 돌파에 진입한다.', '손절은 zone·확인 pattern 밖, 목표는 다음 구조 또는 3R로 두고 거래당 계좌 위험을 1–2% 이하로 계산한다.', 'stop sweep 뒤 zone 복귀 재진입은 새 신호로 기록하고 일일 총위험 한도 안에서만 허용한다.'],
