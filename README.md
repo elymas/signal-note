@@ -26,7 +26,7 @@ npm run preview
 - `scripts/` 릴스 분석 준비·진척 스크립트
 - `research/`, `docs/` 수집 체크포인트와 감사 문서
 
-GitHub Pages 배포 주소는 `https://elymas.github.io/signal-note/`입니다. 빌드 후 `index.html`을 `404.html`로 복제해 `/signal-note/reels`, `/signal-note/youtube` 직접 접속도 React Router로 연결합니다.
+GitHub Pages 배포 주소는 `https://elymas.github.io/signal-note/`입니다. 빌드 후 각 공개 라우트에 정적 `index.html`을 만들고, 알 수 없는 경로에는 `404.html`을 제공해 `/signal-note/reels`, `/signal-note/youtube` 직접 접속도 React Router로 연결합니다.
 
 ## 배포
 
