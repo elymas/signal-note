@@ -177,10 +177,10 @@ export const youtubeResearchChannels = [
     name: '주식해서한강뷰삼촌',
     url: 'https://www.youtube.com/channel/UC9u1oiGsAYwk6OKgfR5jRkA',
     ...hiddenRichesAudit,
-    autoCaptioned: 86,
+    autoCaptioned: 90,
     audioTranscribed: 0,
-    dateRange: '2026.05.06–2026.08.07',
-    note: '채널 표기 87편 중 공개 목록 86편을 전수 분석했습니다. 공개 목록에 없는 1편은 비공개·삭제·예약·집계 지연 여부를 외부에서 확정할 수 없습니다.',
+    dateRange: '2026.05.06–2026.08.18',
+    note: '채널 표기 91편 중 공개 Videos 79편과 Shorts 11편을 전수 분석했습니다. 공개 목록에 없는 1편은 비공개·삭제·예약·집계 지연 여부를 외부에서 확정할 수 없습니다.',
   },
   {
     id: 'UC9kFKSIHmlyWfFqyYeOar8A',
@@ -240,8 +240,8 @@ export const youtubeResearchAudit = {
   shorts: youtubeResearchChannels.reduce((sum, channel) => sum + channel.shorts, 0),
   captioned: youtubeResearchChannels.reduce((sum, channel) => sum + channel.captioned, 0),
   unavailableGap: youtubeResearchChannels.reduce((sum, channel) => sum + channel.unavailableGap, 0),
-  auditedAt: '2026.08.11',
-  note: '3개 채널의 공개 영상 150편을 모두 분석했습니다. 로그인·연령·멤버십 제한으로 불완전한 분석은 0편이며, 기존 채널의 공개 목록 밖 1편만 미확인 상태입니다.',
+  auditedAt: '2026.08.19',
+  note: '3개 채널의 공개 영상 154편을 모두 분석했습니다. 로그인·연령·멤버십 제한으로 불완전한 분석은 0편이며, 기존 채널의 공개 목록 밖 1편만 미확인 상태입니다.',
 };
 
 export const youtubeVideoKinds = ['전체', ...Array.from(new Set(youtubeResearchVideos.map((video) => video.kind)))];

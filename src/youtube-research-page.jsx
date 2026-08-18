@@ -148,7 +148,7 @@ export default function YoutubeResearchPage() {
 
         <section className="rs-catalog rs-youtube-catalog" id="all-videos" aria-labelledby="youtube-catalog-title">
           <header className="rs-catalog-heading">
-            <div><span>06 / ALL VIDEOS · 150 / 150 PUBLIC NOTES</span><h2 id="youtube-catalog-title">영상 분석 원장</h2><p>종가 플레이북에서 이관한 전체 영상 원장입니다. 채널·유형·테마를 조합하거나 영상 ID와 검증 메모까지 검색할 수 있습니다.</p></div>
+            <div><span>06 / ALL VIDEOS · {youtubeResearchAudit.publicVideos} / {youtubeResearchAudit.publicVideos} PUBLIC NOTES</span><h2 id="youtube-catalog-title">영상 분석 원장</h2><p>종가 플레이북에서 이관한 전체 영상 원장입니다. 채널·유형·테마를 조합하거나 영상 ID와 검증 메모까지 검색할 수 있습니다.</p></div>
           </header>
           <div className="rs-youtube-toolbar">
             <label className="rs-search-field"><Search size={16} /><input value={query} onChange={(event) => { setQuery(event.target.value); setVisibleCount(24); }} placeholder="채널·전략·근거·영상 ID 검색" aria-label="유튜브 분석 검색" /></label>

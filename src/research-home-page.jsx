@@ -33,7 +33,7 @@ export function ResearchHomePage() {
           <div className="rs-board-lines" aria-hidden="true"><i /><i /><i /><i /><i /><i /><i /></div>
           <ol>
             <li><span>FB</span><b>Source transcript</b><em>2,754 notes</em></li>
-            <li><span>YT</span><b>Channel coverage</b><em>150 / 150</em></li>
+            <li><span>YT</span><b>Channel coverage</b><em>{researchStats.youtubeVideos} / {researchStats.youtubeVideos}</em></li>
             <li><span>QA</span><b>Claim isolation</b><em>always on</em></li>
           </ol>
           <footer><span /> 원본 → 전사 → 규칙 → 검증 포인트</footer>
