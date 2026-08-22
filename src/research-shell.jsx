@@ -1,12 +1,51 @@
 import { useEffect, useState } from 'react';
-import { ArrowRight, Menu, ShieldAlert, X } from 'lucide-react';
+import { ArrowRight, Menu, Moon, ShieldAlert, Sun, X } from 'lucide-react';
 import { Link, NavLink, useLocation } from 'react-router-dom';
 import { researchStats } from './research-constants';
+
+const THEME_KEY = 'sn-theme';
+
+function getTheme() {
+  if (typeof document === 'undefined') return 'light';
+  return document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+}
+
+function ThemeToggle() {
+  const [theme, setTheme] = useState(getTheme);
+
+  useEffect(() => {
+    setTheme(getTheme());
+  }, []);
+
+  const toggleTheme = () => {
+    const next = theme === 'dark' ? 'light' : 'dark';
+    setTheme(next);
+    document.documentElement.setAttribute('data-theme', next);
+    try {
+      localStorage.setItem(THEME_KEY, next);
+    } catch {
+      /* 저장 실패는 무시한다 */
+    }
+  };
+
+  const isDark = theme === 'dark';
+  return (
+    <button
+      type="button"
+      className="rs-theme-toggle"
+      onClick={toggleTheme}
+      aria-label={isDark ? '라이트 테마로 전환' : '다크 테마로 전환'}
+      title={isDark ? '라이트 테마로 전환' : '다크 테마로 전환'}
+    >
+      {isDark ? <Sun size={17} /> : <Moon size={17} />}
+    </button>
+  );
+}
 
 function ResearchLogo({ compact = false }) {
   return (
     <Link className={`rs-brand ${compact ? 'compact' : ''}`} to="/" aria-label="SIGNAL NOTE RESEARCH 홈">
-      <span className="rs-brand-mark"><i /><i /><i /></span>
+      <span className="rs-brand-mark" aria-hidden="true"><i /><i /><i /></span>
       <span><b>SIGNAL<em>/</em>NOTE</b><small>VIDEO EVIDENCE ARCHIVE</small></span>
       {compact ? null : <strong>RESEARCH</strong>}
     </Link>
@@ -39,8 +78,10 @@ export function ResearchShell({ children }) {
           <NavLink to="/" end>아카이브 홈</NavLink>
           <NavLink to="/reels">릴스 리서치</NavLink>
           <NavLink to="/youtube">유튜브 분석</NavLink>
+          <Link className="rs-nav-cta" to="/reels">리서치 열기 <ArrowRight size={15} /></Link>
         </nav>
         <div className="rs-header-actions">
+          <ThemeToggle />
           <Link className="rs-header-cta" to="/reels">리서치 열기 <ArrowRight size={15} /></Link>
           <button type="button" className="rs-menu-button" onClick={() => setMenuOpen((open) => !open)} aria-expanded={menuOpen} aria-label={menuOpen ? '메뉴 닫기' : '메뉴 열기'}>
             {menuOpen ? <X size={20} /> : <Menu size={20} />}

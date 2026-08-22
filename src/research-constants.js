@@ -1,3 +1,4 @@
+// 공개 사이트 통계. AUDIT 값은 감사 문서 기준, ARCHIVE 값은 데이터 레지스트리 기준.
 export const researchStats = {
   reelsSources: 10,
   reelsAnalyzed: 5482,

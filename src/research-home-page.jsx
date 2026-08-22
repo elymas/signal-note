@@ -1,6 +1,7 @@
 import { ArrowDownRight, ArrowRight, CheckCircle2, FileSearch, ScanSearch, ShieldCheck } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { researchModules, researchStats } from './research-constants';
+import { reelsArchiveNotes, reelsSources } from './data/reels-sources.js';
 
 const processSteps = [
   [ScanSearch, '01', 'ENUMERATE', '공개 목록을 끝까지 확인하고 고유 영상 ID로 중복을 제거합니다.'],
@@ -10,6 +11,8 @@ const processSteps = [
 ];
 
 export function ResearchHomePage() {
+  const archiveTotal = researchStats.reelsAnalyzed + researchStats.youtubeVideos;
+
   return (
     <>
       <section className="rs-home-hero">
@@ -24,15 +27,15 @@ export function ResearchHomePage() {
           </div>
         </div>
         <aside className="rs-evidence-board rs-reveal delay-1" aria-label="리서치 증거 원장 예시">
-          <header><span>LIVE ARCHIVE / 03</span><b>Evidence ledger</b><em>UPDATED</em></header>
+          <header><span><i className="rs-live-dot" /> LIVE ARCHIVE</span><b>Evidence ledger</b><em>UPDATED</em></header>
           <div className="rs-board-score">
-            <span><small>PUBLIC ITEMS</small><b>{(researchStats.reelsAnalyzed + researchStats.youtubeVideos).toLocaleString('ko-KR')}</b></span>
+            <span><small>PUBLIC ITEMS</small><b>{archiveTotal.toLocaleString('ko-KR')}</b></span>
             <i>+</i>
             <span><small>RESTRICTED</small><b>0</b></span>
           </div>
           <div className="rs-board-lines" aria-hidden="true"><i /><i /><i /><i /><i /><i /><i /></div>
           <ol>
-            <li><span>FB</span><b>Source transcript</b><em>2,754 notes</em></li>
+            <li><span>FB</span><b>Source transcript</b><em>{researchStats.reelsAnalyzed.toLocaleString('ko-KR')} notes</em></li>
             <li><span>YT</span><b>Channel coverage</b><em>{researchStats.youtubeVideos} / {researchStats.youtubeVideos}</em></li>
             <li><span>QA</span><b>Claim isolation</b><em>always on</em></li>
           </ol>
@@ -41,8 +44,8 @@ export function ResearchHomePage() {
       </section>
 
       <section className="rs-coverage-strip" aria-label="전체 분석 범위">
-        <span><small>REELS SOURCES</small><b>{researchStats.reelsSources}</b><em>공개 프로필</em></span>
-        <span><small>REELS ANALYZED</small><b>{researchStats.reelsAnalyzed.toLocaleString('ko-KR')}</b><em>영상별 노트</em></span>
+        <span><small>REELS SOURCES</small><b>{reelsSources.length}</b><em>공개 프로필</em></span>
+        <span><small>ARCHIVE NOTES</small><b>{reelsArchiveNotes.toLocaleString('ko-KR')}</b><em>영상별 노트</em></span>
         <span><small>YOUTUBE CHANNELS</small><b>{researchStats.youtubeChannels}</b><em>전수 감사</em></span>
         <span><small>YOUTUBE VIDEOS</small><b>{researchStats.youtubeVideos}</b><em>공개 영상</em></span>
       </section>

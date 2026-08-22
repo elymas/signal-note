@@ -284,11 +284,6 @@ const reelKindsWithRecoveredResearch = [
   { id: '9853927267957461', date: '2026.08.20', duration: '01:32', title: '선물·주식·옵션별 broker 선택과 규제된 broker 사용을 권한 broker commentary', originalTitle: 'Use whatever broker works best for you Robot Person!', kind: 'risk', verdict: '주의 필요', fidelity: '원본 92.20초 영어 전사·Tradeovate/Webull/TradingView·Robinhood/Schwab/TastyTrade/Tradier·offshore broker 경고 대조', tags: ['broker selection', 'futures', 'options', 'regulation'], core: '상품과 목적에 따라 여러 broker를 사용할 수 있지만 규제된 broker를 택하고 offshore 사기를 피하라는 개인적 broker 선택 commentary다.', rules: ['broker 규제·고객자산 보호·수수료·증거금·체결·출금·이해상충을 공식 자료로 확인한다.', '선물·주식·옵션 계좌의 상품·레버리지·마진·최대손실·보관 위험을 분리한다.', '개인 사용 경험·브랜드 평가·추천과 독립적인 broker due diligence를 구분한다.'], caution: '특정 broker에 대한 욕설·국가/소유 구조 일반화는 검증된 사실이 아니며, 개인 선호가 안전성·최저 비용·최적 체결을 보장하지 않는다.' },
   { id: '1273694933709861', date: '2026.08.20', duration: '01:16', title: '신규 trader의 초보자 행운·과신·성장 정체를 Minions 비유로 비판한 반응 clip', originalTitle: 'New Traders are literally just Minions.', kind: 'psychology', verdict: '전략 아님', fidelity: '원본 76.47초 영어 전사·초보자 red flag·beginner\'s luck·시장에 겸손해짐·옵션 판매 언급 대조', tags: ['beginner trading', 'overconfidence', 'trading psychology', 'options'], core: '신규 trader가 초보자 행운을 실력으로 착각하고 시장의 교훈을 무시하는 행동을 비판하며 지속적 성장과 자기 점검을 촉구한다.', rules: ['초보자 행운과 검증된 edge를 거래 일지·표본·시장 국면·비용으로 분리한다.', '학습·규칙 변경·옵션 거래·성과를 forward test와 risk cap으로 검증한다.', '과신 신호에는 size 축소·거래 중단·review를 사전에 고정한다.'], caution: '유머와 반응성 commentary는 신규 trader 전체를 설명하지 않으며, 초보자 행운·옵션 판매 언급만으로 수익성이나 전략을 입증하지 않는다.' },
   { id: '1731413304072810', date: '2026.08.20', duration: '00:58', title: 'ICT·AMD·시장모델만 익히면 trading에 충분하다는 반응과 식사 장면을 결합한 clip', originalTitle: 'Seriously why is he eating on and off the charts like that?', kind: 'commentary', verdict: '전략 아님', fidelity: '원본 58.40초 영상·ICT/AMD/market model 우선 주장·FVG/CRT 등 부차화·식사 방식 반응 대조', tags: ['ICT', 'AMD', 'market model', 'reaction'], core: 'ICT·AMD·시장모델을 trading에 필요한 핵심으로 제시하고 FVG·CRT 등 다른 개념을 부차적인 것으로 치부하는 반응성 commentary다.', rules: ['각 개념의 신호·진입·무효화·목표·표본을 명시해 동일 비용·시장·out-of-sample으로 비교한다.', '개념을 안다는 사실과 수익성·재현성을 분리하고, 반응성 장면·유머·편집을 전략 증거로 쓰지 않는다.', '전략 선택은 risk cap·손절·size·기록·forward test로 검증한다.'], caution: '영상의 전사에는 반복적인 농담과 불명확한 표현이 섞여 있으며, ICT·AMD·시장모델을 안다고 해서 수익성이 입증되지 않는다.' },
-  { id: 'all', label: '전체' },
-  { id: 'setup', label: '셋업' },
-  { id: 'risk', label: '리스크' },
-  { id: 'psychology', label: '심리·규율' },
-  { id: 'commentary', label: '사례·논평' },
   {
     id: '1183760803609549', date: '2026.02.19', duration: '01:07',
     title: 'double top 위 buy-side sweep 뒤 bullish FVG 하향 종가 관통으로 short하는 bearish IFVG', originalTitle: 'Do you know what a FVG is? Are you profitable? No….',
@@ -383,8 +378,14 @@ const reelKindsWithRecoveredResearch = [
     { id: '1176781960727125', date: '2025.03.06', duration: '01:07', title: '체중·운동 통제와 trading 수익을 연결한 근거 없는 상위 1% 주장 reaction', originalTitle: 'No fat traders in the top 1%', kind: 'psychology', verdict: '주의 필요', fidelity: '원본 66.69초 영상과 no-fat top-1% claim·Max의 통계적 반박·discipline spillover·bank-account boast 대조', tags: ['trading discipline', 'health claim', 'performance claim', 'reaction'], core: '자기통제가 실행에 도움을 줄 수 있어도 체중이나 외형은 수익성의 증거가 아니며, 상위 1% 주장은 모집단·성과 정의 없이 검증되지 않는다.', rules: ['건강·규율과 전략·원장 성과를 분리한다.', 'body-size를 profitability proxy로 쓰지 않고 top 1%의 모집단·기간·성과 정의를 확인한다.', '주장·bank-account boast와 독립된 ledger·risk-adjusted 결과를 대조한다.'], caution: '근거 없는 stereotype과 계좌 과시는 ledger가 없으며 건강 논평은 낙인을 만들 수 있고 전략 edge가 아니다.' },
   ];
 
-export const reelKinds = reelKindsWithRecoveredResearch.slice(0, 5);
-const recoveredReelResearch = reelKindsWithRecoveredResearch.slice(5);
+export const reelKinds = [
+  { id: 'all', label: '전체' },
+  { id: 'setup', label: '셋업' },
+  { id: 'risk', label: '리스크' },
+  { id: 'psychology', label: '심리·규율' },
+  { id: 'commentary', label: '사례·논평' },
+];
+const recoveredReelResearch = reelKindsWithRecoveredResearch;
 
 const primaryReelResearch = [
   { id: '1633973160545726', date: '2025.01.01', duration: '01:30', title: 'ICT trader의 swing high/low·liquidity·sentiment 교육과 열정적 coaching을 긍정한 reaction', originalTitle: 'This is the only time I won\'t trash an ICT trader lol', kind: 'setup', verdict: '검증 필요', fidelity: '원본 89.97초 전사·swing highs/lows·liquidity·bull/bear sentiment·lower high/higher low entry·학생 응답·coach praise 대조', tags: ['ICT', 'liquidity', 'market structure', 'coaching'], core: 'swing high/low 위·아래 liquidity와 bullish/bearish sentiment를 설명하고, 학생에게 질문하며 market structure entry를 가르치는 ICT coaching clip을 긍정한다.', rules: ['swing·liquidity·sentiment·lower high/higher low·entry·stop·target을 수치화한다.', 'ICT setup과 trend/price-action baseline을 모든 signal·실패·비용·out-of-sample으로 비교한다.', '열정·정답 응답·coach 칭찬과 실제 live fills·학생 cohort·성과를 분리한다.'], caution: '교육적 설명과 학생의 정답이 edge·수익을 입증하지 않는다. liquidity·sentiment 정의, hindsight·선택 chart·교습비·전체 학생 결과가 없다.' },
@@ -4790,7 +4791,7 @@ const primaryReelResearch = [
   ];
 
 export const reelResearch = [...primaryReelResearch, ...recoveredReelResearch]
-  .sort((left, right) => right.date.localeCompare(left.date));
+  .sort((left, right) => String(right.date ?? '').localeCompare(String(left.date ?? '')));
 
 export function getReelUrl(id) {
   return `https://www.facebook.com/reel/${id}/`;

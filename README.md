@@ -7,7 +7,8 @@
 - Facebook Reels: 10개 출처, 5,482 / 5,485편 분석 완료(99.9%, 보류 3편)
 - YouTube: 3개 채널, 공개 영상 154 / 154편 분석 완료
 - 로그인·연령·멤버십·지역 제한으로 불완전하게 분석된 공개 YouTube 영상: 0편
-- 공개 배포: `https://elymas.github.io/signal-note/`(2026-08-22 Omar Agag 릴스 49편 추가)
+- 최신 로컬 감사: 2026-08-22 Facebook Reels 5,485편
+- 공개 배포: `https://elymas.github.io/signal-note/`(2026-08-19 YouTube 154편 갱신 동기화, 2026-08-21 릴스 감사 미동기화)
 
 사이트 분리, 채널별 진척률, 품질 점검, 배포 및 동기화 기준은 [작업 현황 문서](docs/PROJECT_STATUS_2026-08-21.md)를 참고합니다.
 
@@ -32,8 +33,22 @@ npm run preview
 
 - `src/` 사이트 UI와 라우팅
 - `src/data/` 릴스·유튜브 분석 데이터
+- `src/data/reels-sources.js` 릴스 출처 레지스트리
 - `scripts/` 릴스 분석 준비·진척 스크립트
 - `research/`, `docs/` 수집 체크포인트와 감사 문서
+
+## 새 릴스 채널 추가 방법
+
+1. 표준 형태(`slug`, `profileName`, `canonicalProfileUrl`, `analyzedAt`, `publishedRange`, `commonPrinciples`, `reels[]`)의 데이터 모듈을 `src/data/reels-pages/<slug>.js`로 만듭니다.
+2. `src/data/reels-sources.js` 레지스트리에 한 줄을 추가합니다. `notes`는 칩에 먼저 표시되는 힌트 값이고 데이터가 로드되면 실제 값으로 대체됩니다.
+3. 카드 수, 총 재생 시간, 규칙화 가능/전략 아님 요약은 데이터에서 자동 계산되므로 UI를 직접 수정할 필요가 없습니다.
+
+## 디자인 시스템
+
+- 라이트(페이퍼)/다크(터미널) 듀얼 테마. 첫 방문은 시스템 설정을 따르고 헤더 토글로 전환하면 `localStorage`에 저장됩니다.
+- 타이포그래피: Archivo(라틴 디스플레이) + Pretendard(한글 본문) + IBM Plex Mono(데이터 라벨).
+- 목록 화면의 검색·필터 툴바는 스크롤 시 상단에 고정되고, 카드 목록은 화면 폭에 따라 1~3단으로 자동 조절됩니다.
+- 모든 텍스트 색 조합은 라이트/다크 모두 WCAG 2.1 AA(4.5:1) 이상으로 검증했습니다.
 
 ## 동기화
 

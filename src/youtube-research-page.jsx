@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import {
   ArrowDown,
+  ChevronDown,
   Database,
   ExternalLink,
   FileCheck2,
@@ -16,6 +17,7 @@ import {
   youtubeVideoPatterns,
   youtubeVideoThemes,
 } from './data/youtube-research-data.js';
+import { ScrollTopButton } from './research-ui.jsx';
 
 const channelById = new Map(youtubeResearchChannels.map((channel) => [channel.id, channel]));
 
@@ -27,8 +29,14 @@ function YoutubeCard({ video, order }) {
   return (
     <article className={`rs-youtube-card ${expanded ? 'expanded' : ''}`}>
       <header>
-        <div><span>{String(order).padStart(3, '0')}</span><small>{video.channelName} · {video.kind}</small></div>
-        <time dateTime={video.date.replaceAll('.', '-')}>{video.date.replaceAll('.', '/')} · {video.duration}</time>
+        <div className="rs-reel-meta">
+          <span>VIDEO {String(order).padStart(3, '0')}</span>
+          <em className="rs-kind-pill youtube">{video.kind}</em>
+        </div>
+        <div className="rs-youtube-meta">
+          <small>{video.channelName}</small>
+          <time dateTime={video.date.replaceAll('.', '-')}>{video.date.replaceAll('.', '/')} · {video.duration}</time>
+        </div>
       </header>
       <div className="rs-youtube-card-body">
         <div className="rs-youtube-labels"><span>{video.theme}</span><em>{pattern.label}</em></div>
@@ -37,8 +45,9 @@ function YoutubeCard({ video, order }) {
         <div><small>핵심 해석</small><p>{video.thesis}</p></div>
         <div className="rs-claim-box"><small>영상이 제시한 근거 · 미검증</small><p>{video.claims}</p></div>
       </div>
-      <button className={`rs-card-toggle ${expanded ? 'open' : ''}`} type="button" onClick={() => setExpanded((open) => !open)} aria-expanded={expanded} aria-controls={detailId}>
-        실행·검증 규칙 {expanded ? '접기' : '펼치기'} <span>+</span>
+      <button className="rs-card-toggle" type="button" onClick={() => setExpanded((open) => !open)} aria-expanded={expanded} aria-controls={detailId}>
+        <span>실행·검증 규칙 {expanded ? '접기' : '펼치기'}</span>
+        <ChevronDown size={16} aria-hidden="true" />
       </button>
       {expanded ? (
         <div className="rs-youtube-detail" id={detailId}>
@@ -125,7 +134,7 @@ export default function YoutubeResearchPage() {
           <header><span>CHANNEL LEDGER</span><h2>분석 대상 채널</h2><p>각 채널의 공개 목록 기준 커버리지입니다.</p></header>
           <div>
             {youtubeResearchChannels.map((channel, index) => (
-              <button type="button" key={channel.id} className={channelId === channel.id ? 'active' : ''} onClick={() => { setChannelId(channel.id); setKind('전체'); setTheme('전체'); setVisibleCount(24); }}>
+              <button type="button" key={channel.id} className={channelId === channel.id ? 'active' : ''} onClick={() => { setChannelId(channel.id); setKind('전체'); setTheme('전체'); setVisibleCount(24); }} aria-pressed={channelId === channel.id}>
                 <span>{String(index + 1).padStart(2, '0')}</span>
                 <b>{channel.name}</b>
                 <small>{channel.longForm} LONG · {channel.shorts} SHORTS</small>
@@ -148,15 +157,16 @@ export default function YoutubeResearchPage() {
 
         <section className="rs-catalog rs-youtube-catalog" id="all-videos" aria-labelledby="youtube-catalog-title">
           <header className="rs-catalog-heading">
-            <div><span>06 / ALL VIDEOS · {youtubeResearchAudit.publicVideos} / {youtubeResearchAudit.publicVideos} PUBLIC NOTES</span><h2 id="youtube-catalog-title">영상 분석 원장</h2><p>종가 플레이북에서 이관한 전체 영상 원장입니다. 채널·유형·테마를 조합하거나 영상 ID와 검증 메모까지 검색할 수 있습니다.</p></div>
+            <div><span>06 / ALL VIDEOS · {youtubeResearchAudit.publicVideos} / {youtubeResearchAudit.publicVideos} PUBLIC NOTES</span><h2 id="youtube-catalog-title">영상 분석 원장</h2><p>채널·유형·테마를 조합하거나 영상 ID와 검증 메모까지 검색할 수 있습니다.</p></div>
           </header>
-          <div className="rs-youtube-toolbar">
+          <div className="rs-catalog-toolbar rs-youtube-toolbar">
             <label className="rs-search-field"><Search size={16} /><input value={query} onChange={(event) => { setQuery(event.target.value); setVisibleCount(24); }} placeholder="채널·전략·근거·영상 ID 검색" aria-label="유튜브 분석 검색" /></label>
-            <label><span>채널</span><select value={channelId} onChange={selectChannel} aria-label="유튜브 채널"><option value="all">전체</option>{youtubeResearchChannels.map((channel) => <option key={channel.id} value={channel.id}>{channel.name}</option>)}</select></label>
-            <label><span>유형</span><select value={kind} onChange={(event) => { setKind(event.target.value); setVisibleCount(24); }} aria-label="영상 유형">{youtubeVideoKinds.map((item) => <option key={item}>{item}</option>)}</select></label>
-            <label><span>테마</span><select value={theme} onChange={(event) => { setTheme(event.target.value); setVisibleCount(24); }} aria-label="영상 테마">{youtubeVideoThemes.map((item) => <option key={item}>{item}</option>)}</select></label>
+            <label className="rs-select"><span>채널</span><select value={channelId} onChange={selectChannel} aria-label="유튜브 채널"><option value="all">전체</option>{youtubeResearchChannels.map((channel) => <option key={channel.id} value={channel.id}>{channel.name}</option>)}</select></label>
+            <label className="rs-select"><span>유형</span><select value={kind} onChange={(event) => { setKind(event.target.value); setVisibleCount(24); }} aria-label="영상 유형">{youtubeVideoKinds.map((item) => <option key={item}>{item}</option>)}</select></label>
+            <label className="rs-select"><span>테마</span><select value={theme} onChange={(event) => { setTheme(event.target.value); setVisibleCount(24); }} aria-label="영상 테마">{youtubeVideoThemes.map((item) => <option key={item}>{item}</option>)}</select></label>
+            <p className="rs-result-count"><b>{filteredVideos.length}</b>편 검색됨 · {Math.min(visibleCount, filteredVideos.length)}편 표시</p>
+            {filtersActive ? <button type="button" className="rs-reset-button" onClick={resetFilters}>초기화 <RotateCcw size={13} /></button> : <span className="rs-sort-hint">NEWEST → OLDEST</span>}
           </div>
-          <div className="rs-result-row"><p><b>{filteredVideos.length}</b>편 검색됨 · 현재 {Math.min(visibleCount, filteredVideos.length)}편 표시</p>{filtersActive ? <button type="button" onClick={resetFilters}>필터 초기화 <RotateCcw size={13} /></button> : <span>NEWEST → OLDEST</span>}</div>
 
           {filteredVideos.length ? (
             <div className="rs-youtube-grid">
@@ -168,6 +178,7 @@ export default function YoutubeResearchPage() {
           {visibleCount < filteredVideos.length ? <button className="rs-more-button" type="button" onClick={() => setVisibleCount((count) => count + 24)}>다음 24편 더 보기 <ArrowDown size={15} /></button> : null}
         </section>
       </div>
+      <ScrollTopButton />
     </>
   );
 }
