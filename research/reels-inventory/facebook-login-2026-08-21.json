@@ -1,15 +1,15 @@
 {
-  "enumeratedAt": "2026-08-22",
-  "status": "complete: 10 of 10 authenticated Reels tabs enumerated",
+  "enumeratedAt": "2026-08-23",
+  "status": "complete: 11 of 11 authenticated Reels tabs enumerated",
   "browserState": "Facebook authenticated Aside Browser session (account u0)",
   "method": "Each Reels tab was scrolled while accumulating unique /reel/{id} links until both the unique ID count and page scroll height were unchanged for 8 consecutive checks at the bottom.",
   "priorInventory": "facebook-login-2026-08-06.json",
   "priorInventoryTotal": 5269,
   "addedSincePriorInventoryTotal": 216,
   "previousAnalyzedTotal": 2754,
-  "authenticatedInventoryTotal": 5485,
+  "authenticatedInventoryTotal": 5495,
   "missingFromPreviousAnalysisTotal": 2731,
-  "globalUniqueReelIds": 5485,
+  "globalUniqueReelIds": 5495,
   "sources": [
     {
       "slug": "ahmed-on-chart",
@@ -5566,6 +5566,19 @@
       "consecutiveStableChecks": 8,
       "reelIds": [
         "1731527924634820", "1414037077314598", "1691516282135966", "1594665658692871", "1811390556525228", "1600667588098584", "1607989630832981", "1368046601511703", "1908312010364646", "1552874129031361", "2132568887672980", "1549771886884752", "982551184652444", "4344766445779722", "1286013953278876", "2181014769418522", "2261254691349709", "1332042138869373", "1017996397579119", "2194820934489250", "1569827027870192", "1360574942787283", "1471130648373059", "2319282508596086", "803788382524011", "1289766573120103", "1506980284218388", "943029091551654", "1216454180475103", "1684887746008721", "2727067044336244", "870622415743480", "2913710948825982", "26203936819231489", "1230684022370951", "1272240594774623", "2211347009397221", "908075811658136", "1423210722548606", "1077585274499128", "1225276456242396", "1234722068723936", "1545891906694934", "2714103502274505", "1376227917563661", "1893915344556847", "884011591245123", "1428401592344944", "1763714494300146"
+      ]
+    },
+    {
+      "slug": "yostrades",
+      "profileUrl": "https://www.facebook.com/profile.php?id=61590091542659&sk=reels_tab",
+      "previousCount": 0,
+      "priorInventoryCount": 0,
+      "authenticatedCount": 10,
+      "addedSincePriorInventory": 10,
+      "missingFromPreviousAnalysis": 10,
+      "consecutiveStableChecks": 8,
+      "reelIds": [
+        "1080857081055024", "873380072373341", "1618716993231366", "2398565647335651", "2297398694405102", "1064630439427065", "1026599293324818", "875246981971203", "1190807503209857", "1337352595223251"
       ]
     }
   ]

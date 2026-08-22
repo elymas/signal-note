@@ -46,6 +46,7 @@ export const reelsSources = [
     },
   },
   { slug: 'omar-agag', profileName: 'Omar Agag', notes: 49, load: () => loadStandardResearch(import('./reels-pages/omar-agag.js')) },
+  { slug: 'yostrades', profileName: 'yostrades', notes: 10, load: () => loadStandardResearch(import('./reels-pages/yostrades.js')) },
 ];
 
 export const reelsSourcesBySlug = new Map(reelsSources.map((source) => [source.slug, source]));

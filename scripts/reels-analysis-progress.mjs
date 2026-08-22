@@ -20,6 +20,7 @@ const sourceFiles = {
   'coin-announcer': 'src/data/reels-pages/coin-announcer.js',
   'max-anthony': 'src/data/reels-research-data.js',
   'omar-agag': 'src/data/reels-pages/omar-agag.js',
+  yostrades: 'src/data/reels-pages/yostrades.js',
 };
 
 const inventory = JSON.parse(fs.readFileSync(inventoryPath, 'utf8'));

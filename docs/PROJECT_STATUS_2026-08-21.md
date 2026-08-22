@@ -7,8 +7,8 @@
 | 영역 | 상태 | 결과 |
 | --- | --- | --- |
 | 프로젝트 분리 | 완료 | `output_entire/`와 `output_research/`를 독립 관리 |
-| Facebook Reels 인벤토리 | 재감사 완료 | 10개 출처 5,485편, Omar Agag 49편 추가 |
-| Facebook Reels 분석 | 완료 | 5,482 / 5,485편, 대기 0편, 보류 3편 |
+| Facebook Reels 인벤토리 | 재감사 완료 | 11개 출처 5,495편, yostrades 10편 추가 |
+| Facebook Reels 분석 | 완료 | 5,492 / 5,495편, 대기 0편, 보류 3편 |
 | YouTube 증분 감사 | 완료 | 3개 채널 공개 영상 154 / 154편 콘텐츠화 |
 | Reels 무결성 | 통과 | 인벤토리·분석 ID 전부 포함, 내부·출처 간 중복 0건 |
 | 로컬 반영 | 완료 | 새 인벤토리·체크포인트·공통 통계·README·감사 문서 갱신 |
@@ -28,9 +28,10 @@
 | 코인하는 아나운서 | 275 | 276 | 99.6% | 0 | +14 |
 | Max Anthony | 840 | 851 | 98.7% | 11 | +214 |
 | Omar Agag | 49 | 49 | 100.0% | 0 | +49 |
-| **합계** | **5,482** | **5,485** | **99.9%** | **0** | **+614** |
+| yostrades | 10 | 10 | 100.0% | 0 | +10 |
+| **합계** | **5,492** | **5,495** | **99.9%** | **0** | **+624** |
 
-상세 절차와 ID 무결성 결과는 [`docs/reels/authenticated-inventory-audit-2026-08-22.md`](reels/authenticated-inventory-audit-2026-08-22.md)를 기준으로 한다. 2026-08-22 Omar Agag 49편은 Aside 탭 확인과 메타데이터·캡션 대조 후 콘텐츠화했고, 기존 보류 3편은 유지했다.
+상세 절차와 ID 무결성 결과는 [`docs/reels/authenticated-inventory-audit-2026-08-23.md`](reels/authenticated-inventory-audit-2026-08-23.md)를 기준으로 한다. 2026-08-23 yostrades 10편은 Aside 탭 확인과 메타데이터·캡션 대조 후 콘텐츠화했고, 기존 보류 3편은 유지했다.
 
 ## YouTube 공개 인벤토리
 
@@ -48,7 +49,7 @@
 - `research/reels-inventory/facebook-login-2026-08-21.json`: 10개 출처 5,485개 ID
 - `research/reels-analysis/checkpoint.json`: 새 인벤토리 기준선과 잔여 1,807편(보류 2편), 최근 869편 누적 게시
 - `scripts/reels-analysis-prepare.mjs`, `scripts/reels-analysis-progress.mjs`: 새 인벤토리 경로
-- `src/research-constants.js`: 공개 사이트 릴스 인벤토리 5,485편·감사일 2026-08-22
+- `src/research-constants.js`: 공개 사이트 릴스 인벤토리 5,495편·감사일 2026-08-23
 - `docs/reels/authenticated-inventory-audit-2026-08-21.md`: 재감사 근거
 - 루트 및 리서치 README: 최신 로컬 커버리지와 상태 문서 링크
 
