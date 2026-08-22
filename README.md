@@ -4,12 +4,12 @@
 
 ## 현재 상태
 
-- Facebook Reels: 9개 출처, 2,754 / 5,269편 분석 완료(52.3%)
+- Facebook Reels: 10개 출처, 5,482 / 5,485편 분석 완료(99.9%, 보류 3편)
 - YouTube: 3개 채널, 공개 영상 154 / 154편 분석 완료
 - 로그인·연령·멤버십·지역 제한으로 불완전하게 분석된 공개 YouTube 영상: 0편
-- 공개 배포: `https://elymas.github.io/signal-note/`(2026-08-19 YouTube 154편 갱신 동기화)
+- 공개 배포: `https://elymas.github.io/signal-note/`(2026-08-22 Omar Agag 릴스 49편 추가)
 
-사이트 분리, 채널별 진척률, 품질 점검, 배포 및 동기화 기준은 [작업 현황 문서](docs/PROJECT_STATUS_2026-08-19.md)를 참고합니다.
+사이트 분리, 채널별 진척률, 품질 점검, 배포 및 동기화 기준은 [작업 현황 문서](docs/PROJECT_STATUS_2026-08-21.md)를 참고합니다.
 
 ## 실행
 

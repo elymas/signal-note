@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url';
 const rootDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const inventoryPath = path.join(
   rootDir,
-  'research/reels-inventory/facebook-login-2026-08-06.json',
+  'research/reels-inventory/facebook-login-2026-08-21.json',
 );
 const checkpointPath = path.join(rootDir, 'research/reels-analysis/checkpoint.json');
 const sourceFiles = {

@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-08-11",
-  "inventory": "../reels-inventory/facebook-login-2026-08-06.json",
-  "completedBatchCount": 368,
-  "publishedSinceInventoryAudit": 2534,
+  "updatedAt": "2026-08-21",
+  "inventory": "../reels-inventory/facebook-login-2026-08-21.json",
+  "completedBatchCount": 2228,
+  "publishedSinceInventoryAudit": 2674,
+  "inventoryAudit": {
+    "previousInventory": 5269,
+    "currentInventory": 5436,
+    "added": 167,
+    "analyzedAtAudit": 2754,
+    "pendingAtAudit": 2682
+  },
   "lastBatch": {
-    "selected": 0,
-    "recoveredDeferred": 5,
+    "selected": 1,
+    "recoveredDeferred": 0,
     "published": [
-      { "slug": "coin-announcer", "id": "1392518295818114" },
-      { "slug": "coin-announcer", "id": "1353417002917500" },
-      { "slug": "coin-announcer", "id": "2051645092038790" },
-      { "slug": "coin-announcer", "id": "1953906798514251" },
-      { "slug": "tarzan-trading-tt", "id": "1575252063921379" }
+      { "slug": "dumb-hunter", "id": "173056854010926" }
     ]
   },
-  "deferred": [],
+  "deferred": [
+    {
+      "slug": "coin-announcer",
+      "id": "760716717134708",
+      "reason": "yt-dlp metadata parse failure after batch 008 and targeted retry; 2026-08-22 yt-dlp alternate URL retry returned 404/parse failure, Facebook Reel URL showed page unavailable",
+      "attemptedAt": "2026-08-22"
+    },
+    {
+      "slug": "dumb-hunter",
+      "id": "2331809080897455",
+      "reason": "yt-dlp metadata parse failure in batch 057; 2026-08-22 Facebook Reel viewer opened as Dumb Hunter ‘Hunter compilations’ but video source was not exposed for download, so exact media/transcript could not be verified",
+      "attemptedAt": "2026-08-22"
+    },
+    {
+      "slug": "dumb-hunter",
+      "id": "896286396230068",
+      "reason": "yt-dlp metadata parse failure in batch 408; 2026-08-22 Facebook viewer exposed an 80.33s video stream and chart/creator frame, but no reliable metadata or transcript; retained as deferred pending source-level identification",
+      "attemptedAt": "2026-08-22"
+    }
+  ],
   "evidencePolicy": "원본 메타데이터와 음성 전사·Facebook 자막 또는 영상 자체에 완결된 화면 규칙을 확인하고, 전략 후보는 대표 프레임까지 교차 검토한 경우에만 프로젝트 콘텐츠로 게시한다. 원본에 audio stream이 없으면 이를 fidelity에 명시한다."
 }

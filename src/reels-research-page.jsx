@@ -24,15 +24,16 @@ const kindById = new Map(reelKinds.map((kind) => [kind.id, kind]));
 const principleIcons = [ShieldAlert, SlidersHorizontal, CheckCircle2, FlaskConical];
 
 const sourceDefinitions = [
-  { slug: 'ahmed-on-chart', profileName: 'Ahmed On Chart', reelCount: 102, totalDuration: '56분 52초', load: () => import('./data/reels-pages/ahmed-on-chart.js').then((module) => module.ahmedOnChartResearch) },
-  { slug: 'travis-woo', profileName: 'Travis Woo', reelCount: 422, totalDuration: '19시간 30분 47초', load: () => import('./data/reels-pages/travis-woo.js').then((module) => module.travisWooResearch) },
-  { slug: 'tarzan-trading-tt', profileName: 'Tarzan Trading TT', reelCount: 386, totalDuration: '65시간 15분 32초', load: () => import('./data/reels-pages/tarzan-trading-tt.js').then((module) => module.tarzanTradingTTResearch) },
-  { slug: 'erick-jablonski', profileName: 'Erick Jablonski', reelCount: 402, totalDuration: '6시간 42분 44초', load: () => import('./data/reels-pages/erick-jablonski.js').then((module) => module.erickJablonskiResearch) },
-  { slug: 'luxalgo', profileName: 'LuxAlgo', reelCount: 218, totalDuration: '6시간 20분 33초', load: () => import('./data/reels-pages/luxalgo.js').then((module) => module.luxalgoResearch) },
-  { slug: 'trader-note-jason', profileName: 'TradersNotes Jason', reelCount: 118, totalDuration: '2시간 39분 07초', load: () => import('./data/reels-pages/trader-note-jason.js').then((module) => module.traderNoteJasonResearch) },
-  { slug: 'dumb-hunter', profileName: 'Dumb Hunter', reelCount: 422, totalDuration: '5시간 49분 48초', load: () => import('./data/reels-pages/dumb-hunter.js').then((module) => module.dumbHunterResearch) },
-  { slug: 'coin-announcer', profileName: '코인하는 아나운서', reelCount: 262, totalDuration: '3시간 27분 28초', load: () => import('./data/reels-pages/coin-announcer.js').then((module) => module.coinAnnouncerResearch) },
-  { slug: 'max-anthony', profileName: 'Max Anthony', reelCount: 422, totalDuration: '7시간 16분 9초', load: loadMaxAnthonyResearch },
+  { slug: 'ahmed-on-chart', profileName: 'Ahmed On Chart', reelCount: 127, totalDuration: '1시간 17분 03초', load: () => import('./data/reels-pages/ahmed-on-chart.js').then((module) => module.ahmedOnChartResearch) },
+  { slug: 'travis-woo', profileName: 'Travis Woo', reelCount: 471, totalDuration: '22시간 07분 38초', load: () => import('./data/reels-pages/travis-woo.js').then((module) => module.travisWooResearch) },
+  { slug: 'tarzan-trading-tt', profileName: 'Tarzan Trading TT', reelCount: 394, totalDuration: '67시간 47분 49초', load: () => import('./data/reels-pages/tarzan-trading-tt.js').then((module) => module.tarzanTradingTTResearch) },
+  { slug: 'erick-jablonski', profileName: 'Erick Jablonski', reelCount: 451, totalDuration: '7시간 40분 23초', load: () => import('./data/reels-pages/erick-jablonski.js').then((module) => module.erickJablonskiResearch) },
+  { slug: 'luxalgo', profileName: 'LuxAlgo', reelCount: 223, totalDuration: '6시간 30분 12초', load: () => import('./data/reels-pages/luxalgo.js').then((module) => module.luxalgoResearch) },
+  { slug: 'trader-note-jason', profileName: 'TradersNotes Jason', reelCount: 129, totalDuration: '2시간 52분 37초', load: () => import('./data/reels-pages/trader-note-jason.js').then((module) => module.traderNoteJasonResearch) },
+  { slug: 'dumb-hunter', profileName: 'Dumb Hunter', reelCount: 471, totalDuration: '6시간 42분 55초', load: () => import('./data/reels-pages/dumb-hunter.js').then((module) => module.dumbHunterResearch) },
+  { slug: 'coin-announcer', profileName: '코인하는 아나운서', reelCount: 275, totalDuration: '3시간 40분 03초', load: () => import('./data/reels-pages/coin-announcer.js').then((module) => module.coinAnnouncerResearch) },
+  { slug: 'max-anthony', profileName: 'Max Anthony', reelCount: 471, totalDuration: '8시간 15분 57초', load: loadMaxAnthonyResearch },
+  { slug: 'omar-agag', profileName: 'Omar Agag', reelCount: 49, totalDuration: '1시간 00분 13초', load: () => import('./data/reels-pages/omar-agag.js').then((module) => module.omarAgagResearch) },
 ];
 
 const sourceDefinitionBySlug = new Map(sourceDefinitions.map((source) => [source.slug, source]));

@@ -1,5 +1,7 @@
 # Facebook Reels 로그인 목록 감사 — 2026-08-06
 
+> 이 문서는 당시 인벤토리 기록이다. 최신 재감사는 [`authenticated-inventory-audit-2026-08-21.md`](authenticated-inventory-audit-2026-08-21.md)다.
+
 Facebook에 로그인된 Chrome 세션에서 프로젝트의 9개 Reels 탭을 각각 끝까지 스크롤하고, `/reel/{id}` 링크를 ID 기준으로 중복 제거했다. 각 탭은 페이지 하단에서 추가 스크롤을 반복해 고유 ID 수와 페이지 높이가 더 이상 증가하지 않는 것을 확인했다.
 
 ## 결과

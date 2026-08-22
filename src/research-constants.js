@@ -1,13 +1,13 @@
 export const researchStats = {
-  reelsSources: 9,
-  reelsAnalyzed: 2754,
-  reelsInventory: 5269,
+  reelsSources: 10,
+  reelsAnalyzed: 5482,
+  reelsInventory: 5485,
   youtubeChannels: 3,
   youtubeVideos: 154,
   youtubeLongForm: 94,
   youtubeShorts: 60,
   restrictedVideos: 0,
-  auditedAt: '2026.08.19',
+  auditedAt: '2026.08.22',
 };
 
 export const researchModules = [
@@ -16,8 +16,8 @@ export const researchModules = [
     href: '/reels',
     kicker: 'FACEBOOK / REELS',
     title: '릴스 리서치',
-    description: '9개 공개 프로필의 릴스를 출처별로 전사하고, 셋업·리스크·심리·논평을 재현 가능성 기준으로 분류합니다.',
-    metric: '2,754',
+    description: '10개 공개 프로필의 릴스를 출처별로 전사하고, 셋업·리스크·심리·논평을 재현 가능성 기준으로 분류합니다.',
+    metric: '5,482',
     metricLabel: 'ANALYZED NOTES',
     accent: 'coral',
   },
