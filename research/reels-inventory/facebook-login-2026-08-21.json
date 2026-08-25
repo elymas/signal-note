@@ -7,9 +7,9 @@
   "priorInventoryTotal": 5269,
   "addedSincePriorInventoryTotal": 216,
   "previousAnalyzedTotal": 2754,
-  "authenticatedInventoryTotal": 5615,
+  "authenticatedInventoryTotal": 5625,
   "missingFromPreviousAnalysisTotal": 2731,
-  "globalUniqueReelIds": 5615,
+  "globalUniqueReelIds": 5625,
   "sources": [
     {
       "slug": "ahmed-on-chart",
@@ -5715,9 +5715,9 @@
       "profileUrl": "https://www.facebook.com/novo.legacy/reels/",
       "previousCount": 0,
       "priorInventoryCount": 0,
-      "authenticatedCount": 60,
-      "addedSincePriorInventory": 60,
-      "missingFromPreviousAnalysis": 60,
+      "authenticatedCount": 70,
+      "addedSincePriorInventory": 70,
+      "missingFromPreviousAnalysis": 70,
       "consecutiveStableChecks": 1,
       "reelIds": [
         "2288965115212155",
@@ -5779,7 +5779,17 @@
         "1083183323936456",
         "963981992670734",
         "875184651874562",
-        "1262238765719596"
+        "1262238765719596",
+        "1388023723017248",
+        "1591196681920031",
+        "1206662734985983",
+        "1203958937917556",
+        "1046730394282632",
+        "1573195107206470",
+        "2278391202572024",
+        "879906924547486",
+        "852091824131686",
+        "1195729929291230"
       ]
     }
   ]

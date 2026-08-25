@@ -25,7 +25,7 @@ Aside에서 Reels 탭을 반복 확인해 고유 `/reel/{id}` 링크 10개를 �
 | --- | ---: | ---: | ---: | ---: |
 | yostrades | 10 | 10 | 0 | 0 |
 | Trade with Pat | 60 | 60 | 0 | 0 |
-| Novo Legacy | 60 | 60 | 0 | 0 |
+| Novo Legacy | 70 | 70 | 0 | 0 |
 
 ## 관찰된 콘텐츠 축
 
@@ -46,10 +46,10 @@ FMC·84/80% 승률·payout은 영상 주장으로 분리했으며, 정확한 규
 
 ## 무결성
 
-- 새 출처 ID: 130개 (yostrades 10, Trade with Pat 60, Novo Legacy 60)
+- 새 출처 ID: 140개 (yostrades 10, Trade with Pat 60, Novo Legacy 70)
 - 새 출처 내부 중복: 0개
 - 기존 출처와의 ID 중복: 0개
 - 새 출처 대기: 0개
-- 전체 인벤토리: 5,615개
-- 전체 분석: 5,612개
+- 전체 인벤토리: 5,625개
+- 전체 분석: 5,622개
 - 전체 보류: 3개

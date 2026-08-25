@@ -7,8 +7,8 @@
 | 영역 | 상태 | 결과 |
 | --- | --- | --- |
 | 프로젝트 분리 | 완료 | `output_entire/`와 `output_research/`를 독립 관리 |
-| Facebook Reels 인벤토리 | 재감사 완료 | 13개 출처 5,615편, Novo Legacy 60편 추가 |
-| Facebook Reels 분석 | 완료 | 5,612 / 5,615편, 대기 0편, 보류 3편 |
+| Facebook Reels 인벤토리 | 재감사 완료 | 13개 출처 5,625편, Novo Legacy 70편 확인 |
+| Facebook Reels 분석 | 완료 | 5,622 / 5,625편, 대기 0편, 보류 3편 |
 | YouTube 증분 감사 | 완료 | 4개 채널 공개 영상 185 / 185편 콘텐츠화 |
 | Reels 무결성 | 통과 | 인벤토리·분석 ID 전부 포함, 내부·출처 간 중복 0건 |
 | 로컬 반영 | 완료 | 새 인벤토리·체크포인트·공통 통계·README·감사 문서 갱신 |
@@ -30,10 +30,10 @@
 | Omar Agag | 49 | 49 | 100.0% | 0 | +49 |
 | yostrades | 10 | 10 | 100.0% | 0 | +10 |
 | Trade with Pat | 60 | 60 | 100.0% | 0 | +60 |
-| Novo Legacy | 60 | 60 | 100.0% | 0 | +60 |
-| **합계** | **5,612** | **5,615** | **99.9%** | **0** | **+744** |
+| Novo Legacy | 70 | 70 | 100.0% | 0 | +70 |
+| **합계** | **5,622** | **5,625** | **99.9%** | **0** | **+754** |
 
-상세 절차와 ID 무결성 결과는 [`docs/reels/authenticated-inventory-audit-2026-08-23.md`](reels/authenticated-inventory-audit-2026-08-23.md)를 기준으로 한다. 2026-08-25 Novo Legacy 60편은 Aside 탭 확인과 메타데이터·캡션 대조 후 콘텐츠화했다. 기존 보류 3편은 유지했다.
+상세 절차와 ID 무결성 결과는 [`docs/reels/authenticated-inventory-audit-2026-08-23.md`](reels/authenticated-inventory-audit-2026-08-23.md)를 기준으로 한다. 2026-08-25 Novo Legacy 릴스 탭을 재확인해 70편으로 갱신하고, 추가 10편을 메타데이터·캡션 대조 후 콘텐츠화했다. 기존 보류 3편은 유지했다.
 
 ## YouTube 공개 인벤토리
 

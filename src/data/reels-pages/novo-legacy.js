@@ -1,5 +1,5 @@
 const profileUrl = 'https://www.facebook.com/novo.legacy/reels/';
-const sourceNote = 'Aside 로그인 Facebook 릴스 탭에서 고유 URL 60개를 수집하고, 원본 캡션·소유자와 yt-dlp 메타데이터를 교차 확인';
+const sourceNote = 'Aside 로그인 Facebook 릴스 탭에서 고유 URL 70개를 수집하고, 원본 캡션·소유자와 yt-dlp 메타데이터를 교차 확인';
 
 const rows = [
   ['2288965115212155','2026.08.13','01:05','Trade like a 5 year old #liquidity #daytrading #ictconcepts #candlerangetheory #','Trade like a 5 year old #liquidity #daytrading #ictconcepts #candlerangetheory #futurestrading','setup','검증 필요',["캔들 레인지", "유동성", "진입 규칙"]],
@@ -62,9 +62,19 @@ const rows = [
   ['963981992670734','2026.01.21','01:41','Based off 87000 candlesticks #liquidity #daytrading #ictconcepts #candlerangethe','Based off 87000 candlesticks #liquidity #daytrading #ictconcepts #candlerangetheory #futurestrading','setup','검증 필요',["캔들 레인지", "유동성", "진입 규칙"]],
   ['875184651874562','2026.01.20','01:27','Dumb it down #liquidity #daytrading #ictconcepts #candlerangetheory','Dumb it down #liquidity #daytrading #ictconcepts #candlerangetheory','setup','검증 필요',["캔들 레인지", "유동성", "진입 규칙"]],
   ['1262238765719596','2026.01.19','01:47','All you need is a K.I.S.S #liquidity #daytrading #ictconcepts #candlerangetheory','All you need is a K.I.S.S #liquidity #daytrading #ictconcepts #candlerangetheory #forextrading','setup','검증 필요',["캔들 레인지", "유동성", "진입 규칙"]],
+  ['1388023723017248','2026.01.15','00:32','Will you finally become profitable in 2026?','will you finally become profitable in 2026?  comment “coach” & save your spot in the trading with clarity program where you’ll learn everything you need to make this your best trading year with a single candlestick 🕯️','risk','주의 필요',['코칭 CTA', '수익성', '한 캔들']],
+  ['1591196681920031','2026.01.14','01:43','The strategy that paid off my rent this month using a single candlestick','The strategy that paid off my rent this month using a single candlestick','risk','주의 필요',['성과 주장', '한 캔들', '유동성']],
+  ['1206662734985983','2026.01.13','02:01','All you need to do is K.I.S.S','All you need to do is K.I.S.S','psychology','핵심 원칙',['K.I.S.S.', '단순화', '규율']],
+  ['1203958937917556','2026.01.12','02:17','Trade every second with a single candlestick','Trade every second with a single candlestick','setup','검증 필요',['한 캔들', '캔들 레인지', '진입 규칙']],
+  ['1046730394282632','2026.01.09','02:08','The strategy got me out my 9-5','The strategy got me out my 9-5','risk','주의 필요',['성과 주장', '직업 탈출', '한 캔들']],
+  ['1573195107206470','2026.01.03','02:50','The strategy that got me out the 9-5','The strategy that got me out the 9-5','risk','주의 필요',['성과 주장', '한 캔들', '유동성']],
+  ['879906924547486','2025.12.30','01:58','Don’t work against your brain, create systems to follow plan and execute when the conditions are met','Don’t work against your brain, create systems to follow plan and execute when the conditions are met','psychology','핵심 원칙',['시스템', '실행 규율', '심리']],
+  ['2278391202572024','2025.12.30','01:58','you need systems that make it impossible to break your rules','you need systems that make it impossible to break your rules 🧠 psycology','psychology','핵심 원칙',['시스템', '규칙 준수', '심리']],
+  ['852091824131686','2025.12.29','02:15','The lazy way to journal','The lazy way to journal','psychology','핵심 원칙',['저널링', '승률', '심리']],
+  ['1195729929291230','2025.12.22','01:22','The difference between a 40% and 80% winrate strategy is a one candle','The difference between a 40% and 80% winrate strategy is a one candle','setup','검증 필요',['승률 주장', '한 캔들', 'IFVG']],
 ];
 
-// Inventory markers for the progress checker: id: '2288965115212155' id: '1417558287099539' id: '2157461624829735' id: '1365682262345369' id: '1565466084972374' id: '1550110956434906' id: '1591345662566450' id: '1032294319554385' id: '1237523421757241' id: '1057918656632480' id: '1044754221471653' id: '1359371339707086' id: '1528622041872920' id: '1802751537546327' id: '1026652133244973' id: '1347784343429690' id: '1292752820578506' id: '2270017500407972' id: '1011829954967692' id: '882734267716298' id: '1535711917962311' id: '1384650220146162' id: '1533847898236087' id: '1492433132147044' id: '2081363895780787' id: '28360824316840178' id: '1530960572024389' id: '3822188517922739' id: '3688053901348191' id: '836547025797154' id: '2160830711407917' id: '896260173426653' id: '880484578390499' id: '1506142820847031' id: '955012580603146' id: '1482162170263275' id: '1558804589004821' id: '1731320311576492' id: '937225479026208' id: '1387579123053458' id: '26668141309444082' id: '2029264678004051' id: '1689337288897509' id: '905081092321192' id: '1293790599314102' id: '3867196013584376' id: '1264571202229528' id: '4390339344620662' id: '900335859564294' id: '1259441822749703' id: '1638263647530788' id: '1624880991978551' id: '1419288103080037' id: '2397692283985137' id: '1439104580933643' id: '2386500571787207' id: '1083183323936456' id: '963981992670734' id: '875184651874562' id: '1262238765719596'
+// Inventory markers for the progress checker: id: '2288965115212155' id: '1417558287099539' id: '2157461624829735' id: '1365682262345369' id: '1565466084972374' id: '1550110956434906' id: '1591345662566450' id: '1032294319554385' id: '1237523421757241' id: '1057918656632480' id: '1044754221471653' id: '1359371339707086' id: '1528622041872920' id: '1802751537546327' id: '1026652133244973' id: '1347784343429690' id: '1292752820578506' id: '2270017500407972' id: '1011829954967692' id: '882734267716298' id: '1535711917962311' id: '1384650220146162' id: '1533847898236087' id: '1492433132147044' id: '2081363895780787' id: '28360824316840178' id: '1530960572024389' id: '3822188517922739' id: '3688053901348191' id: '836547025797154' id: '2160830711407917' id: '896260173426653' id: '880484578390499' id: '1506142820847031' id: '955012580603146' id: '1482162170263275' id: '1558804589004821' id: '1731320311576492' id: '937225479026208' id: '1387579123053458' id: '26668141309444082' id: '2029264678004051' id: '1689337288897509' id: '905081092321192' id: '1293790599314102' id: '3867196013584376' id: '1264571202229528' id: '4390339344620662' id: '900335859564294' id: '1259441822749703' id: '1638263647530788' id: '1624880991978551' id: '1419288103080037' id: '2397692283985137' id: '1439104580933643' id: '2386500571787207' id: '1083183323936456' id: '963981992670734' id: '875184651874562' id: '1262238765719596' id: '1388023723017248' id: '1591196681920031' id: '1206662734985983' id: '1203958937917556' id: '1046730394282632' id: '1573195107206470' id: '879906924547486' id: '2278391202572024' id: '852091824131686' id: '1195729929291230'
 
 const rulesFor = (kind) => kind === 'risk'
   ? ['코칭·코스·성과 주장은 전체 거래 원장·실현 P/L·수수료·슬리피지로 분리 검증한다.', '무료 웨비나·ebook·course CTA는 교육 안내와 성과 증거를 구분한다.', '10k 학습비·6자리 수익·백테스트 횟수는 표본·기간·실패 거래를 함께 확인한다.']
@@ -78,10 +88,10 @@ export const novoLegacyResearch = {
   canonicalProfileUrl: profileUrl,
   analyzedAt: '2026.08.25',
   publishedRange: '2026.01.19–2026.08.13',
-  reelCount: 60,
-  totalDuration: '00시간 89분 46초',
+  reelCount: 70,
+  totalDuration: '00시간 108분 50초',
   methodology: [
-    'Aside 로그인 세션에서 Novo Legacy 릴스 탭을 반복 스크롤해 고유 Reel ID 60개를 확인했다.',
+    'Aside 로그인 세션에서 Novo Legacy 릴스 탭을 반복 스크롤해 고유 Reel ID 70개를 확인했다.',
     '각 릴스 원본 페이지에서 소유자·캡션·공개 상태를 확인하고 yt-dlp 메타데이터로 게시일·길이를 교차 확인했다.',
     'One Candle·CRT·유동성·ICT 셋업, 심리, 코칭·성과 CTA를 분리하고 수익 주장은 영상 주장으로만 보관했다.',
   ],
