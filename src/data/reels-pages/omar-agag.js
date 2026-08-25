@@ -1,5 +1,7 @@
+import { OmarAgagTranscriptOverrides } from '../reels-transcripts/omar-agag.js';
+
 const profileUrl = 'https://www.facebook.com/profile.php?id=61585977247540&sk=reels_tab';
-const sourceNote = 'Aside 로그인 Facebook 릴스 탭·고유 URL 49개 대조와 yt-dlp 원본 메타데이터/캡션 확인';
+const sourceNote = 'Aside 로그인 Facebook 릴스 탭·고유 URL 49개 대조와 yt-dlp 원본 메타데이터·자막·로컬 전사·대표 프레임 확인';
 
 const rows = [
   ['1731527924634820','2026.08.20','00:52','매일 아침 라이브 트레이딩과 Discord 커뮤니티 유도','commentary','전략 아님',['라이브 트레이딩','Discord','커뮤니티']],
@@ -67,11 +69,11 @@ export const omarAgagResearch = {
   analyzedAt: '2026.08.22',
   publishedRange: '2026.01.05–2026.08.20',
   reelCount: 49,
-  totalDuration: '1시간 00분 13초',
+  totalDuration: '01시간 00분 37초',
   methodology: [
     'Aside 로그인 세션에서 릴스 탭을 끝까지 반복 확인해 고유 Reel ID 49개를 수집했다.',
-    '각 ID의 공개 페이지를 Aside로 열어 소유자·캡션·공개 상태를 확인하고, yt-dlp 메타데이터로 날짜·길이를 교차 확인했다.',
-    '캡션·제목 중심 홍보 영상은 독립 전략으로 승격하지 않고 주장·검증 리스크를 분리했다.',
+    '각 원본의 자동 자막을 우선 확보하고, 자막이 없으면 오디오를 내려받아 Whisper large-v3-turbo로 로컬 전사했다.',
+    '영상별 대표 프레임 콘택트시트와 전사를 대조해 실행 문장·성과 주장·CTA·누락된 위험 규칙을 분리했다.',
   ],
   commonPrinciples: [
     { code: 'EBP', title: 'Liquidity를 가르친다는 EBP 프레임', copy: '프로필은 liquidity 교육과 선물·prop firm 거래를 전면에 둔다.' },
@@ -87,3 +89,8 @@ export const omarAgagResearch = {
     caution: '캡션·선택 차트·payout/승률 주장은 영상 주장으로만 보관한다. 정확한 상품·시간봉·체결·손실 표본·수수료·슬리피지·MDD가 공개되기 전에는 검증된 edge나 수익 보장으로 해석하지 않는다.',
   })),
 };
+
+omarAgagResearch.reels = omarAgagResearch.reels.map((reel) => ({
+  ...reel,
+  ...(OmarAgagTranscriptOverrides.get(String(reel.id)) ?? {}),
+}));

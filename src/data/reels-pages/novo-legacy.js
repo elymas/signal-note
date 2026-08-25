@@ -1,3 +1,5 @@
+import { NovoLegacyTranscriptOverrides } from '../reels-transcripts/novo-legacy.js';
+
 const profileUrl = 'https://www.facebook.com/novo.legacy/reels/';
 const sourceNote = 'Aside 로그인 Facebook 릴스 탭에서 고유 URL 106개를 수집하고, 원본 캡션·소유자와 yt-dlp 메타데이터를 교차 확인';
 
@@ -123,9 +125,9 @@ export const novoLegacyResearch = {
   profileName: 'Novo Legacy',
   canonicalProfileUrl: profileUrl,
   analyzedAt: '2026.08.25',
-  publishedRange: '2026.01.19–2026.08.13',
+  publishedRange: '2024.12.18–2026.08.13',
   reelCount: 106,
-  totalDuration: '02시간 42분 01초',
+  totalDuration: '02시간 41분 07초',
   methodology: [
     'Aside 로그인 세션에서 Novo Legacy 릴스 탭을 반복 스크롤해 고유 Reel ID 106개를 확인했다.',
     '각 릴스 원본 페이지에서 소유자·캡션·공개 상태를 확인하고 yt-dlp 메타데이터로 게시일·길이를 교차 확인했다.',
@@ -143,5 +145,6 @@ export const novoLegacyResearch = {
     core: `${title}. 영상은 ${kind === 'setup' ? '캔들 레인지·유동성 셋업' : kind === 'risk' ? '코칭·성과 홍보와 교육 CTA' : kind === 'psychology' ? '트레이딩 심리와 규율' : '시장 논평 또는 짧은 사례'}를 제시하지만, 완결된 주문 규칙과 독립 성과 원장은 별도로 확인해야 한다.`,
     rules: rulesFor(kind),
     caution: '수익·백테스트·코칭 성과·6자리 수익 주장은 영상 주장으로만 보관한다. 정확한 시장·세션·체결·손실 표본·수수료·슬리피지·MDD가 공개되기 전에는 검증된 edge나 수익 보장으로 해석하지 않는다.',
+    ...(NovoLegacyTranscriptOverrides.get(String(id)) ?? {}),
   })),
 };

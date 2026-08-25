@@ -8,7 +8,27 @@ async function loadStandardResearch(modulePromise) {
   const module = await modulePromise;
   const research = Object.values(module).find((value) => value && Array.isArray(value.reels));
   if (!research) throw new Error('reels 배열을 가진 export를 찾지 못했습니다.');
-  return research;
+
+  // 2026-08-25 추가 감사 때 일부 Reel 객체가 reels가 아니라 methodology나
+  // commonPrinciples에 잘못 삽입됐다. 상세 페이지와 출처 카드가 서로 다른
+  // 수를 표시하지 않도록 실제 객체를 reels로 회수하고 설명 배열에서는 뺀다.
+  const normalized = { ...research };
+  const misplacedReels = [];
+
+  for (const [key, value] of Object.entries(research)) {
+    if (key === 'reels' || !Array.isArray(value)) continue;
+    const misplaced = value.filter((item) => item && typeof item === 'object' && item.id);
+    if (!misplaced.length) continue;
+    misplacedReels.push(...misplaced);
+    normalized[key] = value.filter((item) => !(item && typeof item === 'object' && item.id));
+  }
+
+  const reelsById = new Map(
+    [...research.reels, ...misplacedReels].map((reel) => [String(reel.id), reel]),
+  );
+  normalized.reels = [...reelsById.values()];
+  normalized.reelCount = normalized.reels.length;
+  return normalized;
 }
 
 export const reelsSources = [

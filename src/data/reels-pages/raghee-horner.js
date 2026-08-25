@@ -1,13 +1,24 @@
+import { RagheeHornerTranscriptOverrides } from '../reels-transcripts/raghee-horner.js';
+
 export const ragheeHornerResearch = {
   slug: 'raghee-horner',
   profileName: 'Raghee Horner',
   canonicalProfileUrl: 'https://www.facebook.com/raghee/reels/',
   analyzedAt: '2026.08.26',
-  publishedRange: '2026.08.26',
+  publishedRange: '2019.01.27–2026.08.05',
   reelCount: 247,
-  totalDuration: '메타데이터 합산 전',
-  methodology: ['Aside 인증 Facebook 세션에서 Reels 탭을 끝까지 스크롤하고 신규 ID가 8회 연속 없을 때 종료했다.', 'yt-dlp 공개 메타데이터를 대조하고 고유 URL을 콘텐츠화 목록에 등록했다.'],
-  commonPrinciples: [],
+  totalDuration: '03시간 38분 54초',
+  methodology: [
+    'Aside 인증 Facebook 세션에서 Reels 탭을 끝까지 스크롤하고 신규 ID가 8회 연속 없을 때 종료했다.',
+    '각 원본에서 자동 자막을 우선 확보하고, 자막이 없으면 오디오를 내려받아 Whisper large-v3-turbo로 로컬 전사했다.',
+    '영상별 대표 프레임 콘택트시트를 만들고 전사·캡션·화면을 대조해 셋업·교육·심리·성과 주장을 개별 분석했다.',
+  ],
+  commonPrinciples: [
+    { code: 'TREND', title: '추세와 다중 시간대 맥락', copy: '단일 신호보다 상위 시간대 방향, 되돌림 위치와 하위 시간대 확인을 결합한다.' },
+    { code: 'VWAP', title: 'Anchored VWAP과 평균가격', copy: '추세 시작점·이벤트·주요 고저점에 고정한 VWAP 재시험을 반복 가능한 후보 셋업으로 설명한다.' },
+    { code: 'SECTOR', title: '섹터·ETF·옵션 연결', copy: '지수와 섹터 상대강도, ETF 구조와 옵션 상품 특성을 구분해 시장 선택 맥락을 제공한다.' },
+    { code: 'RISK', title: '좋은 거래와 좋은 결과의 분리', copy: '손실 거래라도 계획을 지켰는지, 이익 거래라도 규칙을 어겼는지를 구분하고 크기·손절·청산을 먼저 본다.' },
+  ],
   reels: [
     { id: '1625533838992167', sourceUrl: 'https://www.facebook.com/reel/1625533838992167/', date: '2026.08.05', duration: '00:04', title: '45K views · 394 reactions | I went from a 42% winning rate To a 68% winning rate. I followed this 3 step framework. 1️⃣ Simplify charts: If your indicators look like Christmas lights, listen up. Write exact entry, stop, ', originalTitle: '45K views · 394 reactions | I went from a 42% winning rate To a 68% winning rate. I followed this 3 step framework. 1️⃣ Simplify charts: If your indicators look like Christmas lights, listen up. Write exact entry, stop, ', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 전체 스크롤로 고유 URL 확인; yt-dlp 공개 메타데이터 대조', tags: ['raghee', 'additional-audit'], core: 'Raghee Horner 채널의 전체 공개 릴스를 목록화하고 원문 기반 분석 대상으로 등록했다.', rules: ['영상별 캡션·전사·화면을 확인해 주장과 실행 규칙을 분리한다.', '성과 주장은 전체 표본·비용·리스크를 포함해 검증한다.'], caution: '현재 자동 목록화 단계이며 영상별 세부 전략·성과는 원문 분석 전 확정하지 않는다.' },
     { id: '866807772975330', sourceUrl: 'https://www.facebook.com/reel/866807772975330/', date: '2026.08.04', duration: '00:58', title: '15K views · 282 reactions | So I just turned 55❗ Follow for trading strategies that helps you become a more consistent trader! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment,', originalTitle: '15K views · 282 reactions | So I just turned 55❗ Follow for trading strategies that helps you become a more consistent trader! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment,', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 전체 스크롤로 고유 URL 확인; yt-dlp 공개 메타데이터 대조', tags: ['raghee', 'additional-audit'], core: 'Raghee Horner 채널의 전체 공개 릴스를 목록화하고 원문 기반 분석 대상으로 등록했다.', rules: ['영상별 캡션·전사·화면을 확인해 주장과 실행 규칙을 분리한다.', '성과 주장은 전체 표본·비용·리스크를 포함해 검증한다.'], caution: '현재 자동 목록화 단계이며 영상별 세부 전략·성과는 원문 분석 전 확정하지 않는다.' },
@@ -258,3 +269,8 @@ export const ragheeHornerResearch = {
     { id: '397810774325935', sourceUrl: 'https://www.facebook.com/reel/397810774325935/', date: '2019.01.27', duration: '06:45', title: 'Macro Analysis Explained.', originalTitle: 'Macro Analysis Explained.', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 전체 스크롤로 고유 URL 확인; yt-dlp 공개 메타데이터 대조', tags: ['raghee', 'additional-audit'], core: 'Raghee Horner 채널의 전체 공개 릴스를 목록화하고 원문 기반 분석 대상으로 등록했다.', rules: ['영상별 캡션·전사·화면을 확인해 주장과 실행 규칙을 분리한다.', '성과 주장은 전체 표본·비용·리스크를 포함해 검증한다.'], caution: '현재 자동 목록화 단계이며 영상별 세부 전략·성과는 원문 분석 전 확정하지 않는다.' },
   ],
 };
+
+ragheeHornerResearch.reels = ragheeHornerResearch.reels.map((reel) => ({
+  ...reel,
+  ...(RagheeHornerTranscriptOverrides.get(String(reel.id)) ?? {}),
+}));

@@ -1,5 +1,7 @@
+import { YostradesTranscriptOverrides } from '../reels-transcripts/yostrades.js';
+
 const profileUrl = 'https://www.facebook.com/profile.php?id=61590091542659&sk=reels_tab';
-const sourceNote = 'Aside 로그인 Facebook 릴스 탭·고유 URL 10개 대조와 yt-dlp 원본 메타데이터/캡션 확인';
+const sourceNote = 'Aside 로그인 Facebook 릴스 탭·고유 URL 36개 대조와 yt-dlp 원본 메타데이터·자막·로컬 전사 확인';
 
 const rows = [
   ['1080857081055024','2026.08.20','00:13','NQ 최근 며칠의 변동을 논평','commentary','검증 필요',['NQ','시장 논평','변동성']],
@@ -27,13 +29,13 @@ export const yostradesResearch = {
   profileName: 'yostrades',
   canonicalProfileUrl: profileUrl,
   analyzedAt: '2026.08.23',
-  publishedRange: '2026.07.09–2026.08.20',
+  publishedRange: '2026.05.25–2026.08.20',
   reelCount: 36,
-  totalDuration: '00시간 03분 03초',
+  totalDuration: '00시간 17분 49초',
   methodology: [
-    'Aside 로그인 세션에서 릴스 탭을 반복 확인해 고유 Reel ID 10개를 수집했다.',
-    '각 릴스의 Aside 원본 페이지에서 소유자·캡션·공개 상태를 확인하고 yt-dlp 메타데이터로 게시일·길이를 교차 확인했다.',
-    'FMC·승률·prop firm 성과 주장은 영상 주장으로 분리하고, 실행 조건이 없는 짧은 클립은 전략으로 승격하지 않았다.',
+    'Aside 로그인 세션에서 릴스 탭을 끝까지 스크롤해 고유 Reel ID 36개를 수집했다.',
+    '각 원본의 자동 자막을 우선 확보하고, 자막이 없으면 오디오를 내려받아 Whisper large-v3-turbo로 로컬 전사했다.',
+    '영상별 대표 프레임 콘택트시트와 전사를 대조해 FMC·승률·prop firm 주장, 실행 문장과 누락된 위험 규칙을 분리했다.',
     { id: '2214930402684148', sourceUrl: 'https://www.facebook.com/reel/2214930402684148/', date: '2026.08.25', duration: '00:00', title: '공개 Reels 탭 추가 확인 영상', originalTitle: 'Facebook Reel 2214930402684148', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 끝까지 스크롤해 고유 URL 확인', tags: ['additional-audit'], core: '채널의 끝까지 스크롤한 공개 릴스 고유 ID를 연구 목록에 추가하고 원문 분석 대상으로 등록했다.', rules: ['원문 영상·캡션·전사를 확보해 주장과 실행 규칙을 분리한다.', '성과 주장은 독립 원장과 비용 후 표본으로 검증한다.'], caution: '현재는 고유 URL와 존재만 확인했으며 영상별 세부 주장은 원문 콘텐츠 확인 전 확정하지 않는다.' },
     { id: '1713451306226638', sourceUrl: 'https://www.facebook.com/reel/1713451306226638/', date: '2026.08.25', duration: '00:00', title: '공개 Reels 탭 추가 확인 영상', originalTitle: 'Facebook Reel 1713451306226638', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 끝까지 스크롤해 고유 URL 확인', tags: ['additional-audit'], core: '채널의 끝까지 스크롤한 공개 릴스 고유 ID를 연구 목록에 추가하고 원문 분석 대상으로 등록했다.', rules: ['원문 영상·캡션·전사를 확보해 주장과 실행 규칙을 분리한다.', '성과 주장은 독립 원장과 비용 후 표본으로 검증한다.'], caution: '현재는 고유 URL와 존재만 확인했으며 영상별 세부 주장은 원문 콘텐츠 확인 전 확정하지 않는다.' },
     { id: '888570147020851', sourceUrl: 'https://www.facebook.com/reel/888570147020851/', date: '2026.08.25', duration: '00:00', title: '공개 Reels 탭 추가 확인 영상', originalTitle: 'Facebook Reel 888570147020851', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 끝까지 스크롤해 고유 URL 확인', tags: ['additional-audit'], core: '채널의 끝까지 스크롤한 공개 릴스 고유 ID를 연구 목록에 추가하고 원문 분석 대상으로 등록했다.', rules: ['원문 영상·캡션·전사를 확보해 주장과 실행 규칙을 분리한다.', '성과 주장은 독립 원장과 비용 후 표본으로 검증한다.'], caution: '현재는 고유 URL와 존재만 확인했으며 영상별 세부 주장은 원문 콘텐츠 확인 전 확정하지 않는다.' },
@@ -75,3 +77,16 @@ export const yostradesResearch = {
     caution: 'FMC·84/80% 승률·prop payout은 영상 주장으로만 보관한다. 정확한 시장·세션·체결·손실 표본·수수료·슬리피지·MDD가 공개되기 전에는 검증된 edge나 수익 보장으로 해석하지 않는다.',
   })),
 };
+
+yostradesResearch.reels = [
+  ...yostradesResearch.reels,
+  ...yostradesResearch.methodology.filter((item) => item && typeof item === 'object' && item.id),
+];
+yostradesResearch.methodology = yostradesResearch.methodology.filter((item) => (
+  !(item && typeof item === 'object' && item.id)
+));
+yostradesResearch.reelCount = yostradesResearch.reels.length;
+yostradesResearch.reels = yostradesResearch.reels.map((reel) => ({
+  ...reel,
+  ...(YostradesTranscriptOverrides.get(String(reel.id)) ?? {}),
+}));

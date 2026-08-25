@@ -20,6 +20,12 @@ const sourceFiles = {
   'dumb-hunter': 'src/data/reels-pages/dumb-hunter.js',
   'coin-announcer': 'src/data/reels-pages/coin-announcer.js',
   'max-anthony': 'src/data/reels-research-data.js',
+  'omar-agag': 'src/data/reels-pages/omar-agag.js',
+  yostrades: 'src/data/reels-pages/yostrades.js',
+  'trade-with-pat': 'src/data/reels-pages/trade-with-pat.js',
+  'novo-legacy': 'src/data/reels-pages/novo-legacy.js',
+  'official-20-minute-trader': 'src/data/reels-pages/official-20-minute-trader.js',
+  'raghee-horner': 'src/data/reels-pages/raghee-horner.js',
 };
 
 const options = process.argv.slice(2).reduce(
@@ -29,10 +35,12 @@ const options = process.argv.slice(2).reduce(
     if (name === '--source') result.sources.push(value);
     if (name === '--output') result.output = path.resolve(value);
     if (name === '--concurrency') result.concurrency = Number(value);
+    if (name === '--offset') result.offset = Number(value);
+    if (name === '--reprocess') result.reprocess = true;
     if (name === '--skip-visuals') result.visuals = false;
     return result;
   },
-  { perSource: 1, sources: [], output: null, concurrency: 3, visuals: true },
+  { perSource: 1, sources: [], output: null, concurrency: 3, offset: 0, reprocess: false, visuals: true },
 );
 
 if (!Number.isInteger(options.perSource) || options.perSource < 1) {
@@ -40,6 +48,9 @@ if (!Number.isInteger(options.perSource) || options.perSource < 1) {
 }
 if (!Number.isInteger(options.concurrency) || options.concurrency < 1) {
   throw new Error('--concurrency must be a positive integer');
+}
+if (!Number.isInteger(options.offset) || options.offset < 0) {
+  throw new Error('--offset must be a non-negative integer');
 }
 
 const inventory = JSON.parse(fs.readFileSync(inventoryPath, 'utf8'));
@@ -67,7 +78,8 @@ const selection = inventory.sources.flatMap((source) => {
   if (!selectedSources.has(source.slug)) return [];
   const analyzedIds = analyzedIdsBySource.get(source.slug);
   return source.reelIds
-    .filter((id) => !analyzedIds.has(id) && !deferredIds.has(id))
+    .filter((id) => (options.reprocess || !analyzedIds.has(id)) && !deferredIds.has(id))
+    .slice(options.offset)
     .slice(0, options.perSource)
     .map((id) => ({
       slug: source.slug,
@@ -81,9 +93,13 @@ if (!selection.length) {
   process.exit(0);
 }
 
-const outputDir = options.output
-  ? fs.mkdirSync(options.output, { recursive: true }) ?? options.output
-  : fs.mkdtempSync(path.join(os.tmpdir(), 'hiddenriches-reels-'));
+let outputDir;
+if (options.output) {
+  fs.mkdirSync(options.output, { recursive: true });
+  outputDir = options.output;
+} else {
+  outputDir = fs.mkdtempSync(path.join(os.tmpdir(), 'hiddenriches-reels-'));
+}
 
 const runCommand = (command, args) =>
   new Promise((resolve) => {
@@ -207,15 +223,36 @@ const records = await runPool(selection, options.concurrency, async (item) => {
   };
 });
 
-for (const record of records) {
-  if (record.status === 'metadata-failed') continue;
+await runPool(records, options.concurrency, async (record) => {
+  if (record.status === 'metadata-failed') return;
   const sourceDir = path.join(outputDir, record.slug);
+  const existingAutoTranscript = findFile(
+    sourceDir,
+    (name) => name === `${record.id}.transcript.txt`,
+  );
+  const existingWhisperTranscript = findFile(
+    sourceDir,
+    (name) => name === `${record.id}.txt`,
+  );
   const subtitlePath = findFile(
     sourceDir,
     (name) => name.startsWith(`${record.id}.`) && name.endsWith('.srt'),
   );
 
-  if (subtitlePath) {
+  const autoTranscriptWordCount = existingAutoTranscript
+    ? fs.readFileSync(existingAutoTranscript, 'utf8').trim().split(/\s+/).filter(Boolean).length
+    : 0;
+  const autoTranscriptWordsPerMinute = autoTranscriptWordCount / Math.max((Number(record.duration) || 0) / 60, 1);
+  const incompleteLongAutoTranscript = Number(record.duration) >= 300
+    && autoTranscriptWordsPerMinute < 40;
+
+  if (existingWhisperTranscript) {
+    record.transcriptPath = existingWhisperTranscript;
+    record.transcriptSource = 'whisper-large-v3-turbo';
+  } else if (existingAutoTranscript && !incompleteLongAutoTranscript) {
+    record.transcriptPath = existingAutoTranscript;
+    record.transcriptSource = 'facebook-auto-caption';
+  } else if (subtitlePath && !incompleteLongAutoTranscript) {
     const transcriptPath = path.join(sourceDir, `${record.id}.transcript.txt`);
     fs.writeFileSync(
       transcriptPath,
@@ -281,12 +318,27 @@ for (const record of records) {
         record.error = transcriptResult.stderr.trim().split(/\r?\n/).at(-1);
       }
     } else {
-      record.status = 'audio-failed';
-      record.error = audioResult.stderr.trim().split(/\r?\n/).at(-1);
+      const postCaption = String(record.description ?? '').trim();
+      if (postCaption) {
+        const transcriptPath = path.join(sourceDir, `${record.id}.caption.txt`);
+        fs.writeFileSync(transcriptPath, `${postCaption}\n`);
+        record.transcriptPath = transcriptPath;
+        record.transcriptSource = 'facebook-post-caption';
+        record.audioStatus = 'no-audio-stream';
+      } else {
+        record.status = 'audio-failed';
+        record.error = audioResult.stderr.trim().split(/\r?\n/).at(-1);
+      }
     }
   }
 
-  if (!record.transcriptPath || !options.visuals) continue;
+  if (!record.transcriptPath || !options.visuals) return;
+  const existingSheetPath = path.join(sourceDir, `${record.id}.sheet.jpg`);
+  if (fs.existsSync(existingSheetPath)) {
+    record.sheetPath = existingSheetPath;
+    record.visualStatus = 'ready';
+    return;
+  }
   let visualResult = await runCommand('yt-dlp', [
     '-f',
     'worstvideo[ext=mp4]/worstvideo',
@@ -331,7 +383,7 @@ for (const record of records) {
   }
   if (visualResult.code !== 0 || !visualPath) {
     record.visualStatus = 'download-failed';
-    continue;
+    return;
   }
 
   const sampleRate = Math.max(20 / Math.max(Number(record.duration) || 200, 20), 1 / 90);
@@ -354,7 +406,7 @@ for (const record of records) {
   } else {
     record.visualStatus = 'sheet-failed';
   }
-}
+});
 
 for (const record of records) {
   if (record.transcriptPath && record.status === 'metadata-ready') {

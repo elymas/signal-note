@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { reelsSources } from '../src/data/reels-sources.js';
 
 const rootDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const inventoryPath = path.join(
@@ -9,47 +10,26 @@ const inventoryPath = path.join(
 );
 const checkpointPath = path.join(rootDir, 'research/reels-analysis/checkpoint.json');
 
-const sourceFiles = {
-  'ahmed-on-chart': 'src/data/reels-pages/ahmed-on-chart.js',
-  'travis-woo': 'src/data/reels-pages/travis-woo.js',
-  'tarzan-trading-tt': 'src/data/reels-pages/tarzan-trading-tt.js',
-  'erick-jablonski': 'src/data/reels-pages/erick-jablonski.js',
-  luxalgo: 'src/data/reels-pages/luxalgo.js',
-  'trader-note-jason': 'src/data/reels-pages/trader-note-jason.js',
-  'dumb-hunter': 'src/data/reels-pages/dumb-hunter.js',
-  'coin-announcer': 'src/data/reels-pages/coin-announcer.js',
-  'max-anthony': 'src/data/reels-research-data.js',
-  'omar-agag': 'src/data/reels-pages/omar-agag.js',
-  yostrades: 'src/data/reels-pages/yostrades.js',
-  'trade-with-pat': 'src/data/reels-pages/trade-with-pat.js',
-  'novo-legacy': 'src/data/reels-pages/novo-legacy.js',
-  'official-20-minute-trader': 'src/data/reels-pages/official-20-minute-trader.js',
-  'raghee-horner': 'src/data/reels-pages/raghee-horner.js',
-};
-
 const inventory = JSON.parse(fs.readFileSync(inventoryPath, 'utf8'));
 const checkpoint = fs.existsSync(checkpointPath)
   ? JSON.parse(fs.readFileSync(checkpointPath, 'utf8'))
   : { deferred: [] };
 const deferredIds = new Set(checkpoint.deferred.map(({ id }) => id));
 
-const getResearchState = (relativePath) => {
-  const source = fs.readFileSync(path.join(rootDir, relativePath), 'utf8');
-  const matchedIds = [...source.matchAll(/\bid:\s*['"](\d+)['"]/g)].map(
-    (match) => match[1],
-  );
-
+const getResearchState = async (slug) => {
+  const source = reelsSources.find((candidate) => candidate.slug === slug);
+  if (!source) throw new Error(`출처 레지스트리에 없는 slug: ${slug}`);
+  const research = await source.load();
+  const matchedIds = research.reels.map(({ id }) => String(id));
   return {
     analyzedIds: new Set(matchedIds),
-    declaredCount: Number(source.match(/\breelCount:\s*(\d+)/)?.[1]),
+    declaredCount: Number(research.reelCount),
     duplicateCount: matchedIds.length - new Set(matchedIds).size,
   };
 };
 
-const rows = inventory.sources.map((source) => {
-  const { analyzedIds, declaredCount, duplicateCount } = getResearchState(
-    sourceFiles[source.slug],
-  );
+const rows = await Promise.all(inventory.sources.map(async (source) => {
+  const { analyzedIds, declaredCount, duplicateCount } = await getResearchState(source.slug);
   const inventoryIds = new Set(source.reelIds);
   const analyzed = [...analyzedIds].filter((id) => inventoryIds.has(id));
   const missingFromInventory = [...analyzedIds].filter((id) => !inventoryIds.has(id));
@@ -70,7 +50,7 @@ const rows = inventory.sources.map((source) => {
     declaredMatches: declaredCount === analyzedIds.size,
     nextId: pending[0] ?? null,
   };
-});
+}));
 
 const totals = rows.reduce(
   (result, row) => ({
@@ -92,7 +72,11 @@ const totals = rows.reduce(
 );
 
 console.table(rows);
-console.log(JSON.stringify({ updatedAt: checkpoint.updatedAt ?? null, totals }, null, 2));
+console.log(JSON.stringify({
+  inventoryEnumeratedAt: inventory.enumeratedAt ?? null,
+  checkpointUpdatedAt: checkpoint.updatedAt ?? null,
+  totals,
+}, null, 2));
 
 if (
   totals.inventory !== totals.analyzed + totals.deferred + totals.pending ||

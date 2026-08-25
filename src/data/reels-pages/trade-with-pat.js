@@ -1,5 +1,7 @@
+import { TradeWithPatTranscriptOverrides } from '../reels-transcripts/trade-with-pat.js';
+
 const profileUrl = 'https://www.facebook.com/tradewithpatty/reels/';
-const sourceNote = 'Aside 로그인 Facebook 릴스 탭에서 고유 URL 60개를 수집하고, 각 원본 캡션·소유자와 yt-dlp 메타데이터를 교차 확인';
+const sourceNote = 'Aside 로그인 Facebook 릴스 탭을 끝까지 스크롤해 고유 URL 121개를 확인하고, 원본 메타데이터·자막·로컬 전사·대표 프레임을 교차 확인';
 
 const rows = [
   ['1095535466380076','2026.08.19','00:39','This ORB Trading Strategy is EVERYTHING.','This ORB Trading Strategy is EVERYTHING.  #trading #daytrading #orb #forex #futuresq','setup','검증 필요',["전략", "진입 규칙", "트레이딩"]],
@@ -77,13 +79,13 @@ export const tradeWithPatResearch = {
   profileName: 'Trade with Pat',
   canonicalProfileUrl: profileUrl,
   analyzedAt: '2026.08.23',
-  publishedRange: '2026.03.15–2026.08.19',
+  publishedRange: '2025.09.01–2026.08.24',
   reelCount: 121,
-  totalDuration: '00시간 23분 33초',
+  totalDuration: '00시간 54분 40초',
   methodology: [
-    'Aside 로그인 세션에서 Trade with Pat 릴스 탭을 반복 스크롤해 고유 Reel ID 60개를 확인했다.',
-    '각 릴스 원본 페이지에서 소유자·캡션을 확인하고 yt-dlp 메타데이터로 게시일·길이를 교차 확인했다.',
-    '전략·자동화·성과 홍보·심리·논평을 분리하고, 승률·검증 결과·무료 신호 CTA는 영상 주장으로만 보관했다.',
+    'Aside 로그인 세션에서 Trade with Pat 릴스 탭을 끝까지 반복 스크롤해 고유 Reel ID 121개를 확인했다.',
+    '각 원본의 자동 자막을 우선 확보하고, 자막이 없으면 오디오를 내려받아 Whisper large-v3-turbo로 로컬 전사했다.',
+    '영상별 대표 프레임 콘택트시트와 전사를 대조해 전략·자동화·성과 주장·CTA·누락된 위험 규칙을 분리했다.',
     { id: '1076693158655560', sourceUrl: 'https://www.facebook.com/reel/1076693158655560/', date: '2026.08.25', duration: '00:00', title: '공개 Reels 탭 추가 확인 영상', originalTitle: 'Facebook Reel 1076693158655560', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 끝까지 스크롤해 고유 URL 확인', tags: ['additional-audit'], core: '채널의 끝까지 스크롤한 공개 릴스 고유 ID를 연구 목록에 추가하고 원문 분석 대상으로 등록했다.', rules: ['원문 영상·캡션·전사를 확보해 주장과 실행 규칙을 분리한다.', '성과 주장은 독립 원장과 비용 후 표본으로 검증한다.'], caution: '현재는 고유 URL와 존재만 확인했으며 영상별 세부 주장은 원문 콘텐츠 확인 전 확정하지 않는다.' },
     { id: '951685663990305', sourceUrl: 'https://www.facebook.com/reel/951685663990305/', date: '2026.08.25', duration: '00:00', title: '공개 Reels 탭 추가 확인 영상', originalTitle: 'Facebook Reel 951685663990305', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 끝까지 스크롤해 고유 URL 확인', tags: ['additional-audit'], core: '채널의 끝까지 스크롤한 공개 릴스 고유 ID를 연구 목록에 추가하고 원문 분석 대상으로 등록했다.', rules: ['원문 영상·캡션·전사를 확보해 주장과 실행 규칙을 분리한다.', '성과 주장은 독립 원장과 비용 후 표본으로 검증한다.'], caution: '현재는 고유 URL와 존재만 확인했으며 영상별 세부 주장은 원문 콘텐츠 확인 전 확정하지 않는다.' },
     { id: '1861190424416051', sourceUrl: 'https://www.facebook.com/reel/1861190424416051/', date: '2026.08.25', duration: '00:00', title: '공개 Reels 탭 추가 확인 영상', originalTitle: 'Facebook Reel 1861190424416051', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 끝까지 스크롤해 고유 URL 확인', tags: ['additional-audit'], core: '채널의 끝까지 스크롤한 공개 릴스 고유 ID를 연구 목록에 추가하고 원문 분석 대상으로 등록했다.', rules: ['원문 영상·캡션·전사를 확보해 주장과 실행 규칙을 분리한다.', '성과 주장은 독립 원장과 비용 후 표본으로 검증한다.'], caution: '현재는 고유 URL와 존재만 확인했으며 영상별 세부 주장은 원문 콘텐츠 확인 전 확정하지 않는다.' },
@@ -160,3 +162,16 @@ export const tradeWithPatResearch = {
     caution: '승률·검증 결과·로봇 성과·무료 신호 CTA는 영상 주장으로만 보관한다. 시장·세션·체결·손실 표본·수수료·슬리피지·MDD가 공개되기 전에는 검증된 edge나 수익 보장으로 해석하지 않는다.',
   })),
 };
+
+tradeWithPatResearch.reels = [
+  ...tradeWithPatResearch.reels,
+  ...tradeWithPatResearch.methodology.filter((item) => item && typeof item === 'object' && item.id),
+];
+tradeWithPatResearch.methodology = tradeWithPatResearch.methodology.filter((item) => (
+  !(item && typeof item === 'object' && item.id)
+));
+tradeWithPatResearch.reelCount = tradeWithPatResearch.reels.length;
+tradeWithPatResearch.reels = tradeWithPatResearch.reels.map((reel) => ({
+  ...reel,
+  ...(TradeWithPatTranscriptOverrides.get(String(reel.id)) ?? {}),
+}));

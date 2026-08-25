@@ -4,13 +4,13 @@
 
 ## 현재 상태
 
-- Facebook Reels: 15개 출처, 6,405 / 6,408편 분석 완료(99.9%, 보류 3편)
+- Facebook Reels: 15개 출처, 실제 콘텐츠 객체 5,149 / 인벤토리 6,408편(분석 미완료 1,256편, 메타데이터 보류 3편)
 - YouTube: 4개 채널, 공개 영상 185 / 185편 분석 완료
 - 로그인·연령·멤버십·지역 제한으로 불완전하게 분석된 공개 YouTube 영상: 0편
-- 최신 로컬 감사: 2026-08-25 Facebook Reels `Novo Legacy` 106편 재확인, 5,661편
-- 공개 배포: `https://elymas.github.io/signal-note/`(2026-08-23 Trade with Pat 릴스 추가 예정)
+- 최신 로컬 감사: 2026-08-26 Facebook Reels 15개 출처 6,408편 재집계, 실제 콘텐츠 객체 5,149편
+- 공개 배포: `https://elymas.github.io/signal-note/`(로컬 변경은 별도 배포 저장소 동기화 전까지 반영되지 않음)
 
-사이트 분리, 채널별 진척률, 품질 점검, 배포 및 동기화 기준은 [작업 현황 문서](docs/PROJECT_STATUS_2026-08-21.md)를 참고합니다.
+사이트 분리, 채널별 진척률, 품질 점검, 배포 및 동기화 기준은 [작업 현황 문서](docs/PROJECT_STATUS_2026-08-21.md)를 참고합니다. 2026-08-26 채널 수량 정정과 Novo Legacy·20-Minute Trader·Raghee Horner 전사 기반 재작업 내역은 [릴스 수량·전사 품질 재감사](docs/reels/transcript-rework-audit-2026-08-26.md)에 기록했습니다.
 
 ## 실행
 

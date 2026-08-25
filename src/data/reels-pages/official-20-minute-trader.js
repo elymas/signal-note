@@ -1,13 +1,24 @@
+import { Official20MinuteTraderTranscriptOverrides } from '../reels-transcripts/official-20-minute-trader.js';
+
 export const official20MinuteTraderResearch = {
   slug: 'official-20-minute-trader',
   profileName: '20-Minute Trader',
   canonicalProfileUrl: 'https://www.facebook.com/Official20MinuteTrader/reels/',
   analyzedAt: '2026.08.26',
-  publishedRange: '2026.08.26',
+  publishedRange: '2025.04.29–2026.08.25',
   reelCount: 371,
-  totalDuration: '메타데이터 합산 전',
-  methodology: ['Aside 인증 Facebook 세션에서 Reels 탭을 끝까지 스크롤하고 신규 ID가 8회 연속 없을 때 수집을 종료했다.', 'yt-dlp 공개 메타데이터를 대조하고 모든 고유 URL을 콘텐츠화 목록에 등록했다.'],
-  commonPrinciples: [],
+  totalDuration: '31시간 14분 32초',
+  methodology: [
+    'Aside 인증 Facebook 세션에서 Reels 탭을 끝까지 스크롤하고 신규 ID가 8회 연속 없을 때 수집을 종료했다.',
+    '각 원본에서 자동 자막을 우선 확보하고, 자막이 없으면 오디오를 내려받아 Whisper large-v3-turbo로 로컬 전사했다.',
+    '영상별 대표 프레임 콘택트시트를 만들고 전사·캡션·화면을 대조해 실행 문장, 성과 주장, CTA와 누락된 위험 규칙을 분리했다.',
+  ],
+  commonPrinciples: [
+    { code: '20M', title: '짧은 거래 시간과 사전 계획', copy: '오래 화면을 보는 대신 거래 전 조건을 정하고 제한된 시간 안에서 실행한다는 운영 방식을 반복한다.' },
+    { code: 'PROCESS', title: '직감보다 반복 가능한 절차', copy: '인내·일관성·규칙 준수를 강조하며 즉흥적 예측과 과도한 도구 사용을 경계한다.' },
+    { code: 'RISK', title: '성과보다 손실 구조 확인', copy: '진입 신호와 별개로 손절·포지션 크기·비용·최대낙폭이 실제로 제시되는지 전사 기준으로 점검한다.' },
+    { code: 'CLAIMS', title: '설문·수익·무료 클래스 분리', copy: '학생 설문과 수익 사례, CLASS·FREE CTA는 독립 성과가 아니라 원 제작자의 홍보 주장으로 보관한다.' },
+  ],
   reels: [
     { id: '1727497541838480', sourceUrl: 'https://www.facebook.com/reel/1727497541838480/', date: '2026.08.25', duration: '53:02', title: '20MTV Live Trading', originalTitle: '20MTV Live Trading', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 전체 스크롤로 고유 URL 확인; yt-dlp 공개 메타데이터 대조', tags: ['20-minute-trader', 'additional-audit'], core: 'Official 20-Minute Trader 채널의 전체 공개 릴스를 목록화하고 원문 기반 분석 대상으로 등록했다.', rules: ['영상별 캡션·전사·화면을 확인해 주장과 실행 규칙을 분리한다.', '성과 주장은 전체 표본·비용·리스크를 포함해 검증한다.'], caution: '현재 자동 목록화 단계이며 영상별 세부 전략·성과는 원문 분석 전 확정하지 않는다.' },
     { id: '1052681523809609', sourceUrl: 'https://www.facebook.com/reel/1052681523809609/', date: '2026.08.24', duration: '00:32', title: '1.9K views | The kind of trading we teach is like gardening. You have to have patience, proper care, and follow the strategy to grow your trading account. Let us know your thoughts in the comments #fyp #learn #grow | 20-', originalTitle: '1.9K views | The kind of trading we teach is like gardening. You have to have patience, proper care, and follow the strategy to grow your trading account. Let us know your thoughts in the comments #fyp #learn #grow | 20-', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 전체 스크롤로 고유 URL 확인; yt-dlp 공개 메타데이터 대조', tags: ['20-minute-trader', 'additional-audit'], core: 'Official 20-Minute Trader 채널의 전체 공개 릴스를 목록화하고 원문 기반 분석 대상으로 등록했다.', rules: ['영상별 캡션·전사·화면을 확인해 주장과 실행 규칙을 분리한다.', '성과 주장은 전체 표본·비용·리스크를 포함해 검증한다.'], caution: '현재 자동 목록화 단계이며 영상별 세부 전략·성과는 원문 분석 전 확정하지 않는다.' },
@@ -382,3 +393,8 @@ export const official20MinuteTraderResearch = {
     { id: '1625991494778772', sourceUrl: 'https://www.facebook.com/reel/1625991494778772/', date: '2025.04.29', duration: '01:33', title: '2.8K views | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported averag', originalTitle: '2.8K views | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported averag', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 전체 스크롤로 고유 URL 확인; yt-dlp 공개 메타데이터 대조', tags: ['20-minute-trader', 'additional-audit'], core: 'Official 20-Minute Trader 채널의 전체 공개 릴스를 목록화하고 원문 기반 분석 대상으로 등록했다.', rules: ['영상별 캡션·전사·화면을 확인해 주장과 실행 규칙을 분리한다.', '성과 주장은 전체 표본·비용·리스크를 포함해 검증한다.'], caution: '현재 자동 목록화 단계이며 영상별 세부 전략·성과는 원문 분석 전 확정하지 않는다.' },
   ],
 };
+
+official20MinuteTraderResearch.reels = official20MinuteTraderResearch.reels.map((reel) => ({
+  ...reel,
+  ...(Official20MinuteTraderTranscriptOverrides.get(String(reel.id)) ?? {}),
+}));
