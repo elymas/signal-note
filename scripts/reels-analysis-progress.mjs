@@ -22,6 +22,9 @@ const sourceFiles = {
   'omar-agag': 'src/data/reels-pages/omar-agag.js',
   yostrades: 'src/data/reels-pages/yostrades.js',
   'trade-with-pat': 'src/data/reels-pages/trade-with-pat.js',
+  'novo-legacy': 'src/data/reels-pages/novo-legacy.js',
+  'official-20-minute-trader': 'src/data/reels-pages/official-20-minute-trader.js',
+  'raghee-horner': 'src/data/reels-pages/raghee-horner.js',
 };
 
 const inventory = JSON.parse(fs.readFileSync(inventoryPath, 'utf8'));

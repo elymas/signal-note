@@ -12,18 +12,18 @@ async function loadStandardResearch(modulePromise) {
 }
 
 export const reelsSources = [
-  { slug: 'ahmed-on-chart', profileName: 'Ahmed On Chart', notes: 127, load: () => loadStandardResearch(import('./reels-pages/ahmed-on-chart.js')) },
-  { slug: 'travis-woo', profileName: 'Travis Woo', notes: 690, load: () => loadStandardResearch(import('./reels-pages/travis-woo.js')) },
-  { slug: 'tarzan-trading-tt', profileName: 'Tarzan Trading TT', notes: 394, load: () => loadStandardResearch(import('./reels-pages/tarzan-trading-tt.js')) },
-  { slug: 'erick-jablonski', profileName: 'Erick Jablonski', notes: 977, load: () => loadStandardResearch(import('./reels-pages/erick-jablonski.js')) },
-  { slug: 'luxalgo', profileName: 'LuxAlgo', notes: 223, load: () => loadStandardResearch(import('./reels-pages/luxalgo.js')) },
-  { slug: 'trader-note-jason', profileName: 'TradersNotes Jason', notes: 129, load: () => loadStandardResearch(import('./reels-pages/trader-note-jason.js')) },
-  { slug: 'dumb-hunter', profileName: 'Dumb Hunter', notes: 511, load: () => loadStandardResearch(import('./reels-pages/dumb-hunter.js')) },
+  { slug: 'ahmed-on-chart', profileName: 'Ahmed On Chart', notes: 130, load: () => loadStandardResearch(import('./reels-pages/ahmed-on-chart.js')) },
+  { slug: 'travis-woo', profileName: 'Travis Woo', notes: 702, load: () => loadStandardResearch(import('./reels-pages/travis-woo.js')) },
+  { slug: 'tarzan-trading-tt', profileName: 'Tarzan Trading TT', notes: 396, load: () => loadStandardResearch(import('./reels-pages/tarzan-trading-tt.js')) },
+  { slug: 'erick-jablonski', profileName: 'Erick Jablonski', notes: 979, load: () => loadStandardResearch(import('./reels-pages/erick-jablonski.js')) },
+  { slug: 'luxalgo', profileName: 'LuxAlgo', notes: 224, load: () => loadStandardResearch(import('./reels-pages/luxalgo.js')) },
+  { slug: 'trader-note-jason', profileName: 'TradersNotes Jason', notes: 132, load: () => loadStandardResearch(import('./reels-pages/trader-note-jason.js')) },
+  { slug: 'dumb-hunter', profileName: 'Dumb Hunter', notes: 525, load: () => loadStandardResearch(import('./reels-pages/dumb-hunter.js')) },
   { slug: 'coin-announcer', profileName: '코인하는 아나운서', notes: 275, load: () => loadStandardResearch(import('./reels-pages/coin-announcer.js')) },
   {
     slug: 'max-anthony',
     profileName: 'Max Anthony',
-    notes: 851,
+    notes: 856,
     load: async () => {
       const { getReelUrl: createReelUrl, reelResearch, reelsResearchMeta } = await import('./reels-research-data.js');
       return {
@@ -46,9 +46,11 @@ export const reelsSources = [
     },
   },
   { slug: 'omar-agag', profileName: 'Omar Agag', notes: 49, load: () => loadStandardResearch(import('./reels-pages/omar-agag.js')) },
-  { slug: 'yostrades', profileName: 'yostrades', notes: 10, load: () => loadStandardResearch(import('./reels-pages/yostrades.js')) },
-  { slug: 'trade-with-pat', profileName: 'Trade with Pat', notes: 60, load: () => loadStandardResearch(import('./reels-pages/trade-with-pat.js')) },
+  { slug: 'yostrades', profileName: 'yostrades', notes: 36, load: () => loadStandardResearch(import('./reels-pages/yostrades.js')) },
+  { slug: 'trade-with-pat', profileName: 'Trade with Pat', notes: 121, load: () => loadStandardResearch(import('./reels-pages/trade-with-pat.js')) },
   { slug: 'novo-legacy', profileName: 'Novo Legacy', notes: 106, load: () => loadStandardResearch(import('./reels-pages/novo-legacy.js')) },
+  { slug: 'official-20-minute-trader', profileName: '20-Minute Trader', notes: 371, load: () => loadStandardResearch(import('./reels-pages/official-20-minute-trader.js')) },
+  { slug: 'raghee-horner', profileName: 'Raghee Horner', notes: 247, load: () => loadStandardResearch(import('./reels-pages/raghee-horner.js')) },
 ];
 
 export const reelsSourcesBySlug = new Map(reelsSources.map((source) => [source.slug, source]));

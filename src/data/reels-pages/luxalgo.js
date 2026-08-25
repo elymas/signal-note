@@ -5,7 +5,7 @@ export const luxalgoResearch = {
   canonicalProfileUrl: 'https://www.facebook.com/LuxAlgo?sk=reels_tab',
   analyzedAt: '2026.08.21',
   publishedRange: '2022.08.17–2026.08.20',
-  reelCount: 223,
+  reelCount: 224,
   totalDuration: '6시간 30분 12초',
   methodology: {
     enumeration: '공유 URL을 LuxAlgo 페이지(ID 100041264693250)로 해석하고 릴스 후보 40개의 고유 ID를 중복 제거했다.',
@@ -44,6 +44,7 @@ export const luxalgoResearch = {
       title: '홍보성 백테스트를 그대로 믿지 않기',
       copy: '영상의 승률·손익은 짧은 기간과 사후 설정 조정 결과가 많다. 독립 데이터, 충분한 표본, 비용과 슬리피지를 포함해 재검증해야 한다.',
     },
+    { id: '1584734666689669', sourceUrl: 'https://www.facebook.com/reel/1584734666689669/', date: '2026.08.25', duration: '00:00', title: '스크롤 끝에서 추가 확인된 공개 릴스', originalTitle: 'Facebook Reel 1584734666689669', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 stable 8회까지 스크롤해 고유 URL 확인', tags: ['additional-audit'], core: '페이지 끝까지 로드된 추가 릴스의 고유 ID를 연구 목록에 등록했다.', rules: ['원문 캡션·전사·화면을 확보해 주장과 실행 규칙을 분리한다.', '성과 주장은 전체 표본과 비용 후 결과로 검증한다.'], caution: '현재는 고유 URL과 존재를 확인했으며 영상별 세부 주장은 원문 확인 전 확정하지 않는다.' },
   ],
   reels: [
     {

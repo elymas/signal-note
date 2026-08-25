@@ -6,7 +6,7 @@ export const traderNoteJasonResearch = {
     'https://www.facebook.com/people/TradersNotes-Jason/61583704273519/?sk=reels_tab',
   analyzedAt: '2026.08.21',
   publishedRange: '2026.05.10–2026.08.20',
-  reelCount: 129,
+  reelCount: 132,
   totalDuration: '2시간 49분 29초',
   methodology: [
     '고유 agent-browser 세션 jason-reels로 공유 URL을 프로필 ID 61583704273519의 Reels 탭으로 해석했다.',
@@ -14,6 +14,9 @@ export const traderNoteJasonResearch = {
     'yt-dlp로 게시일·길이·원문 캡션을 수집하고 10개 영상 전체를 다운로드했다.',
     'mlx-community/whisper-large-v3-turbo 영어 전사와 8초 간격 프레임 컨택트 시트를 교차 검토해 음성·자막·차트 화면을 확인했다.',
     '구체적 진입·무효화·청산 규칙이 없는 도구 순위·동기부여·광고 콘텐츠는 verdict를 “전략 아님”으로 구분했다.',
+    { id: '1567955908128411', sourceUrl: 'https://www.facebook.com/reel/1567955908128411/', date: '2026.08.25', duration: '00:00', title: '스크롤 끝에서 추가 확인된 공개 릴스', originalTitle: 'Facebook Reel 1567955908128411', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 stable 8회까지 스크롤해 고유 URL 확인', tags: ['additional-audit'], core: '페이지 끝까지 로드된 추가 릴스의 고유 ID를 연구 목록에 등록했다.', rules: ['원문 캡션·전사·화면을 확보해 주장과 실행 규칙을 분리한다.', '성과 주장은 전체 표본과 비용 후 결과로 검증한다.'], caution: '현재는 고유 URL과 존재를 확인했으며 영상별 세부 주장은 원문 확인 전 확정하지 않는다.' },
+    { id: '1121725460354821', sourceUrl: 'https://www.facebook.com/reel/1121725460354821/', date: '2026.08.25', duration: '00:00', title: '스크롤 끝에서 추가 확인된 공개 릴스', originalTitle: 'Facebook Reel 1121725460354821', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 stable 8회까지 스크롤해 고유 URL 확인', tags: ['additional-audit'], core: '페이지 끝까지 로드된 추가 릴스의 고유 ID를 연구 목록에 등록했다.', rules: ['원문 캡션·전사·화면을 확보해 주장과 실행 규칙을 분리한다.', '성과 주장은 전체 표본과 비용 후 결과로 검증한다.'], caution: '현재는 고유 URL과 존재를 확인했으며 영상별 세부 주장은 원문 확인 전 확정하지 않는다.' },
+    { id: '1207783178213364', sourceUrl: 'https://www.facebook.com/reel/1207783178213364/', date: '2026.08.25', duration: '00:00', title: '스크롤 끝에서 추가 확인된 공개 릴스', originalTitle: 'Facebook Reel 1207783178213364', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 stable 8회까지 스크롤해 고유 URL 확인', tags: ['additional-audit'], core: '페이지 끝까지 로드된 추가 릴스의 고유 ID를 연구 목록에 등록했다.', rules: ['원문 캡션·전사·화면을 확보해 주장과 실행 규칙을 분리한다.', '성과 주장은 전체 표본과 비용 후 결과로 검증한다.'], caution: '현재는 고유 URL과 존재를 확인했으며 영상별 세부 주장은 원문 확인 전 확정하지 않는다.' },
   ],
   commonPrinciples: [
     {

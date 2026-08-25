@@ -4,7 +4,7 @@ export const erickJablonskiResearch = {
   canonicalProfileUrl: 'https://www.facebook.com/erickjablonski/reels/',
   analyzedAt: '2026.08.21',
   publishedRange: '2024.02.16–2026.08.20',
-  reelCount: 977,
+  reelCount: 979,
   totalDuration: '15시간 25분 48초',
   methodology: [
     '고유 agent-browser 세션 erick-reels로 로그아웃 공개 Reels 탭을 열고, DOM의 /reel/{id} 앵커를 ID 기준으로 중복 제거해 10개 URL을 확인했다.',
@@ -12,6 +12,8 @@ export const erickJablonskiResearch = {
     'yt-dlp로 게시일·길이·원문 캡션을 수집하고 공개 영상 10개를 전부 다운로드했다.',
     'mlx-community/whisper-large-v3-turbo 영어 전사와 7초 간격 프레임 컨택트 시트를 교차 검토해 음성·자막·차트·주문 화면을 확인했다.',
     '진입·무효화·목표 규칙이 없는 개인 근황, 브랜드 수입, 유료 종목 홍보는 “전략 아님”으로 분리하고 성과·수익성 주장은 독립 검증하지 않았다.',
+    { id: '995770213483482', sourceUrl: 'https://www.facebook.com/reel/995770213483482/', date: '2026.08.25', duration: '00:00', title: '스크롤 끝에서 추가 확인된 공개 릴스', originalTitle: 'Facebook Reel 995770213483482', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 stable 8회까지 스크롤해 고유 URL 확인', tags: ['additional-audit'], core: '페이지 끝까지 로드된 추가 릴스의 고유 ID를 연구 목록에 등록했다.', rules: ['원문 캡션·전사·화면을 확보해 주장과 실행 규칙을 분리한다.', '성과 주장은 전체 표본과 비용 후 결과로 검증한다.'], caution: '현재는 고유 URL과 존재를 확인했으며 영상별 세부 주장은 원문 확인 전 확정하지 않는다.' },
+    { id: '1047645534810270', sourceUrl: 'https://www.facebook.com/reel/1047645534810270/', date: '2026.08.25', duration: '00:00', title: '스크롤 끝에서 추가 확인된 공개 릴스', originalTitle: 'Facebook Reel 1047645534810270', kind: 'commentary', verdict: '검증 필요', fidelity: 'Aside 인증 세션에서 Reels 탭 stable 8회까지 스크롤해 고유 URL 확인', tags: ['additional-audit'], core: '페이지 끝까지 로드된 추가 릴스의 고유 ID를 연구 목록에 등록했다.', rules: ['원문 캡션·전사·화면을 확보해 주장과 실행 규칙을 분리한다.', '성과 주장은 전체 표본과 비용 후 결과로 검증한다.'], caution: '현재는 고유 URL과 존재를 확인했으며 영상별 세부 주장은 원문 확인 전 확정하지 않는다.' },
   ],
   commonPrinciples: [
     {
