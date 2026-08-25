@@ -4,10 +4,10 @@
 
 ## 현재 상태
 
-- Facebook Reels: 13개 출처, 5,622 / 5,625편 분석 완료(99.9%, 보류 3편)
+- Facebook Reels: 13개 출처, 5,658 / 5,661편 분석 완료(99.9%, 보류 3편)
 - YouTube: 4개 채널, 공개 영상 185 / 185편 분석 완료
 - 로그인·연령·멤버십·지역 제한으로 불완전하게 분석된 공개 YouTube 영상: 0편
-- 최신 로컬 감사: 2026-08-25 Facebook Reels `Novo Legacy` 70편 재확인, 5,625편
+- 최신 로컬 감사: 2026-08-25 Facebook Reels `Novo Legacy` 106편 전체 스크롤 재확인, 5,661편
 - 공개 배포: `https://elymas.github.io/signal-note/`(2026-08-25 Novo Legacy 릴스 60편 추가)
 
 사이트 분리, 채널별 진척률, 품질 점검, 배포 및 동기화 기준은 [작업 현황 문서](docs/PROJECT_STATUS_2026-08-21.md)를 참고합니다.
