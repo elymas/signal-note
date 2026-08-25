@@ -7,6 +7,11 @@
 - 브라우저: Facebook 로그인 Aside Browser 계정 `u0`
 - 확인일: 2026-08-23
 
+- 프로필: [Novo Legacy Reels](https://www.facebook.com/novo.legacy/reels/)
+- Facebook 사용자명: `novo.legacy`
+- 브라우저: Facebook 로그인 Aside Browser 계정 `u0`
+- 확인일: 2026-08-25
+
 - 프로필: [Trade with Pat Reels](https://www.facebook.com/tradewithpatty/reels/)
 - Facebook 사용자명: `tradewithpatty`
 - 브라우저: Facebook 로그인 Aside Browser 계정 `u0`
@@ -20,6 +25,7 @@ Aside에서 Reels 탭을 반복 확인해 고유 `/reel/{id}` 링크 10개를 �
 | --- | ---: | ---: | ---: | ---: |
 | yostrades | 10 | 10 | 0 | 0 |
 | Trade with Pat | 60 | 60 | 0 | 0 |
+| Novo Legacy | 60 | 60 | 0 | 0 |
 
 ## 관찰된 콘텐츠 축
 
@@ -32,14 +38,18 @@ Aside에서 Reels 탭을 반복 확인해 고유 `/reel/{id}` 링크 10개를 �
 - 로봇 자동화·무료 신호·VIP·검증 결과와 승률 홍보
 - 17년 경험, 규율·인내·단순화에 대한 심리 콘텐츠
 
+- One Candle·Candle Range Theory·ICT 유동성·4시간봉 방향과 하위 시간봉 진입
+- K.I.S.S. 단순화, 리스크 관리, 습관·심리·저널링
+- 웨비나·코스·ebook·1:1 코칭 CTA와 백테스트·수익률 주장
+
 FMC·84/80% 승률·payout은 영상 주장으로 분리했으며, 정확한 규칙·전체 거래 원장·수수료·슬리피지·MDD가 없는 항목은 독립적인 성과나 전략으로 취급하지 않았다.
 
 ## 무결성
 
-- 새 출처 ID: 70개 (yostrades 10, Trade with Pat 60)
+- 새 출처 ID: 130개 (yostrades 10, Trade with Pat 60, Novo Legacy 60)
 - 새 출처 내부 중복: 0개
 - 기존 출처와의 ID 중복: 0개
 - 새 출처 대기: 0개
-- 전체 인벤토리: 5,555개
-- 전체 분석: 5,552개
+- 전체 인벤토리: 5,615개
+- 전체 분석: 5,612개
 - 전체 보류: 3개

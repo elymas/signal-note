@@ -48,6 +48,7 @@ export const reelsSources = [
   { slug: 'omar-agag', profileName: 'Omar Agag', notes: 49, load: () => loadStandardResearch(import('./reels-pages/omar-agag.js')) },
   { slug: 'yostrades', profileName: 'yostrades', notes: 10, load: () => loadStandardResearch(import('./reels-pages/yostrades.js')) },
   { slug: 'trade-with-pat', profileName: 'Trade with Pat', notes: 60, load: () => loadStandardResearch(import('./reels-pages/trade-with-pat.js')) },
+  { slug: 'novo-legacy', profileName: 'Novo Legacy', notes: 60, load: () => loadStandardResearch(import('./reels-pages/novo-legacy.js')) },
 ];
 
 export const reelsSourcesBySlug = new Map(reelsSources.map((source) => [source.slug, source]));

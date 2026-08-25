@@ -1,8 +1,8 @@
 // 공개 사이트 통계. AUDIT 값은 감사 문서 기준, ARCHIVE 값은 데이터 레지스트리 기준.
 export const researchStats = {
-  reelsSources: 12,
-  reelsAnalyzed: 5552,
-  reelsInventory: 5555,
+  reelsSources: 13,
+  reelsAnalyzed: 5612,
+  reelsInventory: 5615,
   youtubeChannels: 4,
   youtubeVideos: 185,
   youtubeLongForm: 125,
@@ -17,8 +17,8 @@ export const researchModules = [
     href: '/reels',
     kicker: 'FACEBOOK / REELS',
     title: '릴스 리서치',
-    description: '12개 공개 프로필의 릴스를 출처별로 전사하고, 셋업·리스크·심리·논평을 재현 가능성 기준으로 분류합니다.',
-    metric: '5,552',
+    description: '13개 공개 프로필의 릴스를 출처별로 전사하고, 셋업·리스크·심리·논평을 재현 가능성 기준으로 분류합니다.',
+    metric: '5,612',
     metricLabel: 'ANALYZED NOTES',
     accent: 'coral',
   },
