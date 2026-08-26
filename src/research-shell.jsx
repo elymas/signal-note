@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { ArrowRight, Menu, Moon, ShieldAlert, Sun, X } from 'lucide-react';
+import { Menu, Moon, ShieldAlert, Sun, X } from 'lucide-react';
 import { Link, NavLink, useLocation } from 'react-router-dom';
 import { researchStats } from './research-constants';
 
@@ -84,7 +84,6 @@ export function ResearchShell({ children }) {
         </nav>
         <div className="rs-header-actions">
           <ThemeToggle />
-          <Link className="rs-header-cta" to="/reels">리서치 열기 <ArrowRight size={15} /></Link>
           <button type="button" className="rs-menu-button" onClick={() => setMenuOpen((open) => !open)} aria-expanded={menuOpen} aria-label={menuOpen ? '메뉴 닫기' : '메뉴 열기'}>
             {menuOpen ? <X size={20} /> : <Menu size={20} />}
           </button>
