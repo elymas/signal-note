@@ -9,7 +9,7 @@
     "postbuild": "node scripts/create-spa-fallback.mjs",
     "preview": "vite preview --host 0.0.0.0",
     "reels:prepare": "node scripts/reels-analysis-prepare.mjs",
-    "reels:generate-transcripts": "node scripts/generate-reels-transcript-overrides.mjs",
+    "reels:generate-transcripts": "python3 scripts/generate-reels-korean-overrides.py",
     "reels:progress": "node scripts/reels-analysis-progress.mjs",
     "reels:verify-quality": "node scripts/verify-reels-content-quality.mjs"
   },

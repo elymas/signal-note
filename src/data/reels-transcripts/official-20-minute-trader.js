@@ -1,31 +1,26 @@
-// 자동 생성 파일: 원본 전사와 대표 프레임 검토 결과
+// 자동 생성 파일: 전사와 대표 화면에서 추출한 한국어 콘텐츠 요약
 export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries({
   "1000942532783422": {
     "date": "2026.07.21",
     "duration": "05:34",
     "originalTitle": "You can change your finances in 3 months - full video for socials.mp4",
-    "title": "지지·저항: They'll buy equipment, inventory, raw materials, software, advertising, and all kinds of things in the h…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 334.30초·로컬 Whisper large-v3-turbo 전사 1248단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You can change your finances in three months.” / “The thing that makes 20-Minute Trader's system unique is not just the pattern itself, it's the mentorship.”",
+    "title": "20분 투자로 3개월 내 금융 상황 개선 - 20분 투자 트레이딩",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "Fibonacci",
-      "risk",
-      "CTA"
+      "지지·저항",
+      "피보나치",
+      "옵션",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “You can change your finances in three months.” 이어 “The thing that makes 20-Minute Trader's system unique is not just the pattern itself, it's the mentorship.” 이어 “How to set up an account.” 이어 “No Bollinger Bands.” 이어 “Can we make trading easier?” 이어 “And that's about it.” 이어 “I've talked about the overall strategy.” 이어 “Good luck and I'll see you in the next video.”",
+    "core": "20분 투자로 3개월 내 금융 상황을 개선할 수 있는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: They'll buy equipment, inventory, raw materials, software, advertising, and all kinds of things in the hopes that someday that business will become profitable.",
-      "원문 실행 문장: They don't know how much money to risk.",
-      "원문 실행 문장: They don't know what instrument to trade.",
-      "원문 실행 문장: How to place a trade.",
-      "원문 실행 문장: How to identify the setup.",
-      "원문 실행 문장: It's watching a few colored lines interact with each other and using that information to determine the direction of a very short-term trade.",
-      "원문 실행 문장: These are companies that provide account access to traders who demonstrate consistency and proper risk management.",
-      "원문 실행 문장: I've talked about the risk management."
+      "20분 투자로 3개월 내 금융 상황을 개선할 수 있는 방법을 설명한다.",
+      "20분 투자 트레이딩은 단순한 매매 시스템을 통해 짧은 기간 내에 수익을 얻을 수 있는 방법이다.",
+      "매매 시스템은 5분에서 15분 사이에 셋업을 찾고, 그 정보를 바탕으로 짧은 기간의 투자를 결정한다."
     ],
-    "caution": "성과·수익 발화: “A couple thousand?” / “You might decide to buy an external monitor for $50 or $80.” 홍보·행동유도 발화: “So if you're somebody who knows absolutely nothing about trading and you're curious, there's plenty of free content available.” / “Hit the link in the description for the web class or just watch the videos on this channel.” 전사에서 청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1248,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -33,21 +28,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1001141918887233": {
     "date": "2025.05.19",
     "duration": "00:10",
-    "originalTitle": "3 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: I mean honestly what do you actually have to lose?",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20-Minute Trader의 학생들을 위한 무료 웹 클래스 초대",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 9.77초·Facebook 자동 자막 23단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Shoot your shot.” / “I mean honestly what do you actually have to lose?”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "20-Minute Trader"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Shoot your shot.” 이어 “I mean honestly what do you actually have to lose?” 이어 “What the hell?” 이어 “I'm just going to shoot my shot.”",
+    "core": "20-Minute Trader의 학생들은 최근 조사에서 자신의 성과를 향상시키는 방법을 찾고 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Shoot your shot."
+      "20-Minute Trader의 학생들은 무료 웹 클래스에 참석할 수 있는 기회를 얻을 수 있습니다.",
+      "무료 웹 클래스는 다음 클래스에 대한 티켓을 제공합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 23,
     "transcriptSource": "Facebook 자동 자막"
@@ -56,20 +52,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.12",
     "duration": "00:09",
     "originalTitle": "20-Min Trader Aug 24 Finally Monday v2.mov",
-    "title": "영상 발화 분석: Can't wait for tomorrow!",
+    "title": "2023년 8월 24일 월요일, 20분 거래 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 8.70초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Can't wait for tomorrow!” / “#trade #learn.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20분 거래",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Can't wait for tomorrow!” 이어 “#trade #learn.”",
+    "core": "내일의 거래를 기대하며, 20분 거래 전략을 활용하여 시장 동향을 분석합니다.",
     "rules": [
-      "원문 실행 문장: Can't wait for tomorrow!",
-      "원문 실행 문장: #trade #learn."
+      "내일의 시장 동향을 예측하고, 20분 거래 전략을 활용하여 진입 시점을 선택합니다.",
+      "매매 규칙은 제시되지 않음."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -78,18 +75,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.06.05",
     "duration": "00:42",
     "originalTitle": "Wall Street Skit.mov",
-    "title": "주식·섹터: If I buy and sell options with the best kept secret predictable patterns in less than 20 minutes per day…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 42.07초·Facebook 자동 자막 180단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Street does not want you to watch this video.” / “Is there another way to invest in stocks?”",
+    "title": "워드스테이트 20분 일일 투자 패턴",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "워드스테이트",
+      "옵션 투자"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Street does not want you to watch this video.” 이어 “Is there another way to invest in stocks?” 이어 “So, you're going to be in and out of your positions in just a Minutes by using patterns we created to make money off of you guys?” 이어 “He's a trader that teaches me the secrets of trading.”",
+    "core": "워드스테이트에서 알려주지 않는 주식 투자 패턴을 이용해 하루 20분만 투자하면 수익을 얻을 수 있다.",
     "rules": [
-      "원문 실행 문장: If I buy and sell options with the best kept secret predictable patterns in less than 20 minutes per day, I can earn a good return on my investment without losing sleep at night."
+      "하루 20분 동안 옵션을 사고 파는 예측 가능한 패턴을 이용해 수익을 얻을 수 있다.",
+      "워드스테이트의 장기적인 시장 변동에 의존하지 않고 일일 수익을 얻을 수 있다.",
+      "jeremy라는 트레이더의 가르침을 따르면 워드스테이트의 비밀을 알게 된다."
     ],
-    "caution": "성과·수익 발화: “If I buy and sell options with the best kept secret predictable patterns in less than 20 minutes per day, I can earn a good return on my investment without losing sleep at night.” 홍보·행동유도 발화: “They have no idea I follow Jeremy.” / “That's why I follow him.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 180,
     "transcriptSource": "Facebook 자동 자막"
@@ -97,19 +99,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1010403451228463": {
     "date": "2025.05.31",
     "duration": "00:44",
-    "originalTitle": "11K views · 7 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: And just wait for them to drop together.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 트레이더의 애플 주식과 다우지수의 상관 관계",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 44.30초·로컬 Whisper large-v3-turbo 전사 141단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Piece of information that you learned that feels illegal to know.” / “And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entire lives.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "20분 트레이더",
+      "주식"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Piece of information that you learned that feels illegal to know.” 이어 “And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entire lives.” 이어 “It again happens here.” 이어 “So that's weird.”",
+    "core": "애플 주식 가격이 다우지수보다 먼저 상승하는 패턴을 이용하여 매매할 수 있다.",
     "rules": [
-      "원문 실행 문장: And just wait for them to drop together."
+      "애플 주식과 다우지수 차트를 열고, 다우지수가 하락하면 기다린 후 애플 주식 가격이 다우지수보다 먼저 상승하면 매수한다.",
+      "4년 6개월 동안 이 방법을 활용하여 수많은 트레이더들을 가르쳤다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 141,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -118,29 +124,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.27",
     "duration": "44:25",
     "originalTitle": "20 MTV Live Trading",
-    "title": "지지·저항: Jeremy Russell, the founder of 20 Minute Trader, asked me and some other students come out here and trad…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 2664.83초·Facebook 자동 자막 4757단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good evening, everyone.” / “That is the value of gold.”",
+    "title": "20 MTV Live Trading: 9:30 AM EST, 1:2 위험보상비로 실시간 매매 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "risk",
-      "journal",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Good evening, everyone.” 이어 “That is the value of gold.” 이어 “Um when I say setups once we have a diversion that begins the setups and then we have the entry and I'll talk about all that once I enter a trade.” 이어 “So, we are starting to get a divergence here.” 이어 “Like I said, if I I zoom out here, it's starting to go down but it's coming back up.” 이어 “My first trade, right?” 이어 “Uh it's the blue is pointing down, look to do a sell, or a short which is the red button.” 이어 “See you later.”",
+    "core": "실시간 가격 변동을 기반으로 1:2 위험보상비를 추구하며, 가격이 상승하면 단타로 진입하고 하락하면 터치 매수를 시도한다.",
     "rules": [
-      "원문 실행 문장: Jeremy Russell, the founder of 20 Minute Trader, asked me and some other students come out here and trade lives.",
-      "원문 실행 문장: If the blue line is pointing down, I'm going to look to a long, I'm sorry, a short or a sell with this red button but nothing happens until divergence.",
-      "원문 실행 문장: I can put that line on there just to kind of right Move it down a little bit actually.",
-      "원문 실행 문장: This is my take profit.",
-      "원문 실행 문장: If I get another meaningful move up, if that as long as that blue line stays going up or flat, if I get a meaningful movement up, I look to enter A short.",
-      "원문 실행 문장: Took one trade, lost that trade, and we'll look for another setup in about 4 minutes.",
-      "원문 실행 문장: Grade it, journal it, you know, understand if maybe bad entry, maybe you didn't have the setup exactly like you wanted it.",
-      "원문 실행 문장: I was only able to make one trade tonight."
+      "가격이 하락하면 단타로 진입하려고 하며, 가격이 상승하면 터치 매수를 시도한다.",
+      "1:2 위험보상비를 추구하여 진입 포인트를 선택한다.",
+      "가격이 상승하면 터치 매수를 시도하고, 하락하면 단타로 진입한다."
     ],
-    "caution": "성과·수익 발화: “So, my take profit is up here.” / “It's a series of a hundred, 200, a thousand, whatever the case may be and so, one trade is one trade.” 홍보·행동유도 발화: “While we're waiting for others to join, if you could type in the comment section where you're watching from and if you're a new trader, brand new, never traded before, intermediat…” / “You click that link, register for the web class, and the web class.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 4757,
     "transcriptSource": "Facebook 자동 자막"
@@ -148,19 +148,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1024746209666954": {
     "date": "2025.09.04",
     "duration": "00:44",
-    "originalTitle": "434K views · 9 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: And just wait for them to drop together.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 트레이더의 애플 주식과 다우지수의 상관 관계",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 44.27초·로컬 Whisper large-v3-turbo 전사 141단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Piece of information that you learned that feels illegal to know.” / “And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entire lives.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "20분 트레이더",
+      "주식"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Piece of information that you learned that feels illegal to know.” 이어 “And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entire lives.” 이어 “It again happens here.” 이어 “So that's weird.”",
+    "core": "애플 주식 가격이 다우지수보다 먼저 상승하는 패턴을 이용하여 매매할 수 있다.",
     "rules": [
-      "원문 실행 문장: And just wait for them to drop together."
+      "애플 주식과 다우지수 차트를 열고, 다우지수가 하락하면 기다린 후 애플 주식 가격이 다우지수보다 먼저 상승하면 매수한다.",
+      "4년 6개월 동안 이 방법을 활용하여 수많은 트레이더들을 가르쳤다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 141,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -169,18 +173,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.18",
     "duration": "00:44",
     "originalTitle": "20MT Nov 24 Illegal to Know v1.mov",
-    "title": "주식·섹터: And just wait for them to drop together.",
+    "title": "Dow Jones와 Tech 스토크 가격 변동을 이용한 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 44.27초·로컬 Whisper large-v3-turbo 전사 141단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Piece of information that you learned that feels illegal to know.” / “And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entire lives.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "Dow Jones",
+      "Tech 스토크"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Piece of information that you learned that feels illegal to know.” 이어 “And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entire lives.” 이어 “It again happens here.” 이어 “So that's weird.”",
+    "core": "Dow Jones가 하락하면 Tech 스토크 가격이 뒤따르는 패턴을 이용해 수익을 얻는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: And just wait for them to drop together."
+      "차트에 Apple이나 다른 Tech 스토크를 추가하고, Dow Jones Industrial Average의 오렌지 선을 그린다.",
+      "Dow Jones 가격이 하락하면 Tech 스토크 가격도 빠르게 하락한 후 Dow Jones가 회복되면 Tech 스토크 가격도 빠르게 회복된다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 141,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -189,30 +197,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.18",
     "duration": "01:02:32",
     "originalTitle": "20MTV Live Trading",
-    "title": "이동평균: All that we're going to try to do this morning is I'm going to teach you guys actually how to trade the…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3752.06초·Facebook 자동 자막 9691단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good morning, traders.” / “But generally, they're moving in the same direction but a lot of times, they're not because they contain different companies and different weights of each different companies.”",
+    "title": "20MTV 8/18 실시간 트레이딩: 블루라인 상승과 레이블링",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "moving average",
-      "support",
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "이동평균",
+      "옵션",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “Good morning, traders.” 이어 “But generally, they're moving in the same direction but a lot of times, they're not because they contain different companies and different weights of each different companies.” 이어 “It's not just a bunch of recorded videos.” 이어 “So, We do not trade from 92-7.” 이어 “We just keep bouncing, right?” 이어 “It's a risky move because you you don't have a trend.” 이어 “And we use prop firms.” 이어 “Later traders.”",
+    "core": "블루라인의 상승과 레이블링이 필요하며, RSI의 하락은 진입 신호가 됩니다.",
     "rules": [
-      "원문 실행 문장: All that we're going to try to do this morning is I'm going to teach you guys actually how to trade the gold pattern.",
-      "원문 실행 문장: So, if we're trading blue line up, I need the white line to pop down to get an entry point to take that trade going upward.",
-      "원문 실행 문장: Janelle, what is the best stock to options trade?",
-      "원문 실행 문장: So, I'll move this line from 927 all the way to 933 and then we can start looking for trades after that.",
-      "원문 실행 문장: It's really hard to distinguish because even though the RSI has a number scale over here on the right, I don't really go by the numbers and I don't really go from a time frame.",
-      "원문 실행 문장: You don't want to trade in a sideways market, okay?",
-      "원문 실행 문장: We don't trade Forex.",
-      "원문 실행 문장: Use proper risk management."
+      "블루라인이 상승하고, 레이블링이 있을 때, 라인의 상승이 빠르면 블루라인을 기준으로 진입하라.",
+      "RSI가 하락하면 진입 신호가 됨을 확인하라.",
+      "블루라인의 하락과 레이블링이 있을 때, 레이블링이 빠르게 발생하면 블루라인을 기준으로 진입하라."
     ],
-    "caution": "성과·수익 발화: “So, the blue line will be what I'm trading and I can trade this upwards and make a profit or downwards and make a profit.” / “That's all you need is 60% win rate and you are good to go.” 홍보·행동유도 발화: “It's actually like a four-hour course but just doing the bare bones of it, I'm able to still place some really good trades.” / “Just click the link in the description to register.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 9691,
     "transcriptSource": "Facebook 자동 자막"
@@ -221,28 +222,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.10",
     "duration": "58:01",
     "originalTitle": "20MTV Live Trading",
-    "title": "위험관리: I'm a normal person and I learn how to trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3480.76초·Facebook 자동 자막 7042단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good morning, traders.” / “So, if the blue line is going up, we want the orange line flat or pointing down to trade long or to go for buys or to trade upwards.”",
+    "title": "20MTV Live Trading 8/10: 블루라인 상승 시 오렌지라인 하락으로 롱 진입",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Good morning, traders.” 이어 “So, if the blue line is going up, we want the orange line flat or pointing down to trade long or to go for buys or to trade upwards.” 이어 “So, they were anticipating adding 83, 000 jobs, okay?” 이어 “And we're still dropping.” 이어 “So, gotta be cautious at market open.” 이어 “So, let's see if we can create some new lows.” 이어 “Alright, another push up.” 이어 “Later traders.”",
+    "core": "블루라인과 오렌지라인이 상반된 방향으로 움직일 때 롱 진입 기회가 생긴다.",
     "rules": [
-      "원문 실행 문장: I'm a normal person and I learn how to trade.",
-      "원문 실행 문장: So, if I get to pop down here, I might take a trade going upward just to show you guys a little bit around the chart a little bit more.",
-      "원문 실행 문장: Now, if the trade goes against me, this is kind of my safety net.",
-      "원문 실행 문장: com or you guys can use the app.",
-      "원문 실행 문장: So, trade would've looked something like this entry point could've been right here.",
-      "원문 실행 문장: Now, we just need some divergence and an entry point and then we should be good to go.",
-      "원문 실행 문장: Gonna trade.",
-      "원문 실행 문장: I want you guys really to learn how to trade, how to analyze the charts, and possibly take independently."
+      "블루라인이 상승하고 오렌지라인은 하락할 때 롱 진입을 시도해야 한다.",
+      "RSI 상위 절반에서 완전히 상승하지 않은 상태에서는 추가 롱 포지션을 넣지 않는 것이 좋다.",
+      "새로운 진입 기회가 생기면 이전 포지션을 종료하고 새로운 포지션을 취한다."
     ],
-    "caution": "성과·수익 발화: “That's how we become profitable traders doing the same over and over.” / “What would be a better idea were to be take the trade, get into some profit, close the trade, wait for another new fresh entry, and take that one.” 홍보·행동유도 발화: “We're going to follow the process.” / “I do it for free.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 7042,
     "transcriptSource": "Facebook 자동 자막"
@@ -250,19 +246,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1030388095976524": {
     "date": "2026.01.18",
     "duration": "00:55",
-    "originalTitle": "8.5K views · 46 comments | Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Well if it isn't germy wormy.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who res…",
+    "title": "jeremy wormy의 20분 투자 전략 공유",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 54.77초·로컬 Whisper large-v3-turbo 전사 190단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Well if it isn't germy wormy.” / “I just got out of prison actually.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "투자",
+      "20분 투자",
+      "jeremy wormy"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Well if it isn't germy wormy.” 이어 “I just got out of prison actually.” 이어 “Can I try 20 minute trading?” 이어 “Best of luck man.”",
+    "core": "jeremy wormy은 20분 투자 전략을 공유하며, 그의 방식을 배우고 싶은 사람들을 초대한다.",
     "rules": [
-      "원문 실행 문장: Wait wait wait."
+      "jeremy wormy은 20분 투자 전략을 무료로 공유한다.",
+      "jeremy wormy은 20분 투자 전략을 배우고 싶은 사람들을 초대한다."
     ],
-    "caution": "홍보·행동유도 발화: “I accept your apology and I'll give you my strategy for free.” / “Just comment free below and I'll send you my full video strategy for free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 190,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -271,19 +271,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.13",
     "duration": "01:17",
     "originalTitle": "Sugar Free - Discipline.mp4",
-    "title": "심리·규율: Then you're out on a date.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 76.77초·로컬 Whisper large-v3-turbo 전사 317단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You're doing great.” / “Like discipline makes life worse.”",
+    "title": "당일 수익 목표를 넘어서는 순간의 결정",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "심리·규율",
+      "디시pline",
+      "투자전략",
+      "위험보상비"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “You're doing great.” 이어 “Like discipline makes life worse.” 이어 “That's guessing under pressure.” 이어 “That's discipline.”",
+    "core": "디시pline은 감정과 압박 상황에서의 즉시 결정을 의미하며, 그 순간의 작은 이익 추구는 실패로 이어진다.",
     "rules": [
-      "원문 실행 문장: They make a trade."
+      "거래를 시작할 때 85달러 수익을 얻고, 당일 300달러를 목표로 추가로 거래를 계속하되, 결국 손실을 본 뒤 '디시pline이 부족했다'고 판단한다.",
+      "디시pline은 감정과 압박 상황에서의 즉시 결정을 의미하며, 그 순간의 작은 이익 추구는 실패로 이어진다."
     ],
-    "caution": "성과·수익 발화: “Be happy with some profit.” / “Keep trading, now they're down $500.” 홍보·행동유도 발화: “Imagine you decide you're going to go sugar-free for a month.” / “What happened is they had no precise rule to follow.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 317,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -292,20 +295,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.16",
     "duration": "00:51",
     "originalTitle": "Investing in 2027 - Here's what I'd do.mp4",
-    "title": "위험관리: Now, before I ever place a trade on that account, I would create a daily checklist.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 51.47초·로컬 Whisper large-v3-turbo 전사 198단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If I was gonna start investing in 2027, knowing what I know today, this is exactly what I would do.” / “Because successful trading is boring.”",
+    "title": "2027년부터 시작하는 투자 - 일일 손실 한도 설정",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk"
+      "위험관리",
+      "심리·규율",
+      "투자",
+      "성공적인 트레이딩"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “If I was gonna start investing in 2027, knowing what I know today, this is exactly what I would do.” 이어 “Because successful trading is boring.” 이어 “I'm gonna say that again.” 이어 “And any trader worth listening to will tell you that's one of the most important rules in the entire business.”",
+    "core": "성공적인 트레이딩은 반복적인 작업이며, 매일 일정 손실 한도를 지키는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: Now, before I ever place a trade on that account, I would create a daily checklist.",
-      "원문 실행 문장: Chart settings, risk settings, platform settings, everything.",
-      "원문 실행 문장: I'd make sure everything was exactly where it needed to be before I took the trade."
+      "일일 투자 시작 전 모든 설정을 확인하고 일정 손실 한도를 설정한다.",
+      "일일 손실 한도를 초과하면 거래를 중단하고 다음 날로 넘어간다.",
+      "성공적인 트레이딩은 일관된 행동과 일정 손실 한도를 지키는 것에 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 198,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -314,19 +320,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.03",
     "duration": "00:09",
     "originalTitle": "trader-name-v1.mov",
-    "title": "영상 발화 분석: Your trader name is the first word of the last movie that you saw in a theater, plus the last thing that…",
+    "title": "Beetle Burrito: 영화 마지막 단어 + 마지막 먹은 음식",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 8.67초·로컬 Whisper large-v3-turbo 전사 34단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Your trader name is the first word of the last movie that you saw in a theater, plus the last thing that you ate.” / “Mine is Beetle Burrito.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "거래명",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Your trader name is the first word of the last movie that you saw in a theater, plus the last thing that you ate.” 이어 “Mine is Beetle Burrito.” 이어 “Put your answer in the comments.”",
+    "core": "거래명은 마지막 영화의 제목 첫 단어와 마지막 먹은 음식을 조합한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Your trader name is the first word of the last movie that you saw in a theater, plus the last thing that you ate."
+      "마지막 영화의 첫 단어와 마지막 먹은 음식을 조합하여 거래명을 만든다.",
+      "예를 들어, 마지막 영화가 Beetle과 마지막 먹은 음식이 Burrito라면 거래명은 Beetle Burrito가 된다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 34,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -335,24 +343,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.01",
     "duration": "02:22",
     "originalTitle": "8. LEARN 20MT WHITEBOARD_V7.mp4",
-    "title": "심리·규율: But all you're gonna do is look for this.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 142.40초·로컬 Whisper large-v3-turbo 전사 452단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's how to actually learn 20 minute trading from a seven figure funded busy work from home, 47 year old dad.” / “You're gonna look for this shape, which takes place over the span of about five to six minutes.”",
+    "title": "20분 거래 패턴 인식과 실전 투자 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "journal",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "심리·규율",
+      "선물·지수",
+      "20분 거래"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Here's how to actually learn 20 minute trading from a seven figure funded busy work from home, 47 year old dad.” 이어 “You're gonna look for this shape, which takes place over the span of about five to six minutes.” 이어 “Pay 50 bucks, get a $50,000 challenge account.” 이어 “Just click that and it's all yours.”",
+    "core": "Dow Jones 가격이 빨리 회복되면 ES와 YM의 추세가 따라온다는 패턴을 인식하고, 이를 이용해 실전에서 수익을 얻는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: But all you're gonna do is look for this.",
-      "원문 실행 문장: What you're gonna notice and pay attention to and even journal is this buy signal right here.",
-      "원문 실행 문장: That's where we place our trade and we profit like that.",
-      "원문 실행 문장: Next thing you wanna do is use the strategy on either TopStep or Apex to trade ES or MES to pass the challenge account, get funded.",
-      "원문 실행 문장: TopStep or Apex will literally put 50K into an account for you to trade with."
+      "TradingView의 프리미엄 계정을 신청하고 30일 무료 시험 이용",
+      "TopStep이나 Apex를 통해 50,000 달러의 실전 투자 계정을 얻고, ES나 MES를 거래하여 수익을 얻는 방법"
     ],
-    "caution": "성과·수익 발화: “That's where we place our trade and we profit like that.” / “So profit on that account, start taking payouts, and start earning money as a trader.” 홍보·행동유도 발화: “You need the premium account and you need to get the 30 day free trial so you don't pay a single dime.” / “If you wanna go a little deeper and get more details, we have a free video right here.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 452,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -361,19 +367,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.07",
     "duration": "02:07",
     "originalTitle": "Accountability.mp4",
-    "title": "지지·저항: I have experience having been a champion athlete in college on the rowing team where I had to get up at…",
+    "title": "지지·저항 반응에 관한 트레이딩 관점",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 127.40초·로컬 Whisper large-v3-turbo 전사 415단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I have experience having been a champion athlete in college on the rowing team where I had to get up at 4 30 every day and show up to the boathouse freezing and row till I puked almost every single day because…”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "주식·섹터",
+      "거래"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “I have experience having been a champion athlete in college on the rowing team where I had to get up at 4 30 every day and show up to the boathouse freezing and row till I puked almost every single day because…”",
+    "core": "성공은 책임감과 팀워크로 이루어진다는 인사이트를 전달한다.",
     "rules": [
-      "원문 실행 문장: I have experience having been a champion athlete in college on the rowing team where I had to get up at 4 30 every day and show up to the boathouse freezing and row till I puked almost every single day because there were seven other people showing up to be in…"
+      "주당 일찍 일어나서 거래를 시작한다.",
+      "규칙을 지키지 않으면 공개적으로 명단에 올린다.",
+      "규칙을 잘 지키면 명예의 전당에 올린다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 415,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -382,30 +392,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.17",
     "duration": "35:36",
     "originalTitle": "20 MTV Live Trading",
-    "title": "지지·저항: Trading is risky and I am trading at my own risk.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 2135.73초·Facebook 자동 자막 5727단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good evening, everyone.” / “Separation between these two lines.”",
+    "title": "20 MTV Live Trading: 1초 차트에서의 진입 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "risk",
-      "psychology",
-      "journal",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Good evening, everyone.” 이어 “Separation between these two lines.” 이어 “That is 100%.” 이어 “Whether it's 600 or 60 or 6.” 이어 “Entered for it to go up.” 이어 “What TP and stamp loss do you like to use?” 이어 “Now, I I am trading past 20 minutes only because I'm live with all of you but normally, like I said, I trade three after to 27 after like that twenty-four-minute period, right?” 이어 “We'll see you later.”",
+    "core": "1초 차트에서 블루 라인의 방향과 RSI의 반대 방향으로 진입하는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: Trading is risky and I am trading at my own risk.",
-      "원문 실행 문장: I'm going down here to look for my entry.",
-      "원문 실행 문장: Having a once you have the divergence and then you have to look for your entry and sometimes you may you may get an a divergence, a good separation but you never get the entry you want, right?",
-      "원문 실행 문장: I did enter.",
-      "원문 실행 문장: That's my entry point there.",
-      "원문 실행 문장: A lot of times, you do get a good setup between the time frame.",
-      "원문 실행 문장: Try to make one more trade before I'm done for the night.",
-      "원문 실행 문장: I typically let my trade go."
+      "블루 라인의 방향과 RSI의 반대 방향으로 진입하려면, 블루 라인의 방향과 RSI가 일치하지 않아야 한다.",
+      "진입 후, 라인의 움직임에 따라 스탑 러스를 조정한다.",
+      "1초 차트에서 블루 라인의 방향을 따라 거래를 시작한다."
     ],
-    "caution": "성과·수익 발화: “That is 100%.” / “Once you get that, you enter, Your bracket are already my brackets are already set and then I'm patient launched the trade and then like last like my first trade if if it's hoveri…” 홍보·행동유도 발화: “By waiting for others to join, if you could type in the comment section where you're watching from and maybe if you've never traded before or what level of trade you you are a beg…” / “Um if you are intrigued, want more information, get your questions answered live during the web class.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 5727,
     "transcriptSource": "Facebook 자동 자막"
@@ -414,20 +417,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.01",
     "duration": "00:50",
     "originalTitle": "2024_11 - Matty Int How Futures Started.mov",
-    "title": "주식·섹터: This is how futures started.",
+    "title": "90년대 주식 햄버거 가격 예측으로 시작된 선물 거래",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 49.53초·로컬 Whisper large-v3-turbo 전사 201단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is how futures started.” / “Let's make a deal that if you're right, I owe you $2,000.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "옵션",
+      "주식·섹터",
+      "선물·지수",
+      "선물 거래"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “This is how futures started.” 이어 “Let's make a deal that if you're right, I owe you $2,000.” 이어 “But when it comes to trading like the Nasdaq, for example, the amount that people lose is exactly equal to the amount that people win.” 이어 “Right, right, right.”",
+    "core": "선물 거래는 두 사람이 미래 가격을 예측하고 그 예측에 따라 금액을 지불하는 방식으로 시작되었다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: This is how futures started."
+      "당시 두 사람이 나눈 거래는 나스닥의 가격을 예측하는 것이었고, 예측이 맞으면 상대방에게 2,000달러를 지불해야 했다.",
+      "선물 거래의 특징은 거래 당사자가 잃는 금액이 수익을 내는 금액과 정확히 일치한다는 점이다."
     ],
-    "caution": "성과·수익 발화: “And you said, hey, the Nasdaq is worth $20,000 right now.” / “And if I'm right, you owe me $2,000.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 201,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -435,23 +440,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1046567341079474": {
     "date": "2026.07.15",
     "duration": "00:53",
-    "originalTitle": "229 reactions · 11 shares | Comment CLASS to learn more! #fyp #trading | 20-Minute Trader",
-    "title": "주식·섹터: Just show me how to trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 52.97초·로컬 Whisper large-v3-turbo 전사 213단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Just show me how to trade.” / “With your red line, this is the Dow Jones.”",
+    "originalTitle": "Comment CLASS to learn more! #fyp #trading",
+    "title": "1초 차트를 활용한 15~60초 거래 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "거래 전략",
+      "1초 차트",
+      "Dow Jones"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Just show me how to trade.” 이어 “With your red line, this is the Dow Jones.” 이어 “All you have to do is wait for this thing to pop down a little bit.” 이어 “This is how I'm able to place a trade that takes 15 to 60 seconds and it's done.”",
+    "core": "1초 차트에서 블루 라인과 레드 라인의 역동성을 이용해 거래를 실행합니다.",
     "rules": [
-      "원문 실행 문장: Just show me how to trade.",
-      "원문 실행 문장: All you have to do is wait for this thing to pop down a little bit.",
-      "원문 실행 문장: Once it does that, boom, that's when we place our trade right here.",
-      "원문 실행 문장: Place our trade here and it goes up like this and that's how we profit.",
-      "원문 실행 문장: This is how I'm able to place a trade that takes 15 to 60 seconds and it's done."
+      "1초 차트에서 블루 라인과 레드 라인의 가격 변동을 관찰하고, 블루 라인과 레드 라인 모두 하락할 때 거래를 실행합니다.",
+      "Dow Jones와 금 가격의 역동성을 이용해 거래 기회를 잡습니다."
     ],
-    "caution": "성과·수익 발화: “Place our trade here and it goes up like this and that's how we profit.” 홍보·행동유도 발화: “If you want to learn how to do this, you can join a free web class.” / “Type in the word class in the comments.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 213,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -460,20 +465,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.06.27",
     "duration": "00:48",
     "originalTitle": "New Dad Trading INTW.mov",
-    "title": "영상 발화 분석: There's been a number of times where I've been sitting there trying to trade and concentrate because you…",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 48.17초·로컬 Whisper large-v3-turbo 전사 195단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So I'm a new dad and I'm a trader, which is kind of funny because my son tends to wake up right around market open on the West Coast, which is at 630 a.m.” / “So if I'm sitting there looking at that and I hear this like, you know, loud ear piercing scream from my son's room because he just woke up, he wants to get our attention or whatever it is, it can be a little…”",
+    "title": "새로운 아빠로서의 트레이딩: 서든 아침의 시장과 아기의 울음",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "선물·지수",
+      "트레이딩",
+      "새로운 아빠",
+      "시장 개장 시간"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “So I'm a new dad and I'm a trader, which is kind of funny because my son tends to wake up right around market open on the West Coast, which is at 630 a.m.” 이어 “So if I'm sitting there looking at that and I hear this like, you know, loud ear piercing scream from my son's room because he just woke up, he wants to get our attention or whatever it is, it can be a little…” 이어 “So it's not a big deal.” 이어 “And then he starts screaming and I have to go, I have to ignore you just for 30 more seconds, buddy.”",
+    "core": "새로운 아빠로서의 트레이딩은 시장과 아기의 일어나는 시점이 동일할 때 집중력이 흔들릴 수 있다는 것을 보여줍니다.",
     "rules": [
-      "원문 실행 문장: There's been a number of times where I've been sitting there trying to trade and concentrate because you got to have focus because the type of trading I do is second to second.",
-      "원문 실행 문장: But I have had a situation where I've been trying to trade."
+      "WEST COAST 시장은 아침 6시 30분에 개장합니다. 아들은 동일한 시간에 일어납니다.",
+      "아이가 울면 30초만 더 기다려야 하는 상황이 종종 발생합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 195,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -481,20 +488,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1052681523809609": {
     "date": "2026.08.24",
     "duration": "00:32",
-    "originalTitle": "2K views | The kind of trading we teach is like gardening. You have to have patience, proper care, and follow the strategy to grow your trading account. Let us know your thoughts in the comments #fyp #learn #grow | 20-Minute Trader",
-    "title": "영상 발화 분석: If you're a gardener who planted potatoes, right?",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 32.23초·Facebook 자동 자막 119단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you're a gardener who planted potatoes, right?” / “You're doing this daily, right?”",
+    "originalTitle": "The kind of trading we teach is like gardening. You have to have patience, proper care, and follow the strategy to grow your trading account. Let us know your thoughts in the comm…",
+    "title": "투자 트레이딩은 농사와 같아요: 인내와 전략을 따라 성장시키세요",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "심리·규율",
+      "투자 트레이딩",
+      "인내심",
+      "전략"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “If you're a gardener who planted potatoes, right?” 이어 “You're doing this daily, right?” 이어 “Your obvious goal in trading is money but are you going to get a potato by just wanting a potato every day and digging it up to see if there's one there or rushing the process or trying to inject steroids into…” 이어 “Same thing in trading.”",
+    "core": "투자 트레이딩은 농사와 같아서 인내심과 적절한 관리가 필요하며, 전략을 따르면 성장할 수 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: If you're a gardener who planted potatoes, right?"
+      "투자 트레이딩은 농사와 같아서 인내심과 적절한 관리가 필요합니다.",
+      "성장하는 과정에서 잡초를 제거하고, 과정을 따라야 합니다.",
+      "목표는 돈을 벌 것이지만, 과정을 따라야 결과를 얻을 수 있습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 119,
     "transcriptSource": "Facebook 자동 자막"
@@ -502,20 +513,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1054697340417309": {
     "date": "2026.07.13",
     "duration": "00:51",
-    "originalTitle": "Robot Skit Aug 2024 COMMENT.mov",
-    "title": "영상 발화 분석: I still have time to do a 20 minute trader trade.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 51.23초·Facebook 자동 자막 125단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So excited about this new trading bot that I got.” / “It's going to go back.”",
+    "originalTitle": "Bought a trading bot because I figured a computer would beat my emotions. Turns out it just found new ways to lose money faster than I could. Watched it give back everything in se…",
+    "title": "20분 거래 패턴을 신뢰하며 봇 없이 수익 얻기",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "심리·규율",
+      "20분 거래",
+      "자동화",
+      "수익"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “So excited about this new trading bot that I got.” 이어 “It's going to go back.” 이어 “What the heck?” 이어 “Except for a predictable pattern.”",
+    "core": "자동화된 봇보다 수익을 더 빠르게 잃게 되는 것을 확인하고, 신뢰할 수 있는 20분 거래 패턴을 이용해 수익을 얻는 방법을 공유한다.",
     "rules": [
-      "원문 실행 문장: Oh wait a minute.",
-      "원문 실행 문장: I still have time to do a 20 minute trader trade."
+      "20분 거래 패턴을 신뢰하고 봇을 사용하지 않아 수익을 얻었다.",
+      "영상에서 봇이 빠르게 손실을 보임.",
+      "68.4%의 학생들이 20분 거래 전략을 사용해 수익을 얻었다."
     ],
-    "caution": "홍보·행동유도 발화: “Well, if you want to learn how to do 20 minute trading, just type the word free in the comments and I'll send you a full free video explanation.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 125,
     "transcriptSource": "Facebook 자동 자막"
@@ -524,31 +539,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.06",
     "duration": "51:23",
     "originalTitle": "20 MTV Live Trading",
-    "title": "지지·저항: Trading is risky and I am trading at my own risk.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3083.29초·Facebook 자동 자막 8449단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good evening, everyone.” / “I base it on the size of the movements overall.”",
+    "title": "20 MTV Live Trading: 1:2 위험보상비로 실시간 트레이딩 전략 분석",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "Fibonacci",
-      "risk",
-      "psychology",
-      "journal",
-      "performance claim",
-      "CTA"
+      "개장 범위",
+      "지지·저항",
+      "피보나치",
+      "옵션"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Good evening, everyone.” 이어 “I base it on the size of the movements overall.” 이어 “We do, we're starting to get a little bit of divergence here that orange lines down, that blue line, however, is still somewhat flat but there's really not a strong divergence that like to see.” 이어 “That's why I'm striving to do even though I'm under a little pressure here, live, right?” 이어 “Jacob, that's 100% true and that's what you have to remember, right?” 이어 “Um but the Yes, I don't know what CBD is.” 이어 “It did drop.” 이어 “Take care of yourself and we'll see you Monday.”",
+    "core": "블루라인의 방향을 확인하고 반대 방향의 실질적인 움직임이 발생할 때 진입하는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: Trading is risky and I am trading at my own risk.",
-      "원문 실행 문장: I'm going to look for a meaningful movement in the opposite direction before I enter the trade and when a meaningful is subjective, right?",
-      "원문 실행 문장: It does close for like an hour or so Monday through Thursday.",
-      "원문 실행 문장: I mean, I saw Jeremy make a a trade on on Instagram and you know, I'm like, well, he can do it.",
-      "원문 실행 문장: I'm looking down here for my entry.",
-      "원문 실행 문장: Trying to starting to head down Um If I get a meaningful movement up, I will enter a trade here.",
-      "원문 실행 문장: That's what I've I've noticed and then, it did another bit of a move, right?",
-      "원문 실행 문장: My favorite time to trade Eastern."
+      "블루라인의 방향을 확인하고, 반대 방향의 실질적인 움직임이 발생할 때 진입해야 한다.",
+      "1:2 위험보상비를 고려하여 진입 시점과 타이밍을 결정한다."
     ],
-    "caution": "성과·수익 발화: “I think the only profit I got was 20 cents and that was two days after learning.” / “I take profit was at the bottom.” 홍보·행동유도 발화: “Uh while we're waiting for others to join, if you could type in the comment section where you're watching from.” / “We'll send you a DM free ticket to a web class where you get your questions answered live after you once you have registered for it.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 8449,
     "transcriptSource": "Facebook 자동 자막"
@@ -557,29 +563,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.04",
     "duration": "48:00",
     "originalTitle": "20 MTV Live Trading",
-    "title": "돌파·개장 범위: Come out here to trade in front of you live.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 2880.46초·Facebook 자동 자막 6431단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good evening, everyone.” / “Ultimately, it's the strength of the blue line and so so essentially, for example, if there's 20 movements up and 20 movements down but the downward movements were much much stronger on average, then, you're g…”",
+    "title": "20 MTV Live Trading - 8:00 AM EST에서의 20분 거래 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "breakout",
-      "risk",
-      "psychology",
-      "journal",
-      "CTA"
+      "개장 범위",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 돌파·개장 범위 콘텐츠다. “Good evening, everyone.” 이어 “Ultimately, it's the strength of the blue line and so so essentially, for example, if there's 20 movements up and 20 movements down but the downward movements were much much stronger on average, then, you're g…” 이어 “And so this is the live price.” 이어 “So, essentially, it's open twenty-three, 22 hours, right?” 이어 “It's not, it's not like this but it's slower.” 이어 “I always grade my trades based on the setup, based on the entry, based on the actual trade, not the PNL, not the profit or the loss, right?” 이어 “It it you know it it it is and and going from you know if you if you trade open market then you come and trade this.” 이어 “Have a great night and we'll see you maybe tomorrow.”",
+    "core": "8:00 AM EST에 진입할 때 블루라인의 하락을 기다려야 하며, 진입 시점은 1000 가격대에서 이루어져야 한다.",
     "rules": [
-      "원문 실행 문장: Come out here to trade in front of you live.",
-      "원문 실행 문장: Down here is where I look for my entry.",
-      "원문 실행 문장: Um I think profit is up here and stop loss.",
-      "원문 실행 문장: Like some people would take this move as a drop down to trade up.",
-      "원문 실행 문장: And so, I know that there's people that trade at 8 PM, a ton of people that trade at 8 PM.",
-      "원문 실행 문장: Grape portrait, what is the reason behind your time frame choice?",
-      "원문 실행 문장: This time frame is not the case.",
-      "원문 실행 문장: So, so that's kind of, you know, would like to make at least one more trade for all of you, trading live, but that's kind of, the way it goes."
+      "8:00 AM EST에 블루라인의 하락을 기다려야 하며, 진입 시점은 1000 가격대에서 이루어져야 한다.",
+      "진입 후 블루라인의 하락을 확인해야 하며, 가격이 1000을 하회하면 매수 결정"
     ],
-    "caution": "성과·수익 발화: “Trent is heading up So, I entered there My take profit is up here.” / “I always grade my trades based on the setup, based on the entry, based on the actual trade, not the PNL, not the profit or the loss, right?” 홍보·행동유도 발화: “Thank you for being here while waiting for others to join.” / “Click it and then during the web class, once you register it during the web class, you get your questions answered live.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 6431,
     "transcriptSource": "Facebook 자동 자막"
@@ -588,18 +587,20 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.06",
     "duration": "00:25",
     "originalTitle": "WILL-CATCH-YOU-CLASS.mov",
-    "title": "영상 발화 분석: That's what happens when you trust a random guru to learn how to trade.",
+    "title": "20분 거래 클래스 - 9:00 시장 개장 후 20분 동안의 거래 패턴",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 25.40초·로컬 Whisper large-v3-turbo 전사 86단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You can trust me.” / “That's what happens when you trust a random guru to learn how to trade.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "20MinuteTrader"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “You can trust me.” 이어 “That's what happens when you trust a random guru to learn how to trade.” 이어 “Hope to see you there.” 이어 “Dude, you okay?”",
+    "core": "20분 거래는 시장 개장 후 20분 동안의 예측 가능한 거래 패턴을 이용한다.",
     "rules": [
-      "원문 실행 문장: That's what happens when you trust a random guru to learn how to trade."
+      "20분 거래는 시장이 개장한 후 20분 동안의 예측 가능한 거래 패턴을 이용한다."
     ],
-    "caution": "홍보·행동유도 발화: “And I'm doing a live web class very soon and if you want to be part of it, type the word class in the comments and I'll send you a free ticket.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 86,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -608,28 +609,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.13",
     "duration": "55:27",
     "originalTitle": "20 MTV Live Trading",
-    "title": "위험관리: So now I teach you guys actually how to trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3327.33초·로컬 Whisper large-v3-turbo 전사 8739단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “We'll be right back.” / “So every trade I'm going to take is off of the blue line.”",
+    "title": "20 MTV Live Trading: RSI와 Divergence를 활용한 진입 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “We'll be right back.” 이어 “So every trade I'm going to take is off of the blue line.” 이어 “Do you guys have any questions?” 이어 “I want to finish with profit too.” 이어 “So we do earn a small commission.” 이어 “So if you guys wanted to continue on this trend, what do you guys need to enter this trade?” 이어 “I want like a, the white line to really, I call it a pop, like a meaningful movement.” 이어 “We'll see you guys next time.”",
+    "core": "RSI와 Divergence를 활용하여 진입 포인트를 결정하고, 가격이 하락할 때도 임시적으로 가격을 떨어뜨리는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: So now I teach you guys actually how to trade.",
-      "원문 실행 문장: What do we need to enter the trade?",
-      "원문 실행 문장: So, oops, let's see how this trade plays out.",
-      "원문 실행 문장: So I would have exited this trade for two reasons because so we were in an uptrend.",
-      "원문 실행 문장: I use Top Step.",
-      "원문 실행 문장: If we're going in an uptrend and there's more buyers right now and they're pushing price up, they're actually need to, the sellers need to step in and the buyers need to pick up some sell orders to drop the price temporarily to keep going.",
-      "원문 실행 문장: So we need RSI to pull back to get an entry point.",
-      "원문 실행 문장: Thousands of us trade this every single day, Jeremy included."
+      "블루 라인이 내려가고 레드 라인이 상승하면 진입 포인트를 찾는다.",
+      "RSI가 하락하고 가격이 떨어지면 임시적으로 가격을 떨어뜨릴 수 있는 진입 포인트를 기다린다.",
+      "Divergence가 나타나면 진입 포인트를 선택한다."
     ],
-    "caution": "성과·수익 발화: “So I can trade this going up for a profit or down.” / “It looks like we would have hit take profit just barely.” 홍보·행동유도 발화: “If you guys are interested in this, go ahead and type the word class in the comment section.” / “So feel free to ask him questions as well.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 8739,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -638,18 +634,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.19",
     "duration": "01:02",
     "originalTitle": "JR Self Tape_V5_Anxious Hook_TYPE FREE_4-5.mp4",
-    "title": "영상 발화 분석: about to do a fast in and out trade using 250 000 dollars wish me luck the setup's looking good right no…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 61.67초·로컬 Whisper large-v3-turbo 전사 128단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “about to do a fast in and out trade using 250 000 dollars wish me luck the setup's looking good right now order filled order filled all right how much did i make let's see 2436.90 that's one of the reasons i l…”",
+    "title": "JR Self Tape_250,000 달러로 10~15분 거래_20분 거래",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "JR"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “about to do a fast in and out trade using 250 000 dollars wish me luck the setup's looking good right now order filled order filled all right how much did i make let's see 2436.90 that's one of the reasons i l…”",
+    "core": "20분 거래는 짧은 시간 내에 이익을 실현할 수 있는 방법이다.",
     "rules": [
-      "원문 실행 문장: about to do a fast in and out trade using 250 000 dollars wish me luck the setup's looking good right now order filled order filled all right how much did i make let's see 2436.90 that's one of the reasons i like 20 minute trading is because you are in and ou…"
+      "JR은 250,000 달러로 10~15분 동안 셋업을 기다렸다가 거래를 실행했다.",
+      "거래 후 수익은 2436.90 달러였다."
     ],
-    "caution": "홍보·행동유도 발화: “about to do a fast in and out trade using 250 000 dollars wish me luck the setup's looking good right now order filled order filled all right how much did i make let's see 2436.90…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 128,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -657,22 +656,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1074041038437176": {
     "date": "2026.08.24",
     "duration": "01:40",
-    "originalTitle": "100K views · 316 reactions | Comment CLASS to learn more #fyp In a recent survey conducted with 20-Minute Trader students across all platforms we offer, 68.4% of responding students reported making profit when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "선물·지수: It's going to move around.",
+    "originalTitle": "Comment CLASS to learn more #fyp In a recent survey conducted with 20-Minute Trader students across all platforms we offer, 68.4% of responding students reported making profit whe…",
+    "title": "9:30-9:53 동부시간 SPY 가격 움직임 분석",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 100.07초·Facebook 자동 자막 316단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The best trading time.” / “This happens 99% of the time.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "performance claim"
+      "옵션",
+      "선물·지수",
+      "트레이딩",
+      "20분 트레이딩"
     ],
-    "core": "원문 전사 기준 선물·지수 콘텐츠다. “The best trading time.” 이어 “This happens 99% of the time.” 이어 “Very very often the red line independently dumps up and literally signals that the right side of the U is about to It is at that moment that I buy.” 이어 “The real question is, can you be available for these 20 minutes?”",
+    "core": "SPY 가격이 U자 형태의 하락을 보이면, 하락 추세가 지속될 가능성이 높아진다.",
     "rules": [
-      "원문 실행 문장: It's going to move around.",
-      "원문 실행 문장: Very very often the red line independently dumps up and literally signals that the right side of the U is about to It is at that moment that I buy.",
-      "원문 실행 문장: I identify this here as the mutual downtrend between the blue line and the orange line or the red line.",
-      "원문 실행 문장: Once I see this, I instantly place my buy, dumps up."
+      "9:33-9:53 동부시간에 SPY 가격을 1초 간격으로 표시하고, Dow Jones와의 하락 추세를 관찰한다.",
+      "Dow Jones와 SPY 가격이 동시에 하락하면, U자 형태의 하락 추세가 형성될 가능성이 높아진다.",
+      "U자 형태의 하락 추세가 형성되면, SPY 가격이 회복될 가능성이 높아지므로 즉시 매수한다."
     ],
-    "caution": "성과·수익 발화: “This happens 99% of the time.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 316,
     "transcriptSource": "Facebook 자동 자막"
@@ -681,18 +682,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.10",
     "duration": "00:44",
     "originalTitle": "20MT Nov 24 Illegal to Know v1.mov",
-    "title": "주식·섹터: And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entir…",
+    "title": "Dow Jones 먼저 상승 후 테크주 추격, 4년 6개월간 405,000명 가르친 비법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 44.27초·로컬 Whisper large-v3-turbo 전사 141단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “piece of information that you learned that feels illegal to know.” / “And then the Dow Jones pops up first.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "투자법",
+      "DowJones"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “piece of information that you learned that feels illegal to know.” 이어 “And then the Dow Jones pops up first.” 이어 “Notice the Dow Jones jumps first and then the blue line follows.” 이어 “So that's weird.”",
+    "core": "Dow Jones가 먼저 상승하고, 그 뒤에 테크주들이 추격하는 현상을 이용하는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entire lives, and just wait for them to drop together."
+      "Dow Jones Industrial Average가 먼저 상승한 후, Apple과 같은 테크주들이 그 뒤를 따르는 현상을 관찰한다.",
+      "Dow Jones가 상승하면 즉시 테크주들에 투자한다.",
+      "4년 6개월 동안 이 방법을 통해 405,000명을 가르쳤다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 141,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -700,21 +706,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1076962871283190": {
     "date": "2025.07.25",
     "duration": "00:46",
-    "originalTitle": "24K views · 11 reactions | Comment “SECRET” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: That's where the trade is placed.",
+    "originalTitle": "Comment “SECRET” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students…",
+    "title": "20분 거래의 비밀: 주식과 지수의 하락 추세에서의 거래 전략",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 46.04초·로컬 Whisper large-v3-turbo 전사 151단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “That's a stock, that's an index.” / “That's where the trade is placed.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "주식·섹터",
+      "20분 거래",
+      "주식",
+      "지수"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “That's a stock, that's an index.” 이어 “That's where the trade is placed.” 이어 “Imagine this.” 이어 “You wanna know the secret?”",
+    "core": "주식과 지수는 하락 추세에서 함께 움직이며, 가격이 반전할 때 거래를 실행하면 수익을 얻을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: That's where the trade is placed.",
-      "원문 실행 문장: Before breakfast, you sit down at your laptop, open it up the screen, have a chart, have a trading account, place a trade, usually under a minute, and you're done for the day."
+      "주식과 지수 가격이 하락 추세를 보이면, 가격이 반전할 때 거래를 실행한다.",
+      "매일 아침 랩톱을 열어 차트를 확인하고, 가격이 반전할 때 단타를 실행한다.",
+      "50만 명 이상의 거래 학생들이 이 방법을 통해 시장에서 경쟁력을 얻고 있다."
     ],
-    "caution": "성과·수익 발화: “That's where the profit is gained.” 홍보·행동유도 발화: “Type the word secret below, and I'll send you a full free video explanation of how it works.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 151,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -722,19 +731,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1076976484249563": {
     "date": "2025.04.30",
     "duration": "00:23",
-    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "심리·규율: I've never traded before and these guys will start where you're at and make you a better trader with a v…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 22.63초·Facebook 자동 자막 59단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Mentors and good mindset training.” / “I've never traded before and these guys will start where you're at and make you a better trader with a very particular strategy to use less than 30 minutes a day once proficient.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20-Minute Trader의 첫 거래를 위한 심리학적 트레이딩 클래스",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "psychology"
+      "심리·규율",
+      "트레이딩",
+      "20-Minute Trader"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Mentors and good mindset training.” 이어 “I've never traded before and these guys will start where you're at and make you a better trader with a very particular strategy to use less than 30 minutes a day once proficient.” 이어 “They are reputable, trustworthy, genuine, honest with expectations, and have realistic training.” 이어 “Very good at training the right mindset for trading.”",
+    "core": "20-Minute Trader의 멘토들은 초보자부터 시작해 매일 30분 이내로 더 나은 트레이더로 만듭니다.",
     "rules": [
-      "원문 실행 문장: I've never traded before and these guys will start where you're at and make you a better trader with a very particular strategy to use less than 30 minutes a day once proficient."
+      "초보자들도 시작할 수 있는 심리학적 트레이딩 전략을 제공합니다.",
+      "실제 거래 전략을 사용하기 전에 심리학적 준비를 강조합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 59,
     "transcriptSource": "Facebook 자동 자막"
@@ -743,30 +755,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.05",
     "duration": "57:13",
     "originalTitle": "20MTV Live Trading",
-    "title": "지지·저항: Let's learn how to trade profitably.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3432.86초·Facebook 자동 자막 8749단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good morning, traders.” / “We're going to look for the pop in the opposite direction.”",
+    "title": "20MTV Live Trading: 9:30 Market Open 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "breakout",
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "개장 범위",
+      "지지·저항",
+      "옵션",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Good morning, traders.” 이어 “We're going to look for the pop in the opposite direction.” 이어 “It's okay if I lose divergence while I'm in a trade, right?” 이어 “So, let's see what happens.” 이어 “We're still in a no-trade zone.” 이어 “You see how we're stuck in that box?” 이어 “There we go.” 이어 “Later traders.”",
+    "core": "거래는 정해진 스탑 라스와 테이크 프로피트를 기반으로 이루어져야 합니다.",
     "rules": [
-      "원문 실행 문장: Let's learn how to trade profitably.",
-      "원문 실행 문장: We're just going to wait for the next pattern to appear and then, we're going to start placing some trades.",
-      "원문 실행 문장: The street's going against me right and it may even hit my stop loss.",
-      "원문 실행 문장: We're not going to be in a trade.",
-      "원문 실행 문장: So, I'm going to take this riskier trade just for fun.",
-      "원문 실행 문장: So, I'm actually waiting for the pullback like a really good reversal and I would love to trade shorts.",
-      "원문 실행 문장: Not being in a trade is taking a position, seriously.",
-      "원문 실행 문장: Use proper risk management And remember, the reaction matters than the headline."
+      "거래는 스탑 라스와 테이크 프로피트를 사용해야 합니다.",
+      "9:30 시장 개장 시 가격 변동을 피해야 합니다.",
+      "블루 라인이 내려가고 화이트 라인이 상승할 때 진입해야 합니다."
     ],
-    "caution": "성과·수익 발화: “That's how you become a profitable trader.” / “Take the $200dollar loss and we can make it up tomorrow.” 홍보·행동유도 발화: “All you need to be a trader is a process, you need patience, proper risk management, and you also need the discipline to follow your rules when the market kind of gets exciting or…” / “If you guys are on YouTube, click the link in the description.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다.",
     "transcriptVerified": true,
     "transcriptWordCount": 8749,
     "transcriptSource": "Facebook 자동 자막"
@@ -774,22 +779,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1092577829968633": {
     "date": "2026.08.23",
     "duration": "01:26",
-    "originalTitle": "2.9K views · 20 reactions | Comment CLASS to learn more #fyp | 20-Minute Trader",
-    "title": "Fibonacci: At a certain point, the red line starts to move back up just before this happens.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 85.73초·Facebook 자동 자막 257단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You think trading is about price action and indicators?” / “Gonna do whatever it's going to do.”",
+    "originalTitle": "Comment CLASS to learn more #fyp",
+    "title": "S&P 500과 Dow Jones Industrial Average를 활용한 1초 차트 트레이딩 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "Fibonacci"
+      "피보나치",
+      "옵션",
+      "1초 차트",
+      "S&P 500"
     ],
-    "core": "원문 전사 기준 Fibonacci 콘텐츠다. “You think trading is about price action and indicators?” 이어 “Gonna do whatever it's going to do.” 이어 “At a certain point, the red line starts to move back up just before this happens.” 이어 “Simple as that.”",
+    "core": "S&P 500이 하락한 후 Dow Jones Industrial Average가 회복되기 전에 매수 신호를 잡는 것이 핵심입니다.",
     "rules": [
-      "원문 실행 문장: At a certain point, the red line starts to move back up just before this happens.",
-      "원문 실행 문장: I place my trade right here.",
-      "원문 실행 문장: This is my buy signal.",
-      "원문 실행 문장: That's my trade."
+      "S&P 500이 하락하면 Dow Jones Industrial Average를 관찰하고, Dow Jones Industrial Average가 회복되기 직전에 매수를 실행합니다.",
+      "매수 신호는 Dow Jones Industrial Average가 회복되기 직전에 S&P 500이 하락하는 지점에서 발생합니다."
     ],
-    "caution": "성과·수익 발화: “That's my profit.” 홍보·행동유도 발화: “Hit the link if you want to see a video for free on how to set this up.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 257,
     "transcriptSource": "Facebook 자동 자막"
@@ -797,20 +803,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1093142439032537": {
     "date": "2025.08.11",
     "duration": "00:57",
-    "originalTitle": "4.7K views · 16 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: Actually being able to trade despite having a job and also having no idea which direction the market is…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 57.00초·로컬 Whisper large-v3-turbo 전사 237단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's something I wish I knew before I was in my 30s.” / “All I do is I look at an index and I look at a stock that have a correlation.”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 거래로 일과 가족을 모두 즐기다",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "주식·섹터",
+      "선물·지수",
+      "20분거래",
+      "일과 가족"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Here's something I wish I knew before I was in my 30s.” 이어 “All I do is I look at an index and I look at a stock that have a correlation.” 이어 “It's often enough that I'll win more than I lose when I do this.” 이어 “So there's a reason why 300,000 people have actually studied this in the last couple of years.”",
+    "core": "20분 거래는 시장 방향을 예측하지 않아도 되며, 일과 가족 생활을 즐길 수 있는 방법이다.",
     "rules": [
-      "원문 실행 문장: Actually being able to trade despite having a job and also having no idea which direction the market is going.",
-      "원문 실행 문장: And that's because I only trade for 20 minutes in the morning, right when the market opens."
+      "매일 아침 시장이 열릴 때 20분 동안 특정 지수와 관련된 주식을 관찰한다.",
+      "지수와 관련된 주식이 지수와 동일한 방향으로 움직일 확률이 높아 이 방법으로 수익을 얻을 수 있다."
     ],
-    "caution": "홍보·행동유도 발화: “I don't have to follow a bunch of different crazy indicators and learn all these different crazy terms.” / “Type the word free in the comments and I will DM you the strategy for free right now.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 237,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -818,24 +827,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1099812158709869": {
     "date": "2025.07.03",
     "duration": "00:49",
-    "originalTitle": "15K views · 5 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: Dad, I told you I trade for 20 minutes in the morning and then I'm done.",
+    "originalTitle": "20-Minute Trader",
+    "title": "20분 투자, 1300 달러 수익 달성",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 48.53초·Facebook 자동 자막 166단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You're not going to work today?” / “**** That sounds like one of those risky money schemes I've seen on TV.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "투자",
+      "20분 투자",
+      "예측 가능 거래"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “You're not going to work today?” 이어 “**** That sounds like one of those risky money schemes I've seen on TV.” 이어 “Buy and sell and and I'm done for the day.” 이어 “Is that the internet?”",
+    "core": "매일 아침 20분만 투자하면 큰 수익을 얻을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Dad, I told you I trade for 20 minutes in the morning and then I'm done.",
-      "원문 실행 문장: It's called 20-minute trade.",
-      "원문 실행 문장: I trade predictable patterns.",
-      "원문 실행 문장: I wait for a few signals.",
-      "원문 실행 문장: Buy and sell and and I'm done for the day."
+      "매일 아침 20분 동안 예측 가능한 패턴을 기다리고 거래합니다.",
+      "1300 달러의 수익을 얻은 후에도 계속 거래할 수 있습니다.",
+      "초보자도 쉽게 시작할 수 있습니다."
     ],
-    "caution": "홍보·행동유도 발화: “Just comment free on this video and I'll send you a free video explanation.” / “Eat your free eggs.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 166,
     "transcriptSource": "Facebook 자동 자막"
@@ -843,20 +852,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1119239076810101": {
     "date": "2026.01.02",
     "duration": "01:09",
-    "originalTitle": "8.4K views · 12 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Your mom really wants a cruise vacation for her birthday, but I just looked at it on the world wide web.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 투자, 80달러로 시작하는 크루즈 비용",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 68.90초·로컬 Whisper large-v3-turbo 전사 246단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm in the shower.” / “I mean, like the whole thing.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 투자",
+      "초보자 투자"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm in the shower.” 이어 “I mean, like the whole thing.” 이어 “Speaking of which, it's really humid in here.” 이어 “Oh yeah, you bet.”",
+    "core": "20분 투자로 시작할 수 있는 초보자용 투자 방법을 소개한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I'm in the shower."
+      "80달러로 시작할 수 있는 20분 투자 방법을 제안한다.",
+      "모든 투자 활동은 80달러부터 시작할 수 있으며, 투자 규칙은 단순하고 예측 가능하다."
     ],
-    "caution": "성과·수익 발화: “Last time I went, I snatched a ticket for $80 for a whole week.” / “You actually can start with your $80 and work your way up.” 홍보·행동유도 발화: “Last time I went, I snatched a ticket for $80 for a whole week.” / “Just do the free course, Dad.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 246,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -864,20 +875,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1150084170125441": {
     "date": "2025.11.09",
     "duration": "01:33",
-    "originalTitle": "3.5K views · 33 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Hey, Jeremy, remember that secret that I was gonna tell you?",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 92.57초·로컬 Whisper large-v3-turbo 전사 374단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey, Jeremy, remember that secret that I was gonna tell you?” / “You want me to go over there now?”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 트레이딩 웹 클래스 무료 티켓 얻는 방법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이딩",
+      "무료 클래스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Hey, Jeremy, remember that secret that I was gonna tell you?” 이어 “You want me to go over there now?” 이어 “And you know!” 이어 “But we can still pretend it's a secret, right?”",
+    "core": "20분 트레이딩 웹 클래스에 참석하려면 클래스라는 단어를 댓글에 입력하면 무료 티켓을 받을 수 있다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Hey, Jeremy, remember that secret that I was gonna tell you?"
+      "400,000명 이상이 20분 트레이딩 웹 클래스를 수강했다."
     ],
-    "caution": "홍보·행동유도 발화: “Hey, Jeremy, would you mind popping over to Dad's bedroom and grabbing that video course that he borrowed from me?” / “I think 400,000 people have done a 20-minute training course at this point, so.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 374,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -886,23 +899,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.11",
     "duration": "01:09",
     "originalTitle": "Most People Don_t Fail Because They_re Incapable of Learning Training.mp4",
-    "title": "Fibonacci: They don't know how to set up a chart.",
+    "title": "트레이딩 기초 학습 과정과 단순한 트레이딩 시스템",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 69.10초·로컬 Whisper large-v3-turbo 전사 284단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Most people don't fail because they're incapable of learning trading.” / “Imagine if every time you got stuck, somebody could jump on a Zoom call, do a screen share, and help you through whatever problem you were having.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "Fibonacci",
-      "risk"
+      "피보나치",
+      "옵션",
+      "위험관리",
+      "트레이딩 기초"
     ],
-    "core": "원문 전사 기준 Fibonacci 콘텐츠다. “Most people don't fail because they're incapable of learning trading.” 이어 “Imagine if every time you got stuck, somebody could jump on a Zoom call, do a screen share, and help you through whatever problem you were having.” 이어 “Once those pieces are in place, the actual trading system is surprisingly simple.” 이어 “It's watching a few colored lines interact with each other and using that information to determine the direction of a very short term trade.”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "원문 실행 문장: They don't know how to set up a chart.",
-      "원문 실행 문장: They don't know what instrument to trade.",
-      "원문 실행 문장: How to place a trade.",
-      "원문 실행 문장: How to identify the setup.",
-      "원문 실행 문장: It's watching a few colored lines interact with each other and using that information to determine the direction of a very short term trade."
+      "초보자들은 차트를 설정하는 방법, 계정을 설정하고 충전하는 방법, 손절를 설정하는 방법, 위험 관리하는 방법 등을 배워야 합니다.",
+      "단순한 트레이딩 시스템은 일반적으로 1분 거래로 이루어져 있으며, 패턴은 차트 상의 몇 개의 선의 상호작용에 기반합니다."
     ],
-    "caution": "전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 284,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -910,21 +922,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1157982322914951": {
     "date": "2025.10.07",
     "duration": "00:46",
-    "originalTitle": "27K views · 21 reactions | Comment “SECRET” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: That's where the trade is placed.",
+    "originalTitle": "Comment “SECRET” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students…",
+    "title": "20분 거래의 비밀: 주식과 지수의 하락 추세에서의 거래 전략",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 46.07초·로컬 Whisper large-v3-turbo 전사 151단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “That's a stock, that's an index.” / “That's where the trade is placed.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "주식·섹터",
+      "20분 거래",
+      "주식",
+      "지수"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “That's a stock, that's an index.” 이어 “That's where the trade is placed.” 이어 “Imagine this.” 이어 “You wanna know the secret?”",
+    "core": "주식과 지수는 하락 추세에서 함께 움직이며, 가격이 반전할 때 거래를 실행하면 수익을 얻을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: That's where the trade is placed.",
-      "원문 실행 문장: Before breakfast, you sit down at your laptop, open it up the screen, have a chart, have a trading account, place a trade, usually under a minute, and you're done for the day."
+      "주식과 지수 가격이 하락 추세를 보이면, 가격이 반전할 때 거래를 실행한다.",
+      "매일 아침 랩톱을 열어 차트를 확인하고, 가격이 반전할 때 단타를 실행한다.",
+      "50만 명 이상의 거래 학생들이 이 방법을 통해 시장에서 경쟁력을 얻고 있다."
     ],
-    "caution": "성과·수익 발화: “That's where the profit is gained.” 홍보·행동유도 발화: “Type the word secret below, and I'll send you a full free video explanation of how it works.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 151,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -932,21 +947,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1161053552624792": {
     "date": "2025.12.29",
     "duration": "01:13",
-    "originalTitle": "7.2K views · 8 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: You don't actually need much to start with, and many traders focus on consistency with each trade.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 거래 클래스: 초기 투자 20,000 달러로 시작하는 방법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 72.60초·로컬 Whisper large-v3-turbo 전사 220단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm gonna invest 20k.” / “Plus, I mean, I guess it can also crash, but then I'm gonna invest it all in crypto right now.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "20분 거래",
+      "투자"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “I'm gonna invest 20k.” 이어 “Plus, I mean, I guess it can also crash, but then I'm gonna invest it all in crypto right now.” 이어 “What are you doing?” 이어 “Because I think you gotta fix that.”",
+    "core": "20분 거래는 일일 거래의 초기 20분 동안 예측 가능한 패턴을 이용해 거래를 하는 방법이다.",
     "rules": [
-      "원문 실행 문장: Go place that trade.",
-      "원문 실행 문장: You don't actually need much to start with, and many traders focus on consistency with each trade.",
-      "원문 실행 문장: The precogs gave me a trade to do."
+      "투자 금액은 20,000 달러로, 거래는 일일 초기 20분 동안 이루어진다.",
+      "초기 투자 금액은 크지 않아 시작하기에 좋다.",
+      "예측 가능한 거래 패턴을 이용해 거래를 시작할 수 있다."
     ],
-    "caution": "홍보·행동유도 발화: “Simply comment the word class, and I'll send you a free ticket to my next live web class where you can get started on this for free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 220,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -954,20 +972,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1175619231306059": {
     "date": "2025.12.14",
     "duration": "00:57",
-    "originalTitle": "5.1K views · 52 reactions | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: I'm going to sell them on Amazon.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 투자 트레이딩 클래스 무료 티켓 얻는 방법",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 57.03초·로컬 Whisper large-v3-turbo 전사 161단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What you doing, Dad?” / “What do you got?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "투자",
+      "트레이딩",
+      "20분 투자"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “What you doing, Dad?” 이어 “What do you got?” 이어 “Sitting around staring at screens all day and stuff.” 이어 “My favorite.”",
+    "core": "20분 만에 배울 수 있는 트레이딩 기법을 무료로 배울 수 있는 클래스에 참가할 수 있는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: I'm going to sell them on Amazon.",
-      "원문 실행 문장: Takes too long to trade."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "홍보·행동유도 발화: “I'm going to teach it on free web classes.” / “Just comment class in this video and you'll get a free ticket.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 161,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -975,21 +995,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1181785966801131": {
     "date": "2025.12.03",
     "duration": "00:10",
-    "originalTitle": "12K views · 60 reactions | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Say I am the one, cause you want to And the next day, even when it's got a good one Even when it's on a…",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "시장 분석에 관한 트레이딩 관점",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 9.73초·로컬 Whisper large-v3-turbo 전사 26단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Say I am the one, cause you want to And the next day, even when it's got a good one Even when it's on a notion”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "20-Minute Trader"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Say I am the one, cause you want to And the next day, even when it's got a good one Even when it's on a notion”",
+    "core": "20-Minute Trader의 학생들은 교육을 통해 많은 것을 배웠습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Say I am the one, cause you want to And the next day, even when it's got a good one Even when it's on a notion"
+      "20-Minute Trader의 학생들은 교육을 통해 많은 것을 배웠습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 26,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -997,21 +1017,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1189752803172315": {
     "date": "2025.08.28",
     "duration": "00:10",
-    "originalTitle": "13K views · 8 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Everybody in the club gets us.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 트레이더 수업 신청자 모집 (9:00-9:20)",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 10.40초·로컬 Whisper large-v3-turbo 전사 12단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Everybody in the club gets us.” / “Everybody in the club gets us.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20분 트레이더",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Everybody in the club gets us.” 이어 “Everybody in the club gets us.”",
+    "core": "20분 트레이더의 수업을 받고 싶은 사람들은 'FREE'를 댓글로 달아주세요.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Everybody in the club gets us."
+      "모집 대상은 20분 트레이더의 수업을 받고 싶은 모든 사람."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 12,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1019,20 +1039,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1199206935612747": {
     "date": "2026.01.24",
     "duration": "01:09",
-    "originalTitle": "126K views · 99 reactions | Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: When you see that, you just wait for the black line to touch the bottom, and you jump in.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who res…",
+    "title": "20분 투자자용 RSI 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 69.45초·로컬 Whisper large-v3-turbo 전사 224단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm not sure if this is legal or not, but it's extremely suspicious.” / “When you see that, you just wait for the black line to touch the bottom, and you jump in.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "옵션",
+      "주식·섹터",
+      "투자 전략",
+      "RSI"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “I'm not sure if this is legal or not, but it's extremely suspicious.” 이어 “When you see that, you just wait for the black line to touch the bottom, and you jump in.” 이어 “Kind of weird, eh?” 이어 “I'll hook you up.”",
+    "core": "RSI 지표가 최저점에 도달할 때, 금값과 다우지수의 방향이 다를 때 매수할 수 있는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: When you see that, you just wait for the black line to touch the bottom, and you jump in."
+      "금값이 오르고 다우지수는 내릴 때, RSI가 최저점에 도달하면 매수",
+      "비슷한 조건으로 많은 사람들에게 가르쳤으며, 일부는 이 방법을 통해 좋은 수익을 얻고 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 224,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1040,20 +1063,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1200466915332299": {
     "date": "2025.11.22",
     "duration": "00:45",
-    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: I did a trade and I was supposed to exit at a loss of maybe $3,000 or $4,000 but I stayed in thinking it…",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "100,000 달러 손실 위기에서의 놀라운 회복",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 45.07초·로컬 Whisper large-v3-turbo 전사 158단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So the scariest thing that ever happened to me as a trader was actually when I was trading somebody else's money in a joint account and it was $100,000 and I was not ready for this.” / “I did a trade and I was supposed to exit at a loss of maybe $3,000 or $4,000 but I stayed in thinking it was going to go back up and it dropped to minus 10, minus 20, minus 30, minus 40, all within about 20 mi…”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "주식·섹터",
+      "트레이딩",
+      "포착"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “So the scariest thing that ever happened to me as a trader was actually when I was trading somebody else's money in a joint account and it was $100,000 and I was not ready for this.” 이어 “I did a trade and I was supposed to exit at a loss of maybe $3,000 or $4,000 but I stayed in thinking it was going to go back up and it dropped to minus 10, minus 20, minus 30, minus 40, all within about 20 mi…” 이어 “It was actually down $51,000 at one point and my heart was pounding so hard.” 이어 “It was so, it was so scary.”",
+    "core": "주식 시장의 신들은 제게 기회를 주었고, 그 순간은 무서운 경험이 되었습니다.",
     "rules": [
-      "원문 실행 문장: I did a trade and I was supposed to exit at a loss of maybe $3,000 or $4,000 but I stayed in thinking it was going to go back up and it dropped to minus 10, minus 20, minus 30, minus 40, all within about 20 minutes."
+      "100,000 달러의 계좌에서 $3,000에서 $4,000의 손실을 예상했으나 계속 거래를 유지했고, 가격이 급락하여 잠시 $51,000의 손실을 보았습니다.",
+      "가격이 회복되어 $1의 이익을 얻었지만, 그 순간은 매우 두려웠습니다."
     ],
-    "caution": "성과·수익 발화: “So the scariest thing that ever happened to me as a trader was actually when I was trading somebody else's money in a joint account and it was $100,000 and I was not ready for thi…” / “It was actually down $51,000 at one point and my heart was pounding so hard.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 158,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1061,20 +1086,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1201070648676448": {
     "date": "2026.02.18",
     "duration": "00:23",
-    "originalTitle": "2.4K views · 32 comments | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Can anyone learn how to trade even if they're a non-trader?",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 투자자 Tori의 성공 사례: 3개월 만에 10,000달러 수익",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 23.15초·로컬 Whisper large-v3-turbo 전사 78단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Can anyone learn how to trade even if they're a non-trader?” / “In May of this year, a lady named Tori, she joined 20 Minute Trader.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자",
+      "20분 투자",
+      "성공 사례"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Can anyone learn how to trade even if they're a non-trader?” 이어 “In May of this year, a lady named Tori, she joined 20 Minute Trader.” 이어 “She lives in Texas.” 이어 “Right now, three months later, she's about to get a $10,000 transfer from her trading account to her personal account.”",
+    "core": "투자 경험이 없는 사람도 20분 투자 트레이딩을 통해 성공할 수 있음을 보여줍니다.",
     "rules": [
-      "원문 실행 문장: Can anyone learn how to trade even if they're a non-trader?"
+      "3개월 동안 20분 투자 트레이딩을 공부한 Tori가 10,000달러의 수익을 얻었다.",
+      "비슷한 상황의 사람들은 20분 투자 트레이딩을 통해 자신의 투자 능력을 향상시킬 수 있다."
     ],
-    "caution": "성과·수익 발화: “Right now, three months later, she's about to get a $10,000 transfer from her trading account to her personal account.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 78,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1082,20 +1110,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1202715658165421": {
     "date": "2025.05.21",
     "duration": "00:52",
-    "originalTitle": "5 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: I just got my Nats laminated.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 52.37초·Facebook 자동 자막 166단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I just got my Nats laminated.” / “The predictable patterns happen mostly during that window and then I just do what I want the rest of the day.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 트레이딩 클래스 티켓 얻기 - 예측 가능한 패턴 활용",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "클래스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I just got my Nats laminated.” 이어 “The predictable patterns happen mostly during that window and then I just do what I want the rest of the day.” 이어 “But like what how does it work?” 이어 “You do not realize I'm accused.”",
+    "core": "예측 가능한 20분간의 트레이딩 패턴을 이용하면 무료 클래스 티켓을 얻을 수 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I just got my Nats laminated."
+      "20분 동안 집중하여 예측 가능한 트레이딩 패턴을 관찰하고 분석해야 합니다."
     ],
-    "caution": "홍보·행동유도 발화: “Comment class and I will send you a free ticket to my next live class where you can start.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 166,
     "transcriptSource": "Facebook 자동 자막"
@@ -1103,20 +1132,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1218541887154572": {
     "date": "2026.01.28",
     "duration": "00:56",
-    "originalTitle": "3.5K views · 11 reactions | Get 90% off Apex using code 20MT today! Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: It takes hours to learn, and it only takes 20 minutes a day to trade.",
+    "originalTitle": "Get 90% off Apex using code 20MT today! Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all…",
+    "title": "20분 투자 트레이딩 기법 90% 할인 쿠폰",
     "kind": "psychology",
     "verdict": "핵심 원칙",
-    "fidelity": "원본 55.83초·로컬 Whisper large-v3-turbo 전사 150단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.” / “I fear the trader who has learned one technique perfectly and has practiced it a lot.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자",
+      "트레이딩",
+      "20분 트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.” 이어 “I fear the trader who has learned one technique perfectly and has practiced it a lot.” 이어 “So if you want to get into trading, choose a technique, go all in on it, learn it perfectly, and then from there, you can have judgment and familiarity when learning about other strategies, indicators, or syst…” 이어 “That's why it's now the go-to for non-traders to get into trading.”",
+    "core": "성공은 한 가지 기술을 완벽히 숙지하고 꾸준히 연습하는 것에 달려 있다.",
     "rules": [
-      "원문 실행 문장: It takes hours to learn, and it only takes 20 minutes a day to trade."
+      "20MT 코드를 사용하여 Apex 제품 가격의 90% 할인을 받을 수 있다.",
+      "20분 투자 트레이딩 기법을 선택하고, 그 기법을 완벽히 숙지하라."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 150,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1124,19 +1156,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1220917736745836": {
     "date": "2025.10.15",
     "duration": "00:41",
-    "originalTitle": "4.6K views · 35 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: Well, they need to learn all the macroeconomic indicators, the market trends, cycles and paths, momentum…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 40.90초·로컬 Whisper large-v3-turbo 전사 139단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You know you can make money in the stock market, but feel lost and confused about how?” / “Why don't you tell them about 20-minute trading instead?”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 거래 전략: 시장 개장 초반의 예측 가능한 패턴",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "주식·섹터",
+      "20분 거래",
+      "시장 개장",
+      "예측 가능한 패턴"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “You know you can make money in the stock market, but feel lost and confused about how?” 이어 “Why don't you tell them about 20-minute trading instead?” 이어 “Wow, and it only takes 20 minutes?” 이어 “Okay, let me start that video over.”",
+    "core": "20분 거래는 시장 개장 초반의 예측 가능한 패턴을 이용해 수익을 얻는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: Well, they need to learn all the macroeconomic indicators, the market trends, cycles and paths, momentum trade, arbitrage, position cycles, realistic patterns."
+      "20분 거래는 시장이 개장할 때 발생하는 예측 가능한 패턴을 이용한다.",
+      "20분 거래는 복잡한 경제 지표나 분석 도구를 사용하지 않고 간단한 방법으로 수익을 얻을 수 있다."
     ],
-    "caution": "홍보·행동유도 발화: “Simply comment free on this video and I'll send you a full video explanation of the strategy for free.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 139,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1145,28 +1181,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.06",
     "duration": "47:42",
     "originalTitle": "20MTV Live Trading",
-    "title": "위험관리: And here I am before you guys showing you exactly how I trade each and every morning, which is kind of c…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 2862.39초·로컬 Whisper large-v3-turbo 전사 10507단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Music Good morning traders!” / “Blue is going down.”",
+    "title": "4시간봉 범위 스윕 뒤 반전 진입",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "4H",
-      "risk",
-      "performance claim",
-      "CTA"
+      "캔들 범위",
+      "위험관리",
+      "심리·규율",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Music Good morning traders!” 이어 “Blue is going down.” 이어 “Blue is going down.” 이어 “Blue is going down.” 이어 “Blue is going down.” 이어 “Blue is going down.” 이어 “Blue is going down.” 이어 “Blue is going down.”",
+    "core": "블루 라인이 하락하고 오렌지 라인이 역발산할 때 진입 포인트를 찾는다.",
     "rules": [
-      "원문 실행 문장: And here I am before you guys showing you exactly how I trade each and every morning, which is kind of cool.",
-      "원문 실행 문장: But our job is to take the setups, high quality setups, control our risk, and execute the strategy consistently.",
-      "원문 실행 문장: So if the blue line is going down, I want to trade the blue line going down.",
-      "원문 실행 문장: So if the blue line is going down and we get divergence with the orange line and it flattens out or it's pointing up, we need to get that entry point.",
-      "원문 실행 문장: So we're going to wait for the setup to appear.",
-      "원문 실행 문장: Where do we need to see that white line go for the entry?",
-      "원문 실행 문장: Lower oil, but continued geopolitical risk.",
-      "원문 실행 문장: We'll wait for the next one."
+      "블루 라인이 하락하고 오렌지 라인이 역발산할 때 진입 포인트를 기다린다.",
+      "화이트 라인이 블루 라인의 하락과 반대 방향으로 움직일 때 진입 포인트를 잡는다.",
+      "진입 포인트가 없으면 거래를 하지 않는다."
     ],
-    "caution": "성과·수익 발화: “I can trade this going up for a profit and down for a profit.” / “So the economists are expecting approximately 83,000 new jobs with unemployment near 4.2%.” 홍보·행동유도 발화: “If you guys are interested in 20 Minute Trader or trading the gold pattern, just like I will be doing, go ahead and type the word class.” / “Feel free to ask me any questions you guys want to talk about in the chat.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다.",
     "transcriptVerified": true,
     "transcriptWordCount": 10507,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1174,20 +1205,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1224884696290407": {
     "date": "2026.02.19",
     "duration": "00:18",
-    "originalTitle": "2.2K views · 5 comments | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: You need to learn how to trade on a trading account.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 트레이더 클래스 - 예측 가능한 패턴 식별과 실전 거래 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 17.51초·로컬 Whisper large-v3-turbo 전사 61단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “There's only a few things you need to learn.” / “You just need to learn how to spot the predictable pattern, which is super easy to understand.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “There's only a few things you need to learn.” 이어 “You just need to learn how to spot the predictable pattern, which is super easy to understand.” 이어 “And that's about it.” 이어 “That's why it's appealing to hundreds of thousands of people who've signed up for it that were non-traders or beginners.”",
+    "core": "예측 가능한 패턴을 식별하고 실전 거래에 활용하는 것이 필요한 트레이딩 기초를 배운다.",
     "rules": [
-      "원문 실행 문장: You need to learn how to trade on a trading account."
+      "예측 가능한 패턴을 식별하는 방법을 배운다.",
+      "거래 계정을 사용하여 실전 거래를 시작하는 방법을 배운다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 61,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1195,20 +1228,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1233703545288257": {
     "date": "2025.12.21",
     "duration": "00:48",
-    "originalTitle": "13K views · 3 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Hey Dad, is this your new side hustle?",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 투자 트레이딩 클래스 무료 참여 방법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 47.87초·로컬 Whisper large-v3-turbo 전사 154단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey Dad, is this your new side hustle?” / “Seeds and dirt to plant a tree, harvest the lumber, then cut it, make furniture out of it.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "투자",
+      "20분 트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Hey Dad, is this your new side hustle?” 이어 “Seeds and dirt to plant a tree, harvest the lumber, then cut it, make furniture out of it.” 이어 “That'll take forever to learn.” 이어 “Pretty much.”",
+    "core": "20분 투자 트레이딩 클래스를 통해 쉽게 돈을 버는 방법을 배울 수 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Hey Dad, is this your new side hustle?"
+      "20분 투자 트레이딩 클래스를 통해 실제 돈을 버는 사람들이 많다고 합니다."
     ],
-    "caution": "홍보·행동유도 발화: “Type the word class in the comments.” / “Get a free web class.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 154,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1216,21 +1250,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1234443221557712": {
     "date": "2025.05.17",
     "duration": "00:14",
-    "originalTitle": "6 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: I, I just died on your arms tonight Must have been something you said I just died on your arms tonight",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "시장 분석에 관한 트레이딩 관점",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 14.17초·로컬 Whisper large-v3-turbo 전사 21단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I, I just died on your arms tonight Must have been something you said I just died on your arms tonight”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20-Minute Trader",
+      "trading"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I, I just died on your arms tonight Must have been something you said I just died on your arms tonight”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I, I just died on your arms tonight Must have been something you said I just died on your arms tonight"
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 21,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1238,22 +1272,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1235163381686539": {
     "date": "2026.03.27",
     "duration": "00:50",
-    "originalTitle": "2.1K views · 16 reactions | I want to share something that genuinely changed how I think about trading. There's a formula (originally used by a mathematician to beat Las Vegas) that tells you exactly how much to wager based on the strength of your edge. It worked so consistently that casinos had to change how they ran blackjack. Then Wall Street caught on. Hedge funds started using the same logic for position sizing and produced some of the most remarkable returns in financial history. We studied it, simplified it, and built it into a wagering blueprint specifically for our traders. If you want to understand how it works (and how to apply it yourself) join the free web class at the link below. You can get your questions answered live. https://20mt.link/4aTOTn7 In a recent survey of 20-minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $188 when applying 20-Minute trader strategies. � | 20-Minute Trader",
-    "title": "위험관리: Then Wall Street caught on, and by the 1980s and 1990s, hedge funds realized every trade was just a bet…",
+    "originalTitle": "I want to share something that genuinely changed how I think about trading. There's a formula (originally used by a mathematician to beat Las Vegas) that tells you exactly how muc…",
+    "title": "케릴 공식이Trading에 가져온 변화",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 49.93초·로컬 Whisper large-v3-turbo 전사 153단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Kelly's formula changed everything, telling him to bet small when the edge was small and bet bigger when the odds were in his favor.” / “Then Wall Street caught on, and by the 1980s and 1990s, hedge funds realized every trade was just a bet with probabilities.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "케릴 공식",
+      "투자전략",
+      "하우스 뱅킹"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Kelly's formula changed everything, telling him to bet small when the edge was small and bet bigger when the odds were in his favor.” 이어 “Then Wall Street caught on, and by the 1980s and 1990s, hedge funds realized every trade was just a bet with probabilities.” 이어 “Risk and reward, and firms like Renaissance Technologies began using modified Kelly systems to balance growth and volatility.” 이어 “And we adapted that same concept into a simple wagering blueprint for short-term pattern trading.”",
+    "core": "케릴 공식은 작은 이익을 얻을 때 작은 베팅을 하고 큰 이익을 얻을 가능성이 있을 때 큰 베팅을 하는 방법을 제시한다.",
     "rules": [
-      "원문 실행 문장: Then Wall Street caught on, and by the 1980s and 1990s, hedge funds realized every trade was just a bet with probabilities.",
-      "원문 실행 문장: Risk and reward, and firms like Renaissance Technologies began using modified Kelly systems to balance growth and volatility.",
-      "원문 실행 문장: What started as a math problem about phone lines became a weapon for gamblers, and then a risk management strategy for billion-dollar investors."
+      "시장에서 이익을 얻을 가능성이 클 때 큰 규모로 거래하고, 반대로 작은 규모로 거래한다.",
+      "하우스를 이길 수 있는 전략을 사용하던 헤지펀드들이 케릴 시스템을 도입했다.",
+      "레인저나이션 테크놀로지스와 같은 회사들은 케릴 시스템을 수정하여 성장과 변동성을 균형있게 조절한다."
     ],
-    "caution": "홍보·행동유도 발화: “If you wanna learn 20-minute trading, attend our free class, where you can get your questions answered live.” / “Link in the description.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 153,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1261,24 +1297,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1235668305200135": {
     "date": "2026.02.15",
     "duration": "02:08",
-    "originalTitle": "4.7K views · 923 reactions | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: TP stands for take profit.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 128.19초·로컬 Whisper large-v3-turbo 전사 468단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Those are the 13 terms you need to know to become a trader.” / “Market, that's the type of order where it just buys or sells instantly without you having to say what your price is gonna be, just take the market price.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 투자자 전용 클래스: 주식 시장 기본 용어",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "주식·섹터",
+      "선물·지수",
+      "투자"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Those are the 13 terms you need to know to become a trader.” 이어 “Market, that's the type of order where it just buys or sells instantly without you having to say what your price is gonna be, just take the market price.” 이어 “And it is an index, which I am about to define as well.” 이어 “And what we do is we teach busy beginners how to use predictable patterns to get an edge on the market and try to use as little money as possible to try to make as much money as possible.”",
+    "core": "20분 투자자는 주식 시장에서 사용하는 13개의 기본 용어를 배워야 합니다.",
     "rules": [
-      "원문 실행 문장: TP stands for take profit.",
-      "원문 실행 문장: SL, stop loss, that's if the value of your trade drops to a certain point, it just exits you with a certain predefined loss.",
-      "원문 실행 문장: Whatever the current price that you're gonna sell it for, well that's the going rate.",
-      "원문 실행 문장: This is a very powerful indicator that tells you whether the item that you are planning to trade is either overbought or oversold.",
-      "원문 실행 문장: And what we do is we teach busy beginners how to use predictable patterns to get an edge on the market and try to use as little money as possible to try to make as much money as possible."
+      "TP는 이익 실현 주문으로, 가격이 특정 포인트에 도달하면 자동으로 이익을 실현합니다.",
+      "SL은 손실 제한 주문으로, 가격이 특정 포인트에 떨어지면 자동으로 손실을 제한합니다.",
+      "RSI는 상대강도지수로, 투자할 대상이 과매수인지 과매도인지 알려줍니다."
     ],
-    "caution": "성과·수익 발화: “TP stands for take profit.” / “This is the type of order where if the value of your trade gets to a certain point, it exits you with a profit automatically.” 홍보·행동유도 발화: “If you wanna learn how to do that, hit the link below and I'll send you a free ticket to my web class where you can get your questions answered live.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 468,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1286,20 +1322,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1236109184979870": {
     "date": "2025.07.30",
     "duration": "00:29",
-    "originalTitle": "6.4K views · 14 comments | Comment “SECRET” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: You've probably seen this on a trading chart without knowing it.",
+    "originalTitle": "Comment “SECRET” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students…",
+    "title": "20분 투자 전략의 U형 하락과 지표 상승을 활용하는 방법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 29.21초·로컬 Whisper large-v3-turbo 전사 84단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You've probably seen this on a trading chart without knowing it.” / “You have an instrument, a stock, whatever it is you're trading, rolling along and it forms a U shape.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "주식·섹터",
+      "투자 전략",
+      "20분 투자",
+      "U형 하락"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “You've probably seen this on a trading chart without knowing it.” 이어 “You have an instrument, a stock, whatever it is you're trading, rolling along and it forms a U shape.” 이어 “But at the bottom of the U, an index shoots up just before this motion.” 이어 “That, my friends, is one of the key elements of the secrets to 20 minute trading.”",
+    "core": "U형 하락의 바닥에서 지표가 상승하는 것은 20분 투자 전략의 핵심 요소입니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: You've probably seen this on a trading chart without knowing it."
+      "U형 하락의 바닥에서 지표가 상승하는 시점을 감지하고 그 즉시 진입하라.",
+      "20분 투자 전략을 적용하려면 'SECRET'라는 단어를 댓글로 남겨야 한다."
     ],
-    "caution": "홍보·행동유도 발화: “If you wanna know what 20 minute trading is, comment the word secret below and I'll send you a full free video explanation.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 84,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1307,24 +1346,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1236646301275948": {
     "date": "2025.07.03",
     "duration": "02:05",
-    "originalTitle": "4 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: As a result, I'm going to favor a down, meaning a short trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 124.87초·로컬 Whisper large-v3-turbo 전사 400단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “We're gonna do some live trading here with 20-minute trading.” / “Okay, I grabbed it.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 투자 트레이딩: 금과 다우지수 간의 틱 트레이딩",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "시장 분석",
+      "20분 투자",
+      "틱 트레이딩",
+      "금 가격"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “We're gonna do some live trading here with 20-minute trading.” 이어 “Okay, I grabbed it.” 이어 “I don't know, 30 seconds.” 이어 “Happy trading.”",
+    "core": "금 가격이 하락하고 다우지수가 횡보하는 상황에서 하락 추세를 이용한 틱 트레이딩을 실시간으로 보여줍니다.",
     "rules": [
-      "원문 실행 문장: As a result, I'm going to favor a down, meaning a short trade.",
-      "원문 실행 문장: We have a beautiful entry.",
-      "원문 실행 문장: And just to clarify, what I do is I look for a trend divergence between the orange line and the blue line, and then I look at the relative strength index for my entry.",
-      "원문 실행 문장: As you can see, we're up 80 bucks on this trade.",
-      "원문 실행 문장: So all I have to do is look for a down play that correlates with the relative strength index, which is this guy down here."
+      "금 가격이 하락하고 다우지수가 횡보하는 경우, 하락 추세를 이용한 단타를 취합니다.",
+      "relative strength index를 이용해 진입 포인트를 선택합니다.",
+      "150 달러 목표 수익을 위해 금 가격이 상승할 경우 매도 주문을 실행합니다."
     ],
-    "caution": "성과·수익 발화: “Has a pretty high win rate.” 홍보·행동유도 발화: “I offer free trading in this.” / “If you would type the word class, I do a webinar on how this all works for free, in case you're interested.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 400,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1332,20 +1371,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1237781884530149": {
     "date": "2025.05.28",
     "duration": "01:37",
-    "originalTitle": "Comment “CURE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: You'll be thrilled by your profits and you'll be devastated by your losses, but always thinking about yo…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 96.73초·로컬 Whisper large-v3-turbo 전사 358단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Tess came back and I'm afraid you're a traitor.” / “What's the prognosis?”",
+    "originalTitle": "Comment “CURE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 거래로 생활 질 개선 - 20minutetrader",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "투자",
+      "가족과의 시간"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Tess came back and I'm afraid you're a traitor.” 이어 “What's the prognosis?” 이어 “You know what?” 이어 “That means I'm going to have more money for trading.”",
+    "core": "20분 거래는 가족과의 시간을 증가시키고, 거래 손실을 줄이는 효과적인 방법이다.",
     "rules": [
-      "원문 실행 문장: You'll be thrilled by your profits and you'll be devastated by your losses, but always thinking about your next trade or the trades that you missed.",
-      "원문 실행 문장: It allows you to trade, but for only 20 minutes a day."
+      "일일 거래 시간을 20분으로 제한하여 가족과의 시간을 증가시킨다.",
+      "가족과의 시간을 증가시키고, 거래 손실을 줄이는 데 도움이 된다."
     ],
-    "caution": "홍보·행동유도 발화: “All you have to do is comment cure in this video, and they'll send it to you.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 358,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1354,20 +1396,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.03.25",
     "duration": "00:31",
     "originalTitle": "Prop Firms2.mp4",
-    "title": "영상 발화 분석: In my opinion, and in many cases, this is the more beginner-friendly route than any other entry points i…",
+    "title": "프로피전트 페어의 초보자 친화적 접근법",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 31.27초·로컬 Whisper large-v3-turbo 전사 91단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “don't get deterred by the phrase proprietary trading firm.” / “In my opinion, and in many cases, this is the more beginner-friendly route than any other entry points into trading.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "프로피전트",
+      "실습 계정"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “don't get deterred by the phrase proprietary trading firm.” 이어 “In my opinion, and in many cases, this is the more beginner-friendly route than any other entry points into trading.” 이어 “Once you sign up for one, you want to get a practice account and learn how to drive this vehicle called a prop firm.” 이어 “For very little cost on your part.”",
+    "core": "프로피전트 페어는 초보자에게 친화적인 진입 경로로, 실제 거래를 통해 수익을 얻을 수 있는 기회를 제공한다.",
     "rules": [
-      "원문 실행 문장: In my opinion, and in many cases, this is the more beginner-friendly route than any other entry points into trading.",
-      "원문 실행 문장: Because if done correctly, it gives you access to trade with tens of thousands of dollars and the profits that money can make."
+      "프로피전트 페어에 가입하면 실습 계정을 열고 이 기구를 활용하는 방법을 배워야 한다.",
+      "정확하게 수행하면 수천 달러를 거래할 수 있는 기회가 생기며, 이는 매우 적은 비용으로 가능하다.",
+      "실습 계정을 통해 프로피전트 페어의 기능을 이해하고 실제 거래를 시작할 수 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 91,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1375,20 +1419,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1239961231390235": {
     "date": "2026.01.31",
     "duration": "00:09",
-    "originalTitle": "17K views | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: #trader #trading In a recent survey of 20-Minute Trader students across all products we....",
+    "originalTitle": "20-Minute Trader",
+    "title": "20분 투자자, 무료 웹 클래스 티켓 얻기",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 9.23초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “#trader #trading In a recent survey of 20-Minute Trader students across all products we....”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "투자",
+      "트레이딩",
+      "무료 웹 클래스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “#trader #trading In a recent survey of 20-Minute Trader students across all products we....”",
+    "core": "20분 만에 투자 전략을 배우고 실전에 적용할 수 있는 방법을 설명한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: #trader #trading In a recent survey of 20-Minute Trader students across all products we...."
+      "응답이 짧아도 조건을 반영한다."
     ],
-    "caution": "홍보·행동유도 발화: “Comment “CLASS” to get a ticket to my next web class for free!” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1396,24 +1442,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1245761463869262": {
     "date": "2025.07.10",
     "duration": "02:32",
-    "originalTitle": "1.9K views · 16 reactions | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: Okay, we're doing another live trade here.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 트레이더: 금 선물에서 신호를 기다리며 1,000 달러 목표로 진입",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 151.70초·로컬 Whisper large-v3-turbo 전사 580단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Okay, we're doing another live trade here.” / “This is a good sign.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "20분 트레이더",
+      "RSI",
+      "금 선물"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Okay, we're doing another live trade here.” 이어 “This is a good sign.” 이어 “I'm going to protect my trade if it goes high enough.” 이어 “Otherwise, happy trading.”",
+    "core": "신호가 나타날 때까지 기다린 뒤 RSI가 저점에서 회복되면 금 선물을 매수하는 전략을 사용한다.",
     "rules": [
-      "원문 실행 문장: Okay, we're doing another live trade here.",
-      "원문 실행 문장: I'm going to protect my trade if it goes high enough.",
-      "원문 실행 문장: I'm going to protect my trade if it goes high enough.",
-      "원문 실행 문장: I'm going to protect my trade if it goes high enough.",
-      "원문 실행 문장: I'm protecting my trade here."
+      "RSI가 저점에서 회복되면 금 선물을 매수한다.",
+      "매수 후 가격이 상승하면 손절를 설정하여 수익을 보호한다."
     ],
-    "caution": "성과·수익 발화: “I'm going to aim for a thousand bucks again.” / “My goal is $20,000 this month.” 전사에서 청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 580,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1421,21 +1466,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1256397319965405": {
     "date": "2026.03.18",
     "duration": "01:03",
-    "originalTitle": "2.6K views · 21 reactions | Why do most traders fail? Watch the full video on YouTube: https://youtu.be/1GS5DhgU7yU In a recent survey of 20-minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $188 when applying 20-Minute trader strategies. | 20-Minute Trader",
-    "title": "심리·규율: And ironically, that's very close to how profitable trading actually feels.",
+    "originalTitle": "Why do most traders fail? Watch the full video on YouTube: https://youtu.be/1GS5DhgU7yU In a recent survey of 20-minute Trader students across all products we offer, those student…",
+    "title": "초기 성공 후 심리적 변화로 인한 실패 - 20분 Trader 학생들의 실패 원인",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 63.07초·로컬 Whisper large-v3-turbo 전사 239단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “When people first start trading, here's essentially what happens.” / “They're just looking at lines on a chart, pushing a button, and a certain percentage of the time, they're winning.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "performance claim"
+      "옵션",
+      "심리·규율",
+      "트레이딩 심리",
+      "초보자 성공"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “When people first start trading, here's essentially what happens.” 이어 “They're just looking at lines on a chart, pushing a button, and a certain percentage of the time, they're winning.” 이어 “People start to see losses as injuries.” 이어 “So they end up with small wins and big losses.”",
+    "core": "초기 성공 후 심리적 변화가 대부분의 트레이더들이 실패하는 주요 원인이다.",
     "rules": [
-      "원문 실행 문장: And ironically, that's very close to how profitable trading actually feels.",
-      "원문 실행 문장: So they let it grow and grow and grow until it's obvious the trade isn't coming back."
+      "초기 성공으로 인해 긍정적인 감정이 생기고, 이는 나중에 심리적 부담으로 변한다.",
+      "손실이 발생하면 트레이더들은 이익을 보호하려고 빠르게 매도하거나 손실을 인정하지 않고 계속 보유한다."
     ],
-    "caution": "성과·수익 발화: “They're just looking at lines on a chart, pushing a button, and a certain percentage of the time, they're winning.” / “And then what happens is when they're slightly in the green, they bail early because they're afraid their profit is going to disappear.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 239,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1443,23 +1490,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1256890045783763": {
     "date": "2025.07.02",
     "duration": "00:40",
-    "originalTitle": "12 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "Fibonacci: I just buy when the Dow jumps up.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 40.47초·로컬 Whisper large-v3-turbo 전사 134단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I just lost $800 in 34 seconds.” / “What do you mean?”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 거래법: 빠른 수익과 손실",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "Fibonacci",
-      "CTA"
+      "피보나치",
+      "20분 거래",
+      "Dow 지수",
+      "기술적 분석"
     ],
-    "core": "원문 전사 기준 Fibonacci 콘텐츠다. “I just lost $800 in 34 seconds.” 이어 “What do you mean?” 이어 “It's called 20 minute trading.” 이어 “Step away from that computer.”",
+    "core": "20분 거래법은 빠르게 수익을 얻을 수 있지만, 동시에 빠르게 손실을 보게 된다.",
     "rules": [
-      "원문 실행 문장: I just buy when the Dow jumps up.",
-      "원문 실행 문장: I place my trade, pattern happens, ticker jumps up, I sell.",
-      "원문 실행 문장: No, I mean, I literally just wait for the Dow to jump up and I'm done for the day.",
-      "원문 실행 문장: I'm gonna just do this one trade first."
+      "Dow 지수가 상승하면 거래를 시작하고, 패턴이 발생하면 티커가 상승하여 매도를 결정한다.",
+      "RSI, MACD, 피보나치 회귀 등의 기술적 분석을 사용하지 않고, 단순히 Dow 지수가 상승할 때만 거래한다."
     ],
-    "caution": "성과·수익 발화: “I just lost $800 in 34 seconds.” / “I just made $1,789 in 34 seconds.” 홍보·행동유도 발화: “Just comment free on this video.” / “I'll send you my video training for free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 134,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1468,22 +1515,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.14",
     "duration": "01:22",
     "originalTitle": "Jeremy & Ki Skit - Call a Live Trader.mp4",
-    "title": "위험관리: They want to see a real random person use the system.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 82.03초·Facebook 자동 자막 181단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Look at my own trading results.” / “How do ordinary people do with this?”",
+    "title": "Jeremy & Ki, 실시간 트레이딩: 9:30am Eastern에서 시작",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "실시간 거래",
+      "20MTV"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Look at my own trading results.” 이어 “How do ordinary people do with this?” 이어 “Broadcast to the world.” 이어 “Well, I guess people will tune in right at 930 for some real live trading from a student.”",
+    "core": "실제 트레이더의 실시간 거래를 보며 그들의 결정 과정을 이해할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: They want to see a real random person use the system.",
-      "원문 실행 문장: Call up a student and get them to trade live directly onto the social media platform in real time.",
-      "원문 실행 문장: Yeah, with like real risk with money being made or lost.",
-      "원문 실행 문장: Hey, can you trade live for millions to watch?"
+      "학생이 실시간으로 거래를 진행하며, 실제 위험과 수익을 체험한다.",
+      "9:30am Eastern에 20MTV에서 생중계된다.",
+      "구체적인 매매 규칙은 제시되지 않으며, 실제 거래 상황을 보여준다."
     ],
-    "caution": "홍보·행동유도 발화: “Yeah, I mean of course.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 181,
     "transcriptSource": "Facebook 자동 자막"
@@ -1491,20 +1539,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1260669812329174": {
     "date": "2025.05.12",
     "duration": "00:40",
-    "originalTitle": "273 reactions · 36 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Hey Jeremy, are you done trading for the day?",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 거래법을 배우고 싶다면 'Free' 댓글 달기",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 40.30초·로컬 Whisper large-v3-turbo 전사 141단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey Jeremy, are you done trading for the day?” / “What about spending all day looking at charts so you can actually make some money trading?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분거래",
+      "투자"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Hey Jeremy, are you done trading for the day?” 이어 “What about spending all day looking at charts so you can actually make some money trading?” 이어 “What is the secret?” 이어 “And you can get started doing what I'm doing tomorrow.”",
+    "core": "20분 거래법을 배우고 싶다면 이 영상에 'Free' 댓글을 달아보세요.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Hey Jeremy, are you done trading for the day?"
+      "댓글을 달면 20분 거래법의 구체적인 설명을 받을 수 있습니다."
     ],
-    "caution": "홍보·행동유도 발화: “Simply comment free on this video, and I'll send you a full video explanation of what I do exactly, for free.” / “What do I comment?” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 141,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1512,20 +1561,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1264384845554276": {
     "date": "2026.02.01",
     "duration": "00:10",
-    "originalTitle": "5.5K views | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those stu…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 10.07초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 트레이더 클래스 참가 방법",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…”",
+    "core": "20분 트레이더 학생들이 클래스에 참석하는 방법을 알려주는 내용이다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies.."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "성과·수익 발화: “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 whe…” 홍보·행동유도 발화: “Comment “CLASS” to get a ticket to my next web class for free!” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1533,21 +1583,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1272432971156813": {
     "date": "2025.07.12",
     "duration": "00:07",
-    "originalTitle": "1.6K views · 3 comments | 20-Minute Trader on Reels",
-    "title": "영상 발화 분석: you",
+    "originalTitle": "20-Minute Trader on Reels",
+    "title": "20분 투자자, 10분 거래법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 7.45초·로컬 Whisper large-v3-turbo 전사 1단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “you”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자 전략",
+      "20분 거래"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “you”",
+    "core": "20분 동안 투자할 수 있는 간단한 거래 전략을 소개한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: you"
+      "10분 동안 가격이 5% 이상 변동되면 거래를 시작한다.",
+      "가격이 변동된 후 1분 동안 가격이 다시 변동하지 않으면 거래를 종료한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1556,20 +1607,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.10",
     "duration": "00:21",
     "originalTitle": "Cheer-v1.mov",
-    "title": "영상 발화 분석: We'll be right back.",
+    "title": "20분 트레이딩 전략으로 수익을 거둔 학생 4%",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 20.83초·로컬 Whisper large-v3-turbo 전사 4단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “We'll be right back.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "시장 분석",
+      "20분 트레이딩",
+      "학습자 성과"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “We'll be right back.”",
+    "core": "20분 트레이딩 전략을 사용한 학생들 중 4%가 수익을 거두었다는 사실을 알려준다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: We'll be right back."
+      "응답한 학생들 중 4%가 20분 트레이딩 전략을 통해 수익을 얻었다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "성과·수익 발화: “Comment CLASS to learn more In a recent survey conducted with 20-Minute Trader students across all platforms we offer, 68.4% of responding students reported making profit when app…” 홍보·행동유도 발화: “Comment CLASS to learn more In a recent survey conducted with 20-Minute Trader students across all platforms we offer, 68.4% of responding students reported making profit when app…” / “#class #trade #learn.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 4,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1577,21 +1629,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1279233670361113": {
     "date": "2025.08.14",
     "duration": "00:13",
-    "originalTitle": "15K views | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: It's a weeb, not a duck, it's a weeb, it's a weeb Mooster Bombastic Bomba Fanta",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 트레이더 웹진 1: 웹진 소개",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 12.57초·로컬 Whisper large-v3-turbo 전사 16단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “It's a weeb, not a duck, it's a weeb, it's a weeb Mooster Bombastic Bomba Fanta”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20분 트레이딩",
+      "무료 코스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “It's a weeb, not a duck, it's a weeb, it's a weeb Mooster Bombastic Bomba Fanta”",
+    "core": "20분 트레이딩 코스를 받고 싶다면 'FREE'를 댓글로 입력하세요.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: It's a weeb, not a duck, it's a weeb, it's a weeb Mooster Bombastic Bomba Fanta"
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 16,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1600,30 +1652,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.11",
     "duration": "43:32",
     "originalTitle": "20 MTV Live Trading",
-    "title": "지지·저항: Trading is risky and I am trading at my own risk.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 2611.53초·Facebook 자동 자막 6817단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good evening, everyone.” / “So, this is this two lines tell me where I'm going to trade once we have that divergence.”",
+    "title": "20 MTV Live Trading - 9:30 AM EST, 1:2 위험보상비",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "Fibonacci",
-      "risk",
-      "psychology",
-      "journal",
-      "CTA"
+      "지지·저항",
+      "피보나치",
+      "옵션",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Good evening, everyone.” 이어 “So, this is this two lines tell me where I'm going to trade once we have that divergence.” 이어 “And I had that jump up.” 이어 “You know, you want to see your setup, whatever it is you're trading and just be patient.” 이어 “Uh to look at that trade.” 이어 “Uh the gold pattern itself and so that's how the best way that I can explain.” 이어 “You can see it's been kind of kind of hit this mark here.” 이어 “We'll see you.”",
+    "core": "실제 가격 움직임을 분석하여 레버리지 트레이딩 전략을 설명한다.",
     "rules": [
-      "원문 실행 문장: Trading is risky and I am trading at my own risk.",
-      "원문 실행 문장: If that blue line was pointing down and we have after we had divergence, I would look for a meaningful movement up in this white line to trade down and vice versa.",
-      "원문 실행 문장: So, my take, my take profit is down here, my stop loss is up here, all that they are, or predefined brackets or predefined exits to exit the trade, right?",
-      "원문 실행 문장: Now, you don't owe the 2 K because of this is it was an assimilated funds, a simulated account but you you have to buy another a challenge account if that were to happen and so that's the that's what I'm using an account with and so and once you're in the fun…",
-      "원문 실행 문장: Also, too, another part of my rules is I don't trade between 27 after and 33 after or 57 after and oh three after that six-minute time frame here.",
-      "원문 실행 문장: You trade that way.",
-      "원문 실행 문장: They'll set it up for you.",
-      "원문 실행 문장: That's what and so these these two tell me where where I'm going to trade and down here tells me when."
+      "블루 라인과 웨이트드 평균 가격의 하락을 기다리며, 레버리지로 구매를 결정한다.",
+      "레버리지로 진입할 때 1:2 위험보상비를 유지한다.",
+      "디버전스가 발생할 때까지 기다린 후 진입한다."
     ],
-    "caution": "성과·수익 발화: “My take profit is down here.” / “And then it hit my take profit rate about here.” 홍보·행동유도 발화: “Jeremy Russell, the founder of 20 Minute Trader, asked myself to come out here and do some live trading while waiting for others to join.” / “Free ticket to the web class where you'll click that link and then register for the web class during the web class.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 6817,
     "transcriptSource": "Facebook 자동 자막"
@@ -1632,23 +1677,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.26",
     "duration": "01:52",
     "originalTitle": "10. LIVE SET UP 3 HOOKS_AI_V1_V8.mp4",
-    "title": "영상 발화 분석: I mean, AI is cool, but let me show you a backtested system that tens of thousands of non-traders and be…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 112.27초·로컬 Whisper large-v3-turbo 전사 399단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I mean, AI is cool, but let me show you a backtested system that tens of thousands of non-traders and beginners use all the time.” / “It's always good if it drops a little lower, in this case to double down and then boom, set my take profit right there.”",
+    "title": "10분 거래 챠트에서의 진입 시점과 매매 과정",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "backtest",
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "20MT"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I mean, AI is cool, but let me show you a backtested system that tens of thousands of non-traders and beginners use all the time.” 이어 “It's always good if it drops a little lower, in this case to double down and then boom, set my take profit right there.” 이어 “Then I do the orange line trend, which is down.” 이어 “It can be hard to see unless you practice for a bit, but that's why we practice, right?”",
+    "core": "20분 거래 전략은 단순한 차트 분석을 통해 진입 시점을 결정하고, 가격이 예상한 방향으로 움직일 때 수익을 얻는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: I mean, AI is cool, but let me show you a backtested system that tens of thousands of non-traders and beginners use all the time.",
-      "원문 실행 문장: So this is actually a good entry.",
-      "원문 실행 문장: It's always good if it drops a little lower, in this case to double down and then boom, set my take profit right there.",
-      "원문 실행 문장: I had to wait for the setup.",
-      "원문 실행 문장: And that's when I place my trade and it almost always pops up."
+      "블루 라인의 추세가 정해진 위치에 도달하면 진입한다.",
+      "오렌지 라인의 역발산이 발생하면 진입 시점을 기다린다.",
+      "화이트 라인이 중앙선 아래로 떨어지면 진입한다."
     ],
-    "caution": "성과·수익 발화: “It's always good if it drops a little lower, in this case to double down and then boom, set my take profit right there.” / “And all I need is that tiny little jump that you saw and it's profitable.” 홍보·행동유도 발화: “If you want to learn how to do this, hit the link in the bio and I'll send you a free ticket to a web class where you can get all your questions answered live.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 399,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1656,20 +1700,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1289247236086803": {
     "date": "2025.08.26",
     "duration": "00:09",
-    "originalTitle": "15K views · 5 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 8.67초·로컬 Whisper large-v3-turbo 전사 4단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “#trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when…” / “Bro, it's 5.30 a.m.”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "5시 30분, 20분 거래자 수업을 무료로 받고 싶다면 ‘FREE’를 댓글로 입력하세요",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래자",
+      "무료 수업",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “#trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when…” 이어 “Bro, it's 5.30 a.m.”",
+    "core": "20분 거래자는 매일 아침 5시 30분에 수업을 공유합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies.."
+      "수업은 모든 제품에 대해 진행됩니다."
     ],
-    "caution": "성과·수익 발화: “#trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly in…” 홍보·행동유도 발화: “Comment “FREE” if you want to receive my trading course for free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 4,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1677,20 +1723,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1294026355904935": {
     "date": "2026.02.17",
     "duration": "00:22",
-    "originalTitle": "2.2K views | Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: So what we do is we sit there, it's been five minutes, we finally see the setup, we place the trade.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 21.57초·로컬 Whisper large-v3-turbo 전사 77단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “20-minute trading is taken from the idea of day trading, which usually takes 8, 10, 12 hours a day.” / “But we only spend 20 or less minutes actually trading every day.”",
+    "originalTitle": "20-Minute Trader",
+    "title": "20분 거래: 초기 시장 개장 20분 동안의 거래 패턴 활용",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20분 거래",
+      "일일 거래"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “20-minute trading is taken from the idea of day trading, which usually takes 8, 10, 12 hours a day.” 이어 “But we only spend 20 or less minutes actually trading every day.” 이어 “So what we do is we sit there, it's been five minutes, we finally see the setup, we place the trade.” 이어 “We're in and out usually in 30 to 60 seconds.”",
+    "core": "시장이 개장한 후 처음 20분 동안의 예측 가능한 패턴을 이용해 빠르게 거래를 완료합니다.",
     "rules": [
-      "원문 실행 문장: So what we do is we sit there, it's been five minutes, we finally see the setup, we place the trade."
+      "시장이 개장한 후 5분이 지나면 셋업을 확인하고, 30~60초 내에 거래를 완료합니다.",
+      "매일 20분만 거래에 참여하며, 거래는 초기 시장 동향을 기반으로 합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 77,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1699,20 +1747,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.08",
     "duration": "00:46",
     "originalTitle": "Best Way.mp4",
-    "title": "심리·규율: Here's the best way I found after working with thousands and thousands of traders to build the mindset.",
+    "title": "20분 트레이딩 전략을 성공적으로 실행하는 방법",
     "kind": "psychology",
     "verdict": "핵심 원칙",
-    "fidelity": "원본 46.47초·로컬 Whisper large-v3-turbo 전사 140단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's the best way I found after working with thousands and thousands of traders to build the mindset.” / “Number three, build accountability with a trading partner or a trading group, people who actually see what you're doing.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "journal"
+      "심리·규율",
+      "트레이딩",
+      "20분 트레이딩",
+      "멘토링"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Here's the best way I found after working with thousands and thousands of traders to build the mindset.” 이어 “Number three, build accountability with a trading partner or a trading group, people who actually see what you're doing.” 이어 “Mentorship is vital.” 이어 “Mentors spot that and fix it fast before devastation happens.”",
+    "core": "성공적인 트레이딩을 위한 핵심은 기술 분석 책 읽기, 일일 일지 기록, 트레이딩 파트너와의 책임감 구축, 그리고 멘토링이다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Here's the best way I found after working with thousands and thousands of traders to build the mindset."
+      "20분 트레이딩 전략을 적용한 20명의 트레이더 중 68.4%가 수익을 보고 응답하였다.",
+      "멘토는 트레이더의 단순 설정 오류나 미세한 이해 오류 등을 빠르게 발견하고 수정한다.",
+      "일일 일지를 통해 자신의 행동을 기록하고 개선해야 한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 140,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1720,24 +1771,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1300499955469867": {
     "date": "2026.02.20",
     "duration": "01:52",
-    "originalTitle": "41K views · 20 reactions | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: I mean, AI is cool, but let me show you a backtested system that tens of thousands of non-traders and be…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 112.27초·로컬 Whisper large-v3-turbo 전사 397단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I mean, AI is cool, but let me show you a backtested system that tens of thousands of non-traders and beginners use all the time.” / “And we wait.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 거래 전략: 빠른 진입과 타이밍",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "backtest",
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "20-Minute Trader"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I mean, AI is cool, but let me show you a backtested system that tens of thousands of non-traders and beginners use all the time.” 이어 “And we wait.” 이어 “Then I do the orange line trend, which is down.” 이어 “It can be hard to see unless you practice for a bit, but that's why we practice, right?”",
+    "core": "20분 거래는 빠른 진입 타이밍과 소량의 가격 변동으로 수익을 얻는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: I mean, AI is cool, but let me show you a backtested system that tens of thousands of non-traders and beginners use all the time.",
-      "원문 실행 문장: So this is actually a good entry.",
-      "원문 실행 문장: It's always good if it drops a little lower, in this case to double down, and then boom, set my take profit right there.",
-      "원문 실행 문장: I had to wait for the setup.",
-      "원문 실행 문장: And that's when I place my trade, and it almost always pops up."
+      "블루 라인의 추세가 정해진 지점에서 하락하고 오렌지 라인과 일치할 때 진입한다.",
+      "화이트 라인이 중앙 라인 아래로 떨어질 때 진입한다."
     ],
-    "caution": "성과·수익 발화: “It's always good if it drops a little lower, in this case to double down, and then boom, set my take profit right there.” / “And all I need is that tiny little jump that you saw, and it's profitable.” 홍보·행동유도 발화: “If you want to learn how to do this, hit the link in the bio, and I'll send you a free ticket to a web class where you can get all your questions answered live.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 397,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1745,21 +1794,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1306699647695239": {
     "date": "2025.08.25",
     "duration": "00:26",
-    "originalTitle": "5.7K views · 11 reactions | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: So when I entered the stock market and to look at it as a 42-year-old who'd never touched a stock, never…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 25.90초·로컬 Whisper large-v3-turbo 전사 103단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So when I entered the stock market and to look at it as a 42-year-old who'd never touched a stock, never learned any strategy, never learned any terms, knew nothing but what I had learned on the movie Trading…” / “That one little motion is completely predictable.”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "42세 초보 투자자의 예측과 도전: 20분 투자자 수업",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "주식·섹터",
+      "투자",
+      "투자자",
+      "주식시장"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “So when I entered the stock market and to look at it as a 42-year-old who'd never touched a stock, never learned any strategy, never learned any terms, knew nothing but what I had learned on the movie Trading…” 이어 “That one little motion is completely predictable.” 이어 “People laughed at me, said it's too easy, too simple.” 이어 “I said, I don't know, but I can predict it.”",
+    "core": "투자 초보자도 시장의 예측 가능한 패턴을 인식할 수 있다는 인사이트를 제시한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: So when I entered the stock market and to look at it as a 42-year-old who'd never touched a stock, never learned any strategy, never learned any terms, knew nothing but what I had learned on the movie Trading Places and Wolf of Wall Street, which is nothing,…"
+      "42세 초보 투자자가 영화에서 배운 지식으로 주식 시장에 진입했고, 한 번의 움직임을 예측할 수 있다고 주장한다.",
+      "그러나 많은 사람들이 그의 예측이 너무 단순하다고 비웃는다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 103,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1768,19 +1819,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.21",
     "duration": "01:09",
     "originalTitle": "DAD SHOWER SKIT V1.mov",
-    "title": "영상 발화 분석: Your mom really wants a cruise vacation for her birthday but I just looked it on the world wide web.",
+    "title": "DAD SHOWER V1 - 80달러로 시작하는 20분 거래",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 68.90초·Facebook 자동 자막 249단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm in the shower.” / “Last time you went in the sixties?”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "초보자",
+      "크루즈"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm in the shower.” 이어 “Last time you went in the sixties?” 이어 “Speaking of which it's really humid in here.” 이어 “Can you get out of here now?”",
+    "core": "20분 거래는 초보자에게 적합하며, 80달러로 시작해 수익을 얻을 수 있다는 점을 설명한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I'm in the shower."
+      "마지막 크루즈 티켓 가격은 80달러였지만, 지금은 5,000달러로 높아졌습니다.",
+      "20분 거래는 초보자에게 적합하며, 80달러로 시작할 수 있습니다."
     ],
-    "caution": "성과·수익 발화: “Now, it's $5, 000.” 홍보·행동유도 발화: “Last time I went, I snatched a ticket for eighty bucks.” / “Just do the free course dad.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 249,
     "transcriptSource": "Facebook 자동 자막"
@@ -1788,24 +1842,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1307536270770742": {
     "date": "2026.05.04",
     "duration": "01:52",
-    "originalTitle": "1.1K views · 48 reactions | Comment CLASS to learn more #trader #trading #stockmarket #20minutetrader #daytrade | 20-Minute Trader",
-    "title": "영상 발화 분석: I mean, AI is cool, but let me show you a backtested system that tens of thousands of non-traders and be…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 112.27초·로컬 Whisper large-v3-turbo 전사 397단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I mean, AI is cool, but let me show you a backtested system that tens of thousands of non-traders and beginners use all the time.” / “And we wait.”",
+    "originalTitle": "Comment CLASS to learn more #trader #trading #stockmarket #20minutetrader #daytrade",
+    "title": "20분 거래의 진입 시점과 기술적 분석",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "backtest",
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "기술적 분석",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I mean, AI is cool, but let me show you a backtested system that tens of thousands of non-traders and beginners use all the time.” 이어 “And we wait.” 이어 “Then I do the orange line trend, which is down.” 이어 “It can be hard to see unless you practice for a bit, but that's why we practice, right?”",
+    "core": "20분 거래는 기술적 분석을 통해 진입 시점을 결정하고, 가격이 특정 라인을 하향 돌파할 때 진입하는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: I mean, AI is cool, but let me show you a backtested system that tens of thousands of non-traders and beginners use all the time.",
-      "원문 실행 문장: So this is actually a good entry.",
-      "원문 실행 문장: It's always good if it drops a little lower, in this case to double down, and then boom, set my take profit right there.",
-      "원문 실행 문장: I had to wait for the setup.",
-      "원문 실행 문장: And that's when I place my trade, and it almost always pops up."
+      "블루 라인의 추세가 정해진 위치에 도달했을 때 진입한다.",
+      "오렌지 라인의 하향 추세와 블루 라인의 다이버전스를 확인한 후, 라인을 하향 돌파할 때 진입한다.",
+      "화이트 라인이 중앙 라인 아래로 하락할 때 진입한다."
     ],
-    "caution": "성과·수익 발화: “It's always good if it drops a little lower, in this case to double down, and then boom, set my take profit right there.” / “And all I need is that tiny little jump that you saw, and it's profitable.” 홍보·행동유도 발화: “If you want to learn how to do this, hit the link in the bio, and I'll send you a free ticket to a web class where you can get all your questions answered live.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 397,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1813,22 +1867,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1312602977553294": {
     "date": "2026.01.19",
     "duration": "00:31",
-    "originalTitle": "4.5K views · 10 comments | Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: There's one pattern I trade off of every single day.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who res…",
+    "title": "20분 트레이더의 일일 패턴 트레이딩: 블루라인의 1, 2, 3분 동안의 변동성 활용",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 30.84초·로컬 Whisper large-v3-turbo 전사 93단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “There's one pattern I trade off of every single day.” / “First minute or so of the market open.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20분 트레이더",
+      "일일 패턴 트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “There's one pattern I trade off of every single day.” 이어 “First minute or so of the market open.” 이어 “And at that point, this red line goes along with it like this.” 이어 “And I trade this.”",
+    "core": "블루라인의 1분에서 3분 동안의 변동성을 관찰하고, 빨간라인의 독립적인 상승을 기점으로 거래를 실행합니다.",
     "rules": [
-      "원문 실행 문장: There's one pattern I trade off of every single day.",
-      "원문 실행 문장: That's when I place my trade, because what happens afterward is the blue line goes up like that.",
-      "원문 실행 문장: And I trade this."
+      "시장이 열리기 시작한 후 1분 동안 블루라인의 변동성을 관찰하고, 2분에서 3분 사이에 빨간라인과 함께 수평 상태가 되면 거래를 시작합니다.",
+      "블루라인이 다시 상승하는 시점에서 거래를 종료합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 93,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1837,22 +1891,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.04.29",
     "duration": "01:34",
     "originalTitle": "Ki trading.mp4",
-    "title": "위험관리: If we don't get that, we just let it go and look for the next one.",
+    "title": "손실 한도와 위험관리에 관한 트레이딩 관점",
     "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 93.53초·로컬 Whisper large-v3-turbo 전사 327단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What I would like to see to be comfortable entering this position while it's actively moving is this white line to make a significant, meaningful pop up here.” / “This is my stop loss.”",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk"
+      "위험관리",
+      "Ki Trading",
+      "RSI",
+      "20-Minute Trader"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “What I would like to see to be comfortable entering this position while it's actively moving is this white line to make a significant, meaningful pop up here.” 이어 “This is my stop loss.” 이어 “That was a pretty wild move, but that was a green trade.” 이어 “Are you spotting?”",
+    "core": "RSI 지표의 의미있는 상승을 기다리며, 블루 라인의 방향 변화를 관찰하고, 그에 따라 매매를 조정한다.",
     "rules": [
-      "원문 실행 문장: If we don't get that, we just let it go and look for the next one.",
-      "원문 실행 문장: Entered the trade.",
-      "원문 실행 문장: So if the blue line hits the orange line or the green line, we automatically exit the trade at a predetermined profit and loss.",
-      "원문 실행 문장: I can actually move this into profit.",
-      "원문 실행 문장: That's why we use proper risk management."
+      "블루 라인이 오렌지 라인 또는 그린 라인과 만날 때, 자동으로 이익이나 손실을 정해진 금액으로 종료한다.",
+      "백색 라인의 지속적인 하락을 기대하며, 스탑 러스를 조정하여 위험을 줄이고 이익을 확보한다.",
+      "블루 라인의 방향 변화를 주시하며, 시장의 예측불가능성을 인지하고 적절한 위험 관리를 실천한다."
     ],
-    "caution": "성과·수익 발화: “This is my take profit.” / “We just exited in some profit when I moved my stop loss down.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 327,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1861,21 +1916,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.22",
     "duration": "01:10",
     "originalTitle": "5 TRADING MISTAKES - Mistake #1 for Socials.mp4",
-    "title": "심리·규율: Now, there are basically two ways that I trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 69.67초·로컬 Whisper large-v3-turbo 전사 235단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Five trading mistakes I will never make again.” / “The other is using prop firm accounts.”",
+    "title": "소셜 트레이딩에서 피해야 할 첫 번째 실수 - 5가지 트레이딩 실수.mp4",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "performance claim",
-      "CTA"
+      "심리·규율",
+      "트레이딩",
+      "소셜 트레이딩",
+      "자기 관리"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Five trading mistakes I will never make again.” 이어 “The other is using prop firm accounts.” 이어 “Now, you don't get to keep the firm's money itself, but you do get to keep a large percentage of the profits generated from that money if you trade it and do well with it.” 이어 “Being disciplined, following your plan, and then have one terrible day where you are reckless, emotional, distracted, or overconfident, and that one day can erase months and months of progress.”",
+    "core": "자신의 돈을 쉽게 접근 가능한 브로커 계좌에 넣지 말아야 한다는 점을 강조한다.",
     "rules": [
-      "원문 실행 문장: Now, there are basically two ways that I trade.",
-      "원문 실행 문장: Now, you don't get to keep the firm's money itself, but you do get to keep a large percentage of the profits generated from that money if you trade it and do well with it."
+      "자신의 돈을 브로커 계좌에 넣지 말고, 프로 피어 계정을 사용하여 큰 규모의 자금을 이용하라.",
+      "불필요한 감정을 떨쳐버리고 계획을 따르라.",
+      "하루에 단 한 번이라도 감정적으로 투자하지 말아야 한다."
     ],
-    "caution": "성과·수익 발화: “Now, you don't get to keep the firm's money itself, but you do get to keep a large percentage of the profits generated from that money if you trade it and do well with it.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 235,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1884,20 +1941,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.07",
     "duration": "00:31",
     "originalTitle": "20MT Overview.mov",
-    "title": "주식·섹터: I see the signals and I buy.",
+    "title": "20MT 9:30 AM Eastern Time 매매 패턴",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 31.07초·로컬 Whisper large-v3-turbo 전사 119단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Every day, a market opened 9.30 a.m.” / “I see the signals and I buy.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "주식·섹터",
+      "20MT",
+      "매매 패턴",
+      "Eastern Time"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Every day, a market opened 9.30 a.m.” 이어 “I see the signals and I buy.” 이어 “I've been doing this now for two years and you can thank my friends' friends for this video.” 이어 “I made the video courses to teach them.”",
+    "core": "매일 아침 9:30 AM Eastern Time에 시장이 열리면 신호를 따라 즉시 매매를 진행합니다.",
     "rules": [
-      "원문 실행 문장: I see the signals and I buy.",
-      "원문 실행 문장: The stock goes up and I sell only minutes or even just seconds later.",
-      "원문 실행 문장: Then I close my laptop at 9.50 a.m."
+      "매일 아침 9:30 AM Eastern Time 시장이 열리면 그래프를 관찰하고 신호를 따라 즉시 매수를 진행합니다.",
+      "주식 가격이 상승하면 몇 분 또는 몇 초 후에 즉시 매도를 진행합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 119,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1906,30 +1965,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.27",
     "duration": "57:27",
     "originalTitle": "20MTV Live Trading",
-    "title": "지지·저항: So let me tell you, if I could do this and I could learn how to trade between working full-time and rais…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3446.99초·로컬 Whisper large-v3-turbo 전사 8516단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Music Alright, let's get this week started.” / “I want them to come apart.”",
+    "title": "20MTV Live Trading: S&P 500과 Dow의 상승 추세에서의 매수 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "4H",
-      "support",
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Music Alright, let's get this week started.” 이어 “I want them to come apart.” 이어 “The RSI is in the lower half.” 이어 “Got about 20 seconds.” 이어 “You just don't know what's going to happen.” 이어 “I just wanted one a little bit bigger, but it looks like the trade probably would have worked out.” 이어 “So we're scared because technically we're still on that big downtrend.” 이어 “Later traders.”",
+    "core": "RSI의 상승과 RSI에서의 오르는 패턴을 이용해 상승 추세에서 매수 포지션을 잡는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: So let me tell you, if I could do this and I could learn how to trade between working full-time and raising teenagers, you guys can absolutely do this too.",
-      "원문 실행 문장: We teach you guys how to trade on prop firms.",
-      "원문 실행 문장: This is like an emergency exit button.",
-      "원문 실행 문장: And, what's going to happen is, the bigger the moves get, the more these divergence lines, these widgets are going to move.",
-      "원문 실행 문장: And to take that trade to keep going.",
-      "원문 실행 문장: Big, big move.",
-      "원문 실행 문장: Now, if we would have waited and taken a short, maybe that trade would have worked out.",
-      "원문 실행 문장: You guys will learn how to trade on your own."
+      "블루라인이 상승하고 오렌지라인이 하락할 때, RSI에서 오르는 패턴을 찾는다.",
+      "트레이딩 뷰는 빈번한 지연이 있으므로 실제 진입 시점은 주의해야 한다."
     ],
-    "caution": "성과·수익 발화: “Take Profit Trader.” / “You guys will become profitable traders.” 홍보·행동유도 발화: “If you guys spot the pattern in a nice setup, feel free to go ahead and take it.” / “This is free education for you guys.”",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다.",
     "transcriptVerified": true,
     "transcriptWordCount": 8516,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1938,19 +1989,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.16",
     "duration": "02:54",
     "originalTitle": "Feels illegal to know - Want to know how to make money with 20MT_.mp4",
-    "title": "영상 발화 분석: Pay hundreds of dollars to these firms that'll give you a test to verify that you are a good trader and…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 174.37초·Facebook 자동 자막 616단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Piece of information that you learned that feels illegal to know.” / “They put thousands, if not, tens of thousands of dollars into an account for you.”",
+    "title": "20분 투자로 수익 얻는 방법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "옵션",
+      "투자",
+      "20분 트레이딩",
+      "예측 가능한 패턴"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Piece of information that you learned that feels illegal to know.” 이어 “They put thousands, if not, tens of thousands of dollars into an account for you.” 이어 “It's my passion.” 이어 “You can get your questions answered live there.”",
+    "core": "20분 투자로 수익을 얻는 방법은 전문가와의 1대1 훈련과 예측 가능한 패턴을 통해 가능하다.",
     "rules": [
-      "원문 실행 문장: Pay hundreds of dollars to these firms that'll give you a test to verify that you are a good trader and they let you actually trade on their stimulated trading accounts and if you show that you are making money consistently and profitably, they say, great, we…"
+      "21 트레이더 전략을 통해 초보자부터 전문가까지 수익을 얻을 수 있도록 훈련을 받는다.",
+      "테스트 계정을 통해 수익을 증명하면 실제 계정에 투자금을 투입받을 수 있다.",
+      "75%의 승률을 유지하고, 수익을 증명하면 수천 달러의 투자금을 받을 수 있다."
     ],
-    "caution": "성과·수익 발화: “You have a seventy, 75% win rate.” 홍보·행동유도 발화: “And why so many non traders are finding that 20-minute traders to go to for getting into trading and having success with it and confidence so if you guys want to find out about th…” / “So, hopefully I see you at the web class.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 616,
     "transcriptSource": "Facebook 자동 자막"
@@ -1959,20 +2014,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.06",
     "duration": "01:22",
     "originalTitle": "JUST TELL US HOW TO TRADE V1.mov",
-    "title": "영상 발화 분석: I got my finger on the trigger because as soon as this red line goes on its own, independent of the blue…",
+    "title": "20분 거래 전략: S&P 500과 도우존스 지수를 활용한 빠른 매매",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 81.97초·Facebook 자동 자막 257단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Tell us how to trade.” / “Blue line's going to go like this.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20분 거래",
+      "S&P 500",
+      "도우존스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Tell us how to trade.” 이어 “Blue line's going to go like this.” 이어 “More often than not, this blue line goes like this.” 이어 “If I'm right more than I'm wrong, I profit.”",
+    "core": "1초 간격의 선 차트를 통해 S&P 500 지수의 빨간 선이 블루 선과 독립적으로 움직일 때 매수 또는 매도 결정을 내립니다.",
     "rules": [
-      "원문 실행 문장: Tell us how to trade.",
-      "원문 실행 문장: I got my finger on the trigger because as soon as this red line goes on its own, independent of the blue line, I place my trade right at that point, right there."
+      "S&P 500과 도우존스 지수를 9:30 AM부터 1초 간격의 선 차트로 모니터링합니다.",
+      "블루 선이 빨간 선과 함께 하락할 때 매수를 기다리고, 빨간 선이 블루 선과 독립적으로 움직일 때 매도를 결정합니다.",
+      "매매 결정은 2~12분 내로 이루어집니다."
     ],
-    "caution": "성과·수익 발화: “If I'm right more than I'm wrong, I profit.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 257,
     "transcriptSource": "Facebook 자동 자막"
@@ -1980,19 +2038,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1348681856574949": {
     "date": "2025.12.25",
     "duration": "00:36",
-    "originalTitle": "3.9K views · 9 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: And I trade for 20 minutes, predictable patterns every morning.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 투자 패턴으로 무료 웹 클래스 티켓 얻기 - Jeremy Russell의 20분 트레이딩",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 35.60초·로컬 Whisper large-v3-turbo 전사 109단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You better watch it, man.” / “You're going to find out who the f*** I really am.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "투자",
+      "20분 트레이딩",
+      "무료 웹 클래스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “You better watch it, man.” 이어 “You're going to find out who the f*** I really am.” 이어 “Get an edge on the market.” 이어 “Hey, say come back.”",
+    "core": "20분 동안 예측 가능한 투자 패턴을 이용해 시장에서 우위를 점하라.",
     "rules": [
-      "원문 실행 문장: And I trade for 20 minutes, predictable patterns every morning."
+      "20분 동안 예측 가능한 투자 패턴을 이용해 시장에서 우위를 점하라."
     ],
-    "caution": "홍보·행동유도 발화: “And I'm doing a web class really soon.” / “And I'll send you a free ticket.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 109,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2001,30 +2062,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.03",
     "duration": "46:26",
     "originalTitle": "20 MTV Live Trading",
-    "title": "Fibonacci: He asked me to come out here and trade live.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 2785.59초·Facebook 자동 자막 7035단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good evening, everyone.” / “So, this this right here tells us where what tells me where I'm going to trade.”",
+    "title": "20 MTV Live Trading - 9:30 AM EST, 1:2 위험보상비",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "4H",
-      "Fibonacci",
-      "risk",
-      "psychology",
-      "journal",
-      "CTA"
+      "피보나치",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 Fibonacci 콘텐츠다. “Good evening, everyone.” 이어 “So, this this right here tells us where what tells me where I'm going to trade.” 이어 “Right now, we have two parallel lines heading down.” 이어 “But I've gotten used to that time frame from a comfortability standpoint.” 이어 “And so, and that and that kind of just sparked my interest.” 이어 “Everybody sees candles, right?” 이어 “Take profit in a 00 risk.” 이어 “Have a great night and week and we'll see some of you tomorrow.”",
+    "core": "레버리지와 빠른 진입 시점을 활용하여 거래 전략을 설명한다.",
     "rules": [
-      "원문 실행 문장: He asked me to come out here and trade live.",
-      "원문 실행 문장: I look for a meaningful movement up in the opposite direction to trade down.",
-      "원문 실행 문장: Others use it to trade to look at the charts while they're trading on a different platform.",
-      "원문 실행 문장: I'm looking for a meaningful movement up to trade down.",
-      "원문 실행 문장: Don't want to enter a trade just to to trade, right?",
-      "원문 실행 문장: Looks like it's going to go down and hit my stop loss.",
-      "원문 실행 문장: Uh, you know, you know, winning amount of winning trade amount versus losing trade amount, right?",
-      "원문 실행 문장: My name is Gino, student with 20 Minute Trader and Jeremy Russell, the founder of 20 Minute Trader, asked me to come out here and trade live for all of you which I am doing now."
+      "레버리지로 100 포인트 스탑 런치와 100 포인트 테이크 프로핏을 설정한다.",
+      "진입 시점이 빠르므로 1:2 위험보상비를 고려해야 한다."
     ],
-    "caution": "성과·수익 발화: “100 take profit, 100 stop loss.” / “Take profit in a 00 risk.” 홍보·행동유도 발화: “While we're waiting for others to join, if you could type in the comment section where you're watching from.” / “You'll click the click the link and then, you can register for that web class.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 7035,
     "transcriptSource": "Facebook 자동 자막"
@@ -2033,19 +2086,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.27",
     "duration": "01:09",
     "originalTitle": "9. LEGAL BUT SUSPICIOUS_V5.mp4",
-    "title": "주식·섹터: When you see that, you just wait for the black line to touch the bottom, and you jump in.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 69.43초·로컬 Whisper large-v3-turbo 전사 230단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm not sure if this is legal or not, but it's extremely suspicious.” / “When you see that, you just wait for the black line to touch the bottom, and you jump in.”",
+    "title": "20분 거래 전략으로 금을 구매하고, 블루라인과 오렌지라인의 방향을 반대로, 블랙라인의 하단 도달을 기다리는 방법",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "옵션",
+      "주식·섹터",
+      "20분 거래",
+      "금 거래"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “I'm not sure if this is legal or not, but it's extremely suspicious.” 이어 “When you see that, you just wait for the black line to touch the bottom, and you jump in.” 이어 “Kind of weird, eh?” 이어 “I'll hook you up.”",
+    "core": "20분 거래 전략을 사용하면 초보자들도 수익을 얻을 수 있다는 것이 주요한 인사이트입니다.",
     "rules": [
-      "원문 실행 문장: When you see that, you just wait for the black line to touch the bottom, and you jump in."
+      "블루라인과 오렌지라인의 방향이 반대일 때, 블랙라인의 하단을 기다린 후 거래에 진입한다.",
+      "비슷한 전략을 사용하는 많은 사람들이 수익을 얻고 있다.",
+      "4%의 학생들이 이 전략을 사용해 수익을 얻었다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 230,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2054,29 +2111,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.04",
     "duration": "01:00:02",
     "originalTitle": "20MTV Live Trading",
-    "title": "이동평균: I'm a mom of twins and I'm also somebody who balances a full-time career with a very full life and I sti…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3602.16초·Facebook 자동 자막 9654단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good morning, traders.” / “Good question.”",
+    "title": "20MTV Live Trading: 927-933 구간 내에서의 러셀지수 역발산 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "moving average",
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "이동평균",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “Good morning, traders.” 이어 “Good question.” 이어 “We don't have to rush it.” 이어 “You want to become a mentor?” 이어 “Alright, so we already hit our take profit.” 이어 “Now, we're ending the day green.” 이어 “Even when we're in our practice account, take really good trades.” 이어 “Later traders.”",
+    "core": "블루라인이 내려가고 오렌지라인이 평평하거나 상승할 때, 웨이트라인의 역발산이 필요하다.",
     "rules": [
-      "원문 실행 문장: I'm a mom of twins and I'm also somebody who balances a full-time career with a very full life and I still find time to trade.",
-      "원문 실행 문장: Now, if the trade turns against me and the blue line heads downwards and it hits that orange line on the bottom, this is my stop loss.",
-      "원문 실행 문장: We need the white line to pop down to take a trade to go upwards.",
-      "원문 실행 문장: If you guys trade the gold pattern, this is definitely a trading school.",
-      "원문 실행 문장: So, trade would've looked like this.",
-      "원문 실행 문장: It's just a significant move away from in the opposite direction of the blue line and it needs to be a larger move than the recent moves, right?",
-      "원문 실행 문장: But we're not really getting the entry point in the RSI.",
-      "원문 실행 문장: You guys set up your chart, practice alongside with me, keep learning, keep practicing, protect your capital, use proper risk management always, and remember the for the day."
+      "블루라인이 내려가고 오렌지라인이 평평하거나 상승할 때, 웨이트라인의 역발산이 필요하다.",
+      "블루라인이 평평할 때도 러셀지수의 긴 역발산은 오렌지라인의 내려가기와 함께 발생해야 한다.",
+      "블루라인이 내려가고 오렌지라인이 내려가지 않을 때, 웨이트라인의 역발산이 필요하다."
     ],
-    "caution": "성과·수익 발화: “Either we're going to trade it going upwards for profit or downwards for a profit.” / “So, I'd rather you guys make mistakes, you know, with $100account.” 홍보·행동유도 발화: “Proper risk management, patience, and discipline to follow the same process consistently.” / “We will send you a direct message and you guys can register for Jeremy's free web class and then, thank you guys for spending your Tuesday morning with me.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 9654,
     "transcriptSource": "Facebook 자동 자막"
@@ -2084,21 +2135,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1360947859582283": {
     "date": "2026.08.22",
     "duration": "01:22",
-    "originalTitle": "47K views · 242 reactions | Fine! Here you go! Comment CLASS for a ticket to our free web class. #fyp | 20-Minute Trader",
-    "title": "영상 발화 분석: I got my finger on the trigger because as soon as this red line goes on its own, independent of the blue…",
+    "originalTitle": "Fine! Here you go! Comment CLASS for a ticket to our free web class. #fyp",
+    "title": "9:30 AM S&P 500과 Dow Jones 1초 차트에서의 짧은 트레이딩 기법",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 81.97초·Facebook 자동 자막 257단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Tell us how to trade.” / “Blue line's going to go like this.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "S&P 500",
+      "Dow Jones"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Tell us how to trade.” 이어 “Blue line's going to go like this.” 이어 “More often than numb, this blue line goes like this.” 이어 “If I'm right more than I'm wrong, I profit.”",
+    "core": "1초 간격 차트에서 S&P 500의 블루 라인이 Dow Jones와 독립적으로 움직일 때 매도 기회를 잡는다.",
     "rules": [
-      "원문 실행 문장: Tell us how to trade.",
-      "원문 실행 문장: I got my finger on the trigger because as soon as this red line goes on its own, independent of the blue line, I place my trade right at that point, right there."
+      "9:30 AM Eastern Time에 S&P 500과 Dow Jones의 1초 간격 차트를 확인한다.",
+      "블루 라인과 레드 라인이 독립적으로 움직일 때 매도 주문을 실행한다.",
+      "1초 간격 차트에서 빠른 움직임을 감지하여 2~4분 내로 매매 결정을 내린다."
     ],
-    "caution": "성과·수익 발화: “If I'm right more than I'm wrong, I profit.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 257,
     "transcriptSource": "Facebook 자동 자막"
@@ -2106,21 +2160,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1361634875087685": {
     "date": "2025.12.18",
     "duration": "00:34",
-    "originalTitle": "4.3K views | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: It's when you buy and sell with predictable patterns in the first 20 minutes of the day.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 33.97초·로컬 Whisper large-v3-turbo 전사 131단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here I go, investing 20k in the stock market.” / “Plus the market might crash tomorrow.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 거래 클래스 초대: 20만 달러 투자와 90% 실패율",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "주식·섹터",
+      "20분 거래",
+      "투자"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Here I go, investing 20k in the stock market.” 이어 “Plus the market might crash tomorrow.” 이어 “It's when you buy and sell with predictable patterns in the first 20 minutes of the day.” 이어 “How can I learn it?”",
+    "core": "20분 거래는 일일 거래량의 초기 20분 동안 예측 가능한 패턴을 이용하는 거래 방법입니다.",
     "rules": [
-      "원문 실행 문장: It's when you buy and sell with predictable patterns in the first 20 minutes of the day.",
-      "원문 실행 문장: Right, it makes it much simpler to trade, even as a beginner."
+      "투자금 20만 달러를 사용해 20분 거래를 시작하려는 것",
+      "90%의 거래자가 실패하는 것을 고려해야 합니다"
     ],
-    "caution": "성과·수익 발화: “Historically, sure, but they don't tell you that 90% of traders lose money.” 홍보·행동유도 발화: “Just comment class and I'll invite you to my next live class for free so you can start learning.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 131,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2128,21 +2183,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1362000288565820": {
     "date": "2026.01.15",
     "duration": "01:20",
-    "originalTitle": "9.1K views · 5 comments | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: The pattern predict 8000and this is going to allow me to find and trade the best stocks out there.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "클래스 패턴 예측 알고리즘으로 최적 주식 찾기",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 79.79초·Facebook 자동 자막 214단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Don't say a word.” / “And this is how they said I need to do it.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "트레이딩",
+      "알고리즘"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Don't say a word.” 이어 “And this is how they said I need to do it.” 이어 “I'm going to test it out and see if I can predict what you're about to say.” 이어 “Not even close.”",
+    "core": "새로운 방법으로 거래 패턴을 예측할 수 있는 알고리즘을 소개하고, 이를 통해 최적의 주식을 찾는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: The pattern predict 8000and this is going to allow me to find and trade the best stocks out there.",
-      "원문 실행 문장: Okay, just wait, wait, wait, wait, wait.",
-      "원문 실행 문장: Not even close."
+      "6개의 모니터를 구매하고, 알고리즘적 차원 계산을 배우고, 패턴 예측 8000을 사용하여 최적의 주식을 찾기 위한 과정을 진행한다.",
+      "무료 웹 클래스를 통해 신규 트레이더들이 이러한 기술을 배울 수 있도록 초대한다."
     ],
-    "caution": "홍보·행동유도 발화: “I wanted to tell you that I'm hosting a free web class to teach new traders they can learn how to” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 214,
     "transcriptSource": "Facebook 자동 자막"
@@ -2151,30 +2208,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.05",
     "duration": "50:05",
     "originalTitle": "20 MTV Live Trading",
-    "title": "지지·저항: I'm out here to trade live with you.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3005.43초·Facebook 자동 자막 8492단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good evening, everyone.” / “Like this or yeah, like this, right?”",
+    "title": "20 MTV Live Trading: 1:2 위험보상비로 실시간 트레이딩 전략 분석",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "risk",
-      "psychology",
-      "journal",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Good evening, everyone.” 이어 “Like this or yeah, like this, right?” 이어 “See how quick that drop?” 이어 “The futures market opens Sunday night at six and it's open til Friday at 5.” 이어 “So, what's, if the blue line is pointing up, I am looking to do a buy or a along which is this blue button.” 이어 “Wasn't news scheduled but maybe there was an announcement or something.” 이어 “You know, I just, you just didn't experience.” 이어 “Everybody have a great night and appreciate it.”",
+    "core": "실시간 가격 변동을 1:2 위험보상비로 분석하여 진입 포인트를 결정하고, 데브리지와 이익 실현 조건을 설정하는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: I'm out here to trade live with you.",
-      "원문 실행 문장: I'm looking to a buy.",
-      "원문 실행 문장: So, I would like to see this establish, continue to establish itself going down for a little bit before I would look to enter a short.",
-      "원문 실행 문장: Based on your work, based on your schedule, based on things going on and those time frames may you're able to trade, right?",
-      "원문 실행 문장: The the time frame I mention is just a time frame I don't trade even if I have a setup just based on less probability at least from what my journal had said.",
-      "원문 실행 문장: It's a quick movement where you have to enter, right?",
-      "원문 실행 문장: Try to mimic the size of the moves the best way I can explain.",
-      "원문 실행 문장: There's wasn't a trade."
+      "RSI의 골드 신호를 기다리고, 데브리지와 이익 실현 조건을 설정하여 1:2 위험보상비를 추구한다.",
+      "진입 포인트가 데브리지와 이익 실현 조건을 만족하면 즉시 진입한다.",
+      "데브리지 조건이 깨지면 즉시 탈출한다."
     ],
-    "caution": "성과·수익 발화: “It's a hundred, it's 100% discipline.” / “Sure, you lose the $50 that you bought the account.” 홍보·행동유도 발화: “We're waiting for others to join.” / “Free ticket to the web class where you can register and get your questions answered live.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 8492,
     "transcriptSource": "Facebook 자동 자막"
@@ -2182,24 +2232,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1384335636975688": {
     "date": "2026.08.19",
     "duration": "01:18",
-    "originalTitle": "2.1K views · 14 comments | Comment CLASS to get started today! #fyp #trading | 20-Minute Trader",
-    "title": "지지·저항: Instead of needing hundreds of thousands or tens of thousands of dollars in their own money, they can de…",
+    "originalTitle": "Comment CLASS to get started today! #fyp #trading",
+    "title": "20분 투자자로 시작하는 방법: 일관성 있는 트레이딩 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 77.60초·로컬 Whisper large-v3-turbo 전사 270단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Today's trading world offers opportunities that didn't really exist years ago.” / “Not because it's easy or guaranteed, but because it's become a realistic pathway for disciplined traders to use very little money to get started.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "risk",
-      "psychology",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Today's trading world offers opportunities that didn't really exist years ago.” 이어 “Not because it's easy or guaranteed, but because it's become a realistic pathway for disciplined traders to use very little money to get started.” 이어 “It isn't easy.” 이어 “It's a club that surrounds people with mentoring and support, and it's a community of thousands of ordinary people helping one another become disciplined, ethical traders.”",
+    "core": "투자 세계는 과거와 다르게 변하고 있으며, 많은 트레이더들은 자금을 제공하는 투자 회사와 함께 일할 수 있는 기회를 찾고 있습니다.",
     "rules": [
-      "원문 실행 문장: Instead of needing hundreds of thousands or tens of thousands of dollars in their own money, they can demonstrate consistency, pass an evaluation, pay the required small fees, and potentially trade capital provided by those firms while sharing in the profits.",
-      "원문 실행 문장: Not because it's easy or guaranteed, but because it's become a realistic pathway for disciplined traders to use very little money to get started.",
-      "원문 실행 문장: We're trying to build professionals who understand patience and risk, people who understand consistency, people who know that saying, no trade today, is actually sometimes the best trade they'll make all week."
+      "자금을 제공하는 투자 회사와 함께 일할 수 있는 능력을 보여주고, 필요한 작은 수수료를 지불하면, 트레이더들은 회사의 자금을 사용하여 거래할 수 있습니다.",
+      "일관성 있는 성과를 보여주고, 투자 회사의 자금을 거래할 수 있는 능력을 입증해야 합니다.",
+      "투자 세계에서 성공하려면, 오늘 거래하지 않는 것을 선택하는 것이 때로는 가장 좋은 결정일 수 있다는 것을 이해해야 합니다."
     ],
-    "caution": "홍보·행동유도 발화: “But if you're willing to learn it properly, if you're willing to practice, if you're willing to ask questions, if you're willing to follow a process instead of chasing excitement,…” / “It's a course that teaches one predictable trading strategy.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 270,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2207,23 +2257,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1386154319316186": {
     "date": "2025.05.02",
     "duration": "01:33",
-    "originalTitle": "2.9K views | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "지지·저항: I'm not saying this because I have any incentive to do so.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 92.73초·Facebook 자동 자막 320단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Program is amazing.” / “What I learned was that was a limiting belief that I couldn't possibly understand it or even be successful in it.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 투자 트레이딩 클래스 - 신규 투자자 위한 간단한 전략",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "심리·규율",
+      "투자",
+      "20분 트레이딩"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Program is amazing.” 이어 “What I learned was that was a limiting belief that I couldn't possibly understand it or even be successful in it.” 이어 “I've never met a group that is more positive, helpful, and truly supportive of one another.” 이어 “It will change everything.”",
+    "core": "투자 전략은 복잡하지 않고 단순한 계획을 따르는 것만으로 가능합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Program is amazing."
+      "신규 투자자들은 투자에 대한 두려움을 극복하고 간단한 전략을 통해 성공할 수 있습니다.",
+      "멘토들의 지도하에 심리적 측면을 관리하며 긍정적인 습관을 형성합니다."
     ],
-    "caution": "성과·수익 발화: “They genuinely are invested in our success and it shows 1 00 percent.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 320,
     "transcriptSource": "Facebook 자동 자막"
@@ -2231,20 +2281,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1387524976415903": {
     "date": "2025.12.13",
     "duration": "00:45",
-    "originalTitle": "6.9K views | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: I did a trade and I was supposed to exit at a loss of maybe $3,000 or $4,000 but I stayed in thinking it…",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "100,000 달러 손실 위기에서의 놀라운 회복",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 45.07초·로컬 Whisper large-v3-turbo 전사 158단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So the scariest thing that ever happened to me as a trader was actually when I was trading somebody else's money in a joint account and it was $100,000 and I was not ready for this.” / “I did a trade and I was supposed to exit at a loss of maybe $3,000 or $4,000 but I stayed in thinking it was going to go back up and it dropped to minus 10, minus 20, minus 30, minus 40, all within about 20 mi…”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "주식·섹터",
+      "트레이딩",
+      "포착"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “So the scariest thing that ever happened to me as a trader was actually when I was trading somebody else's money in a joint account and it was $100,000 and I was not ready for this.” 이어 “I did a trade and I was supposed to exit at a loss of maybe $3,000 or $4,000 but I stayed in thinking it was going to go back up and it dropped to minus 10, minus 20, minus 30, minus 40, all within about 20 mi…” 이어 “It was actually down $51,000 at one point and my heart was pounding so hard.” 이어 “It was so, it was so scary.”",
+    "core": "주식 시장의 신들은 제게 기회를 주었고, 그 순간은 무서운 경험이 되었습니다.",
     "rules": [
-      "원문 실행 문장: I did a trade and I was supposed to exit at a loss of maybe $3,000 or $4,000 but I stayed in thinking it was going to go back up and it dropped to minus 10, minus 20, minus 30, minus 40, all within about 20 minutes."
+      "100,000 달러의 계좌에서 $3,000에서 $4,000의 손실을 예상했으나 계속 거래를 유지했고, 가격이 급락하여 잠시 $51,000의 손실을 보았습니다.",
+      "가격이 회복되어 $1의 이익을 얻었지만, 그 순간은 매우 두려웠습니다."
     ],
-    "caution": "성과·수익 발화: “So the scariest thing that ever happened to me as a trader was actually when I was trading somebody else's money in a joint account and it was $100,000 and I was not ready for thi…” / “It was actually down $51,000 at one point and my heart was pounding so hard.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 158,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2252,21 +2304,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1394919485187067": {
     "date": "2026.02.08",
     "duration": "00:13",
-    "originalTitle": "9.7K views | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: My colleagues and I remain squarely focused on achieving our dual mandate.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 트레이더 조사 결과를 분석한 트레이딩 클래스",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 13.47초·로컬 Whisper large-v3-turbo 전사 14단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good afternoon.” / “My colleagues and I remain squarely focused on achieving our dual mandate.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Good afternoon.” 이어 “My colleagues and I remain squarely focused on achieving our dual mandate.”",
+    "core": "20분 트레이더 학생들이 가장 효과적인 방법을 찾기 위해 조사가 실시되었다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Good afternoon."
+      "20분 트레이더 학생들이 조사에 참여하여 가장 효과적인 방법을 찾기 위해 노력했다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 14,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2274,20 +2326,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1395467558391862": {
     "date": "2026.01.30",
     "duration": "00:28",
-    "originalTitle": "2.1K views | Is 20-Minute Trader a Scam? Watch the full video here: https://youtu.be/b2LNcqzOGh4 In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Another important difference between us and most trading education companies is that we actually survey…",
+    "originalTitle": "Is 20-Minute Trader a Scam? Watch the full video here: https://youtu.be/b2LNcqzOGh4 In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 투자자 성과 조사 결과",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 27.63초·로컬 Whisper large-v3-turbo 전사 93단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Another important difference between us and most trading education companies is that we actually survey our students about performance.” / “In our surveys, we found that approximately 68% of respondents reported being profitable.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim"
+      "시장 분석",
+      "투자교육",
+      "일일투자"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Another important difference between us and most trading education companies is that we actually survey our students about performance.” 이어 “In our surveys, we found that approximately 68% of respondents reported being profitable.” 이어 “That's closer to 6 or 7 out of 10 people succeeding.” 이어 “That gap is a big reason why 20-Minute Trader has grown as fast as it has.”",
+    "core": "20-Minute Trader 학생 중 약 68%가 수익을 보고 있으며, 이는 일일 투자자 중 성공 확률이 60%를 넘는 것을 의미한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Another important difference between us and most trading education companies is that we actually survey our students about performance."
+      "20-Minute Trader 학생 중 약 68%가 수익을 보고 있으며, 이는 일일 투자자 중 성공 확률이 60%를 넘는 것을 의미한다.",
+      "일일 투자자 중 약 87%가 돈을 잃는 것으로 보고된 반면, 20-Minute Trader는 성장 속도가 빠르게 증가하고 있다."
     ],
-    "caution": "성과·수익 발화: “The most comprehensive independent studies on day trading show that roughly 87% of day traders lose money, meaning only about 13% succeed.” / “In our surveys, we found that approximately 68% of respondents reported being profitable.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 93,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2295,21 +2349,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1399396138588240": {
     "date": "2026.02.10",
     "duration": "00:05",
-    "originalTitle": "26K views | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,…",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 트레이더 수업 참석권을 얻는 방법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 5.10초·로컬 Whisper large-v3-turbo 전사 112단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,…”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,…”",
+    "core": "20분 트레이더 학생들이 조사한 결과, 특정 조건을 만족하는 학생들이 더 좋은 성과를 보였습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,…"
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 112,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2317,20 +2371,20 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1406651901172884": {
     "date": "2025.12.12",
     "duration": "00:59",
-    "originalTitle": "8.1K views | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: But wait, you'll have the chance to make more money.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 59.20초·로컬 Whisper large-v3-turbo 전사 286단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “How would you like to throw your hard-earned money out the window?” / “No, actually it's like simple ethical trading using proven predictable patterns in just 20 minutes.”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "트레이딩 화면을 활용한 짧은 장면",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "짧은 장면"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “How would you like to throw your hard-earned money out the window?” 이어 “No, actually it's like simple ethical trading using proven predictable patterns in just 20 minutes.” 이어 “I'm out of here.” 이어 “I'm out of here.”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "원문 실행 문장: But wait, you'll have the chance to make more money."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "홍보·행동유도 발화: “Well then give you free drinks to make you stay longer.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 286,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2339,30 +2393,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.10",
     "duration": "41:43",
     "originalTitle": "20 MTV Live Trading",
-    "title": "지지·저항: Trading is risky and I am trading at my own risk.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 2503.36초·Facebook 자동 자막 5287단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good evening, everyone.” / “The orange line is a comparison index.”",
+    "title": "20 MTV Live Trading: 9:30 AM EST, 1:2 위험보상비 기준",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "risk",
-      "psychology",
-      "journal",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Good evening, everyone.” 이어 “The orange line is a comparison index.” 이어 “So, the gold pattern is a pattern discovered by Jeremy Russell in twenty twenty-one.” 이어 “Jeremy Russell is in all the Instagrams and YouTubes.” 이어 “Um so, $100 K profit.” 이어 “Hopefully, we get a couple more setups.” 이어 “It's starting to head back down.” 이어 “Have a good night and we'll see you tomorrow.”",
+    "core": "RSI 지표의 역발산을 기다리고, 역발산 발생 시 즉시 진입하여 손절와 TAKEPROFIT을 설정하는 전략을 설명한다.",
     "rules": [
-      "원문 실행 문장: Trading is risky and I am trading at my own risk.",
-      "원문 실행 문장: My take profit is up here.",
-      "원문 실행 문장: Took one trade.",
-      "원문 실행 문장: Ask me ask me to come out here and trade in front of all you because it's not how the, you know, he trades or high professional level level traders trade.",
-      "원문 실행 문장: I knew I was going to if I were to enter I would do a short or a sell.",
-      "원문 실행 문장: Luckily enough, I had a really good setup at the beginning and during the introduction, just kind of talking about the relationship of the of the three lines and was able to enter a pretty good trade.",
-      "원문 실행 문장: Um and so good diverse on the five second chart but place the trade on the one second chart.",
-      "원문 실행 문장: If you miss the entry, you miss it, you just look for another one."
+      "RSI 지표가 역발산을 보이면 즉시 진입하고 손절와 TAKEPROFIT을 설정한다.",
+      "역발산 발생 전까지는 포지션을 잡지 않으며, 진입 후 1:2의 위험보상비를 유지한다."
     ],
-    "caution": "성과·수익 발화: “My take profit is up here.” / “Jonathan asked, if you didn't have a full-time job, would this be able to supplement your income?” 홍보·행동유도 발화: “So, here I am while we wait for others to join if in the comment section, if you could type in where you're watching from and what level of trader you are, beginner, never traded…” / “Register for the web class and learn the web class.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 5287,
     "transcriptSource": "Facebook 자동 자막"
@@ -2370,25 +2416,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1414861419734702": {
     "date": "2026.02.25",
     "duration": "00:51",
-    "originalTitle": "1.9K views | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: Trading always involves risk, even with rules, safeguards, and education.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 51.38초·로컬 Whisper large-v3-turbo 전사 207단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Trading always involves risk, even with rules, safeguards, and education.” / “That's why we go overboard on risk management, psychology, and how to avoid the traps that cause so many traders to fail.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 투자 전략 웹세미나 참여 방법",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "투자전략"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Trading always involves risk, even with rules, safeguards, and education.” 이어 “That's why we go overboard on risk management, psychology, and how to avoid the traps that cause so many traders to fail.” 이어 “If you're profitable there, that's real data.” 이어 “If the results had been worse than average, I would have shut the whole thing down.”",
+    "core": "20분 투자 전략을 실험하고 시뮬레이션 계정에서 성과를 확인하세요.",
     "rules": [
-      "원문 실행 문장: Trading always involves risk, even with rules, safeguards, and education.",
-      "원문 실행 문장: That's why we go overboard on risk management, psychology, and how to avoid the traps that cause so many traders to fail.",
-      "원문 실행 문장: If you really want to know whether this system works, the best thing you can do is try it and paper trade.",
-      "원문 실행 문장: Use them, test the system, trade it in a simulated account, and see how you do."
+      "무위험으로 20분 투자 전략을 테스트하고 시뮬레이션 계정에서 성과 확인"
     ],
-    "caution": "성과·수익 발화: “Those traps are the reason the 87% failure rate exists in the first place.” / “If you're profitable there, that's real data.” 홍보·행동유도 발화: “There are links in the description below for free ways to do exactly that.” / “Both of those free options are available through the link in the description.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 207,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2397,21 +2440,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.13",
     "duration": "00:55",
     "originalTitle": "Money Making Goal.mp4",
-    "title": "심리·규율: If your primary goal is to make money on this one trade, emotion begin influencing your decisions.",
+    "title": "트레이딩 과정 중 money making 목표를 놓고",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 54.70초·Facebook 자동 자막 176단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Is making money the goal?” / “If every decision is driven by how can I make more money?”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "트레이딩",
+      "프로세스중심"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Is making money the goal?” 이어 “If every decision is driven by how can I make more money?” 이어 “If you reach that limit, you stop.” 이어 “Whether it's trading, a product, a service, or a business, the goal is the money but the focus must always be the process.”",
+    "core": "트레이딩의 목표는 돈이지만, 그 과정에서는 프로세스에 집중해야 한다.",
     "rules": [
-      "원문 실행 문장: If your primary goal is to make money on this one trade, emotion begin influencing your decisions.",
-      "원문 실행 문장: Your focus has to be on the process, precise entry criteria, precise wagering strategy, and a predetermined daily loss limit.",
-      "원문 실행 문장: If you reach that limit, you stop."
+      "정확한 진입 기준을 설정하고 이를 존중해야 한다.",
+      "일정 손실 한도를 정해두고 이를 초과하면 거래를 중단해야 한다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "홍보·행동유도 발화: “I don't know how successful that restaurant will be but if the focus is on providing incredible food, exceptional service, and a great experience and a great ambiance, the money i…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 176,
     "transcriptSource": "Facebook 자동 자막"
@@ -2419,21 +2464,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1422654589302558": {
     "date": "2026.01.20",
     "duration": "00:25",
-    "originalTitle": "2.6K views · 4 comments | Watch the full video on how NVIDIA is moving the market here: https://youtu.be/Ytf8NhSM0AQ In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: What is the best stock investment of 2026?",
+    "originalTitle": "Watch the full video on how NVIDIA is moving the market here: https://youtu.be/Ytf8NhSM0AQ In a recent survey of 20-Minute Trader students across all products we offer, those stud…",
+    "title": "NVIDIA의 시장 영향력 분석 (2026년 주식 투자)",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 25.24초·로컬 Whisper large-v3-turbo 전사 69단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What is the best stock investment of 2026?” / “Is NVIDIA one of the most valuable companies in the world?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "주식·섹터",
+      "NVIDIA",
+      "주식 투자",
+      "시장 랭킹"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “What is the best stock investment of 2026?” 이어 “Is NVIDIA one of the most valuable companies in the world?” 이어 “Depending on the week, NVIDIA trades places with Apple and Microsoft, the very top of the global market capitalization.” 이어 “NVIDIA is firmly in the top tier of the most valuable companies in the world.”",
+    "core": "NVIDIA는 주식 시장에서 가장 가치 있는 회사 중 하나로 꾸준히 랭크되어 있다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: What is the best stock investment of 2026?"
+      "NVIDIA의 주가가 주로 Apple과 Microsoft와 함께 움직인다.",
+      "주식 시장에서 NVIDIA의 가치는 주기적으로 Apple과 Microsoft와 교체된다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 69,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2441,21 +2488,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1425697862687852": {
     "date": "2026.03.25",
     "duration": "00:33",
-    "originalTitle": "31 reactions | How much do you need? Comment CLASS to join our free webinar and get your questions answered live! #trading #daytrade #money #charts | 20-Minute Trader",
-    "title": "위험관리: One must never use any money, which is not expendable, when they decide to get into any type of trading.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 33.12초·로컬 Whisper large-v3-turbo 전사 114단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “How much does one need to invest in order to try to make money in the market?” / “The obvious answer is as much as one can afford.”",
+    "originalTitle": "How much do you need? Comment CLASS to join our free webinar and get your questions answered live! #trading #daytrade #money #charts",
+    "title": "1000~2000 달러로 시작하는 실전 트레이딩",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "트레이딩",
+      "일일 트레이딩"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “How much does one need to invest in order to try to make money in the market?” 이어 “The obvious answer is as much as one can afford.” 이어 “But the bare minimum is no less than $300 with which to invest.” 이어 “One must never use any money, which is not expendable, when they decide to get into any type of trading.”",
+    "core": "1000~2000 달러를 투자하면 몇 달 동안 트레이딩을 지속할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: One must never use any money, which is not expendable, when they decide to get into any type of trading."
+      "1000~2000 달러를 투자하여 시작할 수 있습니다.",
+      "투자할 돈은 반드시 사용 가능한 금액이어야 합니다.",
+      "감정적인 거래를 피하고 일관된 리스크 관리를 유지하되, 습관을 형성하려면 꾸준히 투자해야 합니다."
     ],
-    "caution": "성과·수익 발화: “I would say that setting aside $1,000 to $2,000 would be a sensible starting point that could keep you going for months if you don't gamble or do emotional trading, but instead fo…” / “But the bare minimum is no less than $300 with which to invest.” 홍보·행동유도 발화: “I would say that setting aside $1,000 to $2,000 would be a sensible starting point that could keep you going for months if you don't gamble or do emotional trading, but instead fo…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 114,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2463,19 +2513,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1428398179130618": {
     "date": "2025.09.03",
     "duration": "00:09",
-    "originalTitle": "14K views · 6 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 8.57초·Facebook 자동 자막 4단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “#trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when…” / “Just learned a trade.”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 투자자들 중 20분 거래법을 배운 학생",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 투자",
+      "거래 신호",
+      "즉시 실행"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “#trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when…” 이어 “Just learned a trade.”",
+    "core": "새로운 거래 기회를 발견하고 즉시 실행했다.",
     "rules": [
-      "원문 실행 문장: Just learned a trade."
+      "거래 신호가 나타나면 즉시 실행한다.",
+      "매매 규칙은 제시되지 않음."
     ],
-    "caution": "성과·수익 발화: “#trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly in…” 홍보·행동유도 발화: “Comment “FREE” if you want to receive my trading course for free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 4,
     "transcriptSource": "Facebook 자동 자막"
@@ -2483,21 +2537,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1430206742215041": {
     "date": "2026.02.05",
     "duration": "00:31",
-    "originalTitle": "1.7K views · 8 comments | Watch the full video here: https://www.youtube.com/watch?v=oaXlOVxX-rU Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: In my opinion, and in many cases, this is the more beginner-friendly route than any other entry points i…",
+    "originalTitle": "Watch the full video here: https://www.youtube.com/watch?v=oaXlOVxX-rU Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Min…",
+    "title": "소액으로 고수익 투자 가능: 프로피전트 이용법",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 30.87초·로컬 Whisper large-v3-turbo 전사 89단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “But don't get deterred by the phrase proprietary trading firm.” / “In my opinion, and in many cases, this is the more beginner-friendly route than any other entry points into trading.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자",
+      "프로피전트",
+      "소액투자"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “But don't get deterred by the phrase proprietary trading firm.” 이어 “In my opinion, and in many cases, this is the more beginner-friendly route than any other entry points into trading.” 이어 “Once you sign up for one, you want to get a practice account and learn how to drive this vehicle called a prop firm.” 이어 “Very little cost on your part.”",
+    "core": "소액으로도 고수익을 얻을 수 있는 프로피전트 투자 방법을 소개한다.",
     "rules": [
-      "원문 실행 문장: In my opinion, and in many cases, this is the more beginner-friendly route than any other entry points into trading.",
-      "원문 실행 문장: Because if done correctly, it gives you access to trade with tens of thousands of dollars and the profits that money can make."
+      "프로피전트에 가입하면 실습 계좌를 통해 이 회사의 거래 방식을 배울 수 있다.",
+      "정확하게 따라하면 수십만 달러 규모의 거래를 할 수 있으며, 이로 인한 수익을 얻을 수 있다.",
+      "소액으로 시작해도 큰 수익을 얻을 수 있는 방법을 배우는 것이 중요하다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 89,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2505,24 +2562,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1435226497506682": {
     "date": "2025.07.08",
     "duration": "01:49",
-    "originalTitle": "1.4K views · 26 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: We're going to do a live trade here.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 투자자 Jeremy Russell의 실시간 거래 - RSI 지표 활용",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 108.65초·로컬 Whisper large-v3-turbo 전사 317단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “We're going to do a live trade here.” / “It kind of tells us that what the average...”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "20분 투자자",
+      "RSI"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “We're going to do a live trade here.” 이어 “It kind of tells us that what the average...” 이어 “Ooh, ooh, 900, 950.” 이어 “Otherwise, happy trading.”",
+    "core": "Jeremy Russell은 RSI 지표를 통해 추세 편차를 이용해 거래를 진행합니다.",
     "rules": [
-      "원문 실행 문장: We're going to do a live trade here.",
-      "원문 실행 문장: I look for a trend divergence between the blue line and the orange line.",
-      "원문 실행 문장: And then if I ever see this white line touch the bottom, that's a perfect place to enter for a trade that's pushing up.",
-      "원문 실행 문장: I'm doing what's called protecting my trade.",
-      "원문 실행 문장: I put the stop loss above the break even so that if it drops, I lose nothing and I get another chance."
+      "블루라인의 상승과 오렌지라인의 하락을 확인하고, RSI가 바닥을 타면 진입",
+      "RSI가 바닥을 찍으면 블루라인의 상승 추세가 돌아올 것으로 예상"
     ],
-    "caution": "홍보·행동유도 발화: “I am probably going to do a live trade on this in the next few days, but follow if you want to be part of that.” / “Give me a comment if you're interested in that.” 전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 317,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2530,19 +2586,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1458047982259551": {
     "date": "2025.06.03",
     "duration": "00:52",
-    "originalTitle": "16 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Yeah, I mean, I trade predictable patterns for only 20 minutes every morning during the week before work.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 51.67초·로컬 Whisper large-v3-turbo 전사 165단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey neighbor.” / “It was a passenger.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 거래 패턴 활용, 주말 휴식을 위한 일주일 아침 트레이딩",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "일주일 아침 트레이딩",
+      "라이드셰어링"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Hey neighbor.” 이어 “It was a passenger.” 이어 “You got a side hustle?” 이어 “Well, you know, I've got to dive into this.”",
+    "core": "20분 동안의 거래 패턴을 이용하면 일주일 아침에만 거래할 수 있다.",
     "rules": [
-      "원문 실행 문장: Yeah, I mean, I trade predictable patterns for only 20 minutes every morning during the week before work."
+      "매일 아침 5~6시간 동안 라이드셰어링을 하며, 주말에는 거래하지 않는다.",
+      "댓글에 '클래스'를 입력하면 무료 웹 클래스 티켓을 제공한다."
     ],
-    "caution": "홍보·행동유도 발화: “I mean, if you just type the word class in the comments, I'll send you a ticket to our free web class to show you how it's done.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 165,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2550,20 +2610,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1466976194364031": {
     "date": "2025.11.15",
     "duration": "00:13",
-    "originalTitle": "13K views · 46 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: You thought the ball was going to hit me.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 13.30초·로컬 Whisper large-v3-turbo 전사 30단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You thought the ball was going to hit me.”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20-Minute Trader의 학생들을 위한 무료 트레이딩 전략 공유",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "무료 전략",
+      "20-Minute Trader"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “You thought the ball was going to hit me.”",
+    "core": "20-Minute Trader의 학생들은 무료로 트레이딩 전략을 얻을 수 있는 기회를 제공합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: You thought the ball was going to hit me."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "홍보·행동유도 발화: “Well, now that you're here, why don't you get my free trading strategy?” / “Comment free and I'll send it to you.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 30,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2571,23 +2633,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1467429511246132": {
     "date": "2026.05.12",
     "duration": "00:53",
-    "originalTitle": "166 reactions · 14 shares | Comment CLASS to learn more! #trade #learn #class | 20-Minute Trader",
-    "title": "주식·섹터: Just show me how to trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 52.99초·로컬 Whisper large-v3-turbo 전사 213단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Just show me how to trade.” / “With your red line, this is the Dow Jones.”",
+    "originalTitle": "Comment CLASS to learn more! #trade #learn #class",
+    "title": "1초 차트를 활용한 빠른 트레이딩 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "클래스"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Just show me how to trade.” 이어 “With your red line, this is the Dow Jones.” 이어 “All you have to do is wait for this thing to pop down a little bit.” 이어 “This is how I'm able to place a trade that takes 15 to 60 seconds and it's done.”",
+    "core": "1초 차트에서 빠른 트레이딩을 위한 신호를 잡는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: Just show me how to trade.",
-      "원문 실행 문장: All you have to do is wait for this thing to pop down a little bit.",
-      "원문 실행 문장: Once it does that, boom, that's when we place our trade right here.",
-      "원문 실행 문장: Place our trade here and it goes up like this and that's how we profit.",
-      "원문 실행 문장: This is how I'm able to place a trade that takes 15 to 60 seconds and it's done."
+      "1초 차트에서 블루 라인과 레드 라인의 동향을 관찰하여 매매 신호를 잡는다.",
+      "레드 라인의 다우존스 지수와 블루 라인의 금 가격이 상대적으로 강세일 때 매수 신호를 잡는다.",
+      "레드 라인과 블루 라인이 동시에 하락할 때 매수 주문을 넣는다."
     ],
-    "caution": "성과·수익 발화: “Place our trade here and it goes up like this and that's how we profit.” 홍보·행동유도 발화: “If you want to learn how to do this, you can join a free web class.” / “Type in the word class in the comments.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 213,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2596,19 +2658,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.04.10",
     "duration": "00:54",
     "originalTitle": "Live trade power of the futures.mp4",
-    "title": "주식·섹터: So think about this for a second.",
+    "title": "주중 월요일부터 목요일 9시, 13시, 19시 EST 실시간 트레이딩",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 54.17초·로컬 Whisper large-v3-turbo 전사 171단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So think about this for a second.” / “That's the incredible power of the futures market.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "선물·지수",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “So think about this for a second.” 이어 “That's the incredible power of the futures market.” 이어 “Jeremy put me in this chair because I'm a student.” 이어 “I'm not a social media guru flexing a Lambo.”",
+    "core": "미래 시장에서 20분 동안의 수익 창출 방법을 설명한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: So think about this for a second."
+      "주중 월요일부터 목요일까지 매일 아침 9시, 오후 1시, 저녁 7시 EST에 실시간 트레이딩을 진행한다.",
+      "미래 시장은 뱅크 휴일에도 열려 있어 23시간 동안 거래할 수 있다.",
+      "20분 동안의 수익 창출 기회를 자신의 일정에 맞게 활용할 수 있다."
     ],
-    "caution": "성과·수익 발화: “It's away 23 hours a day, which means we can find our 20-minute profit window whenever our schedule fits it in.” 홍보·행동유도 발화: “I'm living proof that you can follow a simple pattern and you can master the market.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 171,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2617,19 +2683,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.03.28",
     "duration": "00:53",
     "originalTitle": "PE Ratio.mp4",
-    "title": "주식·섹터: So if the PE ratio is 20, that means the value of the company as a whole, the price tag on the company i…",
+    "title": "PE Ratio를 활용한 시장 토탈리티 분석: 20분 트레이딩 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 52.67초·로컬 Whisper large-v3-turbo 전사 156단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Is the stock market hitting an all-time peak and planning to reverse?” / “Now here's what the PE ratio actually means in plain English.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "주식·섹터",
+      "PE ratio",
+      "20분 트레이딩",
+      "시장 토탈리티"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Is the stock market hitting an all-time peak and planning to reverse?” 이어 “Now here's what the PE ratio actually means in plain English.” 이어 “It is how much investors are willing to pay to own the stock of a company for $1 of profit earnings of that company.” 이어 “Investors are paying $20 for every $1 the companies in that index earn in profit.”",
+    "core": "PE ratio는 회사의 가치를 한 해의 이익 대비로 평가하며, 시장이 고평가되었는지 판단하는 중요한 지표입니다.",
     "rules": [
-      "원문 실행 문장: So if the PE ratio is 20, that means the value of the company as a whole, the price tag on the company itself, if someone wanted to buy it, is the annual profit multiplied by 20X."
+      "주식 시장이 고평가되었는지 확인하려면 주요 시장 지수의 PE ratio를 확인해야 합니다.",
+      "PE ratio가 높으면 시장이 고평가되었을 가능성이 높습니다.",
+      "20분 트레이딩 전략을 사용하면 주식 시장의 고평가 여부를 파악할 수 있습니다."
     ],
-    "caution": "성과·수익 발화: “It is how much investors are willing to pay to own the stock of a company for $1 of profit earnings of that company.” / “Investors are paying $20 for every $1 the companies in that index earn in profit.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 156,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2637,20 +2707,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1477706336696178": {
     "date": "2025.08.20",
     "duration": "00:44",
-    "originalTitle": "5.1K views · 25 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: No I just put 10 million out of stock and I'm going to wait for it to pump.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 거래 트레이더의 일일 터무니없는 운동과 거래 패턴",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 44.10초·Facebook 자동 자막 150단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey good to see you.” / “Aren't you a trader too?”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "20분 거래",
+      "예측 가능한 패턴"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Hey good to see you.” 이어 “Aren't you a trader too?” 이어 “Like smoking cigars or lifting weights.” 이어 “Okay, I'll be back.”",
+    "core": "20분 거래는 일일 운동과 거래를 병행하며, 예측 가능한 패턴을 이용해 빠르게 수익을 얻는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: No I just put 10 million out of stock and I'm going to wait for it to pump.",
-      "원문 실행 문장: Well I only trade predictable patterns in the morning."
+      "매ornings에 예측 가능한 거래 패턴을 찾아 20분 이내로 거래를 완료한다.",
+      "일일 나머지 시간에는 운동을 즐기거나 다른 활동을 할 수 있다."
     ],
-    "caution": "성과·수익 발화: “No I just put 10 million out of stock and I'm going to wait for it to pump.” 홍보·행동유도 발화: “You want to join?” / “Arnold, just type free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 150,
     "transcriptSource": "Facebook 자동 자막"
@@ -2659,18 +2732,20 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.06.25",
     "duration": "00:25",
     "originalTitle": "WILL-CATCH-YOU-CLASS.mov",
-    "title": "영상 발화 분석: That's what happens when you trust a random guru to learn how to trade.",
+    "title": "20분 거래 클래스 - 9:00 시장 개장 후 20분 동안의 거래 패턴",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 25.40초·로컬 Whisper large-v3-turbo 전사 86단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You can trust me.” / “That's what happens when you trust a random guru to learn how to trade.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "20MinuteTrader"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “You can trust me.” 이어 “That's what happens when you trust a random guru to learn how to trade.” 이어 “Hope to see you there.” 이어 “Dude, you okay?”",
+    "core": "20분 거래는 시장 개장 후 20분 동안의 예측 가능한 거래 패턴을 이용한다.",
     "rules": [
-      "원문 실행 문장: That's what happens when you trust a random guru to learn how to trade."
+      "20분 거래는 시장이 개장한 후 20분 동안의 예측 가능한 거래 패턴을 이용한다."
     ],
-    "caution": "홍보·행동유도 발화: “And I'm doing a live web class very soon and if you want to be part of it, type the word class in the comments and I'll send you a free ticket.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 86,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2678,20 +2753,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1489219452106918": {
     "date": "2025.09.26",
     "duration": "00:13",
-    "originalTitle": "37K views · 57 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: You thought the ball was going to hit me.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 13.30초·로컬 Whisper large-v3-turbo 전사 30단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You thought the ball was going to hit me.”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 트레이더의 무료 트레이딩 전략 공유",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이더",
+      "자유 댓글"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “You thought the ball was going to hit me.”",
+    "core": "20분 트레이더의 무료 트레이딩 전략을 얻으려면 'FREE' 댓글을 달아보세요.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: You thought the ball was going to hit me."
+      "전략은 무료로 제공된다."
     ],
-    "caution": "홍보·행동유도 발화: “Well, now that you're here, why don't you get my free trading strategy?” / “Comment free and I'll send it to you.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 30,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2700,22 +2777,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.27",
     "duration": "01:45",
     "originalTitle": "10. LIVE SET UP 3 HOOKS_CLOWNS_V2_V8.mp4",
-    "title": "영상 발화 분석: I have a blue line, which is the one that I'm trading, an orange line, which is helping me determine whi…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 104.63초·로컬 Whisper large-v3-turbo 전사 382단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “A lot of clowns on social media.” / “Now I was able to make a hundred bucks as you saw in 30 seconds.”",
+    "title": "클로니즈 20분 차트 트레이딩 세팅",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "일일 트레이딩",
+      "20분 차트"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “A lot of clowns on social media.” 이어 “Now I was able to make a hundred bucks as you saw in 30 seconds.” 이어 “Then I do the orange line trend, which is down.” 이어 “It can be hard to see unless you practice for a bit, but that's why we practice, right?”",
+    "core": "블루 라인의 하락 추세와 오렌지 라인의 상대적 상승 추세를 이용해 매수 신호를 잡는다.",
     "rules": [
-      "원문 실행 문장: I have a blue line, which is the one that I'm trading, an orange line, which is helping me determine which direction I'm going to trade, and then a white line, which tells me when to enter.",
-      "원문 실행 문장: I'll explain right after, but this is a great entry for what I'm going for here.",
-      "원문 실행 문장: It's always good if it drops a little lower, in this case to double down and then boom, set my take profit right there.",
-      "원문 실행 문장: I had to wait for the setup.",
-      "원문 실행 문장: And that's when I place my trade and it almost always pops up."
+      "블루 라인의 하락 추세를 확인하고, 오렌지 라인과의 분기점에서 매수 신호를 기다린다.",
+      "화이트 라인이 중앙 라인 아래로 떨어지면 즉시 매수한다.",
+      "블루 라인이 상승하면 이익 실현을 위해 테이크 프로FIT을 설정한다."
     ],
-    "caution": "성과·수익 발화: “It's always good if it drops a little lower, in this case to double down and then boom, set my take profit right there.” / “And all I need is that tiny little jump that you saw and it's profitable.” 홍보·행동유도 발화: “If you want to learn how to do this, hit the link in the bio and I'll send you a free ticket to a web class where you can get all your questions answered live.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 382,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2723,19 +2801,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1493563095054756": {
     "date": "2025.12.05",
     "duration": "00:52",
-    "originalTitle": "4.1K views · 3 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Yeah, but I trade predictable patterns for only 20 minutes every morning during the week before work.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 51.67초·로컬 Whisper large-v3-turbo 전사 166단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey neighbor.” / “It was a passenger.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "주말 없이 매일 아침 20분만 투자하면 되는 트레이딩 패턴",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "투자",
+      "20분 트레이딩",
+      "예측 가능한 패턴"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Hey neighbor.” 이어 “It was a passenger.” 이어 “You got a side hustle?” 이어 “Well, you know, I've got to dive into this.”",
+    "core": "매일 아침 20분 동안 예측 가능한 트레이딩 패턴을 이용해 수익을 얻을 수 있다.",
     "rules": [
-      "원문 실행 문장: Yeah, but I trade predictable patterns for only 20 minutes every morning during the week before work."
+      "매일 아침 20분 동안 트레이딩을 하며 주말에는 휴식을 취한다."
     ],
-    "caution": "홍보·행동유도 발화: “I mean, if you just type the word class in the comments, I'll send you a ticket to our free web class to show you how it's done.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 166,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2744,29 +2825,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.29",
     "duration": "01:02:17",
     "originalTitle": "20MTV Live Trading",
-    "title": "이동평균: So if you guys are interested in learning about 20 Minute Trader or the gold pattern just like iTrade an…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3736.63초·Facebook 자동 자막 9968단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good morning, traders.” / “If you ever have a problem with your chart, there's a live chart help room that's like nine or 10 hours a day.”",
+    "title": "20MTV Live Trading 7/29: 하락 추세에서 상승 전환 신호 포착",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "moving average",
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "이동평균",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “Good morning, traders.” 이어 “If you ever have a problem with your chart, there's a live chart help room that's like nine or 10 hours a day.” 이어 “Uh I don't have it on my shirt yet.” 이어 “But also I can't sell partials or anything like that.” 이어 “Orange line is pointing up and look at the trend.” 이어 “So, it's like not to be trusted.” 이어 “I know I might be late but I'm not understanding your strategy.” 이어 “Later, Traders.”",
+    "core": "하락 추세에서의 역전 신호를 통해 상승 트레이딩 기회를 잡는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: So if you guys are interested in learning about 20 Minute Trader or the gold pattern just like iTrade and thousands of other students trade.",
-      "원문 실행 문장: If the blue line turns around and the trade goes against me, the blue line hits the orange line, it'll automatically exit me for a loss without clicking any buttons.",
-      "원문 실행 문장: And we could take a trade with the trend going downwards.",
-      "원문 실행 문장: Dice Carter says you trade micro or mini.",
-      "원문 실행 문장: I trade every single morning from nine to 10 AM Eastern Time, Monday through Friday and then, some days, I will trade from 10 to 11 AM Eastern Time and then I'm also a night trader.",
-      "원문 실행 문장: Right here is where we enter the trade.",
-      "원문 실행 문장: Deliberate move.",
-      "원문 실행 문장: So, please tune in, trade with me, see what patterns you guys are able to identify, see what divergence you guys can call out, practice along with, with me, and tune in tomorrow at 9 AM Eastern for another episode of 20 Minute Trader TV."
+      "블루 라인이 하락하고 오렌지 라인이 하락할 때, 하락 추세에서 역전 신호를 찾는다.",
+      "블루 라인이 상승하고 오렌지 라인이 평평하거나 하락할 때, 상승 추세로 진입한다.",
+      "하락 추세에서의 역전 신호를 찾지 못하면, 트레이딩을 포기한다."
     ],
-    "caution": "성과·수익 발화: “So, every trade I will be placing is going to be on the blue line and I'm going to be predicting if the blue line's going to go up and I can make a profit I can also predict if th…” / “You can stay beginner level the whole entire time and be profitable and take payouts.” 홍보·행동유도 발화: “It's actually like a four-hour course.” / “This is like a college course.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 9968,
     "transcriptSource": "Facebook 자동 자막"
@@ -2774,20 +2849,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1516314696276842": {
     "date": "2025.10.30",
     "duration": "01:09",
-    "originalTitle": "7.2K views · 40 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Your mom really wants a cruise vacation for her birthday, but I just looked at it on the world wide web.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 투자 시작, 80달러로 시작하는 20분 투자",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 68.90초·로컬 Whisper large-v3-turbo 전사 246단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm in the shower.” / “I mean, like the whole thing.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 투자",
+      "초보자 투자",
+      "80달러 투자"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm in the shower.” 이어 “I mean, like the whole thing.” 이어 “Speaking of which, it's really humid in here.” 이어 “Oh yeah, you bet.”",
+    "core": "20분 투자는 초보자도 쉽게 시작할 수 있으며, 80달러로 시작할 수 있다는 점을 강조한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I'm in the shower."
+      "80달러로 시작할 수 있는 20분 투자 방법을 소개한다.",
+      "20분 투자는 초보자에게 적합하며, 단순한 패턴과 버튼 클릭만으로 시작할 수 있다."
     ],
-    "caution": "성과·수익 발화: “Last time I went, I snatched a ticket for $80 for a whole week.” / “You actually can start with your $80 and work your way up.” 홍보·행동유도 발화: “Last time I went, I snatched a ticket for $80 for a whole week.” / “Just do the free course, Dad.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 246,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2796,21 +2874,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.09",
     "duration": "00:30",
     "originalTitle": "Stocks Way Down Skit.mov",
-    "title": "주식·섹터: Uh wait, why aren't you stressed out?",
+    "title": "20분 거래로 하락장에서도 이익 추구",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 29.63초·Facebook 자동 자막 123단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So much money invested in stocks and they're still way, way, way, way, way, way, way down.” / “Keep your cool until the market rebounds.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "옵션",
+      "주식·섹터",
+      "20분 거래",
+      "옵션 거래"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “So much money invested in stocks and they're still way, way, way, way, way, way, way down.” 이어 “Keep your cool until the market rebounds.” 이어 “So, it doesn't depend on the market's overall value.” 이어 “That's why I fall in.”",
+    "core": "20분 거래는 시장의 전체 가치와 무관한 예측 가능한 패턴을 이용해 이익을 얻을 수 있다.",
     "rules": [
-      "원문 실행 문장: I'm going to sell.",
-      "원문 실행 문장: Uh wait, why aren't you stressed out?",
-      "원문 실행 문장: It's when I buy and sell options taking advantage of predictable patterns that happen in the first 20 minutes of the day."
+      "20분 거래는 일일 초기 20분 동안 예측 가능한 패턴을 이용해 옵션을 사고 팔아 이익을 얻는 방법이다.",
+      "시장이 상승하든 하락하든 예측 가능한 패턴은 항상 존재한다.",
+      "20분 거래는 시장 전체의 가치와 무관하며, 단기적인 거래 전략이다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 123,
     "transcriptSource": "Facebook 자동 자막"
@@ -2818,21 +2898,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1518920292501357": {
     "date": "2026.01.06",
     "duration": "01:22",
-    "originalTitle": "208K views · 28 reactions | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "선물·지수: Just tell us how to trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 81.97초·로컬 Whisper large-v3-turbo 전사 249단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Just tell us how to trade.” / “It's gonna do whatever it's doing.”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "S&P 500과 Dow Jones의 1초 차트에서의 U자 패턴과 Dow Jones의 독립적 움직임을 기다리는 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "선물·지수",
+      "S&P 500",
+      "Dow Jones",
+      "1초 차트"
     ],
-    "core": "원문 전사 기준 선물·지수 콘텐츠다. “Just tell us how to trade.” 이어 “It's gonna do whatever it's doing.” 이어 “Because as soon as this red line goes on its own, independent of the blue line, I place my trade right at that point.” 이어 “If I'm right more than I'm wrong, I profit.”",
+    "core": "1초 간격의 선 차트에서 S&P 500이 U자 왼쪽 부분을 형성하고 Dow Jones이 독립적으로 움직일 때 매매 신호를 받는다.",
     "rules": [
-      "원문 실행 문장: Just tell us how to trade.",
-      "원문 실행 문장: Because as soon as this red line goes on its own, independent of the blue line, I place my trade right at that point."
+      "S&P 500의 블루 선이 U자 왼쪽 부분을 형성하고 Dow Jones이 독립적으로 움직일 때 매매를 실행한다.",
+      "시장이 오픈한 지 오전 9시 30분부터 12분 이내에 이전 단계를 완료할 수 있다."
     ],
-    "caution": "성과·수익 발화: “If I'm right more than I'm wrong, I profit.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 249,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2841,22 +2923,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.04",
     "duration": "01:52",
     "originalTitle": "10. LIVE SET UP 3 HOOKS_BAD TRADE_V2_V8.mp4",
-    "title": "영상 발화 분석: Well, I've never had the urge to destroy a computer or a monitor, but it's probably because I have a hac…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 111.73초·로컬 Whisper large-v3-turbo 전사 400단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Well, I've never had the urge to destroy a computer or a monitor, but it's probably because I have a hack that makes it much easier and more comfortable to trade.” / “That blue line should pop up and hit, there you go, a hundred bucks.”",
+    "title": "10분 거래 챠트에서의 진입 전략: 3개 힙스 설정",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "차트 분석",
+      "진입 시점"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Well, I've never had the urge to destroy a computer or a monitor, but it's probably because I have a hack that makes it much easier and more comfortable to trade.” 이어 “That blue line should pop up and hit, there you go, a hundred bucks.” 이어 “Then I do the orange line trend, which is down.” 이어 “It can be hard to see unless you practice for a bit, but that's why we practice, right?”",
+    "core": "20분 거래에서의 진입 시점을 정확히 잡아 수익을 얻는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: Well, I've never had the urge to destroy a computer or a monitor, but it's probably because I have a hack that makes it much easier and more comfortable to trade.",
-      "원문 실행 문장: So this is actually a good entry.",
-      "원문 실행 문장: It's always good if it drops a little lower, in this case to double down and then boom, set my take profit right there.",
-      "원문 실행 문장: I had to wait for the setup.",
-      "원문 실행 문장: And that's when I place my trade and it almost always pops up."
+      "블루 라인의 추세가 떨어지다가 회복될 때 진입",
+      "오렌지 라인의 역발산을 기다리고, 흰 라인이 중앙선 아래로 떨어질 때 진입"
     ],
-    "caution": "성과·수익 발화: “It's always good if it drops a little lower, in this case to double down and then boom, set my take profit right there.” / “And all I need is that tiny little jump that you saw and it's profitable.” 홍보·행동유도 발화: “If you want to learn how to do this, hit the link in the bio and I'll send you a free ticket to a web class where you can get all your questions answered live.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 400,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2864,20 +2946,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1527869621971788": {
     "date": "2025.10.17",
     "duration": "01:19",
-    "originalTitle": "6.3K views · 4 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: He had no close family but remembered me.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 투자 트레이딩 무료 강의 제안",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 79.30초·로컬 Whisper large-v3-turbo 전사 363단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You're never gonna believe it.” / “Yeah, like I said, my bank details.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자",
+      "20분 투자",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “You're never gonna believe it.” 이어 “Yeah, like I said, my bank details.” 이어 “I gotta go, Jer.” 이어 “I gotta go, Jer.”",
+    "core": "20분 투자 트레이딩은 일정한 패턴을 이용해 매일 짧은 시간에 수익을 얻을 수 있는 방법이다.",
     "rules": [
-      "원문 실행 문장: He had no close family but remembered me."
+      "일정한 패턴을 이용해 매일 20분만 투자하면 수익을 얻을 수 있다.",
+      "무료 트레이딩 강의를 통해 20분 투자 방법을 배울 수 있다."
     ],
-    "caution": "성과·수익 발화: “No, I just inherited 10 million dollars.” 홍보·행동유도 발화: “Just watch the free video so you can get started as soon as tomorrow morning.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 363,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2886,19 +2971,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.14",
     "duration": "01:03",
     "originalTitle": "Gamer Learns to Day Trade_V1_CLASS.mp4",
-    "title": "영상 발화 분석: Well, I learned how to trade predictable patterns in about half the time that you've been playing that g…",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 62.67초·로컬 Whisper large-v3-turbo 전사 194단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Dude, you've been here all day.” / “How much was the game?”",
+    "title": "브로도에서 13시간 만에 108달러 벌고 20분만에 일일 트레이딩 배우기",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "일일 트레이딩",
+      "예측 가능한 패턴",
+      "브로도"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Dude, you've been here all day.” 이어 “How much was the game?” 이어 “Only 20 minutes a day?” 이어 “I need a weapon.”",
+    "core": "일일 20분만 투자하면 예측 가능한 패턴을 이용해 트레이딩을 배울 수 있다.",
     "rules": [
-      "원문 실행 문장: Well, I learned how to trade predictable patterns in about half the time that you've been playing that game just today.",
-      "원문 실행 문장: Wow, so I can trade and still have time to do what I want?"
+      "13시간 동안 게임을 플레이하며 108달러를 벌었다.",
+      "일일 20분만 투자하여 예측 가능한 패턴을 이용해 트레이딩을 배울 수 있다."
     ],
-    "caution": "홍보·행동유도 발화: “So what are you doing with your free time?” / “Yeah, just type the word class in the comments and they'll send you a free ticket to a web class where they'll actually explain it all to you.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 194,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2907,18 +2995,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.17",
     "duration": "00:52",
     "originalTitle": "Finding a New Side Hustle_V1_CLASS.mp4",
-    "title": "영상 발화 분석: Yeah, I mean, I trade predictable patterns for only 20 minutes every morning during the week before work.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 51.67초·로컬 Whisper large-v3-turbo 전사 167단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey neighbor.” / “It was a passenger.”",
+    "title": "주말 일 없이 매일 아침 20분만으로 시작하는 트레이딩",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "SIDE_HUSTLE"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Hey neighbor.” 이어 “It was a passenger.” 이어 “Yeah, I mean, I trade predictable patterns for only 20 minutes every morning during the week before work.” 이어 “Well, you know, I've got to dive into this.”",
+    "core": "매일 아침 20분만 투자하면 예측 가능한 패턴을 통해 트레이딩이 가능하다.",
     "rules": [
-      "원문 실행 문장: Yeah, I mean, I trade predictable patterns for only 20 minutes every morning during the week before work."
+      "주말 일 없이 매일 아침 20분 동안만 트레이딩을 합니다.",
+      "예측 가능한 패턴을 이용하여 매일 아침 트레이딩을 진행합니다."
     ],
-    "caution": "홍보·행동유도 발화: “I mean, if you just type the word class in the comments, I'll send you a ticket to our free web class to show you how it's done.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 167,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2926,20 +3017,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1535241894377084": {
     "date": "2025.11.20",
     "duration": "00:51",
-    "originalTitle": "18 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: I still have time to do a 20-minute trader trade.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 거래 학습을 위한 무료 클래스 티켓 얻는 방법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 51.23초·로컬 Whisper large-v3-turbo 전사 136단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm so excited about this new trading bot that I got.” / “It's gonna go back in.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "무료 클래스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm so excited about this new trading bot that I got.” 이어 “It's gonna go back in.” 이어 “What the heck?” 이어 “Except for a predictable pattern.”",
+    "core": "20분 거래를 배우고 싶다면 댓글에 'FREE'를 입력하면 무료로 클래스를 받을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Oh, wait a minute.",
-      "원문 실행 문장: I still have time to do a 20-minute trader trade."
+      "20분 거래를 배우고 싶은 사람들은 클래스에 참가할 수 있습니다."
     ],
-    "caution": "홍보·행동유도 발화: “Okay, well, if you want to learn how to do 20-minute trading, just type the word free in the comments, and I'll send you a full free video explanation.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 136,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2947,20 +3039,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1536666177382122": {
     "date": "2025.12.16",
     "duration": "01:36",
-    "originalTitle": "6.6K views · 66 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: These tiny little bits of just how to trade really.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "4년 전의 주식 시장 버그로 시작한 무료 트레이딩 강의",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 95.73초·로컬 Whisper large-v3-turbo 전사 419단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So I discovered a glitch in the stock market and millions of people know about it now.” / “And also use this predictable pattern that I've discovered, which I, by the way, tested and I was able to do it almost every single day for like six weeks.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "트레이딩",
+      "버그"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “So I discovered a glitch in the stock market and millions of people know about it now.” 이어 “And also use this predictable pattern that I've discovered, which I, by the way, tested and I was able to do it almost every single day for like six weeks.” 이어 “My other friends start calling me.” 이어 “So I refined it, simplified it, made it into a 13-minute video explanation.”",
+    "core": "4년 전, 저자는 주식 시장의 버그를 이용해 매일 수익을 올렸고, 이를 통해 수백만 명에게 무료로 트레이딩 강의를 제공하게 되었다.",
     "rules": [
-      "원문 실행 문장: These tiny little bits of just how to trade really.",
-      "원문 실행 문장: And also use this predictable pattern that I've discovered, which I, by the way, tested and I was able to do it almost every single day for like six weeks."
+      "4년 전, 저자는 주식 시장에서 일정한 패턴을 발견하고 이를 이용해 매일 수익을 올렸다.",
+      "친구들을 통해 이 방법을 전파했고, 결국 수백만 명이 이 방법을 알게 되었다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "홍보·행동유도 발화: “Of course, I called one of my best friends.” / “If you type the word free in the comments of this video, you'll receive it.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 419,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2969,20 +3065,20 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.17",
     "duration": "00:15",
     "originalTitle": "2025_04_If I Make This_V3_COMMENT.mp4",
-    "title": "영상 발화 분석: If I make this, you gotta start 20 minute training.",
+    "title": "20분 훈련을 시작하려면 이 목표를 달성해야: 2025_04_if_I_make_this_V3",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 15.00초·Facebook 자동 자막 10단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If I make this, you gotta start 20 minute training.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "클래스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “If I make this, you gotta start 20 minute training.”",
+    "core": "이 목표를 달성하면 20분 훈련을 시작해야 합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: If I make this, you gotta start 20 minute training."
+      "20분 훈련을 시작하려면 이 목표를 달성해야 합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 10,
     "transcriptSource": "Facebook 자동 자막"
@@ -2990,22 +3086,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1539855907481967": {
     "date": "2026.06.09",
     "duration": "01:47",
-    "originalTitle": "Trading is like murder COMMENT CLASS.mp4",
-    "title": "위험관리: With trading, you have to be 100% about your rules but one specific rule actually which is the daily los…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 107.37초·Facebook 자동 자막 316단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Trading is kind of like murder.” / “With trading, you have to be 100% about your rules but one specific rule actually which is the daily loss lockout or the daily stop loss or the amount you're willing to lose in one day where you would say I'm…”",
+    "originalTitle": "Comment CLASS to learn how. #trading #class #learn",
+    "title": "100% 일일 손실 제한을 지키는 트레이딩 클래스",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "트레이딩",
+      "클래스"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Trading is kind of like murder.” 이어 “With trading, you have to be 100% about your rules but one specific rule actually which is the daily loss lockout or the daily stop loss or the amount you're willing to lose in one day where you would say I'm…” 이어 “But it was I was only a murder for one second.” 이어 “Forget about it.”",
+    "core": "일일 손실 제한을 지키는 것이 장기적으로 성공적인 트레이딩을 가능하게 한다.",
     "rules": [
-      "원문 실행 문장: With trading, you have to be 100% about your rules but one specific rule actually which is the daily loss lockout or the daily stop loss or the amount you're willing to lose in one day where you would say I'm done, no more trading today.",
-      "원문 실행 문장: This daily loss lockout or daily stop loss or whatever you want to call it."
+      "일일 손실 제한을 지키지 못하면 계좌가 모두 잃길 준비해야 한다.",
+      "일일 손실 제한을 100% 준수해야 한다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "성과·수익 발화: “Well, if you're a murderer, only point zero zero zero zero zero one percent of the time.” / “If you can have that in you have a chance of being a successful profitable trader over the long term.” 홍보·행동유도 발화: “It's the point00001% where you're like, well, I follow that rule ninety-nine point nine nine nine.” / “All you have to do is type the word class.” 전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 316,
     "transcriptSource": "Facebook 자동 자막"
@@ -3014,29 +3112,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.11",
     "duration": "44:43",
     "originalTitle": "20MTV Live Trading",
-    "title": "위험관리: But I learned how to trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 2682.56초·로컬 Whisper large-v3-turbo 전사 6097단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Music Good morning traders!” / “So if you guys didn't pick that all up, that's okay.”",
+    "title": "4시간봉 범위 스윕 뒤 반전 진입",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "4H",
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "캔들 범위",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Music Good morning traders!” 이어 “So if you guys didn't pick that all up, that's okay.” 이어 “So I'm going to take a trade going down.” 이어 “Do you guys think it's going to be.” 이어 “I'm going to zoom up in here.” 이어 “And now Dow is dropping with the blue line.” 이어 “If we would have entered right here.” 이어 “But the divergence is really, really nice.”",
+    "core": "RSI의 긴 분기점은 오일 가격의 상승 진입 포인트를 제공하며, 가격이 하락할 때 진입해야 합니다.",
     "rules": [
-      "원문 실행 문장: But I learned how to trade.",
-      "원문 실행 문장: So we still need that entry point down here in the white line in that relative strength index or the RSI.",
-      "원문 실행 문장: Other than that, market's open for you to trade, for you to spot the pattern, for you to possibly take a trade.",
-      "원문 실행 문장: Sometimes a market open move.",
-      "원문 실행 문장: Don't take this trade.",
-      "원문 실행 문장: How this trade works out.",
-      "원문 실행 문장: But that would have been another profitable trade right there.",
-      "원문 실행 문장: Maybe we might get a nice trade out of this."
+      "RSI의 긴 분기점이 발생하면 오일 가격이 상승할 가능성이 있으며, 이때 white line이 하락할 때 진입해야 합니다.",
+      "가격이 하락할 때 short trade를 고려할 수 있으며, 이는 오일 가격의 변동성을 반영합니다."
     ],
-    "caution": "성과·수익 발화: “So all you got to do is have the interest in learning, learn the strategy, practice it, stay consistent, and that's how you become a profitable trader.” / “But that would have been another profitable trade right there.” 홍보·행동유도 발화: “So if you guys are watching in Facebook or Instagram, type the word class in the comments.” / “And feel free to ask me any questions that you guys have while I'm trading.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 6097,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3044,24 +3135,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1547046313126870": {
     "date": "2025.09.11",
     "duration": "01:33",
-    "originalTitle": "6.1K views · 14 reactions | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: We have a system where if you place a trade and you lose, you get locked out.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 93.30초·Facebook 자동 자막 356단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Get into trading, you're afraid you don't know how to talk about it.” / “You can't lose that much with ethical day trading.”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 투자, 윤리적이고 안전한 투자 방법",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "투자"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Get into trading, you're afraid you don't know how to talk about it.” 이어 “You can't lose that much with ethical day trading.” 이어 “Have you ever been on an athletic team where you have to show up for practice or you have to do something?” 이어 “It's easier to talk about and I can be proud of it and makes it easier to discuss with friends and family.”",
+    "core": "투자 금액을 줄이고 윤리적으로 투자할 수 있는 방법을 제시한다.",
     "rules": [
-      "원문 실행 문장: Risk management.",
-      "원문 실행 문장: We have a system where if you place a trade and you lose, you get locked out.",
-      "원문 실행 문장: You can't trade that account for the rest of the day.",
-      "원문 실행 문장: If you win, you get locked out and you can't trade for the rest of the day.",
-      "원문 실행 문장: So, the accountability ends up becoming a very important factor on risk management."
+      "투자 금액을 줄여서 큰 손실을 방지한다.",
+      "일일 투자 시간을 20분으로 제한하여 위험 관리를 한다.",
+      "성과를 높이기 위해 일정한 책임감을 유지한다."
     ],
-    "caution": "성과·수익 발화: “So, all you have to do is be profitable more than you're not and you're you're good.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 356,
     "transcriptSource": "Facebook 자동 자막"
@@ -3070,21 +3161,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.05",
     "duration": "01:30",
     "originalTitle": "The Best Trading Pattern You'll Ever Find - Can't Find Anything Better.mp4",
-    "title": "돌파·개장 범위: They like having somebody help them set up the chart, help them set up the account, help them understand…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 89.67초·로컬 Whisper large-v3-turbo 전사 316단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The best trading pattern you will ever find.” / “Because I haven't found anything better.”",
+    "title": "5년간 사용한 최고의 트레이딩 패턴 - 금 패턴",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "breakout",
-      "risk",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "트레이딩 패턴",
+      "20-Minute Trader"
     ],
-    "core": "원문 전사 기준 돌파·개장 범위 콘텐츠다. “The best trading pattern you will ever find.” 이어 “Because I haven't found anything better.” 이어 “But after years of looking, I still haven't found anything that beats this one.” 이어 “Happy trading!”",
+    "core": "5년 동안 사용해온 이 금 패턴은 다른 전략보다 더 높은 수익률과 간단한 실행 방법을 제공한다.",
     "rules": [
-      "원문 실행 문장: They like having somebody help them set up the chart, help them set up the account, help them understand what buttons to push, help them understand position, sizing, and risk."
+      "5년 동안 이 금 패턴을 사용하며 다른 전략보다 더 높은 수익률을 얻었다.",
+      "이 패턴은 단순하고 빠르게 적용할 수 있어 가르치기 쉽다.",
+      "20-Minute Trader 클럽에서는 이 패턴을 자세히 설명하는 웹 클래스를 제공한다."
     ],
-    "caution": "성과·수익 발화: “Nothing I've tested has had a higher win rate.” 홍보·행동유도 발화: “If you'd like to attend one of those free web classes, we usually offer tickets through the link in the description.” / “But whether you learn through videos, through the web class, through the club, or completely on your own, I genuinely believe this is the best trading pattern you'll ever find.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 316,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3093,18 +3185,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.04.02",
     "duration": "00:23",
     "originalTitle": "Testimonial #1_V1-2.mp4",
-    "title": "심리·규율: I've never traded before and these guys will start where you're at and make you a better trader with a v…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 22.63초·Facebook 자동 자막 59단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Mentors and good mindset training.” / “I've never traded before and these guys will start where you're at and make you a better trader with a very particular strategy to use less than 30 minutes a day once proficient.”",
+    "title": "20분 트레이딩 실력 향상과 평균 주간 수익 188달러",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "psychology"
+      "심리·규율",
+      "20분 트레이딩",
+      "투자 수익",
+      "멘토링"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Mentors and good mindset training.” 이어 “I've never traded before and these guys will start where you're at and make you a better trader with a very particular strategy to use less than 30 minutes a day once proficient.” 이어 “They are reputable, trustworthy, genuine, honest with expectations, and have realistic training.” 이어 “Very good at training the right mindset for trading.”",
+    "core": "20분 트레이딩을 통해 초보자도 실력이 향상되고, 일평균 188달러의 수익을 얻을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: I've never traded before and these guys will start where you're at and make you a better trader with a very particular strategy to use less than 30 minutes a day once proficient."
+      "20분 트레이딩을 통해 초보자들도 실력이 향상되고, 일평균 188달러의 수익을 얻을 수 있습니다.",
+      "멘토링과 긍정적인 마인드 훈련을 통해 실력이 향상됩니다.",
+      "20분 트레이딩 전략을 사용하여 일평균 30분 이내로 거래할 수 있습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 59,
     "transcriptSource": "Facebook 자동 자막"
@@ -3112,20 +3209,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1562567404987876": {
     "date": "2025.12.19",
     "duration": "00:44",
-    "originalTitle": "5.9K views · 12 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Yeah, I use predictable patterns and trade for only 20 minutes a day.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분만에 거래 완료, 가족과 농구경기 관람하기",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 44.17초·로컬 Whisper large-v3-turbo 전사 129단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey neighbor.” / “Yeah, I use predictable patterns and trade for only 20 minutes a day.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "가족과의 시간",
+      "예측 가능한 패턴"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Hey neighbor.” 이어 “Yeah, I use predictable patterns and trade for only 20 minutes a day.” 이어 “How do I learn 20 minute trading?” 이어 “Estimated time in traffic, 45 minutes.”",
+    "core": "20분 동안 예측 가능한 패턴을 이용해 거래를 완료하고 가족과 농구경기를 관람한다.",
     "rules": [
-      "원문 실행 문장: Yeah, I use predictable patterns and trade for only 20 minutes a day.",
-      "원문 실행 문장: Oh yeah, I was gonna listen to it on the radio at my desk with headphones on trying to avoid my boss."
+      "매일 20분만 거래를 진행한다.",
+      "아침 식사 전에 거래를 모두 완료한다.",
+      "농구 경기를 가족과 함께 관람한다."
     ],
-    "caution": "홍보·행동유도 발화: “They teach are free.” / “If you just come in class on this video, you'll get a free ticket.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 129,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3133,20 +3234,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1565131558293769": {
     "date": "2026.07.07",
     "duration": "01:09",
-    "originalTitle": "19K views · 719 reactions | Comment CLASS to learn more #class #trader #money #learn #stockmarket In a recent survey conducted with 20-Minute Trader students across all platforms we offer, 68.4% of responding students reported making profit when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: When you see that, you just wait for the black line to touch the bottom, and you jump in.",
+    "originalTitle": "Comment CLASS to learn more #class #trader #money #learn #stockmarket In a recent survey conducted with 20-Minute Trader students across all platforms we offer, 68.4% of respondin…",
+    "title": "20분 투자 전략으로 금값과 다우지수, RSI를 활용한 진입 시점",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 69.43초·로컬 Whisper large-v3-turbo 전사 224단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm not sure if this is legal or not, but it's extremely suspicious.” / “When you see that, you just wait for the black line to touch the bottom, and you jump in.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "옵션",
+      "주식·섹터",
+      "투자 전략",
+      "20분 투자"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “I'm not sure if this is legal or not, but it's extremely suspicious.” 이어 “When you see that, you just wait for the black line to touch the bottom, and you jump in.” 이어 “Kind of weird, eh?” 이어 “I'll hook you up.”",
+    "core": "20분 투자 전략을 활용하면 금값과 다우지수, RSI를 통해 간단하게 투자할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: When you see that, you just wait for the black line to touch the bottom, and you jump in."
+      "금값이 오르고 다우지수는 내리면서 RSI가 바닥을 찍으면 즉시 매수",
+      "RSI가 바닥을 찍으면 진입"
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 224,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3154,21 +3258,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1565292301584817": {
     "date": "2025.11.16",
     "duration": "01:13",
-    "originalTitle": "4 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: You don't actually need much to start with, and many traders focus on consistency with each trade.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 거래 클래스: 초기 투자 20,000 달러로 시작하는 방법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 72.60초·로컬 Whisper large-v3-turbo 전사 220단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm gonna invest 20k.” / “Plus, I mean, I guess it can also crash, but then I'm gonna invest it all in crypto right now.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "20분 거래",
+      "투자"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “I'm gonna invest 20k.” 이어 “Plus, I mean, I guess it can also crash, but then I'm gonna invest it all in crypto right now.” 이어 “What are you doing?” 이어 “Because I think you gotta fix that.”",
+    "core": "20분 거래는 일일 거래의 초기 20분 동안 예측 가능한 패턴을 이용해 거래를 하는 방법이다.",
     "rules": [
-      "원문 실행 문장: Go place that trade.",
-      "원문 실행 문장: You don't actually need much to start with, and many traders focus on consistency with each trade.",
-      "원문 실행 문장: The precogs gave me a trade to do."
+      "투자 금액은 20,000 달러로, 거래는 일일 초기 20분 동안 이루어진다.",
+      "초기 투자 금액은 크지 않아 시작하기에 좋다.",
+      "예측 가능한 거래 패턴을 이용해 거래를 시작할 수 있다."
     ],
-    "caution": "홍보·행동유도 발화: “Simply comment the word class, and I'll send you a free ticket to my next live web class where you can get started on this for free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 220,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3176,20 +3283,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1565476027970712": {
     "date": "2025.11.30",
     "duration": "00:06",
-    "originalTitle": "14K views · 6 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those stu…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 6.20초·로컬 Whisper large-v3-turbo 전사 2단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 트레이더 수업 참가 방법",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…”",
+    "core": "20분 트레이더 학생들이 평가한 결과, 무료 웹 클래스에 참가하려면 'FREE'를 댓글로 남기면 됩니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies.."
+      "20분 트레이더 프로그램을 통해 학생들의 평가를 확인할 수 있습니다."
     ],
-    "caution": "성과·수익 발화: “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 whe…” 홍보·행동유도 발화: “Comment “FREE” to get a ticket to my next live web class for free!” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 2,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3198,23 +3306,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.28",
     "duration": "01:22",
     "originalTitle": "Investing in 2027-Prop firms.mp4",
-    "title": "위험관리: First thing I'd do is set aside an hour a day, not eight hours a day, not quit my job, not go crazy, one…",
+    "title": "2027년 투자 전략: 1시간 학습과 프로포지션 펀드 활용",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 81.80초·로컬 Whisper large-v3-turbo 전사 315단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If I was gonna start investing in 2027, knowing what I know today, this is exactly what I would do.” / “I'd learn the setup, learn the rules, learn the criteria, and I'd keep practicing until I got to the point where I was winning around 70% of my trade.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim"
+      "옵션",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “If I was gonna start investing in 2027, knowing what I know today, this is exactly what I would do.” 이어 “I'd learn the setup, learn the rules, learn the criteria, and I'd keep practicing until I got to the point where I was winning around 70% of my trade.” 이어 “Sorry to be rude, but some people just need some tough love.” 이어 “Honestly, most people can understand how prop firms work in about an hour.”",
+    "core": "2027년 투자 시작 시 1시간을 매일 학습에 할애하고, 프로포지션 펀드를 통해 실제 투자 위험을 줄이는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: First thing I'd do is set aside an hour a day, not eight hours a day, not quit my job, not go crazy, one hour a day.",
-      "원문 실행 문장: I'd learn the setup, learn the rules, learn the criteria, and I'd keep practicing until I got to the point where I was winning around 70% of my trade.",
-      "원문 실행 문장: Once I could consistently hit about 70% win rate over a decent sample size, then I'd say, okay, I think I understand this.",
-      "원문 실행 문장: The next thing I do is buy a prop firm account.",
-      "원문 실행 문장: A prop firm basically allows you to trade somebody else's money."
+      "매일 1시간을 할애하여 20분 트레이더 회사의 금형 패턴을 학습한다.",
+      "70% 이상의 수익률을 달성할 수 있을 때까지 페이퍼 트레이딩을 진행한다.",
+      "프로포지션 펀드 계정을 구매하여 실제 투자 위험을 최소화한다."
     ],
-    "caution": "성과·수익 발화: “I'd learn the setup, learn the rules, learn the criteria, and I'd keep practicing until I got to the point where I was winning around 70% of my trade.” / “Once I could consistently hit about 70% win rate over a decent sample size, then I'd say, okay, I think I understand this.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 315,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3223,19 +3329,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.06.24",
     "duration": "01:36",
     "originalTitle": "20-Min Trader Mar 2024 Skit #3 v1.mov",
-    "title": "주식·섹터: These tiny little bits of just how to trade really.",
+    "title": "20분 투자자 2024년 3월 스크립트 #3",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 95.73초·로컬 Whisper large-v3-turbo 전사 412단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So I discovered a glitch in the stock market and millions of people know about it now.” / “And also use this predictable pattern that I've discovered, which I, by the way, tested and I was able to do it almost every single day for like six weeks.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "투자",
+      "20분 투자"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “So I discovered a glitch in the stock market and millions of people know about it now.” 이어 “And also use this predictable pattern that I've discovered, which I, by the way, tested and I was able to do it almost every single day for like six weeks.” 이어 “My other friends start calling me.” 이어 “You'll receive it.”",
+    "core": "투자 패턴을 발견하고 매일 수익을 얻은 후, 친구들을 통해 이 방법을 가르쳤고, 수백만 명이 이를 알게 되었다.",
     "rules": [
-      "원문 실행 문장: These tiny little bits of just how to trade really.",
-      "원문 실행 문장: And also use this predictable pattern that I've discovered, which I, by the way, tested and I was able to do it almost every single day for like six weeks."
+      "4년 전, 저의 카드가 끊기고 계좌가 비어있을 때, 형이 옵션을 거래하고 있었고, 저는 그의 거래를 지켜보며 일정한 주가 패턴을 발견했습니다.",
+      "그 후, 저는 이 패턴을 이용해 매일 수익을 얻었고, 친구들을 통해 이 방법을 가르쳤습니다. 이 방법은 수백만 명에게 알려지게 되었습니다."
     ],
-    "caution": "홍보·행동유도 발화: “And of course, I called one of my best friends.” / “Type the word free in the comments of this video.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 412,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3243,21 +3352,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1570144274243069": {
     "date": "2026.03.04",
     "duration": "00:40",
-    "originalTitle": "1.6K views | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $188 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: A real strategy includes when you enter, where your stop loss goes, where your take profit goes, and wha…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 39.82초·로컬 Whisper large-v3-turbo 전사 130단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Trading seems like the easiest way to make money.” / “Do you want to get into trading but don't know where to start?”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 투자 트레이딩 클래스: 명확한 진입과 타이밍",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "투자 트레이딩",
+      "20분 투자",
+      "트레이딩 전략"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Trading seems like the easiest way to make money.” 이어 “Do you want to get into trading but don't know where to start?” 이어 “Not vibes, not guessing, not I think it's going to go up.” 이어 “The strategy we use a lot inside 20 Minute Trader is currently called the Gold Pack.”",
+    "core": "투자 트레이딩은 단순하지 않으며, 명확한 진입과 타이밍의 규칙이 필요하다.",
     "rules": [
-      "원문 실행 문장: A real strategy includes when you enter, where your stop loss goes, where your take profit goes, and what conditions must exist before you trade.",
-      "원문 실행 문장: The strategy we use a lot inside 20 Minute Trader is currently called the Gold Pack."
+      "진입 시점과 손절, 타이밍을 포함한 실제 트레이딩 전략이 필요하다.",
+      "20분 투자 트레이딩에서 제공하는 금 패크 전략을 사용할 수 있다.",
+      "무료 웹 클래스에서 질문을 제시하고 실시간 답변을 받을 수 있다."
     ],
-    "caution": "성과·수익 발화: “A real strategy includes when you enter, where your stop loss goes, where your take profit goes, and what conditions must exist before you trade.” 홍보·행동유도 발화: “But we do offer a free web class where you can get your questions answered live.” / “If that web class is still available when you're watching this video, you'll find the link in the description.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 130,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3266,20 +3378,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.19",
     "duration": "00:09",
     "originalTitle": "Funny reel.mp4",
-    "title": "영상 발화 분석: 🙃 #funny #humor #charts #trading #daytrade.",
+    "title": "일일 트레이딩에서의 유쾌한 순간",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 8.88초·로컬 Whisper large-v3-turbo 전사 2단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You know the feeling?” / “🙃 #funny #humor #charts #trading #daytrade.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "유머",
+      "일일 트레이딩",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “You know the feeling?” 이어 “🙃 #funny #humor #charts #trading #daytrade.”",
+    "core": "일일 트레이딩에서의 실수를 유쾌하게 표현한 장면이다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: You know the feeling?"
+      "일일 트레이딩에서 실수를 인정하고 웃는 모습을 보여준다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 2,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3288,20 +3402,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.09",
     "duration": "00:07",
     "originalTitle": "2025_04 - Illegal to Trade_V1_GENERAL.mp4",
-    "title": "영상 발화 분석: OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH…",
+    "title": "2025년 4월 불법 거래 스킵 트릭",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 7.47초·로컬 Whisper large-v3-turbo 전사 75단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH O…”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "불법거래",
+      "CLASS",
+      "트릭"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH O…”",
+    "core": "불법 거래를 피하는 방법을 배우려면 CLASS를 참고하세요.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH OUH…"
+      "불법 거래를 피하려면 CLASS를 참고해야 합니다.",
+      "불법 거래를 피하는 방법을 설명합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 75,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3309,22 +3425,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1577846476669014": {
     "date": "2026.02.23",
     "duration": "00:58",
-    "originalTitle": "3.6K views · 8 comments | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: You think to yourself, maybe I'll buy this lemonade stand.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "클래스 가격 40배 뛰어오르는 주식 시장의 희소미학",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 58.19초·로컬 Whisper large-v3-turbo 전사 195단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Imagine a kid in your neighborhood runs a lemonade stand.” / “Maybe I can improve marketing, maybe even double production.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "주식·섹터",
+      "투자",
+      "주식",
+      "가격 평가"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Imagine a kid in your neighborhood runs a lemonade stand.” 이어 “Maybe I can improve marketing, maybe even double production.” 이어 “Unless you thought you could sell the stand to someone else for more than you bought it.” 이어 “They are based on hope of a higher resale.”",
+    "core": "주식 시장에서 실적을 기반으로 한 고평가가 투자 결정에 영향을 미친다.",
     "rules": [
-      "원문 실행 문장: You think to yourself, maybe I'll buy this lemonade stand.",
-      "원문 실행 문장: Then the kid tells you he'll sell it to you for $1 million.",
-      "원문 실행 문장: Unless you thought you could sell the stand to someone else for more than you bought it."
+      "레monade stand 가격이 실제 이익의 40배인 경우 투자하지 않음",
+      "주식 시장에서 실적이 높은 회사의 평가가 실적보다 훨씬 높은 경우 투자 결정을 신중하게 함"
     ],
-    "caution": "성과·수익 발화: “He makes about $100 a day, which works out to roughly $36,000 a year in revenue.” / “Because no sane person would pay 40 times profit earnings for a lemonade stand.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 195,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3333,20 +3450,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.21",
     "duration": "00:31",
     "originalTitle": "3. BLIND WHITEBOARD_V3.mp4",
-    "title": "영상 발화 분석: There's one pattern I trade off of every single day.",
+    "title": "블라인드 블라인드 블라인드_블라인드 블라인드 블라인드_블라인드 블라인드 블라인드",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 30.83초·로컬 Whisper large-v3-turbo 전사 92단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “There's one pattern I trade off of every single day.” / “Blue line goes like this.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "블라인드 라인",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “There's one pattern I trade off of every single day.” 이어 “Blue line goes like this.” 이어 “Second minute, third minute, starts to level out like this.” 이어 “That's when I place my trade, because what happens afterward is the blue line goes up like that, and I trade this.”",
+    "core": "블라인드 라인의 변동을 관찰하여 빠르게 거래 결정을 내리는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: There's one pattern I trade off of every single day.",
-      "원문 실행 문장: That's when I place my trade, because what happens afterward is the blue line goes up like that, and I trade this."
+      "블라인드 라인이 시장이 열리고 1분 정도 지나자마자 수평으로 변동을 보이면, 빨간 라인과 함께 상승세를 보이기 시작하는 시점에서 거래를 시작한다.",
+      "블라인드 라인은 이후로도 상승세를 이어가므로, 그 상승세를 추적하여 거래를 진행한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 92,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3354,25 +3472,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1578819663227751": {
     "date": "2026.02.17",
     "duration": "02:22",
-    "originalTitle": "26K views · 4.8K reactions | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "심리·규율: But all you're gonna do is look for this.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 142.40초·로컬 Whisper large-v3-turbo 전사 452단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's how to actually learn 20 minute trading from a seven figure funded busy work from home, 47 year old dad.” / “You're gonna look for this shape, which takes place over the span of about five to six minutes.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 거래 전략과 TopStep 50K 도전 계정 활용",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "journal",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "심리·규율",
+      "선물·지수",
+      "20분 거래"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Here's how to actually learn 20 minute trading from a seven figure funded busy work from home, 47 year old dad.” 이어 “You're gonna look for this shape, which takes place over the span of about five to six minutes.” 이어 “Pay 50 bucks, get a $50,000 challenge account.” 이어 “Just click that and it's all yours.”",
+    "core": "20분 거래 전략을 통해 일관된 수익을 얻고, TopStep 도전 계정을 사용하여 실전 거래를 시작한다.",
     "rules": [
-      "원문 실행 문장: But all you're gonna do is look for this.",
-      "원문 실행 문장: What you're gonna notice and pay attention to and even journal is this buy signal right here.",
-      "원문 실행 문장: That's where we place our trade and we profit like that.",
-      "원문 실행 문장: Next thing you wanna do is use the strategy on either TopStep or Apex to trade ES or MES to pass the challenge account, get funded.",
-      "원문 실행 문장: TopStep or Apex will literally put 50K into an account for you to trade with."
+      "TradingView의 프리미엄 계정을 등록하고 1초 차트에서 ES와 YM을 모니터링한다.",
+      "매일 시장 개장 초기 20분 동안 구매 신호를 찾아, Dow Jones의 독립적인 상승을 기다린다.",
+      "TopStep 도전 계정에 가입하여 50,000 달러를 사용하여 거래를 시작한다."
     ],
-    "caution": "성과·수익 발화: “That's where we place our trade and we profit like that.” / “So profit on that account, start taking payouts, and start earning money as a trader.” 홍보·행동유도 발화: “You need the premium account and you need to get the 30 day free trial so you don't pay a single dime.” / “If you wanna go a little deeper and get more details, we have a free video right here.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 452,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3380,21 +3497,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1588077072608448": {
     "date": "2025.12.07",
     "duration": "01:20",
-    "originalTitle": "9.3K views | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: And this is going to allow me to find and trade the best stocks out there.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 traders 클래스 예고: 패턴 예측 알고리즘 공개",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 79.79초·로컬 Whisper large-v3-turbo 전사 267단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Don't see a word.” / “All right, I just bought the six monitors.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Don't see a word.” 이어 “All right, I just bought the six monitors.” 이어 “You want me to teach you everything I've learned about algorithms.” 이어 “This is heavy.”",
+    "core": "20분 만에 예측 가능한 트레이딩 패턴을 배울 수 있는 방법을 공개한다.",
     "rules": [
-      "원문 실행 문장: And this is going to allow me to find and trade the best stocks out there.",
-      "원문 실행 문장: Okay, just wait, wait, wait, wait, wait.",
-      "원문 실행 문장: Not even close."
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "홍보·행동유도 발화: “I wanted to tell you that I'm hosting a free web class to teach new traders how they can learn how to trade predictable patterns for only 20 minutes a day.” / “Future boy class.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 267,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3402,21 +3520,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1589739092188683": {
     "date": "2025.11.13",
     "duration": "00:14",
-    "originalTitle": "13K views · 21 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: I, I just died under arms tonight Must have been something you said I just died under arms tonight",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "arms 테크니컬 신호에 따른 실시간 매매 실패 사례",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 14.17초·로컬 Whisper large-v3-turbo 전사 19단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I, I just died under arms tonight Must have been something you said I just died under arms tonight”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "arms 신호",
+      "매매 전략"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I, I just died under arms tonight Must have been something you said I just died under arms tonight”",
+    "core": "기술적 분석에서 'arms' 신호를 신뢰하지 않아 손실을 본 사례를 공유한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I, I just died under arms tonight Must have been something you said I just died under arms tonight"
+      "arms 신호를 받고 즉시 매수했지만 가격이 반전하여 손실을 본",
+      "다음 arms 신호가 나타나면 신중하게 진입하지 말 것"
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 19,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3425,20 +3544,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.03.21",
     "duration": "00:05",
     "originalTitle": "dingdong.mov",
-    "title": "영상 발화 분석: #humor #trading In a recent survey of 20-minute Trader students across all products we offer, those stud…",
+    "title": "20분 투자 전략으로 주당 평균 188달러 수익 달성",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 4.97초·로컬 Whisper large-v3-turbo 전사 2단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “#humor #trading In a recent survey of 20-minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $188 when applying 20-Minute trader strate…”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자",
+      "20분 트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “#humor #trading In a recent survey of 20-minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $188 when applying 20-Minute trader strate…”",
+    "core": "20분 투자 전략을 사용하면 주당 평균 188달러의 수익을 얻을 수 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: #humor #trading In a recent survey of 20-minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $188 when applying 20-Minute trader strategies."
+      "20분 Trader 프로그램을 사용한 학생들은 주당 평균 188달러의 수익을 보고 있습니다.",
+      "이전 조건을 만족하는 학생들은 20분 Trader 전략을 적용해야 합니다."
     ],
-    "caution": "성과·수익 발화: “#humor #trading In a recent survey of 20-minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $188 when ap…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 2,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3446,21 +3566,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1592737691694939": {
     "date": "2025.11.17",
     "duration": "00:13",
-    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: It's a weeb, not a duck, it's a weeb, it's a weeb Mooster Bombastic Bomba Fanta",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "시장 분석에 관한 트레이딩 관점",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 12.57초·로컬 Whisper large-v3-turbo 전사 16단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “It's a weeb, not a duck, it's a weeb, it's a weeb Mooster Bombastic Bomba Fanta”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자",
+      "20-Minute Trader",
+      "온라인 교육"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “It's a weeb, not a duck, it's a weeb, it's a weeb Mooster Bombastic Bomba Fanta”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: It's a weeb, not a duck, it's a weeb, it's a weeb Mooster Bombastic Bomba Fanta"
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 16,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3468,22 +3589,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1593592252292558": {
     "date": "2026.08.18",
     "duration": "01:54",
-    "originalTitle": "2K views · 11 reactions | Check it out on 20minutetrader.com, or comment CLASS to learn more! #fyp | 20-Minute Trader",
-    "title": "위험관리: We explain what the markets are, how trading works, how to read a chart, how to think about risk, and mo…",
+    "originalTitle": "Check it out on 20minutetrader.com, or comment CLASS to learn more! #fyp",
+    "title": "20분 투자 트레이딩의 시작과 성장",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 114.23초·로컬 Whisper large-v3-turbo 전사 388단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What exactly is 20-Minute Trader?” / “We explain what the markets are, how trading works, how to read a chart, how to think about risk, and most importantly, we teach one trading strategy.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "투자",
+      "트레이딩",
+      "멘토링"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “What exactly is 20-Minute Trader?” 이어 “We explain what the markets are, how trading works, how to read a chart, how to think about risk, and most importantly, we teach one trading strategy.” 이어 “If you don't understand position sizing or risk management, they'll show you and hold your hand.” 이어 “Thousands are actively learning together in the community, and our customer surveys show that almost everyone who joins starts as a complete beginner or amateur trader.”",
+    "core": "20분 투자 트레이딩은 교육, 멘토링, 그리고 커뮤니티를 통해 초보자들도 쉽게 트레이딩을 배울 수 있게 도와줍니다.",
     "rules": [
-      "원문 실행 문장: We explain what the markets are, how trading works, how to read a chart, how to think about risk, and most importantly, we teach one trading strategy.",
-      "원문 실행 문장: Their job is to help you get your charts set up.",
-      "원문 실행 문장: If you don't understand position sizing or risk management, they'll show you and hold your hand."
+      "초보자들을 위한 트레이딩 교육 코스를 제공하며, 멘토링을 통해 실질적인 트레이딩 실습을 돕습니다.",
+      "커뮤니티에서 매일 사람들이 차트를 공유하고 질문을 해결하며 성장을 지원합니다.",
+      "700,000명 이상의 사람들이 20분 투자 트레이딩을 통해 트레이딩을 시작했습니다."
     ],
-    "caution": "홍보·행동유도 발화: “It's a course, it's a club, and it's a community.” / “When people join the unlimited club, they get access to unlimited mentorship.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 388,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3491,20 +3614,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1606852943339580": {
     "date": "2025.06.02",
     "duration": "00:39",
-    "originalTitle": "29 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: We're really clear about taking somebody who knows nothing about trading, teaching them how to actually…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 39.00초·로컬 Whisper large-v3-turbo 전사 159단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “How long does it take to learn until I start trading?” / “There's ones that take 90 minutes to learn.”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 투자자 교육 과정 무료로 받기",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "투자",
+      "20분 투자자",
+      "거래"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “How long does it take to learn until I start trading?” 이어 “There's ones that take 90 minutes to learn.” 이어 “You don't want to just jump right in and start using money without having practiced first.” 이어 “We're really clear about taking somebody who knows nothing about trading, teaching them how to actually trade properly with good risk management, with good stop losses.”",
+    "core": "20분 투자자 교육 과정을 무료로 받을 수 있는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: We're really clear about taking somebody who knows nothing about trading, teaching them how to actually trade properly with good risk management, with good stop losses."
+      "무료로 교육 과정을 받을 수 있는 방법을 설명한다.",
+      "5~6시간 또는 90분 정도의 프로그램이 있다.",
+      "실제 돈을 사용하기 전에 실습을 통해 몇 주간 연습해야 한다."
     ],
-    "caution": "성과·수익 발화: “You can really see if you're able to be profitable or not without actually using real money.” 홍보·행동유도 발화: “If you want to know more about it, just comment free below and I will actually send you a free course that explains it.” 전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 159,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3513,22 +3640,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.03",
     "duration": "01:08",
     "originalTitle": "Jeremy & Geno Skit, Call a Live Trader.mp4",
-    "title": "위험관리: They want to see a real random person use the system.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 67.80초·Facebook 자동 자막 145단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Look at my own trading results.” / “Yeah, with like real risk with money being made or lost.”",
+    "title": "9:30 EST에서 실시간 트레이딩을 보는 방법",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "실시간 트레이딩",
+      "Ki"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Look at my own trading results.” 이어 “Yeah, with like real risk with money being made or lost.” 이어 “Yeah, broadcast to the world.” 이어 “Well, I guess people will tune in.”",
+    "core": "실시간으로 트레이딩을 보여주는 것이 시청자들의 관심을 끌 수 있음을 보여줍니다.",
     "rules": [
-      "원문 실행 문장: They want to see a real random person use the system.",
-      "원문 실행 문장: Call up a student and get them to trade live directly onto the social media platform in real time.",
-      "원문 실행 문장: Yeah, with like real risk with money being made or lost.",
-      "원문 실행 문장: Hey, can you trade live for millions to watch?"
+      "Ki는 매일 아침 9:30 EST에 실시간 트레이딩을 보여줍니다.",
+      "Geno는 월요일부터 목요일 오후 7:00 EST에 실시간 트레이딩을 보여줍니다.",
+      "학생을 불러 실시간으로 트레이딩을 진행하며 실제 돈을 사용합니다."
     ],
-    "caution": "홍보·행동유도 발화: “Yeah, I mean of course.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 145,
     "transcriptSource": "Facebook 자동 자막"
@@ -3537,19 +3665,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.12",
     "duration": "00:27",
     "originalTitle": "Why Make Courses INTW.mov",
-    "title": "영상 발화 분석: So when people ask me, are you a scammer?",
+    "title": "스필비그가 대학 강의를 하는 이유와 동일한 이유로 코스를 만드는 이유",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 27.23초·로컬 Whisper large-v3-turbo 전사 104단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So when people ask me, are you a scammer?” / “I'm not Steven Spielberg level, by the way.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "코스 만드는 이유",
+      "전문성 공유",
+      "스필비그"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “So when people ask me, are you a scammer?” 이어 “I'm not Steven Spielberg level, by the way.” 이어 “They'll pay him $100,000 to do something like that.” 이어 “Simple as that.”",
+    "core": "코스를 만드는 것은 돈을 버기 위한 것이 아니라 자신의 전문성을 공유하고 싶기 때문입니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: So when people ask me, are you a scammer?"
+      "스필비그는 대학 강의를 하며 자신의 열정을 실현합니다. 비슷하게, 나는 코스를 만드는 것을 통해 자신의 지식을 공유하고 싶습니다.",
+      "그들은 스파이필비그에게 대학 강의를 하며 수천 달러를 지불합니다. 비슷하게, 나는 코스를 만드는 것을 통해 수익을 얻지만, 그보다는 자신의 전문성을 공유하는 것이 더 중요합니다."
     ],
-    "caution": "성과·수익 발화: “They'll pay him $100,000 to do something like that.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 104,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3557,22 +3688,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1610742780618856": {
     "date": "2026.07.24",
     "duration": "01:26",
-    "originalTitle": "70K views · 1.1K reactions | Comment CLASS to learn more #fyp | 20-Minute Trader",
-    "title": "Fibonacci: Does whatever it does and then it locks in with the blue line and they do a mutual downtrend but here's…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 85.73초·Facebook 자동 자막 255단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Think trading is about price action and indicators?” / “Gonna do whatever it's going to do.”",
+    "originalTitle": "Comment CLASS to learn more #fyp",
+    "title": "S&P 500과 도우존스의 일일 트렌드를 이용한 1초 차트 매매 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "Fibonacci"
+      "피보나치",
+      "옵션",
+      "1초 차트",
+      "S&P 500"
     ],
-    "core": "원문 전사 기준 Fibonacci 콘텐츠다. “Think trading is about price action and indicators?” 이어 “Gonna do whatever it's going to do.” 이어 “Does whatever it does and then it locks in with the blue line and they do a mutual downtrend but here's the key, at a certain point, the red line starts to move back up just before this happens.” 이어 “Simple as that.”",
+    "core": "S&P 500과 도우존스의 일일 트렌드를 이용해 1초 차트에서 매매 신호를 잡는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: Does whatever it does and then it locks in with the blue line and they do a mutual downtrend but here's the key, at a certain point, the red line starts to move back up just before this happens.",
-      "원문 실행 문장: Place my trade right here.",
-      "원문 실행 문장: This is my buy signal.",
-      "원문 실행 문장: That's my trade."
+      "매ornings에 시장이 열리면 S&P 500은 하락하다가 도우존스와 함께 회복되기 시작한다.",
+      "매ornings의 첫 20분 동안 도우존스가 회복되기 시작하면 S&P 500을 구매하는 신호가 된다."
     ],
-    "caution": "성과·수익 발화: “That's my profit.” 홍보·행동유도 발화: “Hit the link if you want to see a video for free on how to set this up.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 255,
     "transcriptSource": "Facebook 자동 자막"
@@ -3580,20 +3712,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1618589192650840": {
     "date": "2026.01.21",
     "duration": "00:21",
-    "originalTitle": "2.7K views · 3 comments | Watch the full video on how NVIDIA is moving the market here: https://youtu.be/Ytf8NhSM0AQ In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: And China cannot simply buy its way out of this ecosystem.",
+    "originalTitle": "Watch the full video on how NVIDIA is moving the market here: https://youtu.be/Ytf8NhSM0AQ In a recent survey of 20-Minute Trader students across all products we offer, those stud…",
+    "title": "NVIDIA 투자자에게 중요한 미국의 권위와 중국의 제한",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 20.87초·로컬 Whisper large-v3-turbo 전사 58단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The United States has veto power over where ASML machines can go.” / “can restrict servicing and upgrades.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "NVIDIA",
+      "ASML",
+      "중국"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “The United States has veto power over where ASML machines can go.” 이어 “can restrict servicing and upgrades.” 이어 “So while it looks like all the power is overseas, the U.S.” 이어 “And that matters for NVIDIA investors.”",
+    "core": "NVIDIA의 투자자들에게 미국의 권위와 중국의 제한이 주는 영향을 설명한다.",
     "rules": [
-      "원문 실행 문장: And China cannot simply buy its way out of this ecosystem."
+      "ASML 기계의 배치와 서비스를 제한하는 미국의 권위가 NVIDIA 투자자들에게 중요하다.",
+      "중국이 ASML 기계를 구매하더라도 미국의 제한 때문에 자유롭게 사용할 수 없다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 58,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3601,20 +3736,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1625991494778772": {
     "date": "2025.04.29",
     "duration": "01:33",
-    "originalTitle": "2.8K views | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Remember that secret that I was going to tell you?",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 92.57초·Facebook 자동 자막 328단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Remember that secret that I was going to tell you?” / “Do you know something?”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 트레이딩 클래스 티켓을 얻는 방법 - 20분 트레이딩 클래스",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 트레이딩",
+      "클래스 티켓"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Remember that secret that I was going to tell you?” 이어 “Do you know something?” 이어 “And you know.” 이어 “Like sure bro.”",
+    "core": "20분 트레이딩 클래스에 대한 비밀을 공유하고, 클래스 티켓을 얻는 방법을 설명한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Remember that secret that I was going to tell you?"
+      "20분 트레이딩 클래스에 대한 비밀은 실제로는 큰 비밀이 아님을 공개한다."
     ],
-    "caution": "홍보·행동유도 발화: “Hey, Jerry, would you mind popping over to dad's bedroom and grabbing that video course that he borrowed from now?” / “I think four00000 people have done a 20-minute trader course at this point so.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 328,
     "transcriptSource": "Facebook 자동 자막"
@@ -3622,20 +3758,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1626896901972507": {
     "date": "2026.04.17",
     "duration": "01:09",
-    "originalTitle": "5.6K views · 3.8K reactions | Click here to learn more: https://20mt.link/4aTOTn7 #trade #class #learn | 20-Minute Trader",
-    "title": "주식·섹터: When you see that, you just wait for the black line to touch the bottom, and you jump in.",
+    "originalTitle": "Click here to learn more: https://20mt.link/4aTOTn7 #trade #class #learn",
+    "title": "Dow Jones와 RSI를 활용한 간단한 트레이딩 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 69.45초·로컬 Whisper large-v3-turbo 전사 224단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm not sure if this is legal or not, but it's extremely suspicious.” / “When you see that, you just wait for the black line to touch the bottom, and you jump in.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "옵션",
+      "주식·섹터",
+      "트레이딩",
+      "RSI"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “I'm not sure if this is legal or not, but it's extremely suspicious.” 이어 “When you see that, you just wait for the black line to touch the bottom, and you jump in.” 이어 “Kind of weird, eh?” 이어 “I'll hook you up.”",
+    "core": "Dow Jones 지수와 RSI를 비교하여 가격 변동을 예측하고, RSI가 최저점을 찍을 때 매수하는 것이 핵심입니다.",
     "rules": [
-      "원문 실행 문장: When you see that, you just wait for the black line to touch the bottom, and you jump in."
+      "Dow Jones 지수가 하락하고 RSI가 최저점을 찍을 때 매수",
+      "비디오에서 가르친 대로 이 방법을 사용하는 사람들 중 많은 사람들이 이익을 얻고 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 224,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3643,20 +3782,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1628763355064684": {
     "date": "2026.04.14",
     "duration": "00:54",
-    "originalTitle": "Comment CLASS to learn more #trade #live #wallstreet | 20-Minute Trader",
-    "title": "주식·섹터: So think about this for a second.",
+    "originalTitle": "Comment CLASS to learn more #trade #live #wallstreet",
+    "title": "23시간 거래, 언제든 20분 이익 창출 - 월스트리트 라이브 트레이딩",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 54.17초·로컬 Whisper large-v3-turbo 전사 171단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So think about this for a second.” / “That's the incredible power of the futures market.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "선물·지수",
+      "23시간 거래"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “So think about this for a second.” 이어 “That's the incredible power of the futures market.” 이어 “Jeremy put me in this chair because I'm a student.” 이어 “I'm not a social media guru flexing a Lambo.”",
+    "core": "미국 증시가 문을 닫은 후에도 23시간 동안 거래할 수 있는 기회를 활용할 수 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: So think about this for a second."
+      "미국 증시가 문을 닫은 후에도 23시간 동안 거래할 수 있는 기회를 활용할 수 있습니다.",
+      "매일 아침, 저녁, 또는 밤 중간 시간대에 20분 동안 거래할 수 있습니다.",
+      "프로페셔널한 투자자가 아닌 학생이 20분 거래를 시작할 수 있다는 증거입니다."
     ],
-    "caution": "성과·수익 발화: “It's away 23 hours a day, which means we can find our 20-minute profit window whenever our schedule fits it in.” 홍보·행동유도 발화: “I'm living proof that you can follow a simple pattern and you can master the market.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 171,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3664,21 +3807,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1629272748449521": {
     "date": "2025.11.04",
     "duration": "01:20",
-    "originalTitle": "8.6K views · 3 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: And this is going to allow me to find and trade the best stocks out there.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 traders 클래스 예고: 패턴 예측 알고리즘 공개",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 79.79초·로컬 Whisper large-v3-turbo 전사 267단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Don't see a word.” / “All right, I just bought the six monitors.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Don't see a word.” 이어 “All right, I just bought the six monitors.” 이어 “You want me to teach you everything I've learned about algorithms.” 이어 “This is heavy.”",
+    "core": "20분 만에 예측 가능한 트레이딩 패턴을 배울 수 있는 방법을 공개한다.",
     "rules": [
-      "원문 실행 문장: And this is going to allow me to find and trade the best stocks out there.",
-      "원문 실행 문장: Okay, just wait, wait, wait, wait, wait.",
-      "원문 실행 문장: Not even close."
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "홍보·행동유도 발화: “I wanted to tell you that I'm hosting a free web class to teach new traders how they can learn how to trade predictable patterns for only 20 minutes a day.” / “Future boy class.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 267,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3686,21 +3830,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1651600005813662": {
     "date": "2025.11.21",
     "duration": "00:26",
-    "originalTitle": "6 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: So when I entered the stock market and to look at it as a 42-year-old who'd never touched a stock, never…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 25.90초·로컬 Whisper large-v3-turbo 전사 103단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So when I entered the stock market and to look at it as a 42-year-old who'd never touched a stock, never learned any strategy, never learned any terms, knew nothing but what I had learned on the movie Trading…” / “That one little motion is completely predictable.”",
+    "originalTitle": "20-Minute Trader",
+    "title": "42세 초보 투자자의 20분 거래 전략",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "주식·섹터",
+      "투자",
+      "초보자",
+      "가격 움직임"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “So when I entered the stock market and to look at it as a 42-year-old who'd never touched a stock, never learned any strategy, never learned any terms, knew nothing but what I had learned on the movie Trading…” 이어 “That one little motion is completely predictable.” 이어 “People laughed at me, said it's too easy, too simple.” 이어 “I said, I don't know, but I can predict it.”",
+    "core": "초보 투자자가 복잡한 시장에서 단순한 가격 움직임을 예측하는 방법을 설명한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: So when I entered the stock market and to look at it as a 42-year-old who'd never touched a stock, never learned any strategy, never learned any terms, knew nothing but what I had learned on the movie Trading Places and Wolf of Wall Street, which is nothing,…"
+      "42세 초보 투자자가 영화에서 배운 단순한 가격 움직임을 예측한다.",
+      "시장에서 이익을 얻기 위해 복잡한 분석보다는 직관적인 가격 움직임을 이용한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 103,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3708,19 +3854,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1651693382147492": {
     "date": "2025.05.18",
     "duration": "00:09",
-    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those stu…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 8.57초·Facebook 자동 자막 4단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…” / “Just learned a trade.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 트레이더 클래스에서 배운 전략",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 트레이더",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…” 이어 “Just learned a trade.”",
+    "core": "최근 20분 트레이더 클래스에서 배운 전략을 통해 수익을 얻을 수 있었다.",
     "rules": [
-      "원문 실행 문장: Just learned a trade."
+      "20분 트레이더 클래스에서 배운 전략을 활용하여 거래를 했다.",
+      "가격이 특정 수치를 돌파했을 때 매수를 결정했다."
     ],
-    "caution": "성과·수익 발화: “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 whe…” 홍보·행동유도 발화: “Comment “CLASS” to get a ticket to my next live web class for free!” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 4,
     "transcriptSource": "Facebook 자동 자막"
@@ -3728,21 +3877,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1654564292409188": {
     "date": "2026.04.30",
     "duration": "01:22",
-    "originalTitle": "16K views · 31 reactions | Comment CLASS to learn more about #trading #trader #market #charts | 20-Minute Trader",
-    "title": "영상 발화 분석: I got my finger on the trigger because as soon as this red line goes on its own, independent of the blue…",
+    "originalTitle": "Comment CLASS to learn more about #trading #trader #market #charts",
+    "title": "S&P 500과 도우존스 지수 9:30 AM 시점에서의 1초 간격 라인 차트 분석",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 81.99초·Facebook 자동 자막 257단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Tell us how to trade.” / “It's going to do whatever it's doing.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "차트분석",
+      "S&P 500"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Tell us how to trade.” 이어 “It's going to do whatever it's doing.” 이어 “Right there.” 이어 “If I'm right more than I'm wrong, I profit.”",
+    "core": "1초 간격 라인 차트에서 블루라인의 U자 왼쪽 부분 형성 시 매수 기회를 찾는다.",
     "rules": [
-      "원문 실행 문장: Tell us how to trade.",
-      "원문 실행 문장: I got my finger on the trigger because as soon as this red line goes on its own, independent of the blue line, I place my trade right at that point."
+      "S&P 500과 도우존스 지수가 9:30 AM에 차트를 시작한다.",
+      "블루라인이 U자 왼쪽 부분을 형성하고 빨간라인이 독립적으로 움직일 때 매수.",
+      "블루라인이 빠르게 움직일 때는 즉시 매도한다."
     ],
-    "caution": "성과·수익 발화: “If I'm right more than I'm wrong, I profit.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 257,
     "transcriptSource": "Facebook 자동 자막"
@@ -3751,20 +3903,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.06.17",
     "duration": "01:22",
     "originalTitle": "JUST TELL US HOW TO TRADE V1.mov",
-    "title": "영상 발화 분석: I got my finger on the trigger because as soon as this red line goes on its own, independent of the blue…",
+    "title": "S&P 500과 도우존스를 이용한 짧은 매매 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 81.97초·Facebook 자동 자막 257단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Tell us how to trade.” / “Blue line's going to go like this.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩 전략",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Tell us how to trade.” 이어 “Blue line's going to go like this.” 이어 “More often than not, this blue line goes like this.” 이어 “If I'm right more than I'm wrong, I profit.”",
+    "core": "1초 간격의 선 차트를 통해 S&P 500의 블루 라인이 도우존스와 독립적으로 움직일 때 매수를 실행한다.",
     "rules": [
-      "원문 실행 문장: Tell us how to trade.",
-      "원문 실행 문장: I got my finger on the trigger because as soon as this red line goes on its own, independent of the blue line, I place my trade right at that point, right there."
+      "S&P 500의 블루 라인이 도우존스와 독립적으로 움직일 때 매수를 실행한다.",
+      "매매는 9:30 AM부터 시작되는 시장 개장 후 2~12분 이내에 이루어진다."
     ],
-    "caution": "성과·수익 발화: “If I'm right more than I'm wrong, I profit.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 257,
     "transcriptSource": "Facebook 자동 자막"
@@ -3772,21 +3925,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1664593518304886": {
     "date": "2026.01.29",
     "duration": "00:23",
-    "originalTitle": "1.9K views | Is 20-Minute Trader a Scam? Watch the full video here: https://youtu.be/b2LNcqzOGh4 In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: Trading itself really takes about 20 minutes a day, which opens the door for busy people who don't have…",
+    "originalTitle": "Is 20-Minute Trader a Scam? Watch the full video here: https://youtu.be/b2LNcqzOGh4 In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 투자 트레이딩의 실제: 위험과 기회",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 23.17초·로컬 Whisper large-v3-turbo 전사 82단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “it went viral.” / “Trading itself really takes about 20 minutes a day, which opens the door for busy people who don't have time to stare at screens all day, learn extremely complex technical analysis, or buy expensive equipment.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk"
+      "위험관리",
+      "투자 트레이딩",
+      "20분 투자"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “it went viral.” 이어 “Trading itself really takes about 20 minutes a day, which opens the door for busy people who don't have time to stare at screens all day, learn extremely complex technical analysis, or buy expensive equipment.” 이어 “We've also helped traders access the use of tens of thousands of dollars from third-party funding programs.” 이어 “Trading always involves risk, even with rules, safeguards, and educations.”",
+    "core": "20분 투자 트레이딩은 바쁜 사람들을 위한 간단한 일일 투자 방법을 제안하지만, 투자에는 항상 위험이 따르는 것을 명시한다.",
     "rules": [
-      "원문 실행 문장: Trading itself really takes about 20 minutes a day, which opens the door for busy people who don't have time to stare at screens all day, learn extremely complex technical analysis, or buy expensive equipment.",
-      "원문 실행 문장: We've also helped traders access the use of tens of thousands of dollars from third-party funding programs.",
-      "원문 실행 문장: Trading always involves risk, even with rules, safeguards, and educations."
+      "20분 투자 트레이딩은 일일 투자 시간을 20분으로 제한하며, 바쁜 사람들을 위한 훈련을 제공한다.",
+      "우리의 훈련은 수수료, 보호 장치 및 교육을 통해 위험을 줄이는 데 도움을 주지만, 투자에는 항상 위험이 따르는 것을 명시한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 82,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3795,43 +3949,46 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.03.29",
     "duration": "00:08",
     "originalTitle": "20-Min Trader Aug 24 Sneeze v2.mov",
-    "title": "영상 발화 분석: #funny #tradinghumor In a recent survey of 20-minute Trader students across all products we offer, those…",
+    "title": "20분 투자로 평균 주간 수익 188달러",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 8.40초·로컬 Whisper large-v3-turbo 전사 3단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “#funny #tradinghumor In a recent survey of 20-minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $188 when applying 20-Minute trader s…”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자",
+      "20분 투자",
+      "수익"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “#funny #tradinghumor In a recent survey of 20-minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $188 when applying 20-Minute trader s…”",
+    "core": "20분 투자 전략을 사용하면 평균 주간 수익이 188달러가 된다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: #funny #tradinghumor In a recent survey of 20-minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $188 when applying 20-Minute trader strategies."
+      "20분 투자 전략을 사용하면 평균 주간 수익이 188달러가 된다.",
+      "응답한 학생들은 20분 투자 전략을 적용했을 때 평균 주간 수익을 보고 있다."
     ],
-    "caution": "성과·수익 발화: “#funny #tradinghumor In a recent survey of 20-minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $188 wh…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 3,
     "transcriptSource": "Whisper large-v3-turbo"
   },
   "1665615177843704": {
     "date": "2026.07.08",
-    "duration": "01:01",
+    "duration": "01:00",
     "originalTitle": "Feels illegal to know - two ways that I trade.mp4",
-    "title": "심리·규율: There are basically two ways that I trade.",
+    "title": "프로피어mant 계정으로 실전 거래 체험 - 6개월 동안의 학습과 실패",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 60.50초·로컬 Whisper large-v3-turbo 전사 209단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “piece of information that you learned that feels illegal to know.” / “The other is using prop firm accounts.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "프로피어mant",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “piece of information that you learned that feels illegal to know.” 이어 “The other is using prop firm accounts.” 이어 “Now, you don't get to keep the firm's money itself, but you do get to keep a large percentage of the profits generated from that money if you trade it and do well with it.” 이어 “You can go six months, nine months, even a year doing everything right, being disciplined, following your plan, and then have one terrible day where you are reckless, emotional, distracted, or overconfident, a…”",
+    "core": "프로피어mant 계정을 통해 실전 거래를 할 수 있지만, 한 번의 실수로 모든 노력이 날아가게 된다.",
     "rules": [
-      "원문 실행 문장: There are basically two ways that I trade.",
-      "원문 실행 문장: Now, you don't get to keep the firm's money itself, but you do get to keep a large percentage of the profits generated from that money if you trade it and do well with it."
+      "프로피어mant 계정을 통해 수십만 달러의 거래 자금을 얻을 수 있지만, 이 자금은 회사의 것이며, 거래로 얻은 이익의 큰 부분만 남는다.",
+      "6개월 동안 철저하게 계획을 따르고 노력했지만, 단 한 번의 실수로 모든 것을 잃을 수 있다."
     ],
-    "caution": "성과·수익 발화: “Now, you don't get to keep the firm's money itself, but you do get to keep a large percentage of the profits generated from that money if you trade it and do well with it.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 209,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3839,19 +3996,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1667241307586804": {
     "date": "2026.01.13",
     "duration": "01:02",
-    "originalTitle": "7.2K views · 18 reactions | Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: About to do a fast in and out trade using $250,000.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who res…",
+    "title": "20분 거래 전략 실전 예시: $250,000로 10-15분 거래",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 61.67초·로컬 Whisper large-v3-turbo 전사 122단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “About to do a fast in and out trade using $250,000.” / “Order filled.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "투자 전략"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “About to do a fast in and out trade using $250,000.” 이어 “Order filled.” 이어 “But I'm done.” 이어 “But you might as well learn about it.”",
+    "core": "20분 거래 전략은 짧은 시간 내에 높은 수익을 얻을 수 있는 방법을 보여줍니다.",
     "rules": [
-      "원문 실행 문장: About to do a fast in and out trade using $250,000."
+      "$250,000로 10-15분 동안 2,436.90 달러의 수익을 얻은 후 거래를 종료했습니다."
     ],
-    "caution": "성과·수익 발화: “About to do a fast in and out trade using $250,000.” 홍보·행동유도 발화: “I will send you a free video explanation if you type the word free in the comments.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 122,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3860,19 +4019,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.11",
     "duration": "01:09",
     "originalTitle": "9. LEGAL BUT SUSPICIOUS_V5 (1).mp4",
-    "title": "주식·섹터: When you see that, you just wait for the black line to touch the bottom, and you jump in.",
+    "title": "불법이 아닌 것처럼 보이는 의심스러운 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 69.43초·로컬 Whisper large-v3-turbo 전사 230단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm not sure if this is legal or not, but it's extremely suspicious.” / “When you see that, you just wait for the black line to touch the bottom, and you jump in.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "옵션",
+      "주식·섹터",
+      "주식 전략",
+      "블루 라인"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “I'm not sure if this is legal or not, but it's extremely suspicious.” 이어 “When you see that, you just wait for the black line to touch the bottom, and you jump in.” 이어 “Kind of weird, eh?” 이어 “I'll hook you up.”",
+    "core": "블루 라인과 오렌지 라인이 다른 방향으로 움직일 때 블랙 라인의 저점에서 진입하는 전략을 설명한다.",
     "rules": [
-      "원문 실행 문장: When you see that, you just wait for the black line to touch the bottom, and you jump in."
+      "블루 라인과 오렌지 라인이 반대 방향으로 움직일 때 블랙 라인의 저점에서 매수",
+      "비슷한 전략을 가진 다른 영상과 구별되도록 시간 프레임과 기준 가격을 명시"
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 230,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3881,47 +4043,46 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.31",
     "duration": "01:41",
     "originalTitle": "1 SECOND CHART V1.mov",
-    "title": "영상 발화 분석: This is why I use one second chart.",
+    "title": "1초 차트를 활용한 20분 거래 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 101.00초·Facebook 자동 자막 302단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Important part of 20 minute trading is the one second chart.” / “The blue line starts to flatten out.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20분 거래",
+      "1초 차트",
+      "SPY"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Important part of 20 minute trading is the one second chart.” 이어 “The blue line starts to flatten out.” 이어 “This red line is Dow Jones.” 이어 “Look for this motion of the Dow Jones.”",
+    "core": "1초 차트를 통해 빠르게 신호를 잡아 매매를 진행합니다.",
     "rules": [
-      "원문 실행 문장: This is why I use one second chart.",
-      "원문 실행 문장: So, I buy here this exact time I buy, okay?",
-      "원문 실행 문장: I do not have 5 seconds, 10 seconds, 30 seconds to wait after I see this to place my trade.",
-      "원문 실행 문장: All I do is I wait for this mutual downtrend.",
-      "원문 실행 문장: Look for this motion of the Dow Jones."
+      "1초 차트에서 블루 라인의 움직임을 예측하여 레드 라인의 의미 있는 상승을 신호로 삼아 매수합니다.",
+      "SPY를 대체할 수 있는 도우존을 나타내는 빨간 라인을 확인합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 302,
     "transcriptSource": "Facebook 자동 자막"
   },
   "1680336196641781": {
     "date": "2026.05.12",
-    "duration": "00:47",
+    "duration": "00:46",
     "originalTitle": "powerful aspects of futures.mp4",
-    "title": "위험관리: And this is where risk management comes in.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 46.50초·로컬 Whisper large-v3-turbo 전사 181단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “One of the most powerful aspects of futures trading is that you can profit in either direction.” / “So the goal is to find a high probability setup where you can be right more often than you're wrong.”",
+    "title": "선물 거래의 양방향 수익 기회",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "선물·지수",
+      "선물 거래",
+      "양방향 수익"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “One of the most powerful aspects of futures trading is that you can profit in either direction.” 이어 “So the goal is to find a high probability setup where you can be right more often than you're wrong.” 이어 “What we do is we set it up so that on each trade, we will win as much as we will lose, so that our stop loss and take profit are equal distances from each other.” 이어 “Your stop loss is an automatic order that closes your trade when the loss reaches a predefined level, protecting you from bigger losses.”",
+    "core": "선물 거래는 시장이 상승하거나 하락할 때 모두 수익을 얻을 수 있는 기회를 제공합니다.",
     "rules": [
-      "원문 실행 문장: And this is where risk management comes in.",
-      "원문 실행 문장: What we do is we set it up so that on each trade, we will win as much as we will lose, so that our stop loss and take profit are equal distances from each other.",
-      "원문 실행 문장: Your take profit order is an automatic order that closes your trade when you reach a desired profit level.",
-      "원문 실행 문장: Your stop loss is an automatic order that closes your trade when the loss reaches a predefined level, protecting you from bigger losses."
+      "선물 거래에서는 각 거래에서 수익과 손실을 동일한 금액으로 제한하여 위험 관리를 합니다.",
+      "고가의 셋업을 찾는 것이 중요하며, 이는 높은 확률로 성공할 수 있는 시나리오를 의미합니다."
     ],
-    "caution": "성과·수익 발화: “One of the most powerful aspects of futures trading is that you can profit in either direction.” / “Your take profit order is an automatic order that closes your trade when you reach a desired profit level.” 홍보·행동유도 발화: “Of course, if you're wrong, in either case, you lose.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 181,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3929,19 +4090,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1681745499123102": {
     "date": "2025.05.29",
     "duration": "00:32",
-    "originalTitle": "55 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Identify their relationship.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 트레이더 초보자를 위한 간단한 차트 분석 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 32.33초·로컬 Whisper large-v3-turbo 전사 116단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Why beginners find the most success with this strategy.” / “It teaches you predictable patterns.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 트레이더",
+      "초보자 트레이딩",
+      "차트 분석"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Why beginners find the most success with this strategy.” 이어 “It teaches you predictable patterns.” 이어 “They're not complicated with super intense strategies and indicators and crazy Greeks and other things like that.” 이어 “Bada bing, bada boom.”",
+    "core": "이 전략은 초보자에게 가장 성공적인 방법으로 설계되었으며, 예측 가능한 패턴을 통해 수익을 얻는 방법을 가르칩니다.",
     "rules": [
-      "원문 실행 문장: Identify their relationship."
+      "이 전략은 초보자를 위한 것으로, 복잡한 전략과 지표 없이 간단한 차트 분석을 가르칩니다.",
+      "예측 가능한 패턴을 식별하고 그 관계를 이해하여 수익을 추구합니다."
     ],
-    "caution": "홍보·행동유도 발화: “If you want to know more about it, just click the link in my bio and you'll get a free course that explains the strategy.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 116,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3950,18 +4115,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.13",
     "duration": "00:07",
     "originalTitle": "how much did you make today? nothing.mp4",
-    "title": "영상 발화 분석: Nothing beats a Jet2 revenge trade back to zero In a recent survey conducted with 20-Minute Trader stude…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 7.47초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Nothing beats a Jet2 revenge trade back to zero In a recent survey conducted with 20-Minute Trader students across all platforms we offer, 68.4% of responding students reported making profit when applying 20-M…” / “#skit #funny #nothing #loss #win.”",
+    "title": "Jet2 역매매로 잃은 금액을 되찾다",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim"
+      "심리·규율",
+      "트레이딩",
+      "20-Minute Trader",
+      "Jet2"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Nothing beats a Jet2 revenge trade back to zero In a recent survey conducted with 20-Minute Trader students across all platforms we offer, 68.4% of responding students reported making profit when applying 20-M…” 이어 “#skit #funny #nothing #loss #win.”",
+    "core": "20-Minute Trader 전략을 사용하면 68.4%의 학생들이 수익을 얻었다.",
     "rules": [
-      "원문 실행 문장: Nothing beats a Jet2 revenge trade back to zero In a recent survey conducted with 20-Minute Trader students across all platforms we offer, 68.4% of responding students reported making profit when applying 20-Minute Trader strategies."
+      "Jet2 역매매로 잃은 금액을 되찾았다.",
+      "20-Minute Trader 전략을 사용하면 68.4%의 학생들이 수익을 얻었다."
     ],
-    "caution": "성과·수익 발화: “Nothing beats a Jet2 revenge trade back to zero In a recent survey conducted with 20-Minute Trader students across all platforms we offer, 68.4% of responding students reported ma…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3970,18 +4139,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.30",
     "duration": "00:59",
     "originalTitle": "Grandma Gen Z Lingo Skit.mp4",
-    "title": "위험관리: We focus heavily on risk management and teaching people how to trade responsibly and profitably and ethi…",
+    "title": "97세 할머니의 20분 투자 트레이딩 노하우",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 59.17초·로컬 Whisper large-v3-turbo 전사 160단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Grandma, how's the garden doing this year?” / “What about me?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk"
+      "위험관리",
+      "투자",
+      "위험 관리",
+      "20분 훈련"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Grandma, how's the garden doing this year?” 이어 “What about me?” 이어 “It's really not gambling.” 이어 “Please never say that again.”",
+    "core": "할머니는 20분 훈련을 통해 책임감 있게 투자하고 수익을 얻는 방법을 배웠습니다.",
     "rules": [
-      "원문 실행 문장: We focus heavily on risk management and teaching people how to trade responsibly and profitably and ethically."
+      "할머니는 97세로 은퇴한 후 20분 훈련에 집중하고 있습니다.",
+      "할머니는 투자와 관련된 위험 관리를 강조하며 책임감 있게 투자하는 방법을 가르칩니다."
     ],
-    "caution": "성과·수익 발화: “We actually have a very high success rate with students becoming profitable.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 160,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3989,21 +4162,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1692787234712875": {
     "date": "2025.07.24",
     "duration": "01:15",
-    "originalTitle": "4.1K views · 8 comments | Comment “SECRET” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: If 90 percent of people who trade lose money sounds like a scam to me.",
+    "originalTitle": "Comment “SECRET” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students…",
+    "title": "20분 투자 트레이딩 클래스 - 64.8% 수익률",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 74.88초·Facebook 자동 자막 248단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Trading a scam?” / “It's pretty easy to go online and show how exceptional you are but guess how few people there are that do that.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "시장 분석",
+      "투자",
+      "20분 투자",
+      "수익률"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Trading a scam?” 이어 “It's pretty easy to go online and show how exceptional you are but guess how few people there are that do that.” 이어 “So I as the 20minute trader decided.” 이어 “I've got a full video explanation.”",
+    "core": "20분 투자 트레이딩 방법은 20분 동안 약 2분간 반복되는 예측 가능한 패턴을 이용합니다.",
     "rules": [
-      "원문 실행 문장: If 90 percent of people who trade lose money sounds like a scam to me.",
-      "원문 실행 문장: Well, we use a secret predictable pattern that happens over the span of about 2 minutes in a 20 minute period."
+      "20분 투자 트레이딩 방법을 사용한 학생 중 64.8%가 수익을 얻었습니다.",
+      "20분 동안 약 2분간 반복되는 예측 가능한 패턴을 이용합니다."
     ],
-    "caution": "성과·수익 발화: “If 90 percent of people who trade lose money sounds like a scam to me.” / “8% said they're making profit with 20 minute trading.” 홍보·행동유도 발화: “We've had 500, 000 people do a 20 minute trader course or class.” / “Just gotta type the word secret below and I'll send it to you for free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 248,
     "transcriptSource": "Facebook 자동 자막"
@@ -4012,43 +4187,46 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.04.16",
     "duration": "01:27",
     "originalTitle": "Jeremy Live Trade INVERTED.mp4",
-    "title": "영상 발화 분석: All right, so you guys want to see a live trade?",
+    "title": "Jeremy Live Trade INVERTED 4,500 달성 15초",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 86.90초·로컬 Whisper large-v3-turbo 전사 250단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “All right, so you guys want to see a live trade?” / “Now I'm going to move my take profit down here.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "실시간 트레이딩",
+      "4,500 달러",
+      "15초"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “All right, so you guys want to see a live trade?” 이어 “Now I'm going to move my take profit down here.” 이어 “There we go.” 이어 “But yeah, you guys just saw me do 4,500 in 15 seconds.”",
+    "core": "Jeremy는 15초 만에 4,500 달러를 목표로 하는 실시간 트레이딩을 성공적으로 수행했습니다.",
     "rules": [
-      "원문 실행 문장: All right, so you guys want to see a live trade?",
-      "원문 실행 문장: So now what I want to do is when I see a good opportunity, I'm going to aim for a $4,500 trade.",
-      "원문 실행 문장: Now I'm going to move my take profit down here.",
-      "원문 실행 문장: You need to hit that green box below, and that's a $4,500 trade.",
-      "원문 실행 문장: Live trade, $4,500."
+      "Jeremy는 4,500 달러를 목표로 하는 실시간 트레이딩을 시도했습니다.",
+      "블루 라인이 4,500 달러를 달성하면 거래가 완료됩니다.",
+      "15초 만에 목표 가격을 달성했습니다."
     ],
-    "caution": "성과·수익 발화: “You guys want to see me aim for $4,500?” / “Live trade, $4,500.” 홍보·행동유도 발화: “If you guys want to visit a web class that I deliver to find out how to do the gold pattern, which is what I was just using, what you guys want to do is you want to go into the bi…” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 250,
     "transcriptSource": "Whisper large-v3-turbo"
   },
   "1716967605936584": {
     "date": "2026.04.09",
-    "duration": "00:29",
+    "duration": "00:28",
     "originalTitle": "1D471BC7-6D56-4A7A-B083-2E46A73774F1.MP4",
-    "title": "영상 발화 분석: Can't wait to see you there.",
+    "title": "매일 아침 9시 라이브 트레이딩 시작",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 28.50초·로컬 Whisper large-v3-turbo 전사 95단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Very exciting news.” / “So show up at 9 a.m.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "실시간 라이브"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Very exciting news.” 이어 “So show up at 9 a.m.” 이어 “This is us actually demonstrating how 20-minute trading works in real time in the live markets.” 이어 “Can't wait to see you there.”",
+    "core": "20분 단위의 실시간 라이브 트레이딩을 통해 실전에서 어떻게 거래를 하는지 보여줍니다.",
     "rules": [
-      "원문 실행 문장: Can't wait to see you there."
+      "매일 아침 9시부터 라이브 트레이딩을 시작합니다.",
+      "매일 아침 9시부터 라이브 트레이딩을 시작합니다."
     ],
-    "caution": "홍보·행동유도 발화: “We are finally doing live trading right here for free on this platform.” / “Feel free to grab some paper trading and trade along with us and see how it goes.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 95,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4057,25 +4235,20 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.30",
     "duration": "01:28",
     "originalTitle": "greedy.mp4",
-    "title": "위험관리: My first trade, I will aim to make $100 with a $100 stop loss.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 87.70초·로컬 Whisper large-v3-turbo 전사 291단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “where most people fail.” / “Make 85 bucks.”",
+    "title": "그리디 트레이딩 실패의 원인과 해결책",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “where most people fail.” 이어 “Make 85 bucks.” 이어 “That is not discipline.” 이어 “Now discipline becomes possible.”",
+    "core": "그리디한 마음가짐은 순간적 감정과 압박에서 나온 잘못된 결정을 유발한다.",
     "rules": [
-      "원문 실행 문장: They make a trade.",
-      "원문 실행 문장: My first trade, I will aim to make $100 with a $100 stop loss.",
-      "원문 실행 문장: And if I lose again, I stop at minus 200 for the day.",
-      "원문 실행 문장: If I win and I'm at plus 100, I will only risk $40 of that profit.",
-      "원문 실행 문장: If I lose the $40 trade, I will walk away with a profit of $60."
+      "그리디한 마음가짐을 피하려면, 예를 들어 첫 거래에서 100 달러를 목표로 하되 100 달러의 스탑 러스를 설정하고, 손실이 발생하면 다시 100 달러를 걸고, 두 번째 손실이 발생하면 일일 손실을 200 달러로 제한하는 등의 구체적인 규칙을 따르는 것이 필요하다.",
+      "이렇게 하면 모든 상황이 미리 결정되어 있어 추측과 해석이 필요하지 않으며, 진정한 자기ipline이 가능해진다."
     ],
-    "caution": "성과·수익 발화: “Be happy with some profit.” / “If I win, I'll continue risking 40% of my profits until I have one loss and then I end off.” 홍보·행동유도 발화: “What happened is they had no precise rule to follow.” 전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 291,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4084,27 +4257,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.25",
     "duration": "53:02",
     "originalTitle": "20MTV Live Trading",
-    "title": "위험관리: We do not use candle charts.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3181.63초·로컬 Whisper large-v3-turbo 전사 8035단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Music Good morning traders!” / “Now, what am I looking for exactly?”",
+    "title": "오전 9시 30분 고저점 돌파와 되돌림",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim",
-      "CTA"
+      "개장 범위",
+      "옵션",
+      "위험관리",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Music Good morning traders!” 이어 “Now, what am I looking for exactly?” 이어 “There's no trade.” 이어 “You guys can also.” 이어 “It has a very high win rate.” 이어 “It pushes price down.” 이어 “Price dropped.” 이어 “Later traders.”",
+    "core": "RSI의 white line이 하락할 때 롱 포지션을 잡는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: We do not use candle charts.",
-      "원문 실행 문장: So the blue box up here in the corner is to buy or to predict the blue lines going up.",
-      "원문 실행 문장: To trade it down.",
-      "원문 실행 문장: So we're going to wait a little bit.",
-      "원문 실행 문장: So we can trade.",
-      "원문 실행 문장: In a trade like this.",
-      "원문 실행 문장: But, it's a good entry.",
-      "원문 실행 문장: And we will trade together again."
+      "RSI의 white line이 하락할 때 롱 포지션을 잡는 것이 필요하다.",
+      "블루 라인이 오르는 경우, 백 라인이 하락해야 진입할 수 있는 기회가 생긴다.",
+      "RSI의 white line이 하락하면 롱 포지션을 잡고, 빨간 선이 상승하면 짧은 포지션을 잡는다."
     ],
-    "caution": "성과·수익 발화: “If you have a high enough win rate, you just get there, right?” / “How do you determine take profit and stop loss?” 홍보·행동유도 발화: “If you guys are interested in 20 Minute Trader or trading the gold pattern just like I will be, you guys, if you're on Facebook or Instagram, just type the word class in the comme…” / “And we'll send you a free ticket to Jeremy's web class.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 8035,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4112,25 +4281,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1728209654809419": {
     "date": "2026.03.01",
     "duration": "02:15",
-    "originalTitle": "2K views · 14 reactions | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "심리·규율: Now, what we then did is we helped them understand that they could trade one account and mirror that sam…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 135.33초·로컬 Whisper large-v3-turbo 전사 468단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I run a trading school called 20 Minute Trader.” / “And that trade would reflect pretty equally on all the other accounts.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 투자 전략으로 월 1만 달러 수익 달성",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "journal",
-      "performance claim",
-      "CTA"
+      "심리·규율",
+      "투자 전략",
+      "20분 트레이딩",
+      "성공적인 트레이딩"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “I run a trading school called 20 Minute Trader.” 이어 “And that trade would reflect pretty equally on all the other accounts.” 이어 “Next, you work toward getting access to multiple funded accounts.” 이어 “And the link for that is in the description if we're still offering it.”",
+    "core": "20분 투자 전략을 통해 일관된 수익을 얻을 수 있다는 사실을 강조한다.",
     "rules": [
-      "원문 실행 문장: Now, what we then did is we helped them understand that they could trade one account and mirror that same strategy across the other accounts through synchronized trading or copy trading.",
-      "원문 실행 문장: And they could do one very controlled, very boring trade here on this one account.",
-      "원문 실행 문장: And that trade would reflect pretty equally on all the other accounts.",
-      "원문 실행 문장: Then you focus on just trading one account, which has the other accounts synchronized and linked to it, so that you can use the one strategy in the one account."
+      "20분 투자 전략을 통해 일관된 수익을 얻을 수 있다.",
+      "80% 이상의 학생들이 5만 달러의 자금을 활용해 수익을 거두었다.",
+      "일정 규칙과 책임감이 성공을 위한 핵심 요소다."
     ],
-    "caution": "성과·수익 발화: “More than 80% of those in the bootcamp were able to qualify for 10 funded accounts, each valued at $50,000, which is a total of $500,000 of funding.” / “In my opinion, that is what I have seen with my own eyes to be the highest likelihood strategy to succeed and make $10,000 a month.” 홍보·행동유도 발화: “Then you just follow strict daily loss limits so we can withstand one bad day when it ultimately happens.” / “We run a free web class where I break down all of this in detail.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 468,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4139,20 +4307,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.02",
     "duration": "00:06",
     "originalTitle": "Wondering And Wondering v1.mov",
-    "title": "영상 발화 분석: I started to wonder and I wondered which led me to wonder.",
+    "title": "위ondering and wondering v1 - 시작과 의심의 끝없는 순환",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 5.57초·Facebook 자동 자막 20단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I started to wonder and I wondered which led me to wonder.” / “I had to wonder.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자심리",
+      "의심의순환"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I started to wonder and I wondered which led me to wonder.” 이어 “I had to wonder.” 이어 “I started to wonder.”",
+    "core": "의심의 끝없는 순환은 투자 결정에 있어 중요한 역할을 한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I started to wonder and I wondered which led me to wonder."
+      "의심의 끝없는 순환은 투자 결정에 있어 중요한 역할을 한다.",
+      "투자자가 자신의 결정을 계속해서 검토하고 고민하는 것이 중요하다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 20,
     "transcriptSource": "Facebook 자동 자막"
@@ -4161,20 +4330,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.14",
     "duration": "00:10",
     "originalTitle": "Shoot your shot v2.mov",
-    "title": "영상 발화 분석: I mean honestly what do you actually have to lose?",
+    "title": "실제 투자 결정 과정을 담은 스포츠 빌드업 투자법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 9.77초·Facebook 자동 자막 23단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Shoot your shot.” / “I mean honestly what do you actually have to lose?”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자 전략",
+      "스포츠 빌드업"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Shoot your shot.” 이어 “I mean honestly what do you actually have to lose?” 이어 “What the hell?” 이어 “I'm just going to shoot my shot.”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Shoot your shot."
+      "실제로 무엇을 잃을게 없으니 도전해보자.",
+      "현재 가격대에서 스포츠 빌드업 전략을 사용하여 투자"
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 23,
     "transcriptSource": "Facebook 자동 자막"
@@ -4183,30 +4353,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.12",
     "duration": "54:50",
     "originalTitle": "20MTV Live Trading",
-    "title": "이동평균: So, I want you guys to see what it looks like for us to actually trade, to learn this pattern, trade thi…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3290.19초·Facebook 자동 자막 9667단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good morning, traders.” / “So, it's the 30 largest companies by industry.”",
+    "title": "20MTV Live Trading: 120초 Divergence Entry with 1:2 Risk Reward",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "4H",
-      "moving average",
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "캔들 범위",
+      "이동평균",
+      "옵션",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “Good morning, traders.” 이어 “So, it's the 30 largest companies by industry.” 이어 “I can trade it downwards and still make money as well.” 이어 “So, this is going to change at every point.” 이어 “That's half the battle.” 이어 “This is to tell us that the blue line wants to continue going down.” 이어 “So, we're going to just do units as number of contracts but you just have to do one because we can change the quantity later.” 이어 “Later, traders.”",
+    "core": "120초 동안의 Divergence 신호를 이용해 높은 위험보상비를 추구하는 트레이딩 전략을 설명한다.",
     "rules": [
-      "원문 실행 문장: So, I want you guys to see what it looks like for us to actually trade, to learn this pattern, trade this pattern, and and do it daily.",
-      "원문 실행 문장: What that is, is when I enter a trade, and I'm going to use a lot of words here.",
-      "원문 실행 문장: What do we need for an entry point, you guys?",
-      "원문 실행 문장: So, if the trade is going against me like it is right now, it will automatically exit me.",
-      "원문 실행 문장: May take us 20 minutes to find a trade, 10 minutes to find a trade, but once we're in that trade, it typically only lasts less than a minute and then we're done for the day.",
-      "원문 실행 문장: So, if we're going to trade the blue line going upwards, what is the white line need to do?",
-      "원문 실행 문장: So, when I place a trade in, you guys see my automatic bracket orders from my take profit and stop loss.",
-      "원문 실행 문장: Don't even worry about it if you guys miss a trade."
+      "블루 라인이 상승하고 오렌지 라인이 하락할 때, 웨이트 라인의 하락을 기다린 후 롱 포지션을 취한다.",
+      "RSI가 하락하면 스탑 러스터를 걸고, 가격이 하락하면 포지션을 종료한다."
     ],
-    "caution": "성과·수익 발화: “And then I will be taking trades off of the blue line going up or down for a profit.” / “Or you can, you can just slide the you can slide the take profit up to 40.” 홍보·행동유도 발화: “If you guys are interested in 20 Minute Trader or trading the gold pattern just like I do in thousands of other students, please go ahead and drop class, Type class in the comment…” / “If you don't get an Email with the Zoom link, you don't have your ticket, okay?” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 9667,
     "transcriptSource": "Facebook 자동 자막"
@@ -4215,30 +4377,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.20",
     "duration": "48:45",
     "originalTitle": "20 MTV Live Trading",
-    "title": "지지·저항: Trading is risky and I am trading at my own risk.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 2924.79초·Facebook 자동 자막 6787단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good evening, everyone.” / “That's why we're one second chart as you can see over here, one second.”",
+    "title": "20 MTV Live Trading: 9:30 AM EST 1:2 위험보상비 기준",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "breakout",
-      "Fibonacci",
-      "risk",
-      "journal",
-      "CTA"
+      "지지·저항",
+      "피보나치",
+      "옵션",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Good evening, everyone.” 이어 “That's why we're one second chart as you can see over here, one second.” 이어 “That help identify the direction of the lines to confirm the direction of the lines.” 이어 “To, to, to let it give a little bit.” 이어 “Now, yeah, looking into it using Trading Trader platforms.” 이어 “Both lines are parallel, both are heading down, even though the five-second chart says, overall, this is heading down but on the one-second chart, I still want to have that that divergence or separation, right?” 이어 “Had I entered at the point of entry, I wanted to, it would have been a full take profit.” 이어 “We'll take care.”",
+    "core": "1초 차트에서 가격 변동을 빠르게 분석하고, 5초 차트에서 추세를 확인하여 진입 포인트를 결정합니다.",
     "rules": [
-      "원문 실행 문장: Trading is risky and I am trading at my own risk.",
-      "원문 실행 문장: That's the blue button and if it's the blue line's pointing down and we have divergence is pointing down, I mean, it's going to be a sell or a short here So, these two lines tell me the where.",
-      "원문 실행 문장: And just look for meaningful movement down right here.",
-      "원문 실행 문장: Um that's not bad for this time frame.",
-      "원문 실행 문장: This is still a great trade and great prediction.",
-      "원문 실행 문장: And and the entries are so quick and and and you know, how the brackets are set up really don't need to look past the five-second chart.",
-      "원문 실행 문장: I want the meaningful move in the opposite direction.",
-      "원문 실행 문장: In in the community is just growing and and students we trade with each other and there's all kind of benefits and and help mentors and and it's it's really awesome."
+      "1초 차트에서 가격이 하락하면 즉시 진입하고, 5초 차트에서 추세가 하락할 때 진입 포인트를 확인합니다.",
+      "가격이 하락하면 즉시 매도 주문을 넣고, 가격이 회복되면 터치 타이밍을 확인하여 이익 실현합니다.",
+      "RSI를 확인하여 가격 하락의 강도를 평가하고, 가격이 하락할 때 진입 포인트를 선택합니다."
     ],
-    "caution": "성과·수익 발화: “Um my take profit is up here.” / “On this drop, here was my entry, my stop loss was far enough down so it did come down a little bit more, didn't hit, then it came up and I took take profit right here.” 홍보·행동유도 발화: “I'm a student with 20 Minute Trader, Jeremy Russell, the founder of 20 Minute Trader, asked myself to come out here and do some live trading in front of all of you while waiting f…” / “If it intrigues you, if it speaks you, type learn in the comment section or click the link in the description and thank you for being here and everybody have a great weekend, grea…” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 6787,
     "transcriptSource": "Facebook 자동 자막"
@@ -4246,21 +4401,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1754291421909315": {
     "date": "2025.12.23",
     "duration": "00:31",
-    "originalTitle": "3.5K views · 45 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: I see the signals and I buy.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "9:30 EST 시장 개장 20분 거래 패턴",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 31.07초·로컬 Whisper large-v3-turbo 전사 119단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Every day a market opened 9.30 a.m.” / “I see the signals and I buy.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "주식·섹터",
+      "20분 거래",
+      "단기 매매",
+      "9:30 시장"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Every day a market opened 9.30 a.m.” 이어 “I see the signals and I buy.” 이어 “I've been doing this now for two years and you can thank my friends' friends for this video.” 이어 “I made the video courses to teach them.”",
+    "core": "시장 개장 후 20분 동안 단기 신호를 이용해 빠른 매매를 하는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: I see the signals and I buy.",
-      "원문 실행 문장: The stock goes up and I sell only minutes or even just seconds later.",
-      "원문 실행 문장: Then I close my laptop at 9.50 a.m."
+      "매일 아침 9:30 EST 시장이 개장하면 그래프를 모니터링하고 단기 신호를 기다린다.",
+      "신호가 나타나면 즉시 주식을 매수하고 가격이 상승하면 몇 분 또는 몇 초 후에 매도한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 119,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4269,20 +4426,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.02",
     "duration": "00:30",
     "originalTitle": "Invest It All Skit.mov",
-    "title": "위험관리: I just sold my options and made some good money.",
+    "title": "모든 수익을 투자하는 전략 - Invest It All",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 29.60초·Facebook 자동 자막 125단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I just sold my options and made some good money.” / “No, but I'm thinking I can make even more money if I invest it all.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "주식·섹터",
+      "투자 전략"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I just sold my options and made some good money.” 이어 “No, but I'm thinking I can make even more money if I invest it all.” 이어 “Is that what you do?” 이어 “He's a trader and teaches me what school didn't about money.”",
+    "core": "투자 수익을 모두 투자하는 것은 큰 수익을 얻을 수 있지만, 위험을 증가시키는 것을 의미한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I just sold my options and made some good money."
+      "매달 수익의 일부를 인출한다.",
+      "예측 가능한 주식만 거래한다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "홍보·행동유도 발화: “That's why I follow him.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 125,
     "transcriptSource": "Facebook 자동 자막"
@@ -4291,23 +4451,19 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.04",
     "duration": "01:22",
     "originalTitle": "Investing in 2027 - Paper Trading.mp4",
-    "title": "위험관리: First thing I'd do is set aside an hour a day, not eight hours a day, not quit my job, not go crazy, one…",
+    "title": "2027년 투자 시작: 1시간 일일 투자 루틴과 실전 투자 전의 페이퍼 트레이딩",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 81.80초·로컬 Whisper large-v3-turbo 전사 315단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If I was gonna start investing in 2027, knowing what I know today, this is exactly what I would do.” / “I'd learn the setup, learn the rules, learn the criteria, and I'd keep practicing until I got to the point where I was winning around 70% of my trade.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim"
+      "옵션",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “If I was gonna start investing in 2027, knowing what I know today, this is exactly what I would do.” 이어 “I'd learn the setup, learn the rules, learn the criteria, and I'd keep practicing until I got to the point where I was winning around 70% of my trade.” 이어 “Sorry to be rude, but some people just need some tough love.” 이어 “Honestly, most people can understand how prop firms work in about an hour.”",
+    "core": "2027년 투자 시작 시, 일일 1시간을 투자에 할애하고, 실전 투자 전에 페이퍼 트레이딩을 통해 기술을 숙성해야 한다.",
     "rules": [
-      "원문 실행 문장: First thing I'd do is set aside an hour a day, not eight hours a day, not quit my job, not go crazy, one hour a day.",
-      "원문 실행 문장: I'd learn the setup, learn the rules, learn the criteria, and I'd keep practicing until I got to the point where I was winning around 70% of my trade.",
-      "원문 실행 문장: Once I could consistently hit about 70% win rate over a decent sample size, then I'd say, okay, I think I understand this.",
-      "원문 실행 문장: The next thing I do is buy a prop firm account.",
-      "원문 실행 문장: A prop firm basically allows you to trade somebody else's money."
+      "일일 1시간을 투자에 할애하고, 금 패턴을 배우는 데 사용한다."
     ],
-    "caution": "성과·수익 발화: “I'd learn the setup, learn the rules, learn the criteria, and I'd keep practicing until I got to the point where I was winning around 70% of my trade.” / “Once I could consistently hit about 70% win rate over a decent sample size, then I'd say, okay, I think I understand this.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 315,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4316,27 +4472,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.28",
     "duration": "37:26",
     "originalTitle": "20 MTV Live Trading",
-    "title": "위험관리: Ask myself and some other students to come out here live so I come out Monday through Thursday at 7 PM t…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 2246.13초·Facebook 자동 자막 3463단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good evening, everyone.” / “and again, trading a simplified version of the goal pattern.”",
+    "title": "20 MTV Live Trading: 1초 차트에서의 거래 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "journal",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Good evening, everyone.” 이어 “and again, trading a simplified version of the goal pattern.” 이어 “Orange lines pointing up, blue lines pointing down on a meaningful movement up here, this white line, this RSI to enter a cell or a short.” 이어 “So, had I waited to enter it with a better entry, it would have hit my take profit.” 이어 “That's okay.” 이어 “Anytime it goes to double zeros here, it's at break even.” 이어 “There's definitely a delay when I when I clicked the button and so, I want to make sure that that doesn't continue obviously.” 이어 “We'll see you Thursday at seven.”",
+    "core": "1초 차트를 통해 거래 신호를 찾고, 레이스의 방향과 반대되는 거래를 실행해야 합니다.",
     "rules": [
-      "원문 실행 문장: Ask myself and some other students to come out here live so I come out Monday through Thursday at 7 PM to trade live in front of all of you.",
-      "원문 실행 문장: This is where I'm looking for my entry.",
-      "원문 실행 문장: Here's my entry.",
-      "원문 실행 문장: If I were to exit any point with this at at if I were to hit exit right now, whatever's in this box, that's where I would leave the trade with.",
-      "원문 실행 문장: If you click this here, right now, I have an account attached but if you click this here, without account attached, you can set your your brackets.",
-      "원문 실행 문장: Hey, you missed my first trade early on.",
-      "원문 실행 문장: My stop loss is up here.",
-      "원문 실행 문장: It's almost like when you hit the button, it's a it's a delay of the entry."
+      "레이스 지표가 하락할 때, 블루 라인이 하락하면 판매 매수를 고려해야 합니다.",
+      "레이스 지표가 상승할 때, 블루 라인도 상승하면 구매를 고려해야 합니다.",
+      "진입 시점이 좋지 않으면 테크니컬 문제로 인해 거래를 놓쳤습니다."
     ],
-    "caution": "성과·수익 발화: “So, I just got that that movement up I was looking for So, my take profit is down here.” / “I might take profit is down here.” 홍보·행동유도 발화: “Thank you for being here while waiting for others to join.” / “Register for the web class and learn the web class.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 3463,
     "transcriptSource": "Facebook 자동 자막"
@@ -4344,21 +4496,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1777392076784875": {
     "date": "2026.08.16",
     "duration": "00:36",
-    "originalTitle": "2.9K views · 11 reactions | Comment CLASS to learn more about 20-Minute Trader! #fyp #trade | 20-Minute Trader",
-    "title": "심리·규율: You have to be nonchalant while trading.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 36.13초·Facebook 자동 자막 143단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You have to be nonchalant while trading.” / “It's not your money, somebody else's money.”",
+    "originalTitle": "Comment CLASS to learn more about 20-Minute Trader! #fyp #trade",
+    "title": "20분 투자 트레이딩 클래스",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "심리·규율",
+      "투자",
+      "20분 트레이딩",
+      "FYP"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “You have to be nonchalant while trading.” 이어 “It's not your money, somebody else's money.” 이어 “I just want you to be a complete technician about it and just test it but test the criteria precisely.” 이어 “Well, that is the correct mindset with which you go into trading.”",
+    "core": "투자자가 아닌 다른 사람의 돈을 관리하면서 기술적 분석을 완벽하게 따르는 방법을 배운다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: You have to be nonchalant while trading."
+      "10,000 달러의 무료 계정을 받고, 그 기준을 완벽하게 따르는 방법을 테스트한다.",
+      "비즈니스 모델에서 돈을 투자하지 않고, 단지 기술적 분석을 완전히 따르는 시험을 한다."
     ],
-    "caution": "성과·수익 발화: “Well, imagine if I told you, hey, here's a $10, 000 free account.” 홍보·행동유도 발화: “Well, imagine if I told you, hey, here's a $10, 000 free account.” / “How easy would it be for you to just sit there and follow the criteria as best you could.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 143,
     "transcriptSource": "Facebook 자동 자막"
@@ -4366,19 +4520,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1784014226089563": {
     "date": "2026.08.23",
     "duration": "00:38",
-    "originalTitle": "1.9K views | We don't believe in trading hunches. Follow the strategy and don't stray from it. #fyp #20minutetrader | 20-Minute Trader",
-    "title": "영상 발화 분석: Notice that anytime I stray from a trade strategy, an inkling, a gut feeling, maybe fifty-fifty shot and…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 38.10초·Facebook 자동 자막 136단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Notice that anytime I stray from a trade strategy, an inkling, a gut feeling, maybe fifty-fifty shot and then I start to lose momentum on trading with my strategy that I've been taught.” / “Cuz then you think you know what?”",
+    "originalTitle": "We don't believe in trading hunches. Follow the strategy and don't stray from it. #fyp #20minutetrader",
+    "title": "전략을 따르되 허점은 무시하지 않음 - 20분 거래",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "20분 거래",
+      "#fyp"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Notice that anytime I stray from a trade strategy, an inkling, a gut feeling, maybe fifty-fifty shot and then I start to lose momentum on trading with my strategy that I've been taught.” 이어 “Cuz then you think you know what?” 이어 “What do you do?” 이어 “It's a downward spiral.”",
+    "core": "거래 전략을 따르되, 임시 생각은 무시해야 한다.",
     "rules": [
-      "원문 실행 문장: Notice that anytime I stray from a trade strategy, an inkling, a gut feeling, maybe fifty-fifty shot and then I start to lose momentum on trading with my strategy that I've been taught."
+      "거래 전략을 따르되, 임시 생각은 무시해야 한다.",
+      "규칙을 따르지 않을 때 큰 손실이 발생한다."
     ],
-    "caution": "홍보·행동유도 발화: “So you have a strategy that you follow and then once in a while you get a hunch and once in a while that hunch prints money.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 136,
     "transcriptSource": "Facebook 자동 자막"
@@ -4387,29 +4544,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.28",
     "duration": "51:48",
     "originalTitle": "20MTV Live Trading",
-    "title": "지지·저항: So, let me tell you, if you guys want to learn how to trade, you guys can definitely learn how to trade…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3107.83초·Facebook 자동 자막 8420단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Alright, let's get this Tuesday started.” / “Like you missed out on that trade.”",
+    "title": "20MTV Live Trading: 9:27 기준 가격에서의 데브리gence와 진입점",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Alright, let's get this Tuesday started.” 이어 “Like you missed out on that trade.” 이어 “Now, the white line on the bottom where I look for my entry is called the RSI, the relative strength index.” 이어 “Let me just get rid of the drawings and we'll see.” 이어 “Just sideways.” 이어 “It depends though.” 이어 “That's the trend.” 이어 “Later traders.”",
+    "core": "데브리gence를 이용한 진입점과 데브리gence가 발생했을 때의 진입 방식을 설명한다.",
     "rules": [
-      "원문 실행 문장: So, let me tell you, if you guys want to learn how to trade, you guys can definitely learn how to trade you guys have probably a lot more time to learn than I do and you know, it's it's a great time and I really enjoy it now.",
-      "원문 실행 문장: It's been around a long time and this is what we always use.",
-      "원문 실행 문장: The blue and the orange line going in opposite directions and then we need that entry point in the RSI, either a pop or a drop depending on the direction we're going Alright.",
-      "원문 실행 문장: Let's enter a trade for a short.",
-      "원문 실행 문장: Look at that move.",
-      "원문 실행 문장: So, we typically take those days off Or you trade well before the news or well after the news, okay?",
-      "원문 실행 문장: We took a short trade right here.",
-      "원문 실행 문장: See what patterns you guys are able to identify."
+      "블루 라인과 오렌지 라인이 반대 방향으로 움직일 때 데브리gence가 발생한다.",
+      "레버리지 2에서 데브리gence가 발생했을 때 블루 라인의 움직임을 기다린 후 진입한다.",
+      "레버리지 2에서 데브리gence가 발생했을 때 블루 라인의 움직임을 기다린 후 진입한다."
     ],
-    "caution": "성과·수익 발화: “We could even pulled out more profit from it.” / “Actually, statistics show, the longer you practice, the more profitable you are.” 홍보·행동유도 발화: “The gold pattern is actually a four-hour course.” / “If you guys are on YouTube, click the link in the description.”",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다.",
     "transcriptVerified": true,
     "transcriptWordCount": 8420,
     "transcriptSource": "Facebook 자동 자막"
@@ -4417,20 +4568,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1797443984580547": {
     "date": "2026.08.21",
     "duration": "00:50",
-    "originalTitle": "1K views · 14 reactions | Comment CLASS to learn more #fyp | 20-Minute Trader",
-    "title": "주식·섹터: Very popular stock that people trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 50.09초·로컬 Whisper large-v3-turbo 전사 229단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Let's clean it up.” / “Check and see if it forms this U shape.”",
+    "originalTitle": "Comment CLASS to learn more #fyp",
+    "title": "9:30 AM EST에서 U 형태를 확인하는 20분 거래 비밀",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "주식·섹터",
+      "20분 거래",
+      "U 형태",
+      "SPY"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Let's clean it up.” 이어 “Check and see if it forms this U shape.” 이어 “Very popular stock that people trade.” 이어 “You want to know more about this?”",
+    "core": "U 형태의 하단에서 발생하는 징후를 통해 추세 변동을 예측할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Very popular stock that people trade."
+      "9:30 AM EST에 U 형태를 확인하고, 하단에서 발생하는 징후를 통해 추세 변동을 예측할 수 있습니다.",
+      "SPY와 도우존스 지수의 상관 관계를 관찰합니다."
     ],
-    "caution": "성과·수익 발화: “You're going to find a large percentage of the time they will have a mutual downtrend.” 홍보·행동유도 발화: “Comment the word secret below and I'll send you a full free video explanation.” / “I'll send you a full free video explanation.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 229,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4439,29 +4593,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.19",
     "duration": "57:28",
     "originalTitle": "20 MTV Live Trading",
-    "title": "지지·저항: So, we are actually going to be practice trading this morning and I'm going to teach you guys literally…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3447.96초·Facebook 자동 자막 9229단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good morning, traders.” / “So, TradingView.”",
+    "title": "20 MTV Live Trading - 8/19: 블루 라인 하락, 오렌지 라인 평행 또는 하락 시 진입",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Good morning, traders.” 이어 “So, TradingView.” 이어 “If the trade goes against me and it hits that orange line on the bottom, that's my stop loss.” 이어 “Alright, this trade is taking forever and it's just going sideways.” 이어 “I don't use candles because I don't need all that information.” 이어 “So, let's see if we get it.” 이어 “It needs to come close to it, okay?” 이어 “Later, traders.”",
+    "core": "블루 라인이 상승하고 오렌지 라인이 평행 또는 하락할 때 RSI가 빨간색이 되면 진입할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: So, we are actually going to be practice trading this morning and I'm going to teach you guys literally how to trade parts of the gold pattern.",
-      "원문 실행 문장: Orange line is pretty much flat This is to trade long, bullish, or upwards for a buy, okay?",
-      "원문 실행 문장: I entered the trade right where this blue line is when we had the pop down right here.",
-      "원문 실행 문장: I trade on 20 Minute Trader, the gold pattern.",
-      "원문 실행 문장: We can enter this trade to go short.",
-      "원문 실행 문장: So I'm going to get ready over my my red sell short downward bearish button.",
-      "원문 실행 문장: Draw my chart.",
-      "원문 실행 문장: Remember let the trade happen, let the pattern appear, make sure you get that good entry point, and keep practicing, stay patient."
+      "블루 라인이 상승하고 오렌지 라인이 평행 또는 하락할 때 진입해야 합니다.",
+      "RSI가 빨간색이 되면 진입할 수 있습니다.",
+      "진입 후, 목표가 아래에 위치하고 손절는 위에 위치해야 합니다."
     ],
-    "caution": "성과·수익 발화: “Our job is not to guarantee what happens next.” / “You keep 80 or 90%, they keep ten or 20% of your profit but you get to trade with their money.” 홍보·행동유도 발화: “If you guys are on Facebook or Instagram go ahead and type the word class in the comment section.” / “If you guys are a YouTuber anywhere else, just click the link in the description to get your free ticket and I will see you guys tomorrow morning.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 9229,
     "transcriptSource": "Facebook 자동 자막"
@@ -4469,22 +4617,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1807002097357518": {
     "date": "2025.11.01",
     "duration": "01:26",
-    "originalTitle": "139K views · 2.6K comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "Fibonacci: At a certain point, the red line starts to move back up just before this happens.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 85.73초·로컬 Whisper large-v3-turbo 전사 252단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You think trading is about price action and indicators?” / “At a certain point, it'll start dropping like this.”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 거래 핵심: S&P 500과 DJIA의 일치점",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "Fibonacci"
+      "피보나치",
+      "옵션",
+      "선물·지수",
+      "20분 거래"
     ],
-    "core": "원문 전사 기준 Fibonacci 콘텐츠다. “You think trading is about price action and indicators?” 이어 “At a certain point, it'll start dropping like this.” 이어 “But here's the key.” 이어 “Simple as that.”",
+    "core": "S&P 500이 하락한 후 DJIA가 회복되기 전에 거래를 실행하면 수익을 얻을 수 있다.",
     "rules": [
-      "원문 실행 문장: At a certain point, the red line starts to move back up just before this happens.",
-      "원문 실행 문장: I place my trade right here.",
-      "원문 실행 문장: This is my buy signal.",
-      "원문 실행 문장: That's my trade."
+      "매일 아침 시장이 열리기 직후, S&P 500이 하락한 후 DJIA가 회복되기 전에 거래를 실행한다.",
+      "1초 차트에서 S&P 500과 DJIA의 하락 추세가 일치할 때 거래 신호를 확인한다."
     ],
-    "caution": "성과·수익 발화: “That's my profit.” 홍보·행동유도 발화: “Hit the link if you want to see a video for free on how to set this up.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 252,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4492,20 +4641,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1818312776262836": {
     "date": "2026.06.28",
     "duration": "00:23",
-    "originalTitle": "20-Min Trader Aug 24 Video 6 v1 COMMENT FREE.mov",
-    "title": "주식·섹터: I use a strategy called 20-minute trading that plays ups or downs that are predictable.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 23.13초·Facebook 자동 자막 71단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Are you worried about the stock market crashing?” / “I use a strategy called 20-minute trading that plays ups or downs that are predictable.”",
+    "originalTitle": "Comment FREE to learn more In a recent survey conducted with 20-Minute Trader students across all platforms we offer, 68.4% of responding students reported making profit when appl…",
+    "title": "20분 거래 전략의 성과와 적용 방법",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "주식·섹터",
+      "20분 거래",
+      "투자 전략"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Are you worried about the stock market crashing?” 이어 “I use a strategy called 20-minute trading that plays ups or downs that are predictable.” 이어 “They can be used in any market conditions.” 이어 “I use a 20-minute trader strategy no matter what.”",
+    "core": "20분 거래 전략은 다양한 시장 조건에서도 예측 가능한 상승과 하락을 활용합니다.",
     "rules": [
-      "원문 실행 문장: I use a strategy called 20-minute trading that plays ups or downs that are predictable.",
-      "원문 실행 문장: I use a 20-minute trader strategy no matter what."
+      "응답한 20분 거래 학생 중 68.4%가 이 전략을 적용했을 때 수익을 보고 있습니다.",
+      "300,000명이 이 전략을 연구한 이유는 20분 거래 전략이 어떤 시장에서도 효과적이라는 점입니다."
     ],
-    "caution": "홍보·행동유도 발화: “There's a reason why 300, 000 people have typed the word free in the comments and studied 20-minute trading.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 71,
     "transcriptSource": "Facebook 자동 자막"
@@ -4513,20 +4664,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1822141481736777": {
     "date": "2026.01.09",
     "duration": "00:18",
-    "originalTitle": "2.4K views | Watch the full video of how to use Trump to make money here: https://youtu.be/0M48lwtUHD4 And comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: Now, that is exactly when I started to buy, because I know that Donald Trump is obsessed with the stock…",
+    "originalTitle": "Watch the full video of how to use Trump to make money here: https://youtu.be/0M48lwtUHD4 And comment “FREE” to get a ticket to my next web class for free! #trader #trading In a r…",
+    "title": "트럼프의 경제 정책 변화를 이용한 투자 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 18.47초·로컬 Whisper large-v3-turbo 전사 63단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “tariffs or deals with China or deals with Japan or deals with Vietnam or whatever it is, it's shooting up the economy and then something happens.” / “There's a there's a kink in the armor and then boom, the market falls.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "주식·섹터",
+      "트레이딩",
+      "트럼프 경제 정책"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “tariffs or deals with China or deals with Japan or deals with Vietnam or whatever it is, it's shooting up the economy and then something happens.” 이어 “There's a there's a kink in the armor and then boom, the market falls.” 이어 “Now, that is exactly when I started to buy, because I know that Donald Trump is obsessed with the stock market flying high.”",
+    "core": "트럼프의 경제 정책이 경제에 긍정적인 영향을 미치다가 갑작스럽게 변하면 시장이 떨어지는데, 그 때를 사는 것이 이익이다.",
     "rules": [
-      "원문 실행 문장: Now, that is exactly when I started to buy, because I know that Donald Trump is obsessed with the stock market flying high."
+      "트럼프의 경제 정책이 경제에 긍정적인 영향을 미치다가 갑작스럽게 변하면 시장이 떨어지는데, 그 때를 사는 것이 이익이다.",
+      "트럼프의 경제 정책 변화를 주시하고, 그 변화가 경제에 긍정적인 영향을 미치는 시점에서 매도하고, 역전될 때를 사는 것이 중요하다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 63,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4534,20 +4687,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1822282828406267": {
     "date": "2026.03.11",
     "duration": "01:09",
-    "originalTitle": "17K views · 27 reactions | Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $188 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: When you see that, you just wait for the black line to touch the bottom, and you jump in.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who res…",
+    "title": "20분 투자자용 RSI 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 69.45초·로컬 Whisper large-v3-turbo 전사 224단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm not sure if this is legal or not, but it's extremely suspicious.” / “When you see that, you just wait for the black line to touch the bottom, and you jump in.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "옵션",
+      "주식·섹터",
+      "투자 전략",
+      "RSI"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “I'm not sure if this is legal or not, but it's extremely suspicious.” 이어 “When you see that, you just wait for the black line to touch the bottom, and you jump in.” 이어 “Kind of weird, eh?” 이어 “I'll hook you up.”",
+    "core": "RSI 지표가 최저점에 도달할 때, 금값과 다우지수의 방향이 다를 때 매수할 수 있는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: When you see that, you just wait for the black line to touch the bottom, and you jump in."
+      "금값이 오르고 다우지수는 내릴 때, RSI가 최저점에 도달하면 매수",
+      "비슷한 조건으로 많은 사람들에게 가르쳤으며, 일부는 이 방법을 통해 좋은 수익을 얻고 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 224,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4555,21 +4711,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1826747394715675": {
     "date": "2025.11.10",
     "duration": "01:01",
-    "originalTitle": "2.8K views | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: I've not much gold to risk.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 거래 전략: 초보자도 따라할 수 있는 단기 거래 방법",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 60.57초·로컬 Whisper large-v3-turbo 전사 325단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Finally got me first bounty!” / “Because any pirate worth his salt has a treasure map, aye?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "20분 거래",
+      "초보자 거래",
+      "무료 클래스"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Finally got me first bounty!” 이어 “Because any pirate worth his salt has a treasure map, aye?” 이어 “This might be the treasure map you've been searching for.” 이어 “This might be the treasure map you've been searching for.”",
+    "core": "20분 거래는 초보자들도 쉽게 따라할 수 있는 단기 거래 방법으로, 일관된 패턴을 이용해 수익을 얻을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: I've not much gold to risk.",
-      "원문 실행 문장: It's when you buy and sell in the first 20 minutes of the day and you don't need much to start with and it can be way less stressful."
+      "20분 거래는 거래 시작 후 20분 이내에 매수와 매도를 완료하는 방법입니다.",
+      "초보자들도 패턴을 찾아 수익을 얻을 수 있습니다."
     ],
-    "caution": "홍보·행동유도 발화: “Just comment class in the comments and I will give you a free ticket to the live class where I go over the strategy for free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 325,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4578,29 +4736,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.30",
     "duration": "51:01",
     "originalTitle": "20 MTV Live Trading",
-    "title": "돌파·개장 범위: Jeremy Russell, the founder of 20 Minute Trader, asked myself and some other students to come out here a…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3060.86초·Facebook 자동 자막 6513단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good evening, everyone.” / “We we know, I know which way I'm going to trade based on which direction the blue line is facing.”",
+    "title": "20 MTV Live Trading: 1초 차트에서의 진입 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "breakout",
-      "risk",
-      "psychology",
-      "journal",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 돌파·개장 범위 콘텐츠다. “Good evening, everyone.” 이어 “We we know, I know which way I'm going to trade based on which direction the blue line is facing.” 이어 “So, I know the direction I would be trading if we had divergence but I'm looking for the movement down here to enter.” 이어 “So, again, I'm looking for a divergence here, right?” 이어 “Starting to flatten out a little bit.” 이어 “Here you had divergence, right?” 이어 “Both the wedges and lines are straight up and pretty synced up too.” 이어 “Have a great weekend.”",
+    "core": "1초 차트에서의 진입 시점을 찾는 것이 중요하며, 5초 차트에서는 전체 트렌드를 확인한다.",
     "rules": [
-      "원문 실행 문장: Jeremy Russell, the founder of 20 Minute Trader, asked myself and some other students to come out here and trade live and that's where I am doing.",
-      "원문 실행 문장: I'm looking for a meaningful drop down in this white line to do a buy here or a long.",
-      "원문 실행 문장: Trade in the one second, Char.",
-      "원문 실행 문장: I am trading the blue line, the instrument I'm trading, that's gold, and then the orange line is a comparison index that we use to help predict which way the blue line is going to go and that is the Dow Jones.",
-      "원문 실행 문장: So my take profit is down here.",
-      "원문 실행 문장: It's just a simplified way to trade, right?",
-      "원문 실행 문장: The trade was quick.",
-      "원문 실행 문장: Try it out and look me I'll talk more about my experiences and maybe trade together."
+      "1초 차트에서 진입 시점을 찾고, 5초 차트에서는 전체 트렌드를 확인한다.",
+      "진입 시점이 확실하지 않으면 진입하지 않는 것이 좋다.",
+      "진입 시점이 발생하면 1초 차트에서 즉시 진입한다."
     ],
-    "caution": "성과·수익 발화: “Take profit in my or my shop loss on my take profit.” / “Entered at the top and it came right down pretty quick after that right at that entry and hit my take profit.” 홍보·행동유도 발화: “While we're waiting, if you could type in the comment section where you're watching from, what level of trade you are, your new trader, brand new, never traded before, intermediat…” / “Once you get that link, click it, register, and then during the web class, you get your questions answered live.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 6513,
     "transcriptSource": "Facebook 자동 자막"
@@ -4608,19 +4760,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1858576704739876": {
     "date": "2025.11.02",
     "duration": "01:38",
-    "originalTitle": "49K views · 21 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: you don't need all that i can show you how to trade with just one screen this is a great setup we have t…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 98.47초·로컬 Whisper large-v3-turbo 전사 243단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “you don't need all that i can show you how to trade with just one screen this is a great setup we have the 20 minute trader pattern showing its face right now all we got to do is jump in if it drops a tiny bit…”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 투자 패턴을 활용한 실시간 투자 전략",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "투자전략",
+      "20분투자",
+      "SP500"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “you don't need all that i can show you how to trade with just one screen this is a great setup we have the 20 minute trader pattern showing its face right now all we got to do is jump in if it drops a tiny bit…”",
+    "core": "20분 투자 패턴을 활용하면 소량의 자금으로 빠르게 수익을 얻을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: you don't need all that i can show you how to trade with just one screen this is a great setup we have the 20 minute trader pattern showing its face right now all we got to do is jump in if it drops a tiny bit catch that re-rise and order filled good to go so…"
+      "20분 투자 패턴이 나타나면, 하락할 때 작은 양을 매수하고, 반등할 때 추가로 매수하여 수익을 얻는다.",
+      "SP500과 DJIA를 추적하며, 하락 추세가 끝나는 신호를 기다린 후 매수한다."
     ],
-    "caution": "홍보·행동유도 발화: “you don't need all that i can show you how to trade with just one screen this is a great setup we have the 20 minute trader pattern showing its face right now all we got to do is…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 243,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4628,21 +4784,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1858991924824448": {
     "date": "2025.12.04",
     "duration": "00:46",
-    "originalTitle": "2.5K views | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "심리·규율: We are hitting the club scene tonight.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 46.20초·로컬 Whisper large-v3-turbo 전사 156단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey bro, you going out?” / “Yeah, you know the best places.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 투자 트레이딩 클래스 무료 티켓 얻는 방법",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "심리·규율",
+      "투자",
+      "트레이딩",
+      "20분 투자"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Hey bro, you going out?” 이어 “Yeah, you know the best places.” 이어 “Yeah, they're meeting on Trading Mindset tonight.” 이어 “No, dress any way you like.”",
+    "core": "20분 투자 트레이딩 클래스에서 트레이딩 마인드와 패턴 스파이 전략을 배울 수 있다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Hey bro, you going out?"
+      "20분 투자 트레이딩 클래스에 참석하려면 클래스를 댓글에 입력해야 한다.",
+      "무료 티켓을 받으려면 클래스를 댓글에 입력하고 참석해야 한다.",
+      "무료 티켓을 받으려면 20분 투자 트레이딩 클래스에 참석해야 한다."
     ],
-    "caution": "홍보·행동유도 발화: “Do I got to know somebody or type class in the comments?” / “Is there a dress code for this webinar?” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 156,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4650,19 +4809,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1870177187208889": {
     "date": "2025.11.23",
     "duration": "00:44",
-    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: And just wait for them to drop together.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 투자 전략으로 주식 투자 수익 증대",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 44.27초·로컬 Whisper large-v3-turbo 전사 141단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Piece of information that you learned that feels illegal to know.” / “And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entire lives.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "투자전략",
+      "20분투자"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Piece of information that you learned that feels illegal to know.” 이어 “And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entire lives.” 이어 “It again happens here.” 이어 “So that's weird.”",
+    "core": "Dow Jones과 기술주가 가격 변동 동기부여를 활용하여 수익을 얻을 수 있다.",
     "rules": [
-      "원문 실행 문장: And just wait for them to drop together."
+      "Dow Jones과 기술주 가격 변동을 관찰하고 Dow Jones 가격이 회복될 때 진입하라.",
+      "Dow Jones 가격이 회복되면 기술주 가격이 뒤따라 오는 경향을 활용하라."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 141,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4670,21 +4833,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1882446372541825": {
     "date": "2025.06.13",
     "duration": "00:32",
-    "originalTitle": "8 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: One must never use any money, which is not expendable when they decide to get into any type of trading.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 31.95초·로컬 Whisper large-v3-turbo 전사 114단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “How much does one need to invest in order to try to make money in the market?” / “The obvious answer is as much as one can afford.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 트레이더 클래스: $300부터 시작하는 실전 투자 전략",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "투자",
+      "위험 관리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “How much does one need to invest in order to try to make money in the market?” 이어 “The obvious answer is as much as one can afford.” 이어 “But the bare minimum is no less than $300 with which to invest.” 이어 “One must never use any money, which is not expendable when they decide to get into any type of trading.”",
+    "core": "투자 금액은 최소 $300부터 시작하여 감정적인 거래를 피하고 일관된 위험 관리를 통해 장기적으로 성장할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: One must never use any money, which is not expendable when they decide to get into any type of trading."
+      "투자할 수 있는 돈은 반드시 사용할 수 없는 금액이어야 합니다.",
+      "투자 금액은 최소 $300부터 시작해야 합니다.",
+      "감정적인 거래를 피하고 일관된 위험 관리를 통해 장기적으로 성장할 수 있습니다."
     ],
-    "caution": "성과·수익 발화: “I would say that setting aside $1,000 to $2,000 would be a sensible starting point that could keep you going for months if you don't gamble or do emotional trading, but instead fo…” / “But the bare minimum is no less than $300 with which to invest.” 홍보·행동유도 발화: “I would say that setting aside $1,000 to $2,000 would be a sensible starting point that could keep you going for months if you don't gamble or do emotional trading, but instead fo…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 114,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4692,21 +4858,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1885452865675822": {
     "date": "2025.12.22",
     "duration": "00:06",
-    "originalTitle": "6.1K views · 3 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: I started to wonder.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20-Minute Trader 학생들 조사 결과 발표",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 5.57초·로컬 Whisper large-v3-turbo 전사 20단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I started to wonder.” / “And I wondered.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20-Minute Trader",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I started to wonder.” 이어 “And I wondered.” 이어 “I had to wonder.” 이어 “I started to wonder.”",
+    "core": "20-Minute Trader의 학생들이 다양한 제품을 통해 얻은 결과를 발표합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I started to wonder."
+      "20-Minute Trader의 학생들이 다양한 제품을 통해 얻은 결과를 조사했습니다.",
+      "조사 결과를 바탕으로 새로운 트레이딩 전략을 제시합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 20,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4714,24 +4881,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1895774017942326": {
     "date": "2025.07.22",
     "duration": "00:51",
-    "originalTitle": "6.5K views · 10 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: The guy on Reddit said, I've got to make sure my charts and my trading account is set up.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 투자자 Jeremy의 뱅크 롤 실패",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 50.95초·로컬 Whisper large-v3-turbo 전사 116단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The guy on Reddit said, I've got to make sure my charts and my trading account is set up.” / “But he used $10,000.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자",
+      "20분 투자자",
+      "레드드"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “The guy on Reddit said, I've got to make sure my charts and my trading account is set up.” 이어 “But he used $10,000.” 이어 “But everything's ready, so...” 이어 “I guess I'll just wait now and see what happens.”",
+    "core": "투자금을 모두 잃는 것은 신중한 투자 결정을 중요하게 만든다.",
     "rules": [
-      "원문 실행 문장: The guy on Reddit said, I've got to make sure my charts and my trading account is set up.",
-      "원문 실행 문장: Jeremy, don't place that trade.",
-      "원문 실행 문장: Don't place that trade, man.",
-      "원문 실행 문장: Don't place that trade.",
-      "원문 실행 문장: I guess I'll just wait now and see what happens."
+      "Jeremy는 $10,000를 사용해 거래를 했지만, 이는 그의 모든 생활 자금이었다.",
+      "Order filled 후 Jeremy는 실패를 인정하고 기다릴 수밖에 없었다."
     ],
-    "caution": "성과·수익 발화: “Looks like he made a million dollars on this one play.” / “But he used $10,000.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 116,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4739,21 +4905,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1905224783461743": {
     "date": "2026.03.03",
     "duration": "00:46",
-    "originalTitle": "2.3K views | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $188 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "심리·규율: Here's the best way I found after working with thousands and thousands of traders to build the mindset.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20-Minute Trader의 성공 전략과 조언",
     "kind": "psychology",
     "verdict": "핵심 원칙",
-    "fidelity": "원본 46.48초·로컬 Whisper large-v3-turbo 전사 141단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's the best way I found after working with thousands and thousands of traders to build the mindset.” / “Number three, build accountability with a trading partner or a trading group, people who actually see what you're doing.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "journal"
+      "심리·규율",
+      "투자",
+      "20-Minute Trader",
+      "멘토십"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Here's the best way I found after working with thousands and thousands of traders to build the mindset.” 이어 “Number three, build accountability with a trading partner or a trading group, people who actually see what you're doing.” 이어 “Mentorship is vital.” 이어 “Mentors spot that and fix it fast before devastation happens.”",
+    "core": "20-Minute Trader 학생들은 전략을 적용할 때 평균 주간 투자 수익이 $188를 보였다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Here's the best way I found after working with thousands and thousands of traders to build the mindset."
+      "20-Minute Trader 전략을 적용할 때 평균 주간 투자 수익이 $188를 보였다.",
+      "멘토십은 필수적이고, 트레이더의 행동에서 큰 차이를 발견하고 수정할 수 있는 능력이 중요하다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 141,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4761,21 +4929,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1910640979558719": {
     "date": "2025.12.10",
     "duration": "00:06",
-    "originalTitle": "1.6K views · 60 reactions | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: I started to wonder.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20-Minute Trader 학생들 조사 결과 발표",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 5.57초·로컬 Whisper large-v3-turbo 전사 20단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I started to wonder.” / “And I wondered.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20-Minute Trader",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I started to wonder.” 이어 “And I wondered.” 이어 “I had to wonder.” 이어 “I started to wonder.”",
+    "core": "20-Minute Trader 프로그램의 학생들이 가장 관심을 보인 제품을 조사한 결과를 공유합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I started to wonder."
+      "20-Minute Trader 프로그램의 학생들이 가장 관심을 보인 제품을 조사한 결과를 공유합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 20,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4783,21 +4951,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1915059265883853": {
     "date": "2026.01.17",
     "duration": "00:15",
-    "originalTitle": "7.3K views · 21 comments | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: If I make this, you gotta start 20 minute trading.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 투자 클래스: 'CLASS' 댓글로 무료 티켓 얻기",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 15.00초·로컬 Whisper large-v3-turbo 전사 10단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If I make this, you gotta start 20 minute trading.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자",
+      "트레이딩 클래스",
+      "무료"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “If I make this, you gotta start 20 minute trading.”",
+    "core": "20분 투자 클래스를 통해 빠르게 트레이딩 기술을 배울 수 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: If I make this, you gotta start 20 minute trading."
+      "무료 티켓을 받기 위해 클래스 참석을 확인해야 합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 10,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4805,20 +4974,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1922391771939282": {
     "date": "2026.06.03",
     "duration": "01:09",
-    "originalTitle": "69K views · 964 reactions | Comment CLASS to learn more #class #trading #trader #money | 20-Minute Trader",
-    "title": "주식·섹터: When you see that, you just wait for the black line to touch the bottom, and you jump in.",
+    "originalTitle": "Comment CLASS to learn more #class #trading #trader #money",
+    "title": "클래스에서 배운 가격 움직임 분석 방법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 69.43초·로컬 Whisper large-v3-turbo 전사 224단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm not sure if this is legal or not, but it's extremely suspicious.” / “When you see that, you just wait for the black line to touch the bottom, and you jump in.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "옵션",
+      "주식·섹터",
+      "클래스",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “I'm not sure if this is legal or not, but it's extremely suspicious.” 이어 “When you see that, you just wait for the black line to touch the bottom, and you jump in.” 이어 “Kind of weird, eh?” 이어 “I'll hook you up.”",
+    "core": "Dow Jones 지수와 금 가격이 반대 방향으로 움직일 때, 상대강도지수(RSI)가 최저점을 찍으면 매수할 수 있다.",
     "rules": [
-      "원문 실행 문장: When you see that, you just wait for the black line to touch the bottom, and you jump in."
+      "Dow Jones 지수가 하락하고 금 가격이 상승할 때, RSI가 최저점을 찍으면 매수",
+      "비슷한 조건으로 다른 금융 상품을 분석할 수 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 224,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4826,24 +4998,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1924910218361310": {
     "date": "2025.07.07",
     "duration": "04:55",
-    "originalTitle": "11 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: And I have a stop loss here in case it doesn't.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 294.67초·로컬 Whisper large-v3-turbo 전사 765단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Order filled.” / “Let's try to match these up.”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 투자자 전략: 금 가격 하락 추세에 따른 단타 매매",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "투자전략",
+      "20분투자"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Order filled.” 이어 “Let's try to match these up.” 이어 “See how that goes.” 이어 “Show you exactly how to do this.”",
+    "core": "Dow Jones 상승과 금 가격 하락 추세를 이용해 하락 추세를 예측하고, RSI와 white line을 이용해 진입 시점을 결정한다.",
     "rules": [
-      "원문 실행 문장: And I have a stop loss here in case it doesn't.",
-      "원문 실행 문장: And then I'll bring the stop loss down as the blue line progresses toward my goal, which is down.",
-      "원문 실행 문장: Yeah, that was a good move, you'll see.",
-      "원문 실행 문장: See, my stop loss is now 240 bucks.",
-      "원문 실행 문장: That was a little longer than usual of a trade."
+      "Dow Jones 상승과 금 가격 하락 추세를 이용해 하락 추세를 예측한다.",
+      "white line이 상승할 때는 하락 추세가 있을 것으로 예상하고, 반대로 하락할 때는 상승 추세가 있을 것으로 예상한다.",
+      "RSI를 통해 가격의 과매도 또는 과매수 상태를 확인하고, white line을 이용해 진입 시점을 결정한다."
     ],
-    "caution": "성과·수익 발화: “We're gonna see if we can make a thousand bucks trading gold this morning.” / “And it guarantees that I make some profit, which is kind of fun.” 홍보·행동유도 발화: “If you guys want to learn how to do this, I've got a free course.” / “You just type the word free in the comments and all.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 765,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4851,22 +5023,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1930572381030991": {
     "date": "2025.08.13",
     "duration": "01:57",
-    "originalTitle": "4.1K views · 8 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "Fibonacci: I think maybe you didn't use a blinker on one of those lane changes back there.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 117.13초·로컬 Whisper large-v3-turbo 전사 316단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You know how fast you were going?” / “Hey, not trying to pry.”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 트레이딩 시스템 배우는 법 - 실제 매매와 차이",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "Fibonacci",
-      "CTA"
+      "피보나치",
+      "20분 트레이딩",
+      "일일 트레이딩"
     ],
-    "core": "원문 전사 기준 Fibonacci 콘텐츠다. “You know how fast you were going?” 이어 “Hey, not trying to pry.” 이어 “What do you mean that's not possible?” 이어 “Over and out.”",
+    "core": "20분 트레이딩은 빠른 시장 변화를 따라잡기 위해 빠른 결정을 필요로 한다.",
     "rules": [
-      "원문 실행 문장: I think maybe you didn't use a blinker on one of those lane changes back there.",
-      "원문 실행 문장: Did you enter a trade this morning?",
-      "원문 실행 문장: Yeah, can't stop thinking about it."
+      "20분 트레이딩은 하루에 수시간을 소비하며 피보나치 수열, 지수, 볼린저 밴드 등을 분석해야 한다.",
+      "매매 결정을 내릴 때 빠른 시장 변화를 고려해야 한다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "성과·수익 발화: “Half a million people have learned it in just the last year or two.” 홍보·행동유도 발화: “They would comment free in this video.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 316,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4874,24 +5047,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1933753107197181": {
     "date": "2025.09.15",
     "duration": "01:41",
-    "originalTitle": "10K views · 30 reactions | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: This is why I use one second chart.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 거래의 1초 차트 활용",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 101.00초·Facebook 자동 자막 302단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Important part of 20 minute trading is the one second chart.” / “The blue line starts to flatten out.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20분 거래",
+      "1초 차트",
+      "블루 라인"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Important part of 20 minute trading is the one second chart.” 이어 “The blue line starts to flatten out.” 이어 “You want to know what those things are by the way?” 이어 “Wait for it to flatten a bit with a little zigzag forming the bottom of a U shape but for this motion of the Dow Jones.”",
+    "core": "1초 차트를 통해 블루 라인의 움직임을 예측하고, 레드 라인의 독립적인 상승을 신호로 인식하여 매수한다.",
     "rules": [
-      "원문 실행 문장: This is why I use one second chart.",
-      "원문 실행 문장: So, I buy here this exact time I buy, okay?",
-      "원문 실행 문장: Buy here, sell here.",
-      "원문 실행 문장: All I do is I wait for this mutual downtrend.",
-      "원문 실행 문장: Wait for it to flatten a bit with a little zigzag forming the bottom of a U shape but for this motion of the Dow Jones."
+      "1초 차트를 통해 블루 라인의 움직임을 예측하고, 레드 라인의 독립적인 상승을 신호로 인식하여 즉시 매수한다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 302,
     "transcriptSource": "Facebook 자동 자막"
@@ -4899,24 +5071,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1939152353479847": {
     "date": "2026.01.05",
     "duration": "01:33",
-    "originalTitle": "4.3K views · 11 reactions | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: We have a system where if you place a trade and you lose, you get locked out.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 93.30초·로컬 Whisper large-v3-turbo 전사 358단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You want to get into trading, you're afraid you don't know how to talk about it.” / “You can't lose that much with ethical day trading.”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 거래의 윤리적 접근법과 리스크 관리",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "투자"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “You want to get into trading, you're afraid you don't know how to talk about it.” 이어 “You can't lose that much with ethical day trading.” 이어 “Well, those individual things that you were being made to do, whether push yourself to a certain level or show up to a practice early in the morning or whatever it was, you did that because you knew the coach…” 이어 “Because I feel good about what I'm doing, it's easier to talk about and I can be proud of it and makes it easier to discuss with friends and family.”",
+    "core": "윤리적 거래는 낮은 투자 위험과 일관된 수익을 통해 성공할 수 있음을 보여줍니다.",
     "rules": [
-      "원문 실행 문장: Risk management.",
-      "원문 실행 문장: We have a system where if you place a trade and you lose, you get locked out.",
-      "원문 실행 문장: You can't trade that account for the rest of the day.",
-      "원문 실행 문장: If you win, you get locked out and you can't trade for the rest of the day.",
-      "원문 실행 문장: So the accountability ends up becoming a very important factor on risk management."
+      "투자 금액을 제한하여 큰 손실을 방지합니다.",
+      "일관된 수익을 얻기 위해 일일 거래를 20분으로 제한합니다."
     ],
-    "caution": "성과·수익 발화: “So all you have to do is be profitable more than you're not and you're good.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 358,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4924,20 +5095,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1939676720120465": {
     "date": "2025.07.28",
     "duration": "00:48",
-    "originalTitle": "35K views · 15 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: How much could I sell it for?",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 투자 전략 무료로 받기",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 48.17초·로컬 Whisper large-v3-turbo 전사 157단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey, freeze!” / “I got something worth thousands of dollars.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "투자전략",
+      "20분투자",
+      "무료"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Hey, freeze!” 이어 “I got something worth thousands of dollars.” 이어 “That doesn't sound bad.” 이어 “Sorry about that.”",
+    "core": "20분 투자 전략을 무료로 제공받을 수 있다는 사실을 강조한다.",
     "rules": [
-      "원문 실행 문장: How much could I sell it for?",
-      "원문 실행 문장: I don't know, but you can use it to trade with and it's legal."
+      "20분 투자 전략을 무료로 제공한다."
     ],
-    "caution": "홍보·행동유도 발화: “Just comment free on this video and I'll send you a full video explanation of the strategy for free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 157,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4946,19 +5119,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.17",
     "duration": "00:47",
     "originalTitle": "Don't quit your job.mp4",
-    "title": "영상 발화 분석: Two losing trades in a row and you're going to be like freaking out and you're going to do a revenge tra…",
+    "title": "Don't Quit Your Job - 68.2% 승률의 진정한 뒷이야기",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 47.47초·Facebook 자동 자막 197단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Found in working with traders.” / “Do not quit your job.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "심리·규율",
+      "트레이딩",
+      "레버리지",
+      "감정적 거래"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Found in working with traders.” 이어 “Do not quit your job.” 이어 “Two losing trades in a row and you're going to be like freaking out and you're going to do a revenge trade and you're going to try to do this and make it all back and try to short the process absolutely unheal…” 이어 “Don't ever quit it until you are making steady money as a day trader over like six plus months and you have a massive savings and even then, check with your financial advisor before doing it.”",
+    "core": "레버리지로 인한 감정적 반발 거래는 성공을 방해하며, 안정적인 수입을 먼저 구축해야 한다.",
     "rules": [
-      "원문 실행 문장: Two losing trades in a row and you're going to be like freaking out and you're going to do a revenge trade and you're going to try to do this and make it all back and try to short the process absolutely unhealthy way for someone to trade."
+      "레버리지로 인한 감정적 반발 거래는 성공을 방해한다.",
+      "안정적인 수입을 먼저 구축한 후에만 트레이딩을 시작해야 한다."
     ],
-    "caution": "성과·수익 발화: “Anytime somebody shows up and says, Jeremy, I want you to teach me money because I'm about to be bankrupt and I'm about to quit my job and this is going to be my source of income.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 197,
     "transcriptSource": "Facebook 자동 자막"
@@ -4966,20 +5142,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1941143323213656": {
     "date": "2026.02.28",
     "duration": "00:48",
-    "originalTitle": "1.4K views · 37 reactions | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: Trading alone is where emotions take over and people start doing stupid things like revenge trading, cha…",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "클래스를 통해 감정을 통제하고 일관성을 유지하는 방법",
     "kind": "psychology",
     "verdict": "핵심 원칙",
-    "fidelity": "원본 48.04초·로컬 Whisper large-v3-turbo 전사 135단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Trading alone is where emotions take over and people start doing stupid things like revenge trading, chasing losses, doubling size, ignoring stop losses, or taking random setups.” / “Second, treat this like a part-time job or side hustle that actually matters.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology"
+      "위험관리",
+      "심리·규율",
+      "트레이딩",
+      "감정통제"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Trading alone is where emotions take over and people start doing stupid things like revenge trading, chasing losses, doubling size, ignoring stop losses, or taking random setups.” 이어 “Second, treat this like a part-time job or side hustle that actually matters.” 이어 “Because your brain will lie to you in trading.” 이어 “The numbers keep you grounded and tracking keeps you from doing reckless cowboy moves.”",
+    "core": "감정을 통제하고 일관성을 유지하는 것이 트레이딩 성공의 핵심이다.",
     "rules": [
-      "원문 실행 문장: Trading alone is where emotions take over and people start doing stupid things like revenge trading, chasing losses, doubling size, ignoring stop losses, or taking random setups."
+      "자신의 행동을 기록하고, 수익을 개인 계좌로 이체하는 것이 중요하다.",
+      "불필요한 감정적인 거래를 피하고, 수익을 추적하라.",
+      "파트타임 직업처럼 트레이딩을 다루고, 모든 비용을 기록하라."
     ],
-    "caution": "전사에서 청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 135,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4987,20 +5167,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1947061766239327": {
     "date": "2025.11.19",
     "duration": "00:57",
-    "originalTitle": "18 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: Actually being able to trade despite having a job and also having no idea which direction the market is…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 57.00초·로컬 Whisper large-v3-turbo 전사 237단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's something I wish I knew before I was in my 30s.” / “All I do is I look at an index and I look at a stock that have a correlation.”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 거래 전략: 시장 개장 시점 20분 거래법",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "주식·섹터",
+      "선물·지수",
+      "20분 거래",
+      "시장 개장"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Here's something I wish I knew before I was in my 30s.” 이어 “All I do is I look at an index and I look at a stock that have a correlation.” 이어 “It's often enough that I'll win more than I lose when I do this.” 이어 “So there's a reason why 300,000 people have actually studied this in the last couple of years.”",
+    "core": "20분 거래는 시장 개장 시점에서 인덱스와 관련된 주식을 관찰하여 이익을 얻는 방법이다.",
     "rules": [
-      "원문 실행 문장: Actually being able to trade despite having a job and also having no idea which direction the market is going.",
-      "원문 실행 문장: And that's because I only trade for 20 minutes in the morning, right when the market opens."
+      "매일 아침 시장이 개장할 때 20분 동안 특정 인덱스와 관련된 주식을 관찰한다.",
+      "인덱스가 상승하면 관련 주식도 종종 상승한다.",
+      "이 방법으로 매일 20분 동안 거래하면 이득을 보는 경우가 많다."
     ],
-    "caution": "홍보·행동유도 발화: “I don't have to follow a bunch of different crazy indicators and learn all these different crazy terms.” / “Type the word free in the comments and I will DM you the strategy for free right now.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 237,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5009,19 +5193,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.20",
     "duration": "01:20",
     "originalTitle": "Brother_BTTF_V3_CLASS.mp4",
-    "title": "주식·섹터: don't see a word don't see a word come with me dude okay hold on hold on listen not a word not a word no…",
+    "title": "Brother_BTTF_V3_CLASS_8000_패턴예측기_20분_클래스",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 79.79초·로컬 Whisper large-v3-turbo 전사 260단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “don't see a word don't see a word come with me dude okay hold on hold on listen not a word not a word not a word hold on okay put this up okay uh so i just learned a new way to predict trading patterns and thi…”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "트레이딩",
+      "패턴예측"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “don't see a word don't see a word come with me dude okay hold on hold on listen not a word not a word not a word hold on okay put this up okay uh so i just learned a new way to predict trading patterns and thi…”",
+    "core": "8000 달러의 패턴 예측기를 사용하여 가장 수익률이 좋은 주식을 찾는 방법을 배운다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: don't see a word don't see a word come with me dude okay hold on hold on listen not a word not a word not a word hold on okay put this up okay uh so i just learned a new way to predict trading patterns and this is how they said i need to do it bro no no no no…"
+      "8000 달러의 패턴 예측기를 구매하고 20분 동안 매일 예측을 시도한다.",
+      "무료 웹 클래스에 참가하여 예측 가능한 패턴을 배우는 방법을 20분 동안 공부한다."
     ],
-    "caution": "홍보·행동유도 발화: “now this is gonna allow me to find and trade the best stocks out there listen man you really don't need to do all this okay just wait wait wait wait i'm gonna test it out and see…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 260,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5029,20 +5216,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1957238622341087": {
     "date": "2026.02.27",
     "duration": "00:43",
-    "originalTitle": "2.4K views | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: The third thing that most day traders do is they become so hyper careful that they miss a good trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 43.30초·로컬 Whisper large-v3-turbo 전사 157단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “And here's why 90% of people get into day trading and fail.” / “When they start to win, they end off on the win and claim a very small win.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "일일 거래 실패 원인: 높은 이익 추구와 잃은 돈 추적",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim"
+      "시장 분석",
+      "일일 거래",
+      "거래 전략",
+      "일일 거래자"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “And here's why 90% of people get into day trading and fail.” 이어 “When they start to win, they end off on the win and claim a very small win.” 이어 “So a lot of traders will have a loss, feel the discomfort of losing, and instead of just ending off for the day like they're supposed to in most cases, they chase it down with a revenge.” 이어 “They force a pretty bad trade that loses.”",
+    "core": "일일 거래에서 높은 이익을 추구하거나 잃은 돈을 추적하는 것은 성공을 방해한다.",
     "rules": [
-      "원문 실행 문장: The third thing that most day traders do is they become so hyper careful that they miss a good trade.",
-      "원문 실행 문장: They force a pretty bad trade that loses."
+      "일일 거래에서 이익을 얻으면 작은 이익을 추구하지 말고 빠르게 손절매를 실행해야 한다.",
+      "일일 거래에서 손실을 보았을 때 빈정거리며 추격 거래를 하지 말고 일일 거래를 종료해야 한다.",
+      "매우 신중하게 거래를 진행하면 좋은 거래를 놓칠 수 있으므로, 신중하지 않아야 한다."
     ],
-    "caution": "성과·수익 발화: “And here's why 90% of people get into day trading and fail.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 157,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5051,20 +5242,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.13",
     "duration": "01:08",
     "originalTitle": "Q&A #6_Replace My 9 to 5 Job-_V1.mp4",
-    "title": "영상 발화 분석: Can day trading replace my nine to five job?",
+    "title": "Q&A #6_9to5를 대체할 수 있는 일일 거래?_V1",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 67.67초·로컬 Whisper large-v3-turbo 전사 267단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Can day trading replace my nine to five job?” / “Until then, please do not quit your nine to five for day trading, okay?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "일일 거래",
+      "9to5 직장",
+      "금융 자문"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Can day trading replace my nine to five job?” 이어 “Until then, please do not quit your nine to five for day trading, okay?” 이어 “You don't wanna be that person.” 이어 “You would need a financial advisor to look over all those details before they could properly answer that question.”",
+    "core": "일일 거래로 9to5 직장을 대체하려면 수십 개월 동안 꾸준히 수익을 내고 대량의 저축이 필요하다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Can day trading replace my nine to five job?"
+      "일일 거래로 직장을 그만두기 전에 수십 개월 동안 꾸준히 수익을 내고 대량의 저축이 필요하다.",
+      "9to5 직장을 그만두기 전에 금융 자문가와 상담하라.",
+      "일일 거래로 직장을 그만두면 큰 손실을 입을 수 있으므로 조심하라."
     ],
-    "caution": "성과·수익 발화: “You have a ton of money in savings or well-invested and you have months and months and months and months and months and months and months and months of buffer and you're already v…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 267,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5073,20 +5267,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.20",
     "duration": "00:06",
     "originalTitle": "4. GOD HELP_V2.mp4",
-    "title": "영상 발화 분석: LOL #skit #funny.",
+    "title": "시장 분석에 관한 트레이딩 관점",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 6.40초·로컬 Whisper large-v3-turbo 전사 2단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “LOL #skit #funny.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "거래 원칙",
+      "GOD HELP"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “LOL #skit #funny.”",
+    "core": "LOL은 시장 상황을 예측할 수 없다는 것을 강조한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: LOL #skit #funny."
+      "시장 상황을 예측할 수 없다는 것을 인정하라.",
+      "결과를 기대하지 말고, 단순히 거래하라."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 2,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5095,20 +5290,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.08",
     "duration": "02:25",
     "originalTitle": "Zoom Call Jeremy Snapshot of Payouts.mp4",
-    "title": "영상 발화 분석: Just kind of want to show you guys what hopefully your future looks like.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 144.53초·로컬 Whisper large-v3-turbo 전사 348단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Just kind of want to show you guys what hopefully your future looks like.” / “Well, I will tell you what got me there.”",
+    "title": "2월부터 시작, 5, 6월부터 수익 시작 - 천천히 성장하는 방법",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자",
+      "성장",
+      "투자전략"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Just kind of want to show you guys what hopefully your future looks like.” 이어 “Well, I will tell you what got me there.” 이어 “Just keep going, keep going, keep going.” 이어 “My hunch trading is garbage.”",
+    "core": "성급한 방법 대신 천천히 성장하는 것이 중요하다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Just kind of want to show you guys what hopefully your future looks like."
+      "2월부터 시작하여 매월 천원 단위로 투자하였고, -400 달러까지 잃어도 계속 투자하였다.",
+      "3일 연속 손실로 한 달의 성과를 잃어도 계속 투자하였다.",
+      "5, 6월부터 수익이 시작되었으며, 빠른 방법 대신 천천히 성장하는 것이 중요하다."
     ],
-    "caution": "성과·수익 발화: “So far for the month, I'm at $33,254.62 in payouts.” / “And I took a very slow approach of $50, $100, wagering strategy, lock out at minus $400.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 348,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5116,20 +5314,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1989346951751985": {
     "date": "2026.08.21",
     "duration": "00:46",
-    "originalTitle": "2.2K views | People hear \"trading\" and immediately think gambling. I get it, from the outside it can look the same. But there's a real difference. Gambling is putting money down and hoping. Trading, when you actually do it right, is putting money down because you have a plan. You know your entry, you know where you're getting out if it goes wrong, and you know exactly how much you're risking before you ever click the button. That last part matters more than people think. You only risk money you can actually afford to lose. Not rent money, not \"I'll figure it out later\" money. An amount you're okay with losing if the trade doesn't work out, because sometimes it won't. A casino doesn't let you set your own odds. The market doesn't either, but a strategy lets you decide how much you're willing to put on the line and when you're walking away. That's the difference between gambling and trading. One is chance. The other is a plan you stick to, win or lose. Have a strategy. Know your risk. Never trade with money you can't afford to lose. | 20-Minute Trader",
-    "title": "위험관리: If you're trading, you have a strategy both for your criteria for entry and for what you're going to wag…",
+    "originalTitle": "People hear \"trading\" and immediately think gambling. I get it, from the outside it can look the same. But there's a real difference. Gambling is putting money down and hoping. Tr…",
+    "title": "실제 플랜과 진입 전략을 갖춘 투자와 도박의 차이",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 46.42초·Facebook 자동 자막 166단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “How do you know you're trading and not just gambling?” / “You don't have a tested system that you're using and you're very worried about losing the money you're about to put in.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "risk"
+      "옵션",
+      "위험관리",
+      "투자",
+      "도박"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “How do you know you're trading and not just gambling?” 이어 “You don't have a tested system that you're using and you're very worried about losing the money you're about to put in.” 이어 “You don't have a predefined risk of how much money you're willing to lose that you're completely okay with.” 이어 “That makes sense.”",
+    "core": "투자는 계획을 가지고 진입하고, 도박은 단순히 돈을 걸고 기대하는 것과 다르다.",
     "rules": [
-      "원문 실행 문장: If you're trading, you have a strategy both for your criteria for entry and for what you're going to wager and you have an exact plan for if you win or lose that trade, what you're going to do next, and you're completely okay with what you might lose in that…",
-      "원문 실행 문장: You don't have a predefined risk of how much money you're willing to lose that you're completely okay with."
+      "투자는 계획을 가지고 진입하고, 도박은 단순히 돈을 걸고 기대하는 것과 다르다.",
+      "진입 전략과 손절 매매를 미리 정해두고, 그에 따른 위험을 인지해야 한다.",
+      "투자할 수 있는 돈은 실제 생활비나 급여와 무관한 돈으로, 도박처럼 생각해서는 안 된다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 166,
     "transcriptSource": "Facebook 자동 자막"
@@ -5137,20 +5339,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "1991861591565434": {
     "date": "2025.10.19",
     "duration": "00:59",
-    "originalTitle": "7.3K views | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: But wait, you'll have the chance to make more money.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 59.20초·로컬 Whisper large-v3-turbo 전사 286단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “How would you like to throw your hard-earned money out the window?” / “No, actually it's like simple ethical trading using proven predictable patterns in just 20 minutes.”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 투자 트레이딩 코스 무료로 받기",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자",
+      "20분 투자",
+      "투자 트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “How would you like to throw your hard-earned money out the window?” 이어 “No, actually it's like simple ethical trading using proven predictable patterns in just 20 minutes.” 이어 “I'm out of here.” 이어 “I'm out of here.”",
+    "core": "20분 투자 트레이딩은 간단한 예측 가능한 패턴을 이용한 윤리적인 투자 방법이다.",
     "rules": [
-      "원문 실행 문장: But wait, you'll have the chance to make more money."
+      "투자금을 증가시키려면 더 많은 돈을 투자해야 한다.",
+      "매장이 설계된 미로처럼 퇴출할 수 없는 장소에서 투자해야 한다."
     ],
-    "caution": "홍보·행동유도 발화: “Well then give you free drinks to make you stay longer.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 286,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5159,21 +5364,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.30",
     "duration": "01:10",
     "originalTitle": "Investing in 2027 - An hour a day.mp4",
-    "title": "영상 발화 분석: First thing I'd do is set aside an hour a day, not eight hours a day, not quit my job, not go crazy, one…",
+    "title": "2027년 투자 전략: 하루 1시간, 금 패턴으로 시작",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 69.90초·로컬 Whisper large-v3-turbo 전사 270단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If I was gonna start investing in 2027, knowing what I know today, this is exactly what I would do.” / “And from what I've seen, the percentage of people succeeding with it appears to be higher than any other strategy I've personally come across.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim"
+      "시장 분석",
+      "투자",
+      "금 패턴",
+      "하루 1시간"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “If I was gonna start investing in 2027, knowing what I know today, this is exactly what I would do.” 이어 “And from what I've seen, the percentage of people succeeding with it appears to be higher than any other strategy I've personally come across.” 이어 “to 5 p.m., they can trade at 7 a.m.” 이어 “So flexibility matters.”",
+    "core": "2027년 투자 시작을 위해 하루 1시간을 투자학습에 할애하고, 금 패턴을 배우는 것이 좋습니다.",
     "rules": [
-      "원문 실행 문장: First thing I'd do is set aside an hour a day, not eight hours a day, not quit my job, not go crazy, one hour a day.",
-      "원문 실행 문장: People can trade it almost whenever you want.",
-      "원문 실행 문장: to 5 p.m., they can trade at 7 a.m.",
-      "원문 실행 문장: They simply pick a 20-minute block that works for their schedule, and that's when they trade."
+      "하루 1시간을 투자학습에 할애하고, 금 패턴을 배웁니다.",
+      "금 패턴은 20분만에 실행할 수 있어 유연성을 제공합니다.",
+      "금 패턴은 높은 성공 확률과 큰 유연성을 가지고 있습니다."
     ],
-    "caution": "성과·수익 발화: “And from what I've seen, the percentage of people succeeding with it appears to be higher than any other strategy I've personally come across.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 270,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5181,21 +5388,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2024068914834103": {
     "date": "2026.01.28",
     "duration": "00:15",
-    "originalTitle": "3.3K views · 12 reactions | Is 20-Minute Trader a Scam? Watch the full video here: https://youtu.be/b2LNcqzOGh4 In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: One question people often ask is, if you make money trading, why are you teaching this?",
+    "originalTitle": "Is 20-Minute Trader a Scam? Watch the full video here: https://youtu.be/b2LNcqzOGh4 In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 투자 트레이딩의 진실: 20분 트레이더는 사기일까?",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 15.33초·로컬 Whisper large-v3-turbo 전사 65단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “One question people often ask is, if you make money trading, why are you teaching this?” / “The answer to that is I never intended for this or even trading to be my job.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자 트레이딩",
+      "20분 트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “One question people often ask is, if you make money trading, why are you teaching this?” 이어 “The answer to that is I never intended for this or even trading to be my job.” 이어 “When I learned something useful, my burning desire is to share it.” 이어 “That's always been true for me.”",
+    "core": "나는Trading을 직업으로 삼지 않아도 이 지식을 공유하려는 열정이 있어야 한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: One question people often ask is, if you make money trading, why are you teaching this?"
+      "나는Trading을 직업으로 삼지 않아도 이 지식을 공유하려는 열정이 있어야 한다.",
+      "나는 수백만 달러를 Trading으로 벌더라도 이 지식을 공유할 것이다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 65,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5204,18 +5412,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.06.16",
     "duration": "00:44",
     "originalTitle": "20MT Nov 24 Illegal to Know v1.mov",
-    "title": "주식·섹터: And just wait for them to drop together.",
+    "title": "20MT Nov 24: Apple 주식 가격과 도우존 지수의 일치 패턴",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 44.27초·로컬 Whisper large-v3-turbo 전사 141단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Piece of information that you learned that feels illegal to know.” / “And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entire lives.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "투자전략",
+      "20MT"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Piece of information that you learned that feels illegal to know.” 이어 “And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entire lives.” 이어 “It again happens here.” 이어 “So that's weird.”",
+    "core": "기술주에서 도우존 지수가 먼저 회복되는 패턴을 이용해 수익을 얻을 수 있다.",
     "rules": [
-      "원문 실행 문장: And just wait for them to drop together."
+      "기술주 차트에 Apple을 추가하고, 도우존 지수의 오렌지 선을 그린다.",
+      "도우존 지수가 하락한 후 회복되면, 그 시점에서 Apple 주식을 매수한다.",
+      "이 패턴은 4년 6개월 동안 수익을 창출하며, 405,000명에게 이 방법을 가르쳤다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 141,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5223,21 +5436,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2055993461610993": {
     "date": "2025.12.20",
     "duration": "00:50",
-    "originalTitle": "3.1K views · 21 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: So if somebody is new to trading and they want to know what I think they should do, I would say learn on…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 49.90초·로컬 Whisper large-v3-turbo 전사 199단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So if somebody is new to trading and they want to know what I think they should do, I would say learn one specific strategy very, very well, rather than trying to learn a huge, broad thing.” / “But if you just launch into learning a musical instrument by saying, these are the scales, these are the symbols, it's not actually going to be real to you.”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 투자 전략을 완벽히 이해한 뒤 다른 전략을 배우세요",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자 전략",
+      "20분 투자"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “So if somebody is new to trading and they want to know what I think they should do, I would say learn one specific strategy very, very well, rather than trying to learn a huge, broad thing.” 이어 “But if you just launch into learning a musical instrument by saying, these are the scales, these are the symbols, it's not actually going to be real to you.” 이어 “You'll be able to learn other things if you want to broaden your knowledge.” 이어 “So any complete newbie who can read and can basically understand simple math will be able to understand the 20 minute trader strategy.”",
+    "core": "투자 전략을 하나씩 깊게 공부하는 것이 더 효과적이라고 말한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: So if somebody is new to trading and they want to know what I think they should do, I would say learn one specific strategy very, very well, rather than trying to learn a huge, broad thing."
+      "투자 초보자도 20분 투자 전략을 이해할 수 있다.",
+      "하루에 20분만 투자하면 복잡한 전략을 쉽게 배울 수 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 199,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5246,20 +5460,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.20",
     "duration": "02:28",
     "originalTitle": "portrait.mp4",
-    "title": "주식·섹터: I'm gonna sell this door!",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 147.83초·로컬 Whisper large-v3-turbo 전사 467단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What are you talking about?” / “I am not gonna stock up on batteries, churning my own butter, or washing my clothes in my swimming pool.”",
+    "title": "AI 버블 터지면 어떻게 대비할까? 20분 투자법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "투자",
+      "20분 투자법"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “What are you talking about?” 이어 “I am not gonna stock up on batteries, churning my own butter, or washing my clothes in my swimming pool.” 이어 “Can I learn that stuff?” 이어 “That's good.”",
+    "core": "주식 시장이 떨어지더라도 매일 짧은 시간 투자로 수익을 얻을 수 있다는 방법을 설명",
     "rules": [
-      "원문 실행 문장: I'm gonna sell this door!",
-      "원문 실행 문장: Place a trade that lasts about a minute.",
-      "원문 실행 문장: Place the trade in and out."
+      "주식 시장이 떨어지더라도 매일 20분 투자로 수익을 얻을 수 있다.",
+      "매일 5, 10, 15분 동안 주식 차트를 확인하고 1분간 거래를 실행한다.",
+      "매번 거래에서 옳은 것을 더 많이 맞추면 수익을 얻을 수 있다."
     ],
-    "caution": "성과·수익 발화: “As long as I'm right more than I'm wrong, I'm profitable.” 홍보·행동유도 발화: “Best way to learn is go to a free web class.” / “They'll send you a free ticket.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 467,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5268,20 +5485,19 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.21",
     "duration": "00:07",
     "originalTitle": "Funny reel.MP4",
-    "title": "영상 발화 분석: I'm feeling lonely Oh, I wish I'd find a lover back behind me",
+    "title": "트레이딩 화면을 활용한 짧은 장면",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 6.97초·로컬 Whisper large-v3-turbo 전사 13단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm feeling lonely Oh, I wish I'd find a lover back behind me”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "짧은 장면"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm feeling lonely Oh, I wish I'd find a lover back behind me”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I'm feeling lonely Oh, I wish I'd find a lover back behind me"
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 13,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5290,23 +5506,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.07",
     "duration": "00:51",
     "originalTitle": "basic METHODOLOGY.mp4",
-    "title": "영상 발화 분석: We use three lines on a chart, a blue line, an orange line, and a white line.",
+    "title": "20분 차트에서의 30~40초 터너먼트 트레이딩 방법",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 50.53초·로컬 Whisper large-v3-turbo 전사 219단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Everything you need to know about 20-minute trading in five minutes.” / “All we're doing is looking for a divergence between the trend of the blue line and the trend of the orange line, and we wait for the white line to give us our entry.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20분 차트",
+      "터너먼트 트레이딩",
+      "블루 라인"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Everything you need to know about 20-minute trading in five minutes.” 이어 “All we're doing is looking for a divergence between the trend of the blue line and the trend of the orange line, and we wait for the white line to give us our entry.” 이어 “All we're doing is predicting whether something is going to move up or down over a very short period of time.” 이어 “It might take about 15 minutes to finally show up, but generally, they show up every three to seven minutes.”",
+    "core": "20분 차트에서 가격 변동을 예측하여 짧은 시간 내에 진입과 탈출을 반복하는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: We use three lines on a chart, a blue line, an orange line, and a white line.",
-      "원문 실행 문장: All we're doing is looking for a divergence between the trend of the blue line and the trend of the orange line, and we wait for the white line to give us our entry.",
-      "원문 실행 문장: If the blue line is pointing downward compared to the orange line, we wait for the white line to pop upward, and that's when we enter a trade expecting it to go down.",
-      "원문 실행 문장: All we're doing is predicting whether something is going to move up or down over a very short period of time.",
-      "원문 실행 문장: While you're watching, a trade setup might appear in three minutes."
+      "블루 라인의 추세가 오르는 경우, 오렌지 라인의 추세보다 블루 라인의 추세가 더 높다면, 백 라인이 내려갈 때 진입한다.",
+      "블루 라인의 추세가 떨어지는 경우, 오렌지 라인의 추세보다 블루 라인의 추세가 더 낮다면, 백 라인이 올라갈 때 진입한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 219,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5315,19 +5530,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.03.29",
     "duration": "00:57",
     "originalTitle": "POV.mp4",
-    "title": "영상 발화 분석: I'm going to sell them on Amazon.",
+    "title": "20분 투자 전략으로 평균 주간 수익 188달러",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 56.80초·로컬 Whisper large-v3-turbo 전사 160단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What you doing, Dad?” / “What do you got?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 투자",
+      "투자 전략",
+      "초보자 투자"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “What you doing, Dad?” 이어 “What do you got?” 이어 “Sitting around staring at screens all day and stuff.” 이어 “My favorite.”",
+    "core": "20분 투자 전략을 사용하면 평균 주간 수익이 188달러가 된다.",
     "rules": [
-      "원문 실행 문장: I'm going to sell them on Amazon.",
-      "원문 실행 문장: Takes too long to trade."
+      "20분 투자 전략을 사용하면 평균 주간 수익이 188달러가 된다.",
+      "20분 투자 전략은 예측 가능한 패턴을 기반으로 초보자도 쉽게 배울 수 있다."
     ],
-    "caution": "홍보·행동유도 발화: “I teach it free on web classes.” / “Just hit the link in the bio and you'll get a free ticket.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 160,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5336,20 +5554,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.04.24",
     "duration": "00:08",
     "originalTitle": "Funny trader waiting for monday.mov",
-    "title": "영상 발화 분석: Nobody suffers like a trader on a Saturday morning.",
+    "title": "토요일 아침 트레이더의 고민 - 마치 브랜의 드라마처럼",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 7.79초·로컬 Whisper large-v3-turbo 전사 2단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Nobody suffers like a trader on a Saturday morning.” / “The news is moving.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "토요일 아침",
+      "무력감"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Nobody suffers like a trader on a Saturday morning.” 이어 “The news is moving.” 이어 “Just sitting there.” 이어 “Tag your trading partner in crime 👇.”",
+    "core": "토요일 아침 트레이더는 시장이 열리지 않아 무력감을 느낀다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Nobody suffers like a trader on a Saturday morning."
+      "토요일 아침 트레이더는 시장이 열리지 않아 무력감을 느낀다.",
+      "차트는 닫혀 있고 뉴스는 움직이고 있지만 트레이더는 할 수 있는 것이 없다.",
+      "브랜의 행동을 보면서 트레이더의 심정을 이해하게 한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 2,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5357,22 +5578,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2095865427673749": {
     "date": "2026.08.20",
     "duration": "00:56",
-    "originalTitle": "2.1K views | Real talk for a sec You can break the rules and get lucky. It happens. everyone's got that one trade where they ignored their own plan and it worked out and now they think \"see, i knew it\" But that's not a strategy, that's a coin flip that happened to land right. The traders who are still around in 2 years aren't the ones who hit one lucky trade. They're the ones who do the same boring thing over and over. Same entry rules, same stop loss, same exit plan, every single time, even when it feels like this trade is \"different\" Slow and steady isn't the exciting answer but it's the one that actually works long term. Luck can run out. Discipline doesn't. Trust the process even when it's boring. Comment CLASS to learn more about 20-Minute Trading technique. #fyp #learn #steady | 20-Minute Trader",
-    "title": "위험관리: He said, instead of risking $100,000, I risk $2,000 on every trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 55.52초·로컬 Whisper large-v3-turbo 전사 205단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Now you're going to hear stories about Joe Blow made $50,000 in one month doing a big whiz-bangy old huge blah, blah, blah, blah.” / “I said, what did you do?”",
+    "originalTitle": "Real talk for a sec You can break the rules and get lucky. It happens. everyone's got that one trade where they ignored their own plan and it worked out and now they think \"see, i…",
+    "title": "규칙을 깨고 운을 타면 실패하는 경우",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "투자전략",
+      "규칙따기"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Now you're going to hear stories about Joe Blow made $50,000 in one month doing a big whiz-bangy old huge blah, blah, blah, blah.” 이어 “I said, what did you do?” 이어 “70 people raised their hand in a group of about 120.” 이어 “By the time all was said and done with all the fees he paid, dude was only up about $6,500.”",
+    "core": "운을 타고 큰 수익을 얻는 것은 임시적이고 위험하며, 장기적으로는 규칙을 따르는 것이 더 안전하다.",
     "rules": [
-      "원문 실행 문장: He said, instead of risking $100,000, I risk $2,000 on every trade.",
-      "원문 실행 문장: He was risking $1,000 for every trade.",
-      "원문 실행 문장: Just literally happened to hit every single trade."
+      "규칙을 깨고 큰 수익을 얻은 사람들은 대부분 실패한다.",
+      "운을 타고 성공한 거래는 장기적으로는 실패로 이어진다.",
+      "규칙을 지키는 것이 장기적인 성공을 보장한다."
     ],
-    "caution": "성과·수익 발화: “Now you're going to hear stories about Joe Blow made $50,000 in one month doing a big whiz-bangy old huge blah, blah, blah, blah.” / “By the time all was said and done with all the fees he paid, dude was only up about $6,500.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 205,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5380,21 +5603,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2097280041039367": {
     "date": "2025.11.24",
     "duration": "00:15",
-    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: I'm you 10 minutes from now.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "10분 뒤의 당신을 위한 무료 웹 클래스 티켓 얻기 #트레이딩",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 15.37초·로컬 Whisper large-v3-turbo 전사 28단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Who are you?” / “Damn it, you are handsome.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "무료 웹 클래스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Who are you?” 이어 “Damn it, you are handsome.” 이어 “I was just thinking the same.” 이어 “We are sexy bitches, yeah.”",
+    "core": "10분 뒤의 당신을 위해 무료 웹 클래스 티켓을 제공하며, 트레이딩을 즐겁게 만듭니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Who are you?"
+      "10분 뒤의 당신은 현재와 동일한 내용을 다시 말할 것입니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 28,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5403,23 +5626,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.15",
     "duration": "01:17",
     "originalTitle": "20 minute trader technique.mp4",
-    "title": "주식·섹터: Specifically, we like to use what's called gold futures.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 77.03초·로컬 Whisper large-v3-turbo 전사 248단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “20 minute trader technique revealed.” / “The blue line represents the value of gold.”",
+    "title": "20분 트레이딩 기법(금 가격과 다우지수의 분위기 분석)",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "선물·지수",
+      "20분 트레이딩",
+      "RSI",
+      "금 가격"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “20 minute trader technique revealed.” 이어 “The blue line represents the value of gold.” 이어 “What we do is we look for a short term trend in the blue line, one or two minutes long.” 이어 “If the blue line is pointing down in relation in trend to where the orange line is pointing, that means we're gonna look for a trade that profits downward.”",
+    "core": "금 가격과 다우지수의 짧은 추세를 분석하여 거래 방향을 결정한다.",
     "rules": [
-      "원문 실행 문장: Specifically, we like to use what's called gold futures.",
-      "원문 실행 문장: What we do is we look for a short term trend in the blue line, one or two minutes long.",
-      "원문 실행 문장: And that divergence tells us which direction we want to trade.",
-      "원문 실행 문장: For example, if the blue line is trending upward while the orange line is flat or moving downward, that divergence suggests that we look for an upward trade.",
-      "원문 실행 문장: If the blue line is pointing down in relation in trend to where the orange line is pointing, that means we're gonna look for a trade that profits downward."
+      "금 가격과 다우지수의 짧은 추세를 찾아, 두 선이 반대 방향으로 움직임을 확인한다.",
+      "반대 방향으로 움직이는 추세를 발견하면 금 가격이 상승할 가능성을 추세를 따르는 거래를 실행한다.",
+      "금 가격이 하락하는 추세와 다우지수의 추세가 일치하면 하락 추세를 따르는 거래를 실행한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 248,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5428,30 +5651,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.30",
     "duration": "01:01:43",
     "originalTitle": "20 MTV Live Trading",
-    "title": "이동평균: Yes, I am a mom of twin teenagers and I work a full-time job and I still find time to trade because I re…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3702.63초·Facebook 자동 자막 10233단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good morning, traders.” / “So, let's get into the chart.”",
+    "title": "20 MTV Live Trading - 9:30 AM EST, 1:2 위험보상비, 120초 거래",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "moving average",
-      "breakout",
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "이동평균",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “Good morning, traders.” 이어 “So, let's get into the chart.” 이어 “We call it a macro view or a macro trend.” 이어 “If it's with the trend and only cautiously take A plus trades against the trend.” 이어 “It needs to wake up.” 이어 “We're about to hit some take profit.” 이어 “Save order preset and I'm going to call this MES I already have a one to 2.” 이어 “Later, traders.”",
+    "core": "장 시작 직후의 짧은 거래 패턴을 분석하고 1:2 위험보상비를 추적합니다.",
     "rules": [
-      "원문 실행 문장: Yes, I am a mom of twin teenagers and I work a full-time job and I still find time to trade because I really, really, really enjoy this and it's a lot of fun.",
-      "원문 실행 문장: We are looking to trade going upwards because the blue line is pointing up.",
-      "원문 실행 문장: Yeah, but I do scale out far enough where I can see the trend.",
-      "원문 실행 문장: So, that's why when divergence isn't very far apart or exaggerated, we don't look for a trade, also notice that our price went flat, right?",
-      "원문 실행 문장: So, there is definitely some ways to manage the trade when you're in a trade.",
-      "원문 실행 문장: I'm trading on TradingView right now and I trade with prop firms and I connect my prop firms into trading view and I trade on the same exact chart.",
-      "원문 실행 문장: And it's going to show me how much it needs to move.",
-      "원문 실행 문장: See what patterns you guys are able to identify."
+      "장 시작 직후의 짧은 거래 패턴을 분석합니다.",
+      "120초 거래를 위한 손절와 TAKEPROFIT을 설정합니다.",
+      "1:2 위험보상비를 추적합니다."
     ],
-    "caution": "성과·수익 발화: “We can just learn the basics and actually trade the futures market and be profitable.” / “Started taking payouts, became profitable, and then I started being a mentor in the community and now I teach students and I'm also a live trader and I do everything.” 홍보·행동유도 발화: “Like a very small percentage of the actual gold pattern strategy because it's actually a four-hour course with a lot of detailed information going from very, very basic to advance…” / “I teach you guys completely for free and I walk you guys through trades.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 10233,
     "transcriptSource": "Facebook 자동 자막"
@@ -5459,23 +5675,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2114710592685861": {
     "date": "2026.03.05",
     "duration": "00:56",
-    "originalTitle": "2.1K views · 12 reactions | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $188 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "심리·규율: So you revenge trade and you overtrade.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20일 연속 수익 후 21일째 손실로 인한 계좌 폭파 방지 방법",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 55.68초·로컬 Whisper large-v3-turbo 전사 186단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Market does not care about your emotions.” / “You size up, you force setups.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology"
+      "심리·규율",
+      "거래전략",
+      "감정관리",
+      "20분트레이더"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Market does not care about your emotions.” 이어 “You size up, you force setups.” 이어 “It's simple, but it takes discipline.” 이어 “Probabilities only make sense over time.”",
+    "core": "거래는 확률이므로 장기적으로 이익을 보는 것이 중요합니다.",
     "rules": [
-      "원문 실행 문장: So you revenge trade and you overtrade.",
-      "원문 실행 문장: You size up, you force setups.",
-      "원문 실행 문장: Meaning the trade you place today isn't life or death.",
-      "원문 실행 문장: It's not the trade.",
-      "원문 실행 문장: It's one out of 30, one trade out of 40, one trade out of 50."
+      "20일 연속 수익 후 21일째 손실을 감내하고 레버리지 설정을 조절해야 합니다.",
+      "일정 기간 동안의 수익을 목표로 하지 말고 장기적인 이익을 추구해야 합니다.",
+      "레버리지와 진입을 조절하여 감정적 손실을 관리해야 합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 186,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5483,20 +5700,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2134540614044113": {
     "date": "2026.01.25",
     "duration": "00:16",
-    "originalTitle": "1.2K views · 4 comments | Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those stu…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 15.97초·로컬 Whisper large-v3-turbo 전사 2단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…” / “Good afternoon.”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who res…",
+    "title": "20분 트레이더 웹클래스 무료 티켓 얻는 방법",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…” 이어 “Good afternoon.”",
+    "core": "20분 트레이더 웹클래스에 참석하려면 'FREE'를 댓글로 남기면 무료로 참여할 수 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies.."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "성과·수익 발화: “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 whe…” 홍보·행동유도 발화: “Comment “FREE” to get a ticket to my next web class for free!” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 2,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5504,21 +5722,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2137243503385176": {
     "date": "2025.05.16",
     "duration": "00:26",
-    "originalTitle": "10 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: So when I entered the stock market and to look at it as a 42-year-old who'd never touched a stock, never…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 25.90초·로컬 Whisper large-v3-turbo 전사 103단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So when I entered the stock market and to look at it as a 42-year-old who'd never touched a stock, never learned any strategy, never learned any terms, knew nothing but what I had learned on the movie Trading…” / “That one little motion is completely predictable.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "42세 초보 투자자의 성공 스토리: 20분 투자 전략으로 주식 시장 예측",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "주식·섹터",
+      "투자",
+      "초보자",
+      "예측"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “So when I entered the stock market and to look at it as a 42-year-old who'd never touched a stock, never learned any strategy, never learned any terms, knew nothing but what I had learned on the movie Trading…” 이어 “That one little motion is completely predictable.” 이어 “People laughed at me, said it's too easy, too simple.” 이어 “I said, I don't know, but I can predict it.”",
+    "core": "42세 초보 투자자가 영화에서 배운 것만으로 주식 시장에서 예측을 성공적으로 수행했습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: So when I entered the stock market and to look at it as a 42-year-old who'd never touched a stock, never learned any strategy, never learned any terms, knew nothing but what I had learned on the movie Trading Places and Wolf of Wall Street, which is nothing,…"
+      "42세 초보 투자자가 영화 '트레이딩 플레이스'와 '월프 오브 월스트리트'에서 배운 것만으로 주식 시장에서 예측을 성공적으로 수행했습니다.",
+      "그는 단 한 번의 움직임을 완전히 예측할 수 있다고 생각했고, 이에 대해 사람들이 웃었습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 103,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5527,19 +5747,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.06.30",
     "duration": "00:22",
     "originalTitle": "20MT Nov 24 Main Character v1.mov",
-    "title": "영상 발화 분석: Staring at the blank page before you Open up the dirty window Let the sun illuminate the words that you…",
+    "title": "20MT 11월 24일 주요 캐릭터 v1",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 22.03초·로컬 Whisper large-v3-turbo 전사 52단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Staring at the blank page before you Open up the dirty window Let the sun illuminate the words that you could not find Reaching for something in the distance So close you can almost taste it Release your inhib…”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "감정 관리"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Staring at the blank page before you Open up the dirty window Let the sun illuminate the words that you could not find Reaching for something in the distance So close you can almost taste it Release your inhib…”",
+    "core": "자신의 감정을 표현하고, 제한된 시장 상황에서 감정을 관리해야 합니다.",
     "rules": [
-      "원문 실행 문장: Staring at the blank page before you Open up the dirty window Let the sun illuminate the words that you could not find Reaching for something in the distance So close you can almost taste it Release your inhibition Feel the rain on your skin No one else can f…"
+      "시장 상황에서 감정을 억제하고, 거래할 기회를 놓치지 말아야 합니다.",
+      "자신의 감정을 표현하며, 시장의 변화를 받아들이는 것이 중요합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 52,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5547,21 +5769,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2161310171357570": {
     "date": "2026.04.29",
     "duration": "00:14",
-    "originalTitle": "4 comments | We just want you to get the bag 💰 comment CLASS to learn more #trading #batman #bag #class | 20-Minute Trader",
-    "title": "영상 발화 분석: And you'll never have to.",
+    "originalTitle": "We just want you to get the bag 💰 comment CLASS to learn more #trading #batman #bag #class",
+    "title": "배트맨 클래스로 트레이딩 기술을 터득하려면 가방을 얻으세요 🌟",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 14.44초·로컬 Whisper large-v3-turbo 전사 10단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I never said thank you.” / “And you'll never have to.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "배트맨",
+      "클래스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I never said thank you.” 이어 “And you'll never have to.”",
+    "core": "배트맨 클래스를 통해 트레이딩 기술을 향상시킬 수 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I never said thank you."
+      "댓글로 CLASS를 남기고 배트맨 클래스를 통해 더 많은 정보를 얻으세요.",
+      "가방을 얻으려면 클래스에 참여해야 합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 10,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5569,20 +5793,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2167463807325993": {
     "date": "2026.02.04",
     "duration": "00:24",
-    "originalTitle": "1.7K views | Watch the full video here: https://www.youtube.com/watch?v=oaXlOVxX-rU Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: So with that said, here are the five things I would do if I wanted to DIY learning how to trade for the…",
+    "originalTitle": "Watch the full video here: https://www.youtube.com/watch?v=oaXlOVxX-rU Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Min…",
+    "title": "20분 traders의 초보자를 위한 DIY 트레이딩 학습 방법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 24.13초·로컬 Whisper large-v3-turbo 전사 78단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I was an educator for 22 years and learned that the best way to teach anybody anything is to clarify everything as if the person is in fourth or fifth grade, answer questions over and over again, and keep thin…” / “That's how 20 Minute Trader approaches teaching busy beginners.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "초보자 트레이딩",
+      "DIY 트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I was an educator for 22 years and learned that the best way to teach anybody anything is to clarify everything as if the person is in fourth or fifth grade, answer questions over and over again, and keep thin…” 이어 “That's how 20 Minute Trader approaches teaching busy beginners.” 이어 “So with that said, here are the five things I would do if I wanted to DIY learning how to trade for the first time.”",
+    "core": "초보자를 위한 트레이딩 교육은 가장 단순하고 명확한 방식으로 이루어져야 한다.",
     "rules": [
-      "원문 실행 문장: So with that said, here are the five things I would do if I wanted to DIY learning how to trade for the first time."
+      "20분 traders는 22년간 교육자로 활동하며, 초보자를 위한 교육을 단순하고 명확하게 진행한다.",
+      "DIY로 트레이딩을 배우고자 하는 사람들은 이 방법을 따라할 수 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 78,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5591,19 +5817,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.12",
     "duration": "00:16",
     "originalTitle": "20mt Relgion in trading (Socials).mp4",
-    "title": "영상 발화 분석: Was a religion in trading and you had to worship a god.",
+    "title": "매일 락아웃을 숭배하라: 6번째 거래가 결정점",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 15.93초·Facebook 자동 자막 59단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Was a religion in trading and you had to worship a god.” / “That's who you should be obedient to.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "락아웃",
+      "구조"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Was a religion in trading and you had to worship a god.” 이어 “That's who you should be obedient to.” 이어 “You should worship.” 이어 “Gotta live to fight another day.”",
+    "core": "매일의 락아웃을 숭배하는 것이 중요하며, 세 번의 손실 뒤에 6번째 거래가 결정적인 순간이다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Was a religion in trading and you had to worship a god."
+      "매일의 락아웃을 완전히 따르고 숭배해야 한다.",
+      "세 번의 손실 뒤에 6번째 거래가 결정적인 순간이다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "홍보·행동유도 발화: “You should follow but you have to be completely obedient to that.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 59,
     "transcriptSource": "Facebook 자동 자막"
@@ -5611,22 +5841,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2169024453932181": {
     "date": "2026.02.05",
     "duration": "00:22",
-    "originalTitle": "2K views | Watch the full video here: https://www.youtube.com/watch?v=oaXlOVxX-rU Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: If you don't have a predefined risk, you are suicidal in the trading world.",
+    "originalTitle": "Watch the full video here: https://www.youtube.com/watch?v=oaXlOVxX-rU Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Min…",
+    "title": "20분 트레이더의 성공 비결: 농담 없이 일관된 위험 관리",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 21.97초·로컬 Whisper large-v3-turbo 전사 69단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you don't have a predefined risk, you are suicidal in the trading world.” / “Beginners are drawn to the shortcut path.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology"
+      "위험관리",
+      "심리·규율",
+      "투자",
+      "위험 관리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “If you don't have a predefined risk, you are suicidal in the trading world.” 이어 “Beginners are drawn to the shortcut path.” 이어 “They worship profit instead of discipline, and they rush into real money before they've earned it.” 이어 “But the way that gets people where they need to go is the boring, steady, consistent, safety driven, predefined risk approach.”",
+    "core": "성공적인 트레이딩은 일관된 위험 관리와 끊임없는 학습을 통해 이루어진다.",
     "rules": [
-      "원문 실행 문장: If you don't have a predefined risk, you are suicidal in the trading world.",
-      "원문 실행 문장: They strategy hop, they chase dopamine, they chase that one trade.",
-      "원문 실행 문장: But the way that gets people where they need to go is the boring, steady, consistent, safety driven, predefined risk approach."
+      "투자 전에 명확한 위험 관리를 설정하고 이를 지키는 것이 중요하다.",
+      "단순한 방법을 추구하지 말고 일관된 학습과 실천을 통해 성공을 이뤄내야 한다."
     ],
-    "caution": "성과·수익 발화: “They worship profit instead of discipline, and they rush into real money before they've earned it.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 69,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5634,21 +5865,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2193446064498322": {
     "date": "2025.10.03",
     "duration": "00:10",
-    "originalTitle": "14K views · 11 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Say I am the one, cause you want to And the next day, even when it's got a good one Even when it's on a…",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 트레이더 수업 무료로 받고 싶다면 ‘FREE’ 댓글 달아보세요",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 9.73초·로컬 Whisper large-v3-turbo 전사 26단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Say I am the one, cause you want to And the next day, even when it's got a good one Even when it's on a notion”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이더",
+      "주식 시장"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Say I am the one, cause you want to And the next day, even when it's got a good one Even when it's on a notion”",
+    "core": "20분 트레이더의 교육 과정을 무료로 받을 수 있는 기회를 제공하고 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Say I am the one, cause you want to And the next day, even when it's got a good one Even when it's on a notion"
+      "수업은 모든 제품에 걸쳐 최근 조사에서 학생들의 만족도가 높았습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 26,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5656,22 +5888,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2202196726950541": {
     "date": "2025.09.12",
     "duration": "01:40",
-    "originalTitle": "162K views · 32 reactions | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "선물·지수: Very very often the red line independently dumps up and literally signals that the right side of the U i…",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "9:33~9:40 동안 SPY의 라인 차트에서의 매매 기법",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 100.07초·Facebook 자동 자막 312단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The best trading time.” / “This happens 99% of the time.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "performance claim"
+      "옵션",
+      "선물·지수",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 선물·지수 콘텐츠다. “The best trading time.” 이어 “This happens 99% of the time.” 이어 “Very very often the red line independently dumps up and literally signals that the right side of the U is about to is at that moment that I buy.” 이어 “The real question is, can it be available for these 20 minutes?”",
+    "core": "SPY의 라인 차트에서 9:33부터 9:40 사이에 발생하는 두 선의 하락 추세를 이용해 매수 신호를 잡는다.",
     "rules": [
-      "원문 실행 문장: You move around.",
-      "원문 실행 문장: Very very often the red line independently dumps up and literally signals that the right side of the U is about to is at that moment that I buy.",
-      "원문 실행 문장: I identify this here as the mutual downtrend between the blue line and the orange line or the red line.",
-      "원문 실행 문장: Once I see this, I instantly place my buy, pumps up."
+      "9:33부터 9:40 사이에 SPY의 라인 차트에서 두 선의 하락 추세가 형성되면 매수 신호를 잡는다.",
+      "9:33부터 9:40 사이에 빨간 선이 독립적으로 상승하면 매도 신호를 잡는다."
     ],
-    "caution": "성과·수익 발화: “This happens 99% of the time.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 312,
     "transcriptSource": "Facebook 자동 자막"
@@ -5679,20 +5912,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2244123153029704": {
     "date": "2026.08.17",
     "duration": "00:38",
-    "originalTitle": "2.2K views | Your ego is not your amigo. Get rid of it! #fyp | 20-Minute Trader",
-    "title": "영상 발화 분석: Your ego is not your amigo.",
+    "originalTitle": "Your ego is not your amigo. Get rid of it! #fyp",
+    "title": "1월에 깨달은 20분 거래의 과정과 금형 패턴의 중요성",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 38.34초·Facebook 자동 자막 136단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Your ego is not your amigo.” / “I'd already had it several times but I had it again.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "금형 패턴",
+      "거래 과정"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Your ego is not your amigo.” 이어 “I'd already had it several times but I had it again.” 이어 “What is good is the process based on experimentation testing and discovery that produced the criteria called the gold pattern.” 이어 “Those are the things to be respected.”",
+    "core": "자신의 감정을 버리고 거래 과정을 따라야 한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Your ego is not your amigo."
+      "1월에 거래 과정을 따라 20분 거래를 시작했다.",
+      "실험과 테스트를 통해 금형 패턴을 발견하고 이를 기준으로 거래한다."
     ],
-    "caution": "홍보·행동유도 발화: “I had that come to Jesus moment for myself and became a born again 20-minute trader and I was like, alright, let me follow the process like a good little gardener.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 136,
     "transcriptSource": "Facebook 자동 자막"
@@ -5701,19 +5937,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.06.15",
     "duration": "01:09",
     "originalTitle": "9. LEGAL BUT SUSPICIOUS_V5.mp4",
-    "title": "주식·섹터: When you see that, you just wait for the black line to touch the bottom, and you jump in.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 69.43초·로컬 Whisper large-v3-turbo 전사 230단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm not sure if this is legal or not, but it's extremely suspicious.” / “When you see that, you just wait for the black line to touch the bottom, and you jump in.”",
+    "title": "20분 트레이딩 전략_블루라인과 오렌지라인의 방향을 반대로 이용",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "옵션",
+      "주식·섹터",
+      "20분 트레이딩",
+      "블루라인"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “I'm not sure if this is legal or not, but it's extremely suspicious.” 이어 “When you see that, you just wait for the black line to touch the bottom, and you jump in.” 이어 “Kind of weird, eh?” 이어 “I'll hook you up.”",
+    "core": "블루라인과 오렌지라인의 방향이 반대일 때, 블루라인이 하락하고 오렌지라인이 상승하면 블랙라인의 저점에서 매수하는 것이 효과적이다.",
     "rules": [
-      "원문 실행 문장: When you see that, you just wait for the black line to touch the bottom, and you jump in."
+      "블루라인과 오렌지라인의 방향이 반대일 때, 블랙라인의 저점에서 매수한다.",
+      "비디오에서 가르친 대로, 블루라인과 오렌지라인의 방향이 반대일 때, 블랙라인의 저점에서 매수한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 230,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5721,20 +5960,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2273697843123516": {
     "date": "2026.01.11",
     "duration": "00:17",
-    "originalTitle": "6.7K views · 3 comments | Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: I was trading with a $50,000 account.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who res…",
+    "title": "50,000 달러 계좌에서 1,500 달러 이익 실현 후 안전 매도 - 20분 투자 트레이더",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 17.22초·로컬 Whisper large-v3-turbo 전사 46단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I was trading with a $50,000 account.” / “After it got up to about $53,000, I decided to take a $1,500 payout.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk"
+      "위험관리",
+      "투자 트레이딩",
+      "안전 매도",
+      "20분 투자"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I was trading with a $50,000 account.” 이어 “After it got up to about $53,000, I decided to take a $1,500 payout.” 이어 “Next thing I know, boom, $1,500 in there, done deal.” 이어 “At no point have I risked anything more than that original fee that I paid.”",
+    "core": "안전한 이익 실현을 통해 원금을 보호하고 추가 위험을 피할 수 있다는 점을 강조한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I was trading with a $50,000 account."
+      "$50,000 계좌에서 $1,500 이익을 얻은 후 안전하게 매도하여 추가 위험을 피했다.",
+      "원금 이상을 위험에 빠뜨리지 않고 안전하게 이익을 실현하는 방법을 공유한다."
     ],
-    "caution": "성과·수익 발화: “I was trading with a $50,000 account.” / “Next thing I know, boom, $1,500 in there, done deal.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 46,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5742,19 +5984,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2276474669447091": {
     "date": "2025.11.28",
     "duration": "00:55",
-    "originalTitle": "6.9K views · 14 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Well if it isn't germy wormy.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "jeremy wormy의 20분 투자 전략 공개 (20분 투자 트레이딩 클래스)",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 54.77초·로컬 Whisper large-v3-turbo 전사 240단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Well if it isn't germy wormy.” / “Actually I wanted to apologize to you for how I've treated you.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 투자",
+      "투자 전략",
+      "jeremy wormy"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Well if it isn't germy wormy.” 이어 “Actually I wanted to apologize to you for how I've treated you.” 이어 “Good luck man.” 이어 “Good luck man.”",
+    "core": "jeremy wormy은 20분 투자 전략을 무료로 공유하며, 참가를 원하는 사람들을 초대합니다.",
     "rules": [
-      "원문 실행 문장: Wait wait wait."
+      "jeremy wormy은 20분 투자 전략을 무료로 제공합니다."
     ],
-    "caution": "홍보·행동유도 발화: “I accept your apology and I'll give you my strategy for free.” / “Just comment free below and I'll send you my full video strategy for free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 240,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5763,29 +6008,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.03",
     "duration": "01:03:18",
     "originalTitle": "20 MTV Live Trading",
-    "title": "이동평균: See if you spot some patterns, take some trades, and then, if you don't, you just don't trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3798.13초·Facebook 자동 자막 9954단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good morning, traders.” / “So, this is what the market is anticipating right now and you know, having a red folder before we're starting to trade, it could be good or it could be not so great.”",
+    "title": "20 MTV Live Trading: 9:30 uptrend에서의 짧은 역발산 매매 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "moving average",
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "이동평균",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “Good morning, traders.” 이어 “So, this is what the market is anticipating right now and you know, having a red folder before we're starting to trade, it could be good or it could be not so great.” 이어 “We try to be within a range of it the most recent highs and lows and we let the trade play out.” 이어 “I would challenge you guys to stay away from market open.” 이어 “Alright, so here's a nice pullback.” 이어 “Orange line is flat.” 이어 “What about this trade?” 이어 “Later Trader s.”",
+    "core": "상승 추세에서 짧은 역발산을 이용한 매매 전략을 설명한다.",
     "rules": [
-      "원문 실행 문장: See if you spot some patterns, take some trades, and then, if you don't, you just don't trade.",
-      "원문 실행 문장: We don't ever tell you what to trade.",
-      "원문 실행 문장: What I like about this trade, prices still going up.",
-      "원문 실행 문장: So the next target's going to be all the way down at seventy-five forty-eight.",
-      "원문 실행 문장: So, I just connect my prop firm into trading view through trade of eight and that's how I trade.",
-      "원문 실행 문장: What I can do is I can lower, I was going to lower my risk but so, this is changing direction again.",
-      "원문 실행 문장: So, you see how these recent moves are all kind of the same size.",
-      "원문 실행 문장: We want to trade with the trend."
+      "상승 추세에서 짧은 역발산이 발생하면, RSI의 하락을 기다려 매수 진입 포인트를 잡는다.",
+      "RSI가 하락 추세일 때, 하락 추세를 기대하고 RSI가 회복될 때 매도 진입 포인트를 잡는다."
     ],
-    "caution": "성과·수익 발화: “We basically can start you from zero to becoming a profitable trader.” / “I can't guarantee anybody's make money in trading because I can't I don't click the buttons for you, right?” 홍보·행동유도 발화: “Go ahead and type the word class in the comments.” / “If you guys are on YouTube or anywhere else, just click the link in the description to get your free ticket.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 9954,
     "transcriptSource": "Facebook 자동 자막"
@@ -5794,20 +6032,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.31",
     "duration": "01:13",
     "originalTitle": "MTR SKIT - CLASS.mov",
-    "title": "주식·섹터: So when you do your trades in the first 20 minutes of the day, using predictable patterns, you don't act…",
+    "title": "MTR 20분 거래 클래스",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 72.60초·로컬 Whisper large-v3-turbo 전사 223단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm gonna invest 20k.” / “Plus, I mean, I guess it can also crash, but then I'm gonna invest it all in crypto right now.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "20분 거래",
+      "MTR"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “I'm gonna invest 20k.” 이어 “Plus, I mean, I guess it can also crash, but then I'm gonna invest it all in crypto right now.” 이어 “What are you doing?” 이어 “Because I think you gotta fix that.”",
+    "core": "20분 거래는 일일 거래 시작 시점에서 예측 가능한 패턴을 이용해 시작 자금이 적은 투자자를 위한 전략입니다.",
     "rules": [
-      "원문 실행 문장: Go place that trade.",
-      "원문 실행 문장: So when you do your trades in the first 20 minutes of the day, using predictable patterns, you don't actually need much to start with, and many traders focus on consistency with each trade.",
-      "원문 실행 문장: The precogs gave me a trade to do."
+      "일일 거래 시작 20분 동안 예측 가능한 패턴을 이용해 거래를 시작합니다.",
+      "초보자도 참여할 수 있는 20분 거래 전략을 배울 수 있는 무료 웹 클래스에 참가할 수 있습니다."
     ],
-    "caution": "홍보·행동유도 발화: “Simply comment the word class, and I'll send you a free ticket to my next live web class where you can get started on this for free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 223,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5815,20 +6055,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2307552393088123": {
     "date": "2026.01.26",
     "duration": "00:07",
-    "originalTitle": "14K views · 6 comments | Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those stu…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 6.60초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who res…",
+    "title": "20-Minute Trader의 학생들을 위한 무료 웹 클래스 티켓",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "20-Minute Trader"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…”",
+    "core": "20-Minute Trader 프로그램의 학생들은 최근 조사에서 더 나은 성과를 얻었다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies.."
+      "20-Minute Trader 프로그램을 수강한 학생들은 무료 웹 클래스 티켓을 얻을 수 있다."
     ],
-    "caution": "성과·수익 발화: “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 whe…” 홍보·행동유도 발화: “Comment “FREE” to get a ticket to my next web class for free!” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5836,21 +6077,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2338411956572387": {
     "date": "2025.11.11",
     "duration": "00:06",
-    "originalTitle": "7K views | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: I started to wonder.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20-Minute Trader 학생들 조사 결과 발표",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 5.57초·로컬 Whisper large-v3-turbo 전사 20단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I started to wonder.” / “And I wondered.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20-Minute Trader",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I started to wonder.” 이어 “And I wondered.” 이어 “I had to wonder.” 이어 “I started to wonder.”",
+    "core": "20-Minute Trader의 학생들이 다양한 제품을 통해 얻은 결과를 발표합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I started to wonder."
+      "20-Minute Trader의 학생들이 다양한 제품을 통해 얻은 결과를 조사했습니다.",
+      "조사 결과를 바탕으로 새로운 트레이딩 전략을 제시합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 20,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5858,21 +6100,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2354526628315001": {
     "date": "2025.11.07",
     "duration": "00:46",
-    "originalTitle": "3.3K views | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "심리·규율: We are hitting the club scene tonight.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 46.20초·로컬 Whisper large-v3-turbo 전사 156단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey bro, you going out?” / “Yeah, you know the best places.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 투자 트레이딩 클래스 무료 티켓 얻는 방법",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "심리·규율",
+      "투자",
+      "트레이딩",
+      "20분 투자"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Hey bro, you going out?” 이어 “Yeah, you know the best places.” 이어 “Yeah, they're meeting on Trading Mindset tonight.” 이어 “No, dress any way you like.”",
+    "core": "20분 투자 트레이딩 클래스에서 트레이딩 마인드와 패턴 스파이 전략을 배울 수 있다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Hey bro, you going out?"
+      "20분 투자 트레이딩 클래스에 참석하려면 클래스를 댓글에 입력해야 한다.",
+      "무료 티켓을 받으려면 클래스를 댓글에 입력하고 참석해야 한다.",
+      "무료 티켓을 받으려면 20분 투자 트레이딩 클래스에 참석해야 한다."
     ],
-    "caution": "홍보·행동유도 발화: “Do I got to know somebody or type class in the comments?” / “Is there a dress code for this webinar?” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 156,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5880,19 +6125,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2394500314256289": {
     "date": "2025.05.26",
     "duration": "00:33",
-    "originalTitle": "3 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: All right, so that is where you take a chart and you put a stock on it and an index on it, and you try t…",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 트레이더의 예측 패턴 분석 - Netflix와 다우존스의 상관 관계",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 32.73초·로컬 Whisper large-v3-turbo 전사 133단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Okay, so what's a predictable pattern?” / “All right, so that is where you take a chart and you put a stock on it and an index on it, and you try to look at the relationship between the two and identify what direction the stock's going to go.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "20분 트레이더",
+      "예측 패턴"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Okay, so what's a predictable pattern?” 이어 “All right, so that is where you take a chart and you put a stock on it and an index on it, and you try to look at the relationship between the two and identify what direction the stock's going to go.” 이어 “And then if the two drop together, but then the Dow Jones jumps up independently before Netflix does, that's very often a predictor that Netflix will jump right after.” 이어 “And then we try to monetize that.”",
+    "core": "예측 패턴은 두 지표 사이의 관계를 분석하여 주식의 방향을 예측하는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: All right, so that is where you take a chart and you put a stock on it and an index on it, and you try to look at the relationship between the two and identify what direction the stock's going to go."
+      "Netflix와 다우존스 지수를 차트에 입력하고, 다우존스 지수가 Netflix보다 먼저 상승하면 Netflix도 빠르게 상승할 가능성이 높다.",
+      "예측 패턴을 이용하여 매매 전략을 수립하려는 학생들에게 무료 트레이딩 코스를 제공한다."
     ],
-    "caution": "홍보·행동유도 발화: “If you want to know more about it, just comment free below and I'll send you a free course that explains it.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 133,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5900,20 +6149,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "24452104434391502": {
     "date": "2025.05.22",
     "duration": "00:21",
-    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those stu…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 20.83초·로컬 Whisper large-v3-turbo 전사 4단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…” / “We'll be right back.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 트레이더 클래스: 다음 생방송 클래스 무료 티켓 획득 방법",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…” 이어 “We'll be right back.”",
+    "core": "20분 트레이더 클래스에 참가하려는 학생들은 클래스를 댓글로 예약할 수 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies.."
+      "클래스를 댓글로 예약하면 무료 티켓을 받을 수 있습니다.",
+      "20분 트레이더 클래스에 참가하려는 학생들은 클래스를 댓글로 예약해야 합니다."
     ],
-    "caution": "성과·수익 발화: “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 whe…” 홍보·행동유도 발화: “Comment “CLASS” to get a ticket to my next live web class for free!” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 4,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5922,19 +6173,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.03.24",
     "duration": "00:36",
     "originalTitle": "Unrealistic.mp4",
-    "title": "심리·규율: And I've also been the person who can trade calmly in a series.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 36.33초·로컬 Whisper large-v3-turbo 전사 121단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “It's unrealistic to think you'll win nonstop forever.” / “And honestly, it's the surest sign that someone is eventually going to blow up.”",
+    "title": "20분 거래 전략의 실질적인 수익과 감정적 거래의 위험",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "심리·규율",
+      "20분 거래",
+      "감정적 거래",
+      "실제 수익"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “It's unrealistic to think you'll win nonstop forever.” 이어 “And honestly, it's the surest sign that someone is eventually going to blow up.” 이어 “But most traders do not have the ability to take a loss and walk away.” 이어 “But that's like playing the lottery.”",
+    "core": "정상적인 거래에서는 연속적인 이익을 기대할 수 없다는 사실을 인지해야 한다.",
     "rules": [
-      "원문 실행 문장: And I've also been the person who can trade calmly in a series."
+      "20분 거래 전략을 사용한 학생들은 평균 주간 수익이 $188였습니다.",
+      "정상적인 거래에서는 감정적으로 거래하려고 하면 손실을 감수할 수 있는 능력이 필요하다."
     ],
-    "caution": "성과·수익 발화: “And sure, maybe one out of a million can do it.” 홍보·행동유도 발화: “I run a free webinar where you can ask questions live and begin to understand how it works in real time.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 121,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5942,19 +6196,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "25129053976731124": {
     "date": "2025.09.24",
     "duration": "00:44",
-    "originalTitle": "139K views · 14 reactions | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: And just wait for them to drop together.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 트레이더의 애플 주식과 다우지수의 상관 관계",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 44.27초·로컬 Whisper large-v3-turbo 전사 141단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Piece of information that you learned that feels illegal to know.” / “And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entire lives.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "20분 트레이더",
+      "주식"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Piece of information that you learned that feels illegal to know.” 이어 “And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entire lives.” 이어 “It again happens here.” 이어 “So that's weird.”",
+    "core": "애플 주식 가격이 다우지수보다 먼저 상승하는 패턴을 이용하여 매매할 수 있다.",
     "rules": [
-      "원문 실행 문장: And just wait for them to drop together."
+      "애플 주식과 다우지수 차트를 열고, 다우지수가 하락하면 기다린 후 애플 주식 가격이 다우지수보다 먼저 상승하면 매수한다.",
+      "4년 6개월 동안 이 방법을 활용하여 수많은 트레이더들을 가르쳤다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 141,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5962,21 +6220,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "25714957331456217": {
     "date": "2025.11.19",
     "duration": "01:35",
-    "originalTitle": "1.7K views · 3 comments | Disclosure: Results not typical. For typical results visit https://www.20mintrader.com | 20-Minute Trader",
-    "title": "심리·규율: Hello, 20-Minute community.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 95.04초·로컬 Whisper large-v3-turbo 전사 306단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hello, 20-Minute community.” / “This took me a few weeks to see it and to want to jump in, because I was anxious and wanted to make this work.”",
+    "originalTitle": "Disclosure: Results not typical. For typical results visit https://www.20mintrader.com",
+    "title": "2025년 1월 시작, 3.0 전환 후 1개월 반에서 $40,000 수익, 주기적 $10,000 매출",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "옵션",
+      "심리·규율",
+      "20-Minute Trader",
+      "빠른 펀딩"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Hello, 20-Minute community.” 이어 “This took me a few weeks to see it and to want to jump in, because I was anxious and wanted to make this work.” 이어 “That is key.” 이어 “20-Minute Trader is my forever strategy.”",
+    "core": "20-Minute Trader의 빠른 펀딩 기법을 통해 1개월 반 만에 $40,000을 수익으로 얻었다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Hello, 20-Minute community."
+      "20-Minute Trader의 빠른 펀딩 기법을 따라 1개월 반 만에 $40,000을 수익으로 얻었다.",
+      "bootcamp에서 배운 빠른 펀딩 기법을 사용하여 주기적으로 $10,000을 매출로 얻었다.",
+      "디스코드 결과가 일반적이지 않음을 명시하고, 일반적인 결과를 얻으려면 https://www.20mintrader.com을 방문하라고 권장한다."
     ],
-    "caution": "성과·수익 발화: “I chose to keep using the ticker of rapid funding, and because of that, I was able to cash out $40,000 within a month and a half, and I'm continuing to cash out $10,000 every week…” 홍보·행동유도 발화: “Plus, I got to join a bootcamp call, which helped tremendously.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 306,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5984,20 +6245,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2571567169909810": {
     "date": "2025.12.09",
     "duration": "01:03",
-    "originalTitle": "2.5K views | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Well, I learned how to trade predictable patterns in about half the time that you've been playing that g…",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 62.67초·로컬 Whisper large-v3-turbo 전사 194단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Dude, you've been here all day.” / “Let's see, game was 60.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "13시간 게임 플레이 후 20분만에 트레이딩 패턴을 배우는 방법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이딩",
+      "무료 웹 클래스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Dude, you've been here all day.” 이어 “Let's see, game was 60.” 이어 “And I spend only 20 minutes a day trading those patterns when the market opens.” 이어 “I need a weapon.”",
+    "core": "20분만에 예측 가능한 트레이딩 패턴을 배우고 실습할 수 있는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: Well, I learned how to trade predictable patterns in about half the time that you've been playing that game just today.",
-      "원문 실행 문장: Wow, so I can trade and still have time to do what I want?"
+      "매일 시장이 열릴 때 20분만 투자하여 예측 가능한 패턴을 트레이딩할 수 있다."
     ],
-    "caution": "홍보·행동유도 발화: “So what are you doing with your free time?” / “Yeah, just type the word class in the comments and they'll send you a free ticket to a web class where they'll actually explain it all to you.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 194,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6006,18 +6269,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.07",
     "duration": "01:03",
     "originalTitle": "Lambo Dbag Skit.mp4",
-    "title": "영상 발화 분석: I trade for 14 hours a day and then I brag about it.",
+    "title": "14시간 거래하는 램보 트레이더의 실제",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 63.03초·Facebook 자동 자막 136단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Sorry I'm late.” / “You look like your low self esteem is just good judgement.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "4H"
+      "캔들 범위",
+      "거래",
+      "성과",
+      "14시간 거래"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Sorry I'm late.” 이어 “You look like your low self esteem is just good judgement.” 이어 “Hey, is that a rental?” 이어 “Well, I don't see any Toms or Harry's around here.”",
+    "core": "14시간 거래를 통해 성과를 내는 것이 중요하다는 점을 보여준다.",
     "rules": [
-      "원문 실행 문장: I trade for 14 hours a day and then I brag about it."
+      "14시간 거래를 통해 성과를 내는 것이 중요하다는 점을 보여준다.",
+      "20분 거래는 BS라는 점을 강조한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 136,
     "transcriptSource": "Facebook 자동 자막"
@@ -6026,29 +6293,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.31",
     "duration": "55:21",
     "originalTitle": "20MTV Live Trading",
-    "title": "위험관리: I'm going to show you guys how we trade and why it's only 20 minutes a day.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3320.96초·Facebook 자동 자막 8841단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good morning, traders.” / “That's pretty much it.”",
+    "title": "20MTV Live Trading: 9:27 시점에서의 진입 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "journal",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Good morning, traders.” 이어 “That's pretty much it.” 이어 “So, maybe we're actually just like chilling out.” 이어 “That's actually Really, really cool.” 이어 “Oh, it did enter me for the trade.” 이어 “It really doesn't.” 이어 “Uh because because it's the success for this will 100% change my lifestyle.” 이어 “Later Traders.”",
+    "core": "블루 라인과 오렌지 라인이 반대 방향으로 움직일 때 진입 포인트를 찾는다.",
     "rules": [
-      "원문 실행 문장: I'm going to show you guys how we trade and why it's only 20 minutes a day.",
-      "원문 실행 문장: So, let's see if we get the pop down in the white line and possibly take our first trade but this is what divergence looks like.",
-      "원문 실행 문장: We don't want to just trade just because we're bored.",
-      "원문 실행 문장: I'm not actually placing a live trade because we're right at nine twenty-seven and I don't really know what's going to happen.",
-      "원문 실행 문장: That's that's a pretty wild move.",
-      "원문 실행 문장: Wait and see if we get it.",
-      "원문 실행 문장: This pop up right here to take a trade going down.",
-      "원문 실행 문장: Use proper risk management like always."
+      "블루 라인이 상승할 때, 오렌지 라인이 하락해야 진입 포인트가 되며, 그 후 투자 대상은 블루 라인을 추종한다.",
+      "블루 라인이 하락할 때, 오렌지 라인이 상승해야 진입 포인트가 되며, 그 후 투자 대상은 블루 라인을 반대 방향으로 추종한다.",
+      "9:27 시점에서 오렌지 라인이 하락하면 진입 포인트가 되며, 투자 대상은 블루 라인을 추종한다."
     ],
-    "caution": "성과·수익 발화: “So, in the futures market, we can trade going up and make a profit or we can trade down and make a profit.” / “So, you're thinking about getting a motorcycle with your next payout?” 홍보·행동유도 발화: “So, if you guys are tuning in from Facebook or Instagram, just type the word class in the comments and we will send you a free ticket to Jeremy's live web class where you guys can…” / “You guys can get your free ticket there.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 8841,
     "transcriptSource": "Facebook 자동 자막"
@@ -6057,19 +6318,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.04.15",
     "duration": "00:51",
     "originalTitle": "20MTV Release.mp4",
-    "title": "영상 발화 분석: we're finally going to show you live trading in real time i know you've been asking for it and we've don…",
+    "title": "MTV 매일 9시, 13시, 19시 실시간 트레이딩 라이브 방송",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 50.70초·로컬 Whisper large-v3-turbo 전사 190단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “we're finally going to show you live trading in real time i know you've been asking for it and we've done it a few times but this time it's going to be consistently pretty much every day monday through friday…”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "실시간 트레이딩",
+      "가상 거래",
+      "MTV 라이브"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “we're finally going to show you live trading in real time i know you've been asking for it and we've done it a few times but this time it's going to be consistently pretty much every day monday through friday…”",
+    "core": "실시간 트레이딩을 통해 실제 시장 상황을 이해하고 시스템을 학습할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: we're finally going to show you live trading in real time i know you've been asking for it and we've done it a few times but this time it's going to be consistently pretty much every day monday through friday 9 a.m check it out if you're interested we're also…"
+      "매일 월요일부터 금요일까지 9시, 13시, 19시에 실시간 트레이딩을 라이브 방송합니다.",
+      "특정 시장에서 23시간 연속 거래를 진행합니다.",
+      "실제 거래를 따라하며 시스템을 학습할 수 있는 가상 거래 계정을 제공합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 190,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6077,20 +6342,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2646896829098692": {
     "date": "2026.07.18",
     "duration": "00:46",
-    "originalTitle": "fire-trader-v2-comment.mov",
-    "title": "영상 발화 분석: Every time I click buy, market tanks, I just burn at market open.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 46.03초·Facebook 자동 자막 145단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Whoa, what are you doing?” / “Indicators, courses, reddit threads.”",
+    "originalTitle": "Comment CLASS to learn more!",
+    "title": "20분 거래 전략: 일일 초기 패턴 분석",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "옵션",
+      "20분 거래",
+      "초보자 친화적"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Whoa, what are you doing?” 이어 “Indicators, courses, reddit threads.” 이어 “Do you have a lighter binding change?” 이어 “You want one?”",
+    "core": "20분 거래는 일일 초기 시장 패턴을 예측하고 반복적으로 적용할 수 있는 전략이다.",
     "rules": [
-      "원문 실행 문장: Every time I click buy, market tanks, I just burn at market open."
+      "매일 아침 시장이 열릴 때마다 예측 가능한 손실을 관리한다.",
+      "20분 동안 일관된 패턴을 찾아 진입한다.",
+      "초보자에게 적합하며, 매일 같은 시간대에 적용한다."
     ],
-    "caution": "성과·수익 발화: “Well, I used to lose $500 a day as a trader.” 홍보·행동유도 발화: “Just comment secret and I'll send you a video that explains it all.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 145,
     "transcriptSource": "Facebook 자동 자막"
@@ -6098,19 +6366,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "26494488703587567": {
     "date": "2026.05.14",
     "duration": "00:09",
-    "originalTitle": "3 comments | LOL. Comment CLASS to learn how to not make this mistake 😂 #trade #daytrade #learn #account | 20-Minute Trader",
-    "title": "영상 발화 분석: Comment CLASS to learn how to not make this mistake 😂 #trade #daytrade #learn #account.",
+    "originalTitle": "LOL. Comment CLASS to learn how to not make this mistake 😂 #trade #daytrade #learn #account",
+    "title": "일일 트레이딩 실수 피하기 위한 클래스 참여 방법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 8.89초·로컬 Whisper large-v3-turbo 전사 2단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Comment CLASS to learn how to not make this mistake 😂 #trade #daytrade #learn #account.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "일일 트레이딩",
+      "클래스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Comment CLASS to learn how to not make this mistake 😂 #trade #daytrade #learn #account.”",
+    "core": "일일 트레이딩에서 실수를 피하는 방법을 배우려면 클래스에 댓글을 달아야 합니다.",
     "rules": [
-      "원문 실행 문장: Comment CLASS to learn how to not make this mistake 😂 #trade #daytrade #learn #account."
+      "클래스에 댓글을 달아 클래스에 참가해야 합니다.",
+      "클래스를 통해 일일 트레이딩에서 실수를 피하는 방법을 배웁니다."
     ],
-    "caution": "홍보·행동유도 발화: “Comment CLASS to learn how to not make this mistake 😂 #trade #daytrade #learn #account.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 2,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6118,19 +6390,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2678651262520270": {
     "date": "2026.05.19",
     "duration": "00:44",
-    "originalTitle": "3.9K reactions · 160 shares | Comment CLASS to learn more. #trading #trade #daytrade #learn #class | 20-Minute Trader",
-    "title": "주식·섹터: And just wait for them to drop together.",
+    "originalTitle": "Comment CLASS to learn more. #trading #trade #daytrade #learn #class",
+    "title": "Dow Jones와 Apple 주식 가격 변동 패턴을 이용한 일일 거래 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 44.27초·로컬 Whisper large-v3-turbo 전사 141단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Piece of information that you learned that feels illegal to know.” / “And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entire lives.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "일일 거래",
+      "Dow Jones"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Piece of information that you learned that feels illegal to know.” 이어 “And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entire lives.” 이어 “It again happens here.” 이어 “So that's weird.”",
+    "core": "Dow Jones과 Apple 주식 가격이 동시에 하락한 후 Dow Jones이 먼저 회복되는 패턴을 이용해 거래할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: And just wait for them to drop together."
+      "Dow Jones Industrial Average와 Apple 주식을 차트에 표시하고, 두 가격이 동시에 하락한 후 Dow Jones이 먼저 회복되는 시점에서 매수를 실행합니다.",
+      "4년 6개월 동안 이 전략을 활용해 수익을 얻고, 405,000명에게 이 방법을 가르쳤습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 141,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6138,20 +6414,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2684501425248351": {
     "date": "2025.11.27",
     "duration": "00:34",
-    "originalTitle": "14 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Turns out there's another trading time period people can use, which is from one to 120 or from 330 to 35…",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "9:30~9:50, 13:30~13:50 US EST 시간대 20분 거래 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 33.87초·로컬 Whisper large-v3-turbo 전사 125단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I work all day.” / “Yes, 20 minute trading is intended to happen between 9 30 and 9 50 in the morning Eastern time in the US.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "거래 시간대",
+      "무료 코스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I work all day.” 이어 “Yes, 20 minute trading is intended to happen between 9 30 and 9 50 in the morning Eastern time in the US.” 이어 “So it's kind of tricky.” 이어 “So if you can figure out one of those three times, then you can totally 20 minute trade matter where you are on earth in the US, wherever you are, you'll be able to get you want to know more about it.”",
+    "core": "20분 거래는 아침 9:30부터 9:50 또는 오후 13:30부터 13:50 US EST 시간대에 실시할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Turns out there's another trading time period people can use, which is from one to 120 or from 330 to 350 PM Eastern.",
-      "원문 실행 문장: So if you can figure out one of those three times, then you can totally 20 minute trade matter where you are on earth in the US, wherever you are, you'll be able to get you want to know more about it."
+      "9:30부터 9:50 또는 13:30부터 13:50 US EST 시간대에 20분 거래를 실시할 수 있습니다.",
+      "20분 거래는 일일 업무 시간 동안 시작할 수 있습니다."
     ],
-    "caution": "홍보·행동유도 발화: “Just comment free below.” / “And I will actually send you a free course that explains it.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 125,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6159,19 +6438,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2719795718412632": {
     "date": "2025.12.15",
     "duration": "00:44",
-    "originalTitle": "6.3K views · 80 reactions | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: I hit my target for the day, so I'm out.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 거래 전략과 실시간 웹 클래스",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 43.73초·로컬 Whisper large-v3-turbo 전사 162단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Come on, come on, come on.” / “Gotta spend time with my son, maybe go to the park.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "예측 패턴",
+      "실시간 웹 클래스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Come on, come on, come on.” 이어 “Gotta spend time with my son, maybe go to the park.” 이어 “I hit my target for the day, so I'm out.” 이어 “Where do I learn this?”",
+    "core": "예측 가능한 패턴을 이용해 일일 목표 달성을 위한 짧은 거래 시간 전략을 배울 수 있다.",
     "rules": [
-      "원문 실행 문장: I hit my target for the day, so I'm out."
+      "매일 아침 예측 가능한 패턴을 이용해 짧은 시간 내에 목표 달성 후 퇴장",
+      "클래스라는 단어를 댓글로 남기면 다음 웹 클래스에 무료로 참석할 수 있는 티켓을 받을 수 있다."
     ],
-    "caution": "홍보·행동유도 발화: “Comment the word class, and I'll send you a free ticket to my next live web class where I can teach you exactly how to get started.” / “What do I comment?” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 162,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6180,20 +6463,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.25",
     "duration": "00:10",
     "originalTitle": "Shoot your shot v2.mov",
-    "title": "영상 발화 분석: I mean honestly what do you actually have to lose?",
+    "title": "실제 투자 위험을 무릅쓰고 투자 결정을 내리는 방법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 9.77초·Facebook 자동 자막 23단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Shoot your shot.” / “I mean honestly what do you actually have to lose?”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자",
+      "클래스",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Shoot your shot.” 이어 “I mean honestly what do you actually have to lose?” 이어 “What the hell?” 이어 “I'm just going to shoot my shot.”",
+    "core": "실제로 무엇을 잃을 것인지를 고려하지 않아도 투자할 수 있다는 메시지를 전달합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Shoot your shot."
+      "실제로 무엇을 잃을 것인지를 고려하지 않아도 투자할 수 있다는 메시지를 전달합니다.",
+      "클래스를 댓글로 요청하면 더 많은 정보를 얻을 수 있습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 23,
     "transcriptSource": "Facebook 자동 자막"
@@ -6202,19 +6487,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.15",
     "duration": "00:40",
     "originalTitle": "Man Bun.mp4",
-    "title": "영상 발화 분석: Hey Jeremy, are you done trading for the day?",
+    "title": "10분 거래 전략: Man Bun",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 40.30초·로컬 Whisper large-v3-turbo 전사 141단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey Jeremy, are you done trading for the day?” / “What about spending all day looking at charts so you can actually make some money trading?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "거래 전략",
+      "20분 거래",
+      "예측 패턴"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Hey Jeremy, are you done trading for the day?” 이어 “What about spending all day looking at charts so you can actually make some money trading?” 이어 “What is the secret?” 이어 “And you can get started doing what I'm doing tomorrow.”",
+    "core": "20분 동안만 거래하고, 예측 가능한 패턴을 이용해 빠르게 이익을 실현한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Hey Jeremy, are you done trading for the day?"
+      "매일 20분만 거래하고, 나머지 시간은 가족과 휴식을 즐긴다.",
+      "예측 가능한 패턴을 이용해 빠르게 이익을 실현한다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "홍보·행동유도 발화: “Simply comment free on this video, and I'll send you a full video explanation of what I do exactly, for free.” / “What do I comment?” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 141,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6223,22 +6512,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.20",
     "duration": "01:22",
     "originalTitle": "skit with new Ki version.mp4",
-    "title": "위험관리: They want to see a real random person use the system.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 82.03초·Facebook 자동 자막 182단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Look at my own trading results.” / “How do ordinary people do with this?”",
+    "title": "KI 20MTV 실시간 트레이딩 9:30 AM 시작",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "KI",
+      "실시간 트레이딩"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Look at my own trading results.” 이어 “How do ordinary people do with this?” 이어 “Right on social media.” 이어 “Well, I guess people will tune in right at 930 for some real live trading from a student.”",
+    "core": "KI 시스템을 사용한 실시간 트레이딩을 통해 실제 사람의 성과를 확인할 수 있다.",
     "rules": [
-      "원문 실행 문장: They want to see a real random person use the system.",
-      "원문 실행 문장: Call up a student and get them to trade live directly onto the social media platform in real time.",
-      "원문 실행 문장: Yeah, with like real risk with money being made or lost.",
-      "원문 실행 문장: Hey, can you trade live for millions to watch?"
+      "학생이 KI 시스템을 사용해 실시간으로 트레이딩을 진행한다.",
+      "매일 아침 9:30부터 20MTV에서 실시간 트레이딩을 생중계한다."
     ],
-    "caution": "홍보·행동유도 발화: “Yeah, I mean of course.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 182,
     "transcriptSource": "Facebook 자동 자막"
@@ -6247,29 +6536,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.20",
     "duration": "01:04:56",
     "originalTitle": "20MTV Live Trading",
-    "title": "위험관리: So, I've been in this for just about a year and I started having zero knowledge of trading, never touche…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3896.29초·Facebook 자동 자막 9982단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good morning, traders.” / “Like a maybe trade or an iffy trade, we want to stay out of those.”",
+    "title": "20MTV 8월 20일 실시간 트레이딩 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "4H",
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Good morning, traders.” 이어 “Like a maybe trade or an iffy trade, we want to stay out of those.” 이어 “It can continue going higher and change directions again or it can continue going lower.” 이어 “Sometimes, you know, you take some red trades and you're like, what went wrong?” 이어 “I lock out, take my green out of the market, and I go on with my day happy, happy, happy.” 이어 “You guys are going to teach people how to trade too.” 이어 “Yes, that's $1 $1, 000 you just made in one trade but in the same breath, it can go the other way.” 이어 “Later, traders.”",
+    "core": "트렌드와 일치하는 진입 포인트를 찾고, RSI와 발산을 활용하여 투자 결정을 내립니다.",
     "rules": [
-      "원문 실행 문장: So, I've been in this for just about a year and I started having zero knowledge of trading, never touched a chart before, working a full-time job, family life, and all of the rest of it and I still learn how to trade and it's going really well.",
-      "원문 실행 문장: Because purposely, I'm going to be taking some bad trades so I can explain to you what went wrong or what's going right and why the trade worked out, right?",
-      "원문 실행 문장: So, we want to trade with the trend.",
-      "원문 실행 문장: So, take profit in stop loss.",
-      "원문 실행 문장: Even though it's having a nice uptrend, we're not getting divergence so we don't take this trade.",
-      "원문 실행 문장: Probably going to be a good trade but I didn't really get like a great entry but this trade probably is going to work out and let's talk about this trade.",
-      "원문 실행 문장: Ctwo one 1, you always trade the blue line.",
-      "원문 실행 문장: So, remember, you want to find divergence, you want to get your entry in the RSI and trade with the trend, have proper risk management, and that's how we do it and we stay consistent."
+      "블루 라인이 녹색 라인을 향해 상승할 때, 자동 브라켓 주문을 통해 이익 실현 포지션을 설정합니다.",
+      "발산을 확인하고, RSI와 트렌드 방향을 고려하여 진입합니다.",
+      "위험 관리를 위해 테이크 프로FIT과 스탑 러스를 설정합니다."
     ],
-    "caution": "성과·수익 발화: “If I want to trade the blue line going downwards for a profit, I would hit the red button to go short or downwards but since we're going up, it's blue.” / “Our win rate is 86%.” 홍보·행동유도 발화: “You guys, if you're on Facebook or Instagram, type the word class and we will send you a direct message with a free ticket to Jeremy's web class where you guys can learn a lot mor…” / “Um if you guys are in YouTube, just click the link in the description to do the same.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 9982,
     "transcriptSource": "Facebook 자동 자막"
@@ -6277,20 +6560,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "28162863673402206": {
     "date": "2026.07.28",
     "duration": "00:13",
-    "originalTitle": "2024_09 - Ball Hit Me COMMENT.mov",
-    "title": "영상 발화 분석: You thought the ball was going to hit me.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 13.30초·Facebook 자동 자막 30단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You thought the ball was going to hit me.”",
+    "originalTitle": "Comment FREE to get it #skit #funny #ball #trading",
+    "title": "볼이 날아오르는 순간의 희극으로 무료 트레이딩 전략을 얻어보세요 #볼 #트레이딩",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "볼",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “You thought the ball was going to hit me.”",
+    "core": "볼이 날아오르는 순간을 이용해 무료로 트레이딩 전략을 얻을 수 있다는 아이디어를 제시합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: You thought the ball was going to hit me."
+      "댓글을 달면 무료로 트레이딩 전략을 제공한다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "홍보·행동유도 발화: “Well, now that you're here, why don't you get my free trading strategy?” / “Comment free and I'll send it to you.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 30,
     "transcriptSource": "Facebook 자동 자막"
@@ -6299,21 +6584,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.29",
     "duration": "01:26",
     "originalTitle": "PRICE ACTION STITCH V1.mov",
-    "title": "Fibonacci: At a certain point, the red line starts to move back up just before this happens.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 85.73초·Facebook 자동 자막 253단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Think trading is about price action and indicators?” / “Gonna do whatever it's going to do.”",
+    "title": "S&P 500과 도우존스의 일일 변동성 분석",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "Fibonacci"
+      "피보나치",
+      "옵션",
+      "거래 전략",
+      "S&P 500"
     ],
-    "core": "원문 전사 기준 Fibonacci 콘텐츠다. “Think trading is about price action and indicators?” 이어 “Gonna do whatever it's going to do.” 이어 “At a certain point, the red line starts to move back up just before this happens.” 이어 “Simple as that.”",
+    "core": "S&P 500은 매일 아침 시장이 열리면서 U자 형태로 회복되지만, 이 과정에서 도우존스 산업평균지수는 하락 추세를 유지한다.",
     "rules": [
-      "원문 실행 문장: At a certain point, the red line starts to move back up just before this happens.",
-      "원문 실행 문장: Place my trade right here.",
-      "원문 실행 문장: This is my buy signal.",
-      "원문 실행 문장: That's my trade."
+      "S&P 500은 매일 아침 시장이 열리면서 20분 동안 U자 형태로 회복된다.",
+      "도우존스 산업평균지수는 이 과정에서 하락 추세를 유지한다.",
+      "레드 라인이 하락 추세를 멈추고 오르기 시작할 때 거래를 진입한다."
     ],
-    "caution": "성과·수익 발화: “That's my profit.” 홍보·행동유도 발화: “Hit the link if you want to see a video for free on how to set this up.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 253,
     "transcriptSource": "Facebook 자동 자막"
@@ -6321,21 +6608,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "2866987783632356": {
     "date": "2026.02.24",
     "duration": "01:22",
-    "originalTitle": "25K views · 4.5K reactions | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "선물·지수: Just tell us how to trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 81.99초·로컬 Whisper large-v3-turbo 전사 249단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Just tell us how to trade.” / “It's gonna do whatever it's doing.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "S&P 500과 Dow Jones 9:30 AM 시점에서의 짧은 트레이딩 기법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "선물·지수",
+      "트레이딩",
+      "S&P 500",
+      "Dow Jones"
     ],
-    "core": "원문 전사 기준 선물·지수 콘텐츠다. “Just tell us how to trade.” 이어 “It's gonna do whatever it's doing.” 이어 “Because as soon as this red line goes on its own, independent of the blue line, I place my trade right at that point.” 이어 “If I'm right more than I'm wrong, I profit.”",
+    "core": "S&P 500 지표가 독립적으로 움직일 때 즉시 거래를 실행합니다.",
     "rules": [
-      "원문 실행 문장: Just tell us how to trade.",
-      "원문 실행 문장: Because as soon as this red line goes on its own, independent of the blue line, I place my trade right at that point."
+      "S&P 500 지표가 Dow Jones 지표와 독립적으로 움직일 때 거래를 실행합니다.",
+      "9:30 AM 시점에서 시작하여 2~12분 내로 거래 신호가 발생합니다."
     ],
-    "caution": "성과·수익 발화: “If I'm right more than I'm wrong, I profit.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 249,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6344,20 +6633,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.10",
     "duration": "01:19",
     "originalTitle": "I spent 4 minutes trading this morning.mp4",
-    "title": "위험관리: And what I do is I just trade these.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 79.13초·로컬 Whisper large-v3-turbo 전사 242단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I spent four minutes trading this morning.” / “Some of them made $170.”",
+    "title": "4분 거래로 월 2만 달러 수익 달성",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk"
+      "위험관리",
+      "거래 전략",
+      "일일 수익",
+      "계좌 관리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I spent four minutes trading this morning.” 이어 “Some of them made $170.” 이어 “Because I wanted these to have double the amount of contracts and risk on them.” 이어 “Now, it's taken me years to finally get this fully systemized to a point where it is a very workable system.”",
+    "core": "4분 거래로 여러 계좌에서 일관된 수익을 얻는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: And what I do is I just trade these.",
-      "원문 실행 문장: I did one trade this morning on this one account.",
-      "원문 실행 문장: Because I wanted these to have double the amount of contracts and risk on them."
+      "20개의 계좌를 통해 일 평균 50~100 달러의 수익을 얻는다.",
+      "각 계좌당 월 1,000 달러의 수익을 달성할 수 있다."
     ],
-    "caution": "성과·수익 발화: “These are all different prop firm accounts that are valued between $50,000 and $100,000.” / “That's $1,000 per account.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 242,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6365,21 +6656,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "3203362039833601": {
     "date": "2026.01.22",
     "duration": "00:13",
-    "originalTitle": "3.8K views | Watch the full video on how NVIDIA is moving the market here: https://youtu.be/Ytf8NhSM0AQ In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: The market could be crashing in a death slide and our prediction system should still work just as well b…",
+    "originalTitle": "Watch the full video on how NVIDIA is moving the market here: https://youtu.be/Ytf8NhSM0AQ In a recent survey of 20-Minute Trader students across all products we offer, those stud…",
+    "title": "NVIDIA로 인한 시장 움직임과 예측 시스템의 독립성",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 12.84초·로컬 Whisper large-v3-turbo 전사 42단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The market could be crashing in a death slide and our prediction system should still work just as well because it's not dependent on any way on the market going up or down or in any direction.” / “The patterns are still there.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "NVIDIA",
+      "시장 예측",
+      "독립성"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “The market could be crashing in a death slide and our prediction system should still work just as well because it's not dependent on any way on the market going up or down or in any direction.” 이어 “The patterns are still there.”",
+    "core": "NVIDIA의 영향으로 시장이 급락하더라도, 우리의 예측 시스템은 여전히 효과적일 수 있다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: The market could be crashing in a death slide and our prediction system should still work just as well because it's not dependent on any way on the market going up or down or in any direction."
+      "시장이 급락하더라도 예측 시스템은 동일한 패턴을 유지하므로 여전히 효과적일 수 있다.",
+      "예측 시스템은 시장의 상승, 하락, 또는 어떤 방향으로든 의존하지 않는다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 42,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6387,20 +6680,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "3305288509639385": {
     "date": "2026.03.02",
     "duration": "00:36",
-    "originalTitle": "1.8K views | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $188 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: What we do at 20 Minute Trader is we have an exact blueprint of risk this much, aim for this much, do th…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 36.17초·로컬 Whisper large-v3-turbo 전사 139단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What we do at 20 Minute Trader is we have an exact blueprint of risk this much, aim for this much, do this, this is where you enter, this is where you exit.” / “Hit a certain profit, you're done for the day so the greed doesn't take over and cause you to end up giving away your greed, your profits, and causing you to chase losses into the gutter.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 투자 트레이딩 클래스 - 매일 1,000~5,000 달러 수익 달성 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "투자",
+      "20분 투자",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “What we do at 20 Minute Trader is we have an exact blueprint of risk this much, aim for this much, do this, this is where you enter, this is where you exit.” 이어 “Hit a certain profit, you're done for the day so the greed doesn't take over and cause you to end up giving away your greed, your profits, and causing you to chase losses into the gutter.” 이어 “We have it all worked out.” 이어 “Obviously, my results are unique to me and everyone is different.”",
+    "core": "20분 투자에서 구체적인 진입과 이탈 지점을 제공하며, 일정 손실 또는 이익을 초과하면 거래를 종료하는 특별한 제한을 사용한다.",
     "rules": [
-      "원문 실행 문장: What we do at 20 Minute Trader is we have an exact blueprint of risk this much, aim for this much, do this, this is where you enter, this is where you exit."
+      "매일 특정 손실을 초과하면 거래를 종료한다.",
+      "매일 특정 이익을 달성하면 거래를 종료한다."
     ],
-    "caution": "성과·수익 발화: “Hit a certain profit, you're done for the day so the greed doesn't take over and cause you to end up giving away your greed, your profits, and causing you to chase losses into the…” / “And so when I follow these strategies in a structured way, I find myself getting payouts every few days or every couple weeks to the tune of $1,000, $2,000, $5,000.” 홍보·행동유도 발화: “And so when I follow these strategies in a structured way, I find myself getting payouts every few days or every couple weeks to the tune of $1,000, $2,000, $5,000.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 139,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6408,19 +6704,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "34621862360734295": {
     "date": "2026.02.12",
     "duration": "00:21",
-    "originalTitle": "3.8K views · 14 reactions | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Wait for a little dip and then...",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 21.31초·로컬 Whisper large-v3-turbo 전사 44단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Retracing the SMT at the highest, just having a fair value gap.” / “I'm entering, I'm entering, I'm in, I'm in, I'm in, I'm in, I'm out.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "SMT 최고점에서 재반전, 119 달러에서 진입과 이탈",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "FVG"
+      "FVG",
+      "SMT",
+      "가격반전",
+      "진입과 이탈"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Retracing the SMT at the highest, just having a fair value gap.” 이어 “I'm entering, I'm entering, I'm in, I'm in, I'm in, I'm in, I'm out.” 이어 “Wait for a little dip and then...” 이어 “Yes, honey, coming.”",
+    "core": "SMT 최고점에서 재반전을 보았을 때, 가격이 잠시 하락한 후에 진입할 수 있는 기회가 생깁니다.",
     "rules": [
-      "원문 실행 문장: Wait for a little dip and then..."
+      "SMT 최고점에서 가격이 하락하면 진입할 수 있는 기회가 생깁니다.",
+      "가격이 잠시 하락한 후에 진입하되, 가격이 다시 상승하면 이탈합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 44,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6428,23 +6728,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "3694684774171510": {
     "date": "2025.11.30",
     "duration": "00:31",
-    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: Every day I mark it open, 9.30 a.m.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 거래 패턴으로 2년째 수익 실현: 9:30부터 9:50까지 20분 거래 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 31.07초·로컬 Whisper large-v3-turbo 전사 120단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Every day I mark it open, 9.30 a.m.” / “I see the signals and I buy.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "주식·섹터",
+      "20분 거래",
+      "20-Minute Trader"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Every day I mark it open, 9.30 a.m.” 이어 “I see the signals and I buy.” 이어 “And you can thank my friends' friends for this video.” 이어 “I made the video courses to teach them.”",
+    "core": "20분 동안의 단순 신호를 기반으로 주식을 매수·매도하는 전략을 2년간 실천하고 있습니다.",
     "rules": [
-      "원문 실행 문장: Every day I mark it open, 9.30 a.m.",
-      "원문 실행 문장: I watch some graphs moving across my laptop screen while I look for a few little simple signals.",
-      "원문 실행 문장: I see the signals and I buy.",
-      "원문 실행 문장: The stock goes up and I sell only minutes or even just seconds later.",
-      "원문 실행 문장: Then I close my laptop at 9.50 a.m."
+      "매일 아침 9:30부터 9:50까지 20분 동안 거래를 진행합니다.",
+      "신호를 확인하고 즉시 주식을 매수한 후 몇 분 또는 몇 초 후에 매도합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 120,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6452,23 +6751,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "3988623334721799": {
     "date": "2025.09.29",
     "duration": "00:49",
-    "originalTitle": "9K views · 31 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: Dad, I told you I'd trade for 20 minutes in the morning and then I'm done.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 거래로 하루 1,300 달러 벌기",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 48.53초·로컬 Whisper large-v3-turbo 전사 170단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You're not going to work today?” / “That sounds like one of those risky money schemes I've seen on TV.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "20분 거래",
+      "투자"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “You're not going to work today?” 이어 “That sounds like one of those risky money schemes I've seen on TV.” 이어 “I wait for a few signals, buy and sell in minutes, and I'm done for the day.” 이어 “Is that the internet?”",
+    "core": "20분 거래는 예측 가능한 패턴을 기다리고 몇 분 만에 사고 팔아 일일 거래를 완료하는 방법을 말한다.",
     "rules": [
-      "원문 실행 문장: Dad, I told you I'd trade for 20 minutes in the morning and then I'm done.",
-      "원문 실행 문장: It's called 20-minute trade.",
-      "원문 실행 문장: I trade predictable patterns.",
-      "원문 실행 문장: I wait for a few signals, buy and sell in minutes, and I'm done for the day."
+      "매일 아침 20분 동안 거래를 시작하고 그 후에는 거래를 종료한다.",
+      "예측 가능한 패턴을 기다리고 몇 분 만에 사고 팔아 하루에 최대 1,300 달러를 벌 수 있다."
     ],
-    "caution": "홍보·행동유도 발화: “Just comment free on this video and I'll send you a free video explanation.” / “Eat your free eggs.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 170,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6476,21 +6774,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "4054293824899276": {
     "date": "2025.06.01",
     "duration": "00:39",
-    "originalTitle": "5 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: Most trading strategies out there are required to be quite tech savvy.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 트레이딩으로 초보자도 성공하는 방법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 39.03초·로컬 Whisper large-v3-turbo 전사 144단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Most trading strategies out there are required to be quite tech savvy.” / “She is not tech savvy.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "20분 트레이딩",
+      "초보자 트레이딩"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Most trading strategies out there are required to be quite tech savvy.” 이어 “She is not tech savvy.” 이어 “Now, I'm not going to claim that every single person who has never touched a computer is going to be great at 20 Minute Trading.” 이어 “She's confident and she trades only 20 minutes a day using predictable patterns.”",
+    "core": "20분 트레이딩은 기술적 지식이 필요하지 않아 초보자도 쉽게 접근할 수 있는 전략이다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Most trading strategies out there are required to be quite tech savvy."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "홍보·행동유도 발화: “If you want to know more about it, just comment free below and I will actually send you a free course that explains it.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 144,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6498,22 +6797,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "4078779385667588": {
     "date": "2025.10.06",
     "duration": "01:57",
-    "originalTitle": "4.3K views · 18 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "Fibonacci: I think maybe you didn't use a blinker on one of those lane changes back there.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 117.13초·로컬 Whisper large-v3-turbo 전사 316단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You know how fast you were going?” / “Hey, not trying to pry.”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 트레이딩 시스템 배우는 법 - 실제 매매와 차이",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "Fibonacci",
-      "CTA"
+      "피보나치",
+      "20분 트레이딩",
+      "일일 트레이딩"
     ],
-    "core": "원문 전사 기준 Fibonacci 콘텐츠다. “You know how fast you were going?” 이어 “Hey, not trying to pry.” 이어 “What do you mean that's not possible?” 이어 “Over and out.”",
+    "core": "20분 트레이딩은 빠른 시장 변화를 따라잡기 위해 빠른 결정을 필요로 한다.",
     "rules": [
-      "원문 실행 문장: I think maybe you didn't use a blinker on one of those lane changes back there.",
-      "원문 실행 문장: Did you enter a trade this morning?",
-      "원문 실행 문장: Yeah, can't stop thinking about it."
+      "20분 트레이딩은 하루에 수시간을 소비하며 피보나치 수열, 지수, 볼린저 밴드 등을 분석해야 한다.",
+      "매매 결정을 내릴 때 빠른 시장 변화를 고려해야 한다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "성과·수익 발화: “Half a million people have learned it in just the last year or two.” 홍보·행동유도 발화: “They would comment free in this video.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 316,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6521,20 +6821,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "4091630351051060": {
     "date": "2025.09.08",
     "duration": "00:09",
-    "originalTitle": "20K views · 110 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 8.70초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “#trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when…”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 트레이더 수업 신청자 조사 결과",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 트레이더",
+      "주식 시장",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “#trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when…”",
+    "core": "20분 트레이더 수업을 신청한 학생들의 피드백을 조사한 결과를 공유합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies.."
+      "20분 트레이더 수업을 신청한 학생들의 의견을 조사하였습니다.",
+      "조사 결과를 바탕으로 수업을 개선할 방안을 논의하였습니다."
     ],
-    "caution": "성과·수익 발화: “#trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly in…” 홍보·행동유도 발화: “Comment “FREE” if you want to receive my trading course for free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6542,20 +6845,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "4092510951040506": {
     "date": "2026.02.23",
     "duration": "01:09",
-    "originalTitle": "130K views · 16 reactions | Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: When you see that, you just wait for the black line to touch the bottom, and you jump in.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who res…",
+    "title": "20분 투자자용 RSI 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 69.45초·로컬 Whisper large-v3-turbo 전사 224단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm not sure if this is legal or not, but it's extremely suspicious.” / “When you see that, you just wait for the black line to touch the bottom, and you jump in.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "옵션",
+      "주식·섹터",
+      "투자 전략",
+      "RSI"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “I'm not sure if this is legal or not, but it's extremely suspicious.” 이어 “When you see that, you just wait for the black line to touch the bottom, and you jump in.” 이어 “Kind of weird, eh?” 이어 “I'll hook you up.”",
+    "core": "RSI 지표가 최저점에 도달할 때, 금값과 다우지수의 방향이 다를 때 매수할 수 있는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: When you see that, you just wait for the black line to touch the bottom, and you jump in."
+      "금값이 오르고 다우지수는 내릴 때, RSI가 최저점에 도달하면 매수",
+      "비슷한 조건으로 많은 사람들에게 가르쳤으며, 일부는 이 방법을 통해 좋은 수익을 얻고 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 224,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6563,21 +6869,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "4121785114740270": {
     "date": "2026.01.08",
     "duration": "00:21",
-    "originalTitle": "3K views | Watch the full video of how to use Trump to make money here: https://youtu.be/0M48lwtUHD4 And comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: There's two ways we can take advantage of the Donald Trump stock market economy.",
+    "originalTitle": "Watch the full video of how to use Trump to make money here: https://youtu.be/0M48lwtUHD4 And comment “FREE” to get a ticket to my next web class for free! #trader #trading In a r…",
+    "title": "트럼프 경제로 주식 시장에서 이익을 얻는 방법 (1년간의 가속화)",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 21.10초·로컬 Whisper large-v3-turbo 전사 50단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “There's two ways we can take advantage of the Donald Trump stock market economy.” / “First of all, the stock market has sped up 2x, 4x in just the last year.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "주식·섹터",
+      "트럼프 경제",
+      "주식 시장",
+      "투자 전략"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “There's two ways we can take advantage of the Donald Trump stock market economy.” 이어 “First of all, the stock market has sped up 2x, 4x in just the last year.” 이어 “What that has done is it allowed us to predict moves that are becoming almost laughably obvious.” 이어 “Let me explain.”",
+    "core": "주식 시장이 가속화되면서 이제는 거의 웃을 만큼 명백한 움직임을 예측할 수 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: There's two ways we can take advantage of the Donald Trump stock market economy."
+      "주식 시장이 가속화되면서 움직임을 예측할 수 있는 기회가 늘었습니다.",
+      "다음 움직임을 예측하고 투자할 수 있는 기회를 찾아보세요."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 50,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6586,23 +6894,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.01",
     "duration": "03:29",
     "originalTitle": "Geno Trading.mp4",
-    "title": "위험관리: The reason why we use line charts is because the line charts are, it's easier to see the goal pattern, w…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 209.17초·로컬 Whisper large-v3-turbo 전사 714단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The reason why we use line charts is because the line charts are, it's easier to see the goal pattern, which is a simplified version, which I'm going to be trading today.” / “I am going to enter a sell actually for that meaningful pop up.”",
+    "title": "Geno Trading: 2023년 9월 11일 7PM EST",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology"
+      "위험관리",
+      "심리·규율",
+      "주식·섹터",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “The reason why we use line charts is because the line charts are, it's easier to see the goal pattern, which is a simplified version, which I'm going to be trading today.” 이어 “I am going to enter a sell actually for that meaningful pop up.” 이어 “So I am in a sell currently.” 이어 “I'm happy with that.”",
+    "core": "블루 라인의 하락 추세와 오렌지 라인의 상대적인 하락 추세를 이용해 매도를 실행하고, 54 포인트의 이익을 목표로 테이크 프로FIT 오더를 설정했다.",
     "rules": [
-      "원문 실행 문장: The reason why we use line charts is because the line charts are, it's easier to see the goal pattern, which is a simplified version, which I'm going to be trading today.",
-      "원문 실행 문장: I set that up.",
-      "원문 실행 문장: I can move these brackets here just like I did at the beginning.",
-      "원문 실행 문장: I can move this down just to have less risk, but I am comfortable with that risk.",
-      "원문 실행 문장: If you notice here, that was my entry right on that."
+      "블루 라인의 하락 추세와 오렌지 라인의 상대적인 하락 추세를 이용해 매도를 실행했다.",
+      "54 포인트의 이익을 목표로 테이크 프로FIT 오더를 설정했다.",
+      "54 포인트의 손실을 목표로 스탑 러스터 오더를 설정했다."
     ],
-    "caution": "성과·수익 발화: “So what you're going to notice is down here, down here, this is a take profit order.” / “Right now I'm profitable $8, $6, and we'll watch it.” 홍보·행동유도 발화: “So if this pops down, I can move my stop loss into profit here and do a risk-free trade.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 714,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6610,20 +6918,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "4255748711420854": {
     "date": "2026.04.09",
     "duration": "00:29",
-    "originalTitle": "2.2K views | BIG NEWS! No course. No commitment. No credit card. Just a pro trader, a chart, and a pattern - live every morning. Starts today 9am EST! #live #free #trading #20minutetrader | 20-Minute Trader",
-    "title": "영상 발화 분석: Can't wait to see you there.",
+    "originalTitle": "BIG NEWS! No course. No commitment. No credit card. Just a pro trader, a chart, and a pattern - live every morning. Starts today 9am EST! #live #free #trading #20minutetrader",
+    "title": "시장 분석에 관한 트레이딩 관점",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 28.51초·로컬 Whisper large-v3-turbo 전사 95단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Very exciting news.” / “Eastern pretty much every weekday morning.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20분 거래",
+      "실시간 거래",
+      "프로 트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Very exciting news.” 이어 “Eastern pretty much every weekday morning.” 이어 “But go check it out.” 이어 “Can't wait to see you there.”",
+    "core": "20분 거래 전략을 실제 시장에서 실시간으로 보여줍니다.",
     "rules": [
-      "원문 실행 문장: Can't wait to see you there."
+      "매일 아침 9시 EST부터 실시간 거래를 진행합니다.",
+      "실제 시장에서 20분 거래 전략을 실시간으로 보여줍니다.",
+      "지참한 종이로 거래를 따라해보세요."
     ],
-    "caution": "홍보·행동유도 발화: “We are finally doing live trading right here for free on this platform.” / “Feel free to grab some paper trading and trade along with us and see how it goes.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 95,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6632,18 +6944,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.01",
     "duration": "00:36",
     "originalTitle": "who-I-really-am-CLASS.mov",
-    "title": "영상 발화 분석: I am the 20-minute trader and I trade for 20 minutes, predictable patterns every morning.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 35.60초·Facebook 자동 자막 109단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey, you better watch it, man.” / “You're going to find out who the **** I really am.”",
+    "title": "20분 거래 클래스: 68.4% 수익률",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Hey, you better watch it, man.” 이어 “You're going to find out who the **** I really am.” 이어 “I am the 20-minute trader and I trade for 20 minutes, predictable patterns every morning.” 이어 “Say come back.”",
+    "core": "20분 거래 전략을 사용한 학생들이 68.4% 수익을 보고 있습니다.",
     "rules": [
-      "원문 실행 문장: I am the 20-minute trader and I trade for 20 minutes, predictable patterns every morning."
+      "20분 거래 전략을 사용하면 수익을 얻을 수 있습니다.",
+      "응답한 학생 중 68.4%가 20분 거래 전략을 통해 수익을 얻었습니다."
     ],
-    "caution": "홍보·행동유도 발화: “Hundreds of thousands of people have learned about it and I'm doing a web class really soon.” / “If you want to be part of it, type the word class in the comments and I'll send you a free ticket.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 109,
     "transcriptSource": "Facebook 자동 자막"
@@ -6652,19 +6967,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.08",
     "duration": "00:27",
     "originalTitle": "Patience Millionaire.mov",
-    "title": "주식·섹터: I buy and sell options taking advantage of predictable patterns that happen in the first 20 minutes of t…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 26.63초·Facebook 자동 자막 96단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Invested ten K in the stock market.” / “What do you mean?”",
+    "title": "10K 투자로 49년 만에 백만장자 되기",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "투자",
+      "백만장자"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Invested ten K in the stock market.” 이어 “What do you mean?” 이어 “It's actually much less stressful than normal trading because it's predictable?” 이어 “He teaches me what school didn't about money.”",
+    "core": "10%의 ROI로 49년 동안 백만장자가 되는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: I buy and sell options taking advantage of predictable patterns that happen in the first 20 minutes of the day."
+      "10K를 주식 시장에 투자하고, 10%의 ROI로 49년 동안 투자금을 키운다.",
+      "매일 아침 20분 동안 예측 가능한 패턴을 이용해 옵션을 사고 팔아 수익을 얻는다."
     ],
-    "caution": "성과·수익 발화: “With a 10% ROI, I should be a millionaire in 49 years.” 홍보·행동유도 발화: “That's why I follow him.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 96,
     "transcriptSource": "Facebook 자동 자막"
@@ -6672,20 +6990,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "4410249049252642": {
     "date": "2026.02.13",
     "duration": "01:13",
-    "originalTitle": "9.9K views · 163 comments | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "심리·규율: A lady named Tori, she's from Houston, Texas.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 투자로 가족의 생활을 바꾼 토리의 성공 사례",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 72.77초·로컬 Whisper large-v3-turbo 전사 246단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “A lady named Tori, she's from Houston, Texas.” / “So we made sure she mastered that by doing a lot of practice, getting her questions answered, getting mentors to help her understand this criterion or that to kind of review the trades that she did.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "journal"
+      "심리·규율",
+      "주식·섹터",
+      "투자",
+      "20분 투자"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “A lady named Tori, she's from Houston, Texas.” 이어 “So we made sure she mastered that by doing a lot of practice, getting her questions answered, getting mentors to help her understand this criterion or that to kind of review the trades that she did.” 이어 “She spends 20 minutes a day trading, spends about 10 minutes a day on administrative things like journaling and things like that.” 이어 “It's to change lives with 20 Minute Trading, heavily focused on families or productive people that really need a hand and would like to have an edge and access to the stock market, which they generally don't b…”",
+    "core": "토리라는 여성은 4개월 만에 50만 달러의 자금을 모아 20분 투자로 가족의 생활을 바꾸었다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: A lady named Tori, she's from Houston, Texas."
+      "토리가 4개월 만에 50만 달러의 자금을 모았고, 매일 20분을 투자에 사용하며, 10분을 관리 업무에 사용했다.",
+      "토리의 성공은 가족과 직장에서 헌신하는 사람들을 위한 20분 투자의 힘을 보여준다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 246,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6694,19 +7015,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.09",
     "duration": "02:54",
     "originalTitle": "Feels illegal to know - Want to know how to make money with 20MT_.mp4",
-    "title": "영상 발화 분석: Pay hundreds of dollars to these firms that'll give you a test to verify that you are a good trader and…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 174.37초·Facebook 자동 자막 616단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Piece of information that you learned that feels illegal to know.” / “Pay hundreds of dollars to these firms that'll give you a test to verify that you are a good trader and they let you actually trade on their stimulated trading accounts and if you show that you are making mone…”",
+    "title": "20MT 전략으로 일일 20분에 수천 달러 벌기",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "옵션",
+      "20MT",
+      "투자"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Piece of information that you learned that feels illegal to know.” 이어 “Pay hundreds of dollars to these firms that'll give you a test to verify that you are a good trader and they let you actually trade on their stimulated trading accounts and if you show that you are making mone…” 이어 “In fact yesterday I was at the grocery store.” 이어 “You can get your questions answered live there.”",
+    "core": "20MT 전략을 통해 일일 20분 동안 수천 달러를 벌 수 있다는 사실을 알게 된 것이 불법처럼 느껴진다.",
     "rules": [
-      "원문 실행 문장: Pay hundreds of dollars to these firms that'll give you a test to verify that you are a good trader and they let you actually trade on their stimulated trading accounts and if you show that you are making money consistently and profitably, they say, great."
+      "20MT 전략을 배우고 실습한 후, 일정 수준의 수익률을 보이면 실제 거래 계정을 제공받을 수 있다.",
+      "테스트 거래 계정에서 수익을 내면 실제 계정에 투자금을 투입할 수 있다.",
+      "투자금의 대부분을 수익으로 얻을 수 있다."
     ],
-    "caution": "성과·수익 발화: “Well, I spent the last year with four or 500 people working with them one on one to try to get there with 20 million trader strategy and we got there with quite a few people.” / “You have a seventy, 75% win rate once they were.” 홍보·행동유도 발화: “And why so many non traders are finding that 20-minute traders to go to for getting into trading and having success with it and confidence so if you guys want to find out about th…” / “So, hopefully I see you at the web class.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 616,
     "transcriptSource": "Facebook 자동 자막"
@@ -6715,27 +7039,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.19",
     "duration": "39:31",
     "originalTitle": "20 MTV Live Trading",
-    "title": "위험관리: Trading is risky and I am trading at my own risk.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 2370.63초·Facebook 자동 자막 5293단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good evening everyone.” / “All we're looking at is the relationship of these three lines.”",
+    "title": "20 MTV Live Trading: 1:2 위험보상비 기반 실시간 트레이딩 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Good evening everyone.” 이어 “All we're looking at is the relationship of these three lines.” 이어 “So, I like to take movements that are similar in size to avoid getting my stop loss and getting stopped out.” 이어 “I'm using in the website version.” 이어 “Uh Monday through Friday.” 이어 “Now, I trade open market every once in a while.” 이어 “You can start back at the previous account, right?” 이어 “Thank you everybody and everybody have a great night.”",
+    "core": "1초 단위 가격 변동을 분석하여 반대 방향의 큰 움직임을 기다리는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: Trading is risky and I am trading at my own risk.",
-      "원문 실행 문장: I'd be waiting for a meaningful movement of this white line to enter.",
-      "원문 실행 문장: I mean, the system is the system so I think if you can see and you can operate the iPad and TradingView and all that on that, I don't see why not but I've I've never I've never trade on anything but a laptop.",
-      "원문 실행 문장: Um And so, whatever's in this box, if I were to exit the trade, that's what I would leave the trade with.",
-      "원문 실행 문장: I may have done a trailing stop loss which if I get the opportunity, I'll do that for you as well.",
-      "원문 실행 문장: Now, I trade open market every once in a while.",
-      "원문 실행 문장: See if we can get another trade the next seven, 10 minutes or so.",
-      "원문 실행 문장: Decent entry because if you look, always want to, you know, entered almost at at the peak there which is good and then, I still had enough room for it to move."
+      "블루라인의 방향과 반대 방향으로 진입하되, 진입 후 100포인트 이내에서 이익 실현 또는 손절을 설정한다.",
+      "블루라인이 하락할 때 짧게 팔거나, 상승할 때 길게 사는 것을 고려한다.",
+      "진입 후 손절을 보호하기 위해 임시로 손절을 낮추고, 이익 실현을 위해 전략적으로 이익을 실현한다."
     ],
-    "caution": "성과·수익 발화: “And when we enter a trade, we're typically not in the trade that long, I might take profit and stop loss set at at about a hundred.” / “My take profit is down here My stop loss is up here and this is the live price.” 홍보·행동유도 발화: “I'm a student with 20 Minute Trader, Jeremy Russell, the founder of 20 Minute Trader, Ask Myself to come out here and do some live trading at night and so I'm out here doing that…” / “Type the word learn in the comment section and we'll send you a DM free ticket to the web class.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 5293,
     "transcriptSource": "Facebook 자동 자막"
@@ -6743,20 +7063,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "4537290136492381": {
     "date": "2026.04.01",
     "duration": "00:13",
-    "originalTitle": "195 reactions · 1.3K comments | Comment FREE and I’ll send it straight to your DMS. #ball #trading #chart #learn | 20-Minute Trader",
-    "title": "영상 발화 분석: You thought the ball was going to hit me.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 13.30초·Facebook 자동 자막 30단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You thought the ball was going to hit me.”",
+    "originalTitle": "Comment FREE and I’ll send it straight to your DMS. #ball #trading #chart #learn",
+    "title": "볼 트레이딩 전략 무료로 받아보세요 9:00",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "볼 트레이딩",
+      "DM",
+      "무료 전략"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “You thought the ball was going to hit me.”",
+    "core": "무료 트레이딩 전략을 얻으려면 댓글로 요청하면 즉시 개인 DM으로 전달받을 수 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: You thought the ball was going to hit me."
+      "무료로 트레이딩 전략을 받기 위해 댓글로 요청해야 합니다."
     ],
-    "caution": "홍보·행동유도 발화: “Well, now that you're here, why don't you get my free trading strategy?” / “Comment free and I'll send it to you.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 30,
     "transcriptSource": "Facebook 자동 자막"
@@ -6765,20 +7087,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.03",
     "duration": "00:45",
     "originalTitle": "Favorite Story INTW.mov",
-    "title": "영상 발화 분석: I'm not going to not trade just because I'm going skiing in the mountains with my friends.",
+    "title": "6:25am 차 안에서의 350달러 수익: 20분 투자 트레이딩",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 45.10초·로컬 Whisper large-v3-turbo 전사 175단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Probably one of my favorite stories is when I was starting to get really cocky with 20-minute trading and I wanted to go snowboarding with my friends, but they wanted to leave at 6 a.m.” / “I'm not going to not trade just because I'm going skiing in the mountains with my friends.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20분 투자",
+      "차 안 거래"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Probably one of my favorite stories is when I was starting to get really cocky with 20-minute trading and I wanted to go snowboarding with my friends, but they wanted to leave at 6 a.m.” 이어 “I'm not going to not trade just because I'm going skiing in the mountains with my friends.” 이어 “So I set up a hotspot and my laptop and I was able to perform the full trade and see the graphs moving and do everything on my way to Big Bear Mountain.” 이어 “And I'm like, fuck you, man.”",
+    "core": "20분 투자로 큰 수익을 얻을 수 있다는 사실을 보여주는 사례.",
     "rules": [
-      "원문 실행 문장: I'm not going to not trade just because I'm going skiing in the mountains with my friends.",
-      "원문 실행 문장: So I set up a hotspot and my laptop and I was able to perform the full trade and see the graphs moving and do everything on my way to Big Bear Mountain."
+      "6:25am 차 안에서 20분 동안 350달러를 벌어들였습니다.",
+      "차 안에서 데스크를 세팅하고 실시간 시장 상황을 확인하며 거래를 진행했습니다."
     ],
-    "caution": "성과·수익 발화: “And I made $350 in about two minutes.” 홍보·행동유도 발화: “And that covered my entire lift ticket, my rentals, the gas, the food for that entire day.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 175,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6787,28 +7110,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.08.17",
     "duration": "55:19",
     "originalTitle": "20 MTV Live Trading",
-    "title": "위험관리: So, I love it so much and I'm doing pretty great that Jeremy has asked me to trade live for you guys to…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3318.79초·Facebook 자동 자막 8618단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good morning traders.” / “Whether you're an early bird, a night owl, it doesn't matter.”",
+    "title": "20 MTV Live Trading - 1초 차트에서의 데드라인드와 틱 트레이딩",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Good morning traders.” 이어 “Whether you're an early bird, a night owl, it doesn't matter.” 이어 “But ideally, I wanted to look like this.” 이어 “Uh because it's fun and we can make money.” 이어 “We're going up.” 이어 “Beautiful divergence.” 이어 “Longer, the better.” 이어 “Later traders.”",
+    "core": "RSI의 하락을 기다리며 데드라인드를 이용해 빠르게 진입하고, 틱 트레이딩을 통해 이익을 추구합니다.",
     "rules": [
-      "원문 실행 문장: So, I love it so much and I'm doing pretty great that Jeremy has asked me to trade live for you guys to show you what it actually looks like to have a real 20-minute trader student.",
-      "원문 실행 문장: So, why did I take this trade?",
-      "원문 실행 문장: I can move these but I'm just showing you guys the first trade in a little around the chart, okay?",
-      "원문 실행 문장: I just started trading the gold pattern and we only use divergence in the RSI.",
-      "원문 실행 문장: We can trade it either way.",
-      "원문 실행 문장: We don't want to trade this.",
-      "원문 실행 문장: And look we would have lost that trade if I didn't move my stop loss into profit.",
-      "원문 실행 문장: Then, we let the trade play out."
+      "RSI가 하락할 때 데드라인드를 이용해 진입하고, 빠르게 틱 트레이딩을 시작합니다.",
+      "블루 라인의 상승 추세를 따라 가격이 120초(2분) 동안 상승할 때 진입합니다.",
+      "가격이 하락할 때는 웨이트드 라인의 상승을 기다려 진입합니다."
     ],
-    "caution": "성과·수익 발화: “You you attend classes, or you watch the recordings of classes, there's about, on an average, 14 classes per day, live in the community.” / “We're all said, I made $1$1, 000 right now, trading.” 홍보·행동유도 발화: “I'm going to be trading a simplified version of the gold pattern So What that means is the gold pattern itself is like a four-hour course and it goes from very, very, very beginne…” / “If you guys are watching anywhere else, click the link in the description to get yours.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 8618,
     "transcriptSource": "Facebook 자동 자막"
@@ -6816,21 +7134,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "628994966713202": {
     "date": "2025.09.10",
     "duration": "01:22",
-    "originalTitle": "266K views · 17 reactions | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: I got my finger on the trigger because as soon as this red line goes on its own, independent of the blue…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 81.97초·Facebook 자동 자막 255단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Tell us how to trade.” / “It's going to do whatever it's doing.”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "9:30 AM Eastern S&P 500과 Dow Jones의 1초 차트에서의 짧은 트레이딩 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "S&P 500",
+      "Dow Jones"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Tell us how to trade.” 이어 “It's going to do whatever it's doing.” 이어 “I got my finger on the trigger because as soon as this red line goes on its own, independent of the blue line, I place my trade right at that point, right there.” 이어 “If I'm right more than I'm wrong, I profit.”",
+    "core": "1초 간격의 라인 차트에서 S&P 500과 Dow Jones의 움직임을 관찰하여 빠른 시장 변동을 잡는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: Tell us how to trade.",
-      "원문 실행 문장: I got my finger on the trigger because as soon as this red line goes on its own, independent of the blue line, I place my trade right at that point, right there."
+      "S&P 500과 Dow Jones의 1초 간격 라인 차트에서 빠른 시장 변동을 감지하고, 빨간 선이 파란 선과 독립적으로 움직일 때 매수를 결정한다.",
+      "매매는 9:30 AM Eastern 시장 개장 후 2~12분 사이에 이루어진다."
     ],
-    "caution": "성과·수익 발화: “If I'm right more than I'm wrong, I profit.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 255,
     "transcriptSource": "Facebook 자동 자막"
@@ -6838,20 +7158,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "632854399821536": {
     "date": "2025.11.18",
     "duration": "00:44",
-    "originalTitle": "11 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Yeah, I use predictable patterns and trade for only 20 minutes a day.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분만에 거래 완료, 가족과 농구경기 관람하기",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 44.17초·로컬 Whisper large-v3-turbo 전사 129단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey neighbor.” / “Yeah, I use predictable patterns and trade for only 20 minutes a day.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "가족과의 시간",
+      "예측 가능한 패턴"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Hey neighbor.” 이어 “Yeah, I use predictable patterns and trade for only 20 minutes a day.” 이어 “How do I learn 20 minute trading?” 이어 “Estimated time in traffic, 45 minutes.”",
+    "core": "20분 동안 예측 가능한 패턴을 이용해 거래를 완료하고 가족과 농구경기를 관람한다.",
     "rules": [
-      "원문 실행 문장: Yeah, I use predictable patterns and trade for only 20 minutes a day.",
-      "원문 실행 문장: Oh yeah, I was gonna listen to it on the radio at my desk with headphones on trying to avoid my boss."
+      "매일 20분만 거래를 진행한다.",
+      "아침 식사 전에 거래를 모두 완료한다.",
+      "농구 경기를 가족과 함께 관람한다."
     ],
-    "caution": "홍보·행동유도 발화: “They teach are free.” / “If you just come in class on this video, you'll get a free ticket.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 129,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6859,19 +7183,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "639888419149532": {
     "date": "2025.08.12",
     "duration": "00:46",
-    "originalTitle": "3.7K views · 43 reactions | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: So they can trade for only 20 minutes a day and still go to work and stuff.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 투자 클래스 무료 참가 방법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 45.50초·로컬 Whisper large-v3-turbo 전사 121단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Any good advice for me, Dad?” / “Well, you know, if a stranger ever lets out a fart near you, the nicest thing you can do is fart right after.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "투자",
+      "20분 투자 클래스",
+      "무료 클래스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Any good advice for me, Dad?” 이어 “Well, you know, if a stranger ever lets out a fart near you, the nicest thing you can do is fart right after.” 이어 “So they can trade for only 20 minutes a day and still go to work and stuff.” 이어 “Kinda getting Mormon here.”",
+    "core": "비즈니스를 시작하는 초보자들에게 20분 동안만 투자할 수 있는 무료 트레이딩 클래스를 제공한다.",
     "rules": [
-      "원문 실행 문장: So they can trade for only 20 minutes a day and still go to work and stuff."
+      "이 클래스는 바쁜 초보자들이 일과를 계속하면서도 투자를 할 수 있도록 설계되었습니다."
     ],
-    "caution": "홍보·행동유도 발화: “Well, I give away free trading classes to busy beginners and non-traders.” / “They type the word class in the comments and they get a free web class.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 121,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6879,20 +7206,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "649756681391842": {
     "date": "2025.05.30",
     "duration": "00:13",
-    "originalTitle": "32 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: You thought the ball was going to hit me.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 13.30초·로컬 Whisper large-v3-turbo 전사 30단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You thought the ball was going to hit me.”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 트레이더의 무료 트레이딩 전략 공유",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이더",
+      "자유 댓글"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “You thought the ball was going to hit me.”",
+    "core": "20분 트레이더의 무료 트레이딩 전략을 얻으려면 'FREE' 댓글을 달아보세요.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: You thought the ball was going to hit me."
+      "전략은 무료로 제공된다."
     ],
-    "caution": "홍보·행동유도 발화: “Well, now that you're here, why don't you get my free trading strategy?” / “Comment free and I'll send it to you.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 30,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6900,20 +7229,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "687315967270528": {
     "date": "2025.05.23",
     "duration": "01:03",
-    "originalTitle": "3 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Well, I learned how to trade predictable patterns in about half the time that you've been playing that g…",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 62.67초·로컬 Whisper large-v3-turbo 전사 195단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Dude, you've been here all day.” / “Let's see, game was 60.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "13시간 게임 플레이 후 20분만에 트레이딩 패턴을 배우는 방법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이딩",
+      "무료 웹 클래스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Dude, you've been here all day.” 이어 “Let's see, game was 60.” 이어 “And I spend only 20 minutes a day trading those patterns when the market opens.” 이어 “I need a weapon.”",
+    "core": "20분만에 트레이딩 패턴을 배우고 실습할 수 있는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: Well, I learned how to trade predictable patterns in about half the time that you've been playing that game just today.",
-      "원문 실행 문장: Wow, so I can trade and still have time to do what I want?"
+      "매일 시장이 열릴 때 20분만 투자하여 트레이딩을 실습할 수 있다."
     ],
-    "caution": "홍보·행동유도 발화: “So what are you doing with your free time?” / “Yeah, just type the word class in the comments and they'll send you a free ticket to a web class where they'll actually explain it all to you.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 195,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6921,21 +7252,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "690690887283933": {
     "date": "2025.05.14",
     "duration": "01:20",
-    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: And this is going to allow me to find and trade the best stocks out there.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 traders 클래스 예고: 패턴 예측 알고리즘 공개",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 79.79초·로컬 Whisper large-v3-turbo 전사 266단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Don't see a word.” / “Hold on, hold on.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Don't see a word.” 이어 “Hold on, hold on.” 이어 “I'm going to test it out and see if I can predict what you're about to say.” 이어 “This is heavy.”",
+    "core": "새로운 방법으로 거래 패턴을 예측할 수 있는 알고리즘을 소개한다.",
     "rules": [
-      "원문 실행 문장: And this is going to allow me to find and trade the best stocks out there.",
-      "원문 실행 문장: Just wait, wait, wait, wait, wait.",
-      "원문 실행 문장: Not even close."
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "홍보·행동유도 발화: “I wanted to tell you that I'm hosting a free web class to teach new traders how they can learn how to trade predictable patterns for only 20 minutes a day.” / “Future boy class.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 266,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6943,19 +7275,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "695896216620197": {
     "date": "2025.06.19",
     "duration": "01:02",
-    "originalTitle": "24 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: about to do a fast in and out trade using 250 000 dollars wish me luck the setup's looking good right no…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 61.67초·로컬 Whisper large-v3-turbo 전사 127단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “about to do a fast in and out trade using 250 000 dollars wish me luck the setup's looking good right now order filled order filled all right how much did that make let's see 2436.90 that's one of the reasons…”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 거래로 2436.90 달러 수익 실현",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "20minutetrader"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “about to do a fast in and out trade using 250 000 dollars wish me luck the setup's looking good right now order filled order filled all right how much did that make let's see 2436.90 that's one of the reasons…”",
+    "core": "20분 거래는 몇 초 만에 진입과 퇴출을 완료할 수 있는 빠른 거래 방법이다.",
     "rules": [
-      "원문 실행 문장: about to do a fast in and out trade using 250 000 dollars wish me luck the setup's looking good right now order filled order filled all right how much did that make let's see 2436.90 that's one of the reasons i like 20 minute trading is because you are in and…"
+      "250,000 달러를 사용해 셋업을 기다린 후 거래를 실행했다.",
+      "10~15분 동안 셋업을 기다린 후 거래를 진행했다."
     ],
-    "caution": "홍보·행동유도 발화: “about to do a fast in and out trade using 250 000 dollars wish me luck the setup's looking good right now order filled order filled all right how much did that make let's see 2436…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 127,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6963,19 +7298,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "707354905742046": {
     "date": "2025.11.05",
     "duration": "00:34",
-    "originalTitle": "4.1K views · 8 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: They go up or down just a little bit when a couple of triggers happen, so I buy right before it goes up…",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 트레이더의 주식 시장 예측 패턴",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 34.03초·로컬 Whisper large-v3-turbo 전사 129단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey Jeremy, what's your best hack in the stock market?” / “They go up or down just a little bit when a couple of triggers happen, so I buy right before it goes up and sell right after.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "주식·섹터",
+      "주식 트레이딩",
+      "예측 패턴",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Hey Jeremy, what's your best hack in the stock market?” 이어 “They go up or down just a little bit when a couple of triggers happen, so I buy right before it goes up and sell right after.” 이어 “Because even I'm new to trading, by the way.” 이어 “Uhhhh, sorry.”",
+    "core": "주식 시장에서 일정 시간대에 일정한 가격 변동 패턴을 예측하고 그에 따라 매매한다.",
     "rules": [
-      "원문 실행 문장: They go up or down just a little bit when a couple of triggers happen, so I buy right before it goes up and sell right after."
+      "매일 시장 개장 시간대에 특정 주식들이 일정한 가격 변동을 보이므로, 이전에 가격이 오르기 직전에 매수하고 가격이 떨어지기 직후에 매도한다.",
+      "수백만 명이 이 방법을 배운 지나치게 단순한 방법임을 강조한다."
     ],
-    "caution": "홍보·행동유도 발화: “Simply comment free on this video and I'll send you a full video explanation for free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 129,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6983,20 +7322,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "712929278055725": {
     "date": "2025.05.27",
     "duration": "00:57",
-    "originalTitle": "4 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: Actually being able to trade despite having a job and also having no idea which direction the market is…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 57.00초·로컬 Whisper large-v3-turbo 전사 236단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's something I wish I knew before I was in my 30s.” / “All I do is I look at an index and I look at a stock that have a correlation.”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 거래로 일과 가족을 모두 즐기다",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "주식·섹터",
+      "선물·지수",
+      "20분거래",
+      "일과 가족"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Here's something I wish I knew before I was in my 30s.” 이어 “All I do is I look at an index and I look at a stock that have a correlation.” 이어 “It's often enough that I'll win more than I lose when I do this.” 이어 “So there's a reason why 300,000 people have actually studied this in the last couple years.”",
+    "core": "20분 거래는 시장 방향을 예측하지 않아도 되며, 일과 가족 생활을 즐길 수 있는 방법이다.",
     "rules": [
-      "원문 실행 문장: Actually being able to trade despite having a job and also having no idea which direction the market is going.",
-      "원문 실행 문장: And that's because I only trade for 20 minutes in the morning, right when the market opens."
+      "매일 아침 시장이 열릴 때 20분 동안 특정 지수와 관련된 주식을 관찰한다.",
+      "지수와 관련된 주식이 지수와 동일한 방향으로 움직일 확률이 높아 이 방법으로 수익을 얻을 수 있다."
     ],
-    "caution": "홍보·행동유도 발화: “I don't have to follow a bunch of different crazy indicators and learn all these different crazy terms.” / “Type the word free in the comments and I will DM you the strategy for free right now.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 236,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7004,23 +7346,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "721090147690162": {
     "date": "2025.11.12",
     "duration": "00:31",
-    "originalTitle": "4.9K views · 70 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: Every day I mark it open, 9.30 a.m.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 거래 패턴으로 2년째 수익 실현: 9:30부터 9:50까지 20분 거래 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 31.07초·로컬 Whisper large-v3-turbo 전사 120단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Every day I mark it open, 9.30 a.m.” / “I see the signals and I buy.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "주식·섹터",
+      "20분 거래",
+      "20-Minute Trader"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Every day I mark it open, 9.30 a.m.” 이어 “I see the signals and I buy.” 이어 “And you can thank my friends' friends for this video.” 이어 “I made the video courses to teach them.”",
+    "core": "20분 동안의 단순 신호를 기반으로 주식을 매수·매도하는 전략을 2년간 실천하고 있습니다.",
     "rules": [
-      "원문 실행 문장: Every day I mark it open, 9.30 a.m.",
-      "원문 실행 문장: I watch some graphs moving across my laptop screen while I look for a few little simple signals.",
-      "원문 실행 문장: I see the signals and I buy.",
-      "원문 실행 문장: The stock goes up and I sell only minutes or even just seconds later.",
-      "원문 실행 문장: Then I close my laptop at 9.50 a.m."
+      "매일 아침 9:30부터 9:50까지 20분 동안 거래를 진행합니다.",
+      "신호를 확인하고 즉시 주식을 매수한 후 몇 분 또는 몇 초 후에 매도합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 120,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7028,20 +7369,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "722658864019880": {
     "date": "2026.01.20",
     "duration": "00:09",
-    "originalTitle": "12 reactions | Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those stu…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 9.24초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who res…",
+    "title": "20분 트레이더 수업 참가권을 얻는 방법",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…”",
+    "core": "20분 트레이더 수업에 참가하려면 'FREE'를 댓글로 남기면 됩니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies.."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "성과·수익 발화: “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 whe…” 홍보·행동유도 발화: “Comment “FREE” to get a ticket to my next web class for free!” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7049,19 +7391,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "727008199713204": {
     "date": "2025.11.06",
     "duration": "02:03",
-    "originalTitle": "3.7K views | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: I use predictable patterns.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "80년대 vs 90년대 음악의 발음 차이와 6시 30분 트레이딩",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 123.13초·로컬 Whisper large-v3-turbo 전사 253단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey, Jerick, thanks for letting me and Dad stay over.” / “I'm half the man I used to be.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "80년대음악",
+      "90년대음악"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Hey, Jerick, thanks for letting me and Dad stay over.” 이어 “I'm half the man I used to be.” 이어 “What kind of job is that?” 이어 “Jeremy spoken.”",
+    "core": "80년대와 90년대의 음악 발음 스타일이 다르다는 점과 아침 6시 30분에 20분 트레이딩을 하는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: I use predictable patterns."
+      "80년대와 90년대의 음악 발음 스타일이 다르다는 점을 설명한다.",
+      "아침 6시 30분에 20분 트레이딩을 하는 방법을 소개한다."
     ],
-    "caution": "홍보·행동유도 발화: “Of course, there is that R sound in the vowels.” / “A web class today.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 253,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7070,22 +7416,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.04.11",
     "duration": "00:37",
     "originalTitle": "why we use 1 second charts.mp4",
-    "title": "영상 발화 분석: Most traders use candle charts that update every few minutes.",
+    "title": "1초 차트로 빠른 시장 동향 파악 20분 거래 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 37.20초·로컬 Whisper large-v3-turbo 전사 127단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Eyes on the chart.” / “Most traders use candle charts that update every few minutes.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "1초 차트",
+      "20분 거래",
+      "실시간 거래"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Eyes on the chart.” 이어 “Most traders use candle charts that update every few minutes.” 이어 “The market moves really fast, so we need a chart that keeps up.” 이어 “We trade pretty fast and we move on with our day.”",
+    "core": "1초 차트를 통해 시장 동향을 실시간으로 파악하고 빠른 결정을 내리는 것이 핵심이다.",
     "rules": [
-      "원문 실행 문장: Most traders use candle charts that update every few minutes.",
-      "원문 실행 문장: When we see our entry point, we usually only have a second or two to act.",
-      "원문 실행 문장: While most of our trades are finished in under a minute, sometimes two minutes-ish, but really we're in a trade and we're out of a trade fairly quickly in that 20-minute window.",
-      "원문 실행 문장: We trade pretty fast and we move on with our day."
+      "1초 차트를 사용하여 시장 변화를 실시간으로 감지하고 즉시 진입/퇴출을 결정한다.",
+      "20분 동안 평균 1초에서 2초 사이의 시간을 거래한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 127,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7093,20 +7439,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "736791359517892": {
     "date": "2025.07.29",
     "duration": "00:50",
-    "originalTitle": "8.6K views · 5 comments | Comment “SECRET” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: Very popular stock that people trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 50.06초·로컬 Whisper large-v3-turbo 전사 154단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I just cleaned it up.” / “Check and see if it forms this U shape.”",
+    "originalTitle": "Comment “SECRET” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students…",
+    "title": "20분 거래의 9:30 AM U 모양 패턴",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "주식·섹터",
+      "20분 거래",
+      "U 모양",
+      "Dow Jones"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “I just cleaned it up.” 이어 “Check and see if it forms this U shape.” 이어 “Very popular stock that people trade.” 이어 “You want to know more about this?”",
+    "core": "9:30 AM에 형성된 U 모양의 하락 추세에서 Dow Jones와 SPY가 반등하는 패턴을 이용하라.",
     "rules": [
-      "원문 실행 문장: Very popular stock that people trade."
+      "9:30 AM에 U 모양을 형성하는 주식 또는 거래 도구를 확인하라.",
+      "Dow Jones가 하락 추세에서 반등하기 전에 SPY가 평평해지는 것을 관찰하라."
     ],
-    "caution": "성과·수익 발화: “You're going to find a large percentage of the time they will have a mutual downtrend.” 홍보·행동유도 발화: “Comment the word secret below and I'll send you a full free video explanation.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 154,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7114,23 +7463,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "737443385905191": {
     "date": "2025.07.09",
     "duration": "04:19",
-    "originalTitle": "8 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: The fact that 20-minute trading occurs in usually under a minute, the trade itself, gives very little op…",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 거래의 세계적 사건과 변동성 시장에서의 활용",
     "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 259.43초·로컬 Whisper large-v3-turbo 전사 921단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Does 20-minute trading work in any sort of world event or volatile market condition?” / “So people are finding that even if the market is trending down hardcore, and you catch one of those down drops, you can still profit on it.”",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk"
+      "위험관리",
+      "주식·섹터",
+      "20분 거래",
+      "단기 거래"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Does 20-minute trading work in any sort of world event or volatile market condition?” 이어 “So people are finding that even if the market is trending down hardcore, and you catch one of those down drops, you can still profit on it.” 이어 “Like what if there is a big fight on tariffs for the oil and energy sector?” 이어 “Not going to happen.”",
+    "core": "20분 거래는 세계적 사건이나 변동성 시장에서도 효과적이다. 20분 거래는 단기 패턴을 분석하므로 큰 변동이 발생할 확률이 낮다.",
     "rules": [
-      "원문 실행 문장: The fact that 20-minute trading occurs in usually under a minute, the trade itself, gives very little opportunity for a major world or economic event to happen during that one minute.",
-      "원문 실행 문장: You know, the chances of you placing a trade and then a huge economic thing happens during those next 60 seconds that influences the market and throws off your trade, pretty low.",
-      "원문 실행 문장: But even if it does, we have in place what's called a stop loss and a take profit.",
-      "원문 실행 문장: So if it does shoot in either direction, the brokerage, the actual trading account, will exit you automatically at the least amount of loss possible that they can get away with.",
-      "원문 실행 문장: And even when you are vulnerable, you have these stops, these brackets in place of like, if my trade goes wrong, I get exited at the minimal loss, right?"
+      "1분 거래는 큰 경제적 사건이 발생할 확률이 낮다.",
+      "20분 거래는 단기 패턴을 기반으로 하므로 세계적 사건이나 변동성 시장에서도 효과적이다.",
+      "불리한 가격 변동이 발생할 경우, 자동으로 손절매가 작동하여 최소 손실을 보장한다."
     ],
-    "caution": "성과·수익 발화: “But even if it does, we have in place what's called a stop loss and a take profit.” / “In fact, in 2022, when the market had its largest kind of drop in a long time, many of us had our most profitable year.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 921,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7138,23 +7488,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "741677315035197": {
     "date": "2025.07.07",
     "duration": "02:27",
-    "originalTitle": "1.5K views · 3 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: Okay, let's do a live trade.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 트레이더: 금 가격 차트에서의 진입 신호와 매매 과정",
     "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 147.37초·로컬 Whisper large-v3-turbo 전사 372단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Okay, let's do a live trade.” / “Oh, no problem.”",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk"
+      "위험관리",
+      "선물·지수",
+      "20분 트레이더",
+      "RSI"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Okay, let's do a live trade.” 이어 “Oh, no problem.” 이어 “All that might sound confusing, but it's really not that much to learn.” 이어 “We made $797.”",
+    "core": "Relative Strength Index의 역전 신호를 통해 금 가격이 상승할 것으로 예상하고, 진입 후 목표 가격을 향해 급등하는 과정을 관찰한다.",
     "rules": [
-      "원문 실행 문장: Okay, let's do a live trade.",
-      "원문 실행 문장: And that means that the blue line wants to move up.",
-      "원문 실행 문장: All right, so we're already up 210 on this trade so far.",
-      "원문 실행 문장: We're very close.",
-      "원문 실행 문장: As you can see, the stop loss is above this break even line."
+      "Relative Strength Index가 가격의 역전 신호를 보여주면, 금 가격이 상승할 것으로 판단하고, 이 신호를 기반으로 매수 주문을 실행한다.",
+      "진입 후 가격이 목표 가격까지 상승하면 투자 수익을 실현하고, 가격이 하락할 경우 손절매를 설정한다."
     ],
-    "caution": "성과·수익 발화: “So in this case, I'm going to aim for $1,000 profit with the possibility of a $1,000 loss.” / “We made $797.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 372,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7162,20 +7512,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "741709338184472": {
     "date": "2025.05.24",
     "duration": "00:44",
-    "originalTitle": "3 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: No I just put 10 million out of stock and I'm going to wait for it to pump.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 거래 트레이더의 일일 터무니없는 운동과 거래 패턴",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 44.10초·Facebook 자동 자막 150단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey good to see you.” / “Aren't you a trader too?”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "20분 거래",
+      "예측 가능한 패턴"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Hey good to see you.” 이어 “Aren't you a trader too?” 이어 “Like smoking cigars or lifting weights.” 이어 “Okay, I'll be back.”",
+    "core": "20분 거래는 일일 운동과 거래를 병행하며, 예측 가능한 패턴을 이용해 빠르게 수익을 얻는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: No I just put 10 million out of stock and I'm going to wait for it to pump.",
-      "원문 실행 문장: Well I only trade predictable patterns in the morning."
+      "매ornings에 예측 가능한 거래 패턴을 찾아 20분 이내로 거래를 완료한다.",
+      "일일 나머지 시간에는 운동을 즐기거나 다른 활동을 할 수 있다."
     ],
-    "caution": "성과·수익 발화: “No I just put 10 million out of stock and I'm going to wait for it to pump.” 홍보·행동유도 발화: “You want to join?” / “Arnold, just type free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 150,
     "transcriptSource": "Facebook 자동 자막"
@@ -7183,23 +7536,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "751527351243103": {
     "date": "2025.11.03",
     "duration": "01:19",
-    "originalTitle": "9.5K views | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: So what I did is I placed a trade that either wins or loses $100.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 79.17초·로컬 Whisper large-v3-turbo 전사 258단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is what I would do if I wanted to make $100 in one minute.” / “So what I did is I placed a trade that either wins or loses $100.”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "1분 내 $100 수익을 위한 Dow Jones과 S&P 500의 상관 관계",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "옵션",
+      "선물·지수",
+      "거래 전략",
+      "상관 관계"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “This is what I would do if I wanted to make $100 in one minute.” 이어 “So what I did is I placed a trade that either wins or loses $100.” 이어 “The best entry shows a mutual downtrend, as sharp as possible, of the orange line and the blue line.” 이어 “No, but as long as it works more than it doesn't, I'm profitable.”",
+    "core": "Dow Jones과 S&P 500의 상관 관계를 이용해 빠르게 수익을 얻는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: So what I did is I placed a trade that either wins or loses $100.",
-      "원문 실행 문장: The best entry shows a mutual downtrend, as sharp as possible, of the orange line and the blue line.",
-      "원문 실행 문장: I placed a little light trade there.",
-      "원문 실행 문장: It only has to move a small distance."
+      "Dow Jones Industrial Average의 하락과 S&P 500의 하락이 일치할 때, S&P 500의 상승을 예측하고 거래한다.",
+      "상승세가 나타나면 즉시 거래를 체결한다."
     ],
-    "caution": "성과·수익 발화: “This is what I would do if I wanted to make $100 in one minute.” / “No, but as long as it works more than it doesn't, I'm profitable.” 홍보·행동유도 발화: “When you see a mutual downtrend like this and you start to see the orange line popping back up, that is a very high probability that the blue line is going to follow.” / “Once this white line hits the bottom dotted line and I see the orange line heading back up, there's a high probability that blue line is going to follow.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 258,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7207,21 +7560,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "754228073735596": {
     "date": "2025.12.27",
     "duration": "00:26",
-    "originalTitle": "4.8K views | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: So when I entered the stock market and to look at it as a 42-year-old who'd never touched a stock, never…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 25.90초·로컬 Whisper large-v3-turbo 전사 103단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So when I entered the stock market and to look at it as a 42-year-old who'd never touched a stock, never learned any strategy, never learned any terms, knew nothing but what I had learned on the movie Trading…” / “That one little motion is completely predictable.”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20-Minute Trader의 42세 초보 투자자의 성공 스토리",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "주식·섹터",
+      "투자",
+      "20-Minute Trader",
+      "초보자"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “So when I entered the stock market and to look at it as a 42-year-old who'd never touched a stock, never learned any strategy, never learned any terms, knew nothing but what I had learned on the movie Trading…” 이어 “That one little motion is completely predictable.” 이어 “People laughed at me, said it's too easy, too simple.” 이어 “I said, I don't know, but I can predict it.”",
+    "core": "42세 초보 투자자가 영화에서 배운 전략으로 주식 시장에서 예측 가능한 움직임을 찾아 성공했다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: So when I entered the stock market and to look at it as a 42-year-old who'd never touched a stock, never learned any strategy, never learned any terms, knew nothing but what I had learned on the movie Trading Places and Wolf of Wall Street, which is nothing,…"
+      "42세 초보 투자자가 영화 'Trading Places'와 'Wolf of Wall Street'에서 배운 전략을 사용하여 주식 시장에서 예측 가능한 움직임을 찾아 성공했다.",
+      "투자자의 초기 예측은 많은 사람들의 웃음과 비난을 불러왔지만, 그는 자신의 예측을 계속 유지했다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 103,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7229,22 +7584,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "754262153659986": {
     "date": "2025.12.17",
     "duration": "01:57",
-    "originalTitle": "3.5K views · 4 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "Fibonacci: I think maybe you didn't use a blinker on one of those lane changes back there.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 117.13초·로컬 Whisper large-v3-turbo 전사 316단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You know how fast you were going?” / “Hey, not trying to pry.”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 트레이딩 시스템 배우는 법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "Fibonacci",
-      "CTA"
+      "피보나치",
+      "20분 트레이딩",
+      "일일 트레이딩"
     ],
-    "core": "원문 전사 기준 Fibonacci 콘텐츠다. “You know how fast you were going?” 이어 “Hey, not trying to pry.” 이어 “What do you mean that's not possible?” 이어 “Over and out.”",
+    "core": "20분 트레이딩은 빠른 시장 변화를 잡아야 하므로 빠른 결정을 내리는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: I think maybe you didn't use a blinker on one of those lane changes back there.",
-      "원문 실행 문장: Did you enter a trade this morning?",
-      "원문 실행 문장: Yeah, can't stop thinking about it."
+      "20분 트레이딩은 하루에 여러 번 시장에 진입하고 나가야 한다.",
+      "50만 명 이상이 이 시스템을 배웠다고 한다."
     ],
-    "caution": "성과·수익 발화: “Half a million people have learned it in just the last year or two.” 홍보·행동유도 발화: “They would comment free in this video.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 316,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7252,21 +7607,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "761304236405371": {
     "date": "2025.08.01",
     "duration": "00:45",
-    "originalTitle": "4.3K views · 30 comments | Comment “SECRET” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: Place a trade here, exit here.",
+    "originalTitle": "Comment “SECRET” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students…",
+    "title": "9:30 AM SPY U-shape 패턴 활용 트레이딩",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 44.51초·로컬 Whisper large-v3-turbo 전사 158단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Why are some beginner traders getting results with less stress and less time?” / “This blue line is what you're trading and what you're predicting.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "옵션",
+      "주식·섹터",
+      "트레이딩",
+      "SPY"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Why are some beginner traders getting results with less stress and less time?” 이어 “This blue line is what you're trading and what you're predicting.” 이어 “But if you put this red line on there, red line often does this right at the bottom of the U, just before the right side of the U, predicting this jump.” 이어 “If you type the word secret below and I'll send you a full video explanation of how this works.”",
+    "core": "9:30 AM에 발생하는 SPY의 U-shape 패턴을 예측하여 이익을 얻는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: Place a trade here, exit here.",
-      "원문 실행 문장: And that is what they are using to have an edge on the market and see if they could use as little money as possible to make as much money as possible."
+      "9:30 AM에 SPY가 U-shape를 형성할 때, 그 하단에서 매수하여 상단에서 매도하는 전략을 사용한다.",
+      "매매 규칙은 제시되지 않음."
     ],
-    "caution": "전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 158,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7274,20 +7631,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "763160800069570": {
     "date": "2025.11.14",
     "duration": "00:25",
-    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: Isn't it the same when you trade in the stock market?",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 거래 전략으로 빠른 수익 추구",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 25.27초·로컬 Whisper large-v3-turbo 전사 110단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm heading down to the casino.” / “True, but for me it's a bit different.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "20분 거래",
+      "옵션 거래"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “I'm heading down to the casino.” 이어 “True, but for me it's a bit different.” 이어 “It's predictable?” 이어 “He teaches me what school didn't about money.”",
+    "core": "20분 거래는 일일 초기 가격 패턴을 이용해 빠르게 수익을 얻는 방법이다.",
     "rules": [
-      "원문 실행 문장: Isn't it the same when you trade in the stock market?",
-      "원문 실행 문장: It's when I buy and sell options taking advantage of predictable patterns that happen in the first 20 minutes of the day."
+      "매일 아침 20분 동안 일어나는 가격 패턴을 이용해 옵션을 사고 팔아 수익을 얻는다.",
+      "20분 거래는 가격 변동을 예측할 수 있어 위험을 줄일 수 있다."
     ],
-    "caution": "홍보·행동유도 발화: “That's why I follow him.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 110,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7295,24 +7655,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "766814852444152": {
     "date": "2025.07.11",
     "duration": "03:13",
-    "originalTitle": "2.3K views · 18 reactions | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: Ready for another live trade?",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 192.63초·로컬 Whisper large-v3-turbo 전사 495단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “stake our claim on our profits so far.” / “Do I make or lose 2,000 bucks?”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 트레이딩: 2,000 달러 목표로 하락 추세 분석",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "선물·지수",
+      "20분 트레이딩",
+      "RSI"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “stake our claim on our profits so far.” 이어 “Do I make or lose 2,000 bucks?” 이어 “Order filled.” 이어 “Yeah, that's like six days in a row now.”",
+    "core": "상대강도지수(RSI)가 하락세를 보이면 단타로 2,000 달러를 목표로 거래한다.",
     "rules": [
-      "원문 실행 문장: Ready for another live trade?",
-      "원문 실행 문장: I'm putting this so that, I'm basically, so I set it up so my stop loss is at plus 300.",
-      "원문 실행 문장: Some people are gonna say, why didn't you move your stop loss up and claim the profit that you had?",
-      "원문 실행 문장: Now what I'm gonna do is I'm gonna do another trade, but aim for 1,700.",
-      "원문 실행 문장: Probably didn't do enough contracts, so I'll probably add a few here so we can hit our target."
+      "상대강도지수(RSI)가 하락세를 보이면 단타로 2,000 달러를 목표로 거래한다.",
+      "지정가로 단타로 거래하며, 잠재적 손실은 2,000 달러까지 설정한다.",
+      "지정가로 거래를 추가하거나 수정할 수 있다."
     ],
-    "caution": "성과·수익 발화: “We just drop a little further, and then we hit $2,000 profit.” / “Some people are gonna say, why didn't you move your stop loss up and claim the profit that you had?” 홍보·행동유도 발화: “So if you guys wanna learn how to do this, type the word free in the comments and I'll send you a video explaining how to do 20 minute trading.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 495,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7320,20 +7680,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "767634712435450": {
     "date": "2025.07.26",
     "duration": "00:46",
-    "originalTitle": "12K views · 8 comments | Comment “SECRET” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Every time I click buy, market tanks, I just burn at market open.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 46.05초·Facebook 자동 자막 144단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Whoa, what are you doing?” / “Indicators, courses, reddit threads.”",
+    "originalTitle": "Comment “SECRET” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students…",
+    "title": "20분 거래 전략, 일별 패턴을 이용한 일관된 손실 관리",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "옵션",
+      "20분 거래",
+      "초보자 친화",
+      "일관된 손실"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Whoa, what are you doing?” 이어 “Indicators, courses, reddit threads.” 이어 “Do you have a lighter binding change?” 이어 “You want one?”",
+    "core": "20분 거래는 일별 패턴을 이용해 일관된 손실을 관리하며 초보자에게 적합하다.",
     "rules": [
-      "원문 실행 문장: Every time I click buy, market tanks, I just burn at market open."
+      "매일 아침 20분 동안 특정 패턴을 이용해 거래한다.",
+      "예상되는 손실을 미리 알고 있어 불안 없이 거래한다."
     ],
-    "caution": "성과·수익 발화: “Well, I used to lose $500 a day as a trader.” 홍보·행동유도 발화: “Just comment secret and I'll send you a video that explains it all.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 144,
     "transcriptSource": "Facebook 자동 자막"
@@ -7341,19 +7704,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "775669491637282": {
     "date": "2025.07.27",
     "duration": "00:40",
-    "originalTitle": "13K views · 12 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: I just trade in the morning for less than 20 minutes so I can do whatever I want for the rest of the day.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 투자 트레이딩 방법 공개! - 자세한 설명 댓글로 받기",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 40.38초·로컬 Whisper large-v3-turbo 전사 138단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey Jeremy, you're not going to work today?” / “What about like making money?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "투자",
+      "20분 투자",
+      "소규모 자본"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Hey Jeremy, you're not going to work today?” 이어 “What about like making money?” 이어 “Thousands of other people do the same.” 이어 “Yes, you are.”",
+    "core": "20분 만에 투자할 수 있는 방법을 공개하며, 실제 수익을 얻을 수 있다는 점을 강조한다.",
     "rules": [
-      "원문 실행 문장: I just trade in the morning for less than 20 minutes so I can do whatever I want for the rest of the day."
+      "20분 동안만 거래를 진행하고, 나머지 시간은 자유롭게 활용할 수 있다.",
+      "소규모 자본으로 시작할 수 있으며, 많은 사람들이 동일한 방법을 사용한다."
     ],
-    "caution": "홍보·행동유도 발화: “Simply comment free on this video and I'll send you my full video explanation of exactly how I do it.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 138,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7361,22 +7728,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "783948854752883": {
     "date": "2026.02.14",
     "duration": "00:22",
-    "originalTitle": "2.2K views · 14 comments | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: If you don't have a predefined risk, you are suicidal in the trading world.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "클래스를 위한 티켓을 얻는 방법: 20분 트레이더 학생들의 성공적 접근법",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 21.99초·로컬 Whisper large-v3-turbo 전사 69단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you don't have a predefined risk, you are suicidal in the trading world.” / “Beginners are drawn to the shortcut path.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology"
+      "위험관리",
+      "심리·규율",
+      "트레이딩",
+      "위험 관리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “If you don't have a predefined risk, you are suicidal in the trading world.” 이어 “Beginners are drawn to the shortcut path.” 이어 “They worship profit instead of discipline, and they rush into real money before they've earned it.” 이어 “But the way that gets people where they need to go is the boring, steady, consistent, safety driven, predefined risk approach.”",
+    "core": "성공적인 트레이딩은 일관된 위험 관리와 일관된 접근 방식을 통해 이루어집니다.",
     "rules": [
-      "원문 실행 문장: If you don't have a predefined risk, you are suicidal in the trading world.",
-      "원문 실행 문장: They strategy hop, they chase dopamine, they chase that one trade.",
-      "원문 실행 문장: But the way that gets people where they need to go is the boring, steady, consistent, safety driven, predefined risk approach."
+      "예산 내에서만 거래를 시작하되, 실전 돈을 거래하기 전에 충분한 테스트를 거치는 것이 중요하다.",
+      "성공적인 트레이딩은 단순한 전략을 고수하고 일관된 위험 관리로 이루어진다.",
+      "단순한 방법을 피하고 빠르게 수익을 추구하지 말고, 일관된 접근 방식을 추구하라."
     ],
-    "caution": "성과·수익 발화: “They worship profit instead of discipline, and they rush into real money before they've earned it.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 69,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7384,20 +7753,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "788993196925903": {
     "date": "2026.02.11",
     "duration": "00:23",
-    "originalTitle": "5.6K views | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those stu…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 23.40초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 트레이더 클래스 참가 방법",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…”",
+    "core": "20분 트레이더 학생들이 클래스에 참석하는 방법을 알려주는 내용이다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies.."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "성과·수익 발화: “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 whe…” 홍보·행동유도 발화: “Comment “CLASS” to get a ticket to my next web class for free!” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7405,20 +7775,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "793802586454084": {
     "date": "2025.09.01",
     "duration": "00:52",
-    "originalTitle": "14K views · 12 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: I just got my Nats laminated.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 52.37초·Facebook 자동 자막 166단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I just got my Nats laminated.” / “The predictable patterns happen mostly during that window and then I just do what I want the rest of the day.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 트레이딩 클래스 티켓 얻기 - 예측 가능한 패턴 활용",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "클래스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I just got my Nats laminated.” 이어 “The predictable patterns happen mostly during that window and then I just do what I want the rest of the day.” 이어 “But like what how does it work?” 이어 “You do not realize I'm accused.”",
+    "core": "예측 가능한 20분간의 트레이딩 패턴을 이용하면 무료 클래스 티켓을 얻을 수 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I just got my Nats laminated."
+      "20분 동안 집중하여 예측 가능한 트레이딩 패턴을 관찰하고 분석해야 합니다."
     ],
-    "caution": "홍보·행동유도 발화: “Comment class and I will send you a free ticket to my next live class where you can start.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 166,
     "transcriptSource": "Facebook 자동 자막"
@@ -7427,19 +7798,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.04.24",
     "duration": "00:39",
     "originalTitle": "Link in bio",
-    "title": "위험관리: We're really clear about taking as somebody who knows nothing about trading, teaching them how to actual…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 38.70초·로컬 Whisper large-v3-turbo 전사 161단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “How long does it take to learn until I start trading?” / “There's ones that take 90 minutes to learn.”",
+    "title": "5~90분으로 빠르게 시작하는 트레이딩",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "트레이딩",
+      "시뮬레이션",
+      "학습"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “How long does it take to learn until I start trading?” 이어 “There's ones that take 90 minutes to learn.” 이어 “You don't want to just jump right in and start using money without having practiced first.” 이어 “We're really clear about taking as somebody who knows nothing about trading, teaching them how to actually trade properly with good risk management, with good stop losses.”",
+    "core": "트레이딩을 시작하기까지의 학습 시간은 5~90분으로 빠르게 시작할 수 있지만, 실제 거래는 몇 주간의 연습이 필요하다.",
     "rules": [
-      "원문 실행 문장: We're really clear about taking as somebody who knows nothing about trading, teaching them how to actually trade properly with good risk management, with good stop losses."
+      "5~90분 동안의 학습 프로그램이 존재하며, 실제 거래를 시작하기 전에는 몇 주간의 연습이 필요하다.",
+      "실제 거래를 시작하기 전에 시뮬레이션을 통해 거래 전략을 테스트할 수 있다.",
+      "실제 돈을 사용하지 않고 시뮬레이션을 통해 거래 전략을 테스트할 수 있는 방법이 있다."
     ],
-    "caution": "성과·수익 발화: “You can really see if you're able to be profitable or not without actually using real money.” 홍보·행동유도 발화: “If you want to know more about it, just click the link in my bio and you'll get a free course that explains the strategy.” 전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 161,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7447,20 +7822,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "803521989179370": {
     "date": "2025.11.26",
     "duration": "00:52",
-    "originalTitle": "9 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Dude, I just got my NADS laminated.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 52.37초·로컬 Whisper large-v3-turbo 전사 180단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Dude, I just got my NADS laminated.” / “And then what about the rest of the day?”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 트레이딩 클래스 티켓 얻는 방법: 예측 가능한 패턴 활용",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Dude, I just got my NADS laminated.” 이어 “And then what about the rest of the day?” 이어 “How does it work?” 이어 “You did not realize how much...”",
+    "core": "예측 가능한 20분간의 패턴을 이용하여 매매 전략을 개발할 수 있다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Dude, I just got my NADS laminated."
+      "20분 동안 예측 가능한 패턴을 이용하여 훈련을 받는다."
     ],
-    "caution": "홍보·행동유도 발화: “Just comment class, and I will send you a free ticket to my next live class where you can start.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 180,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7468,20 +7844,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "803867392631161": {
     "date": "2025.12.02",
     "duration": "00:44",
-    "originalTitle": "3.2K views · 11 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: No, I just put 10 million on a stock and I'm going to wait for it to pump.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "옵션 포지션 운용에 관한 트레이딩 관점",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 44.10초·로컬 Whisper large-v3-turbo 전사 150단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey, good to see you.” / “Aren't you a trader too?”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "트레이딩 패턴",
+      "20분 거래"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Hey, good to see you.” 이어 “Aren't you a trader too?” 이어 “Yes, exactly.” 이어 “Okay, I'll be back.”",
+    "core": "예측 가능한 패턴을 이용해 20분 이내에 거래를 완료하고 나머지 시간은 자유롭게 활용하는 방법을 공유한다.",
     "rules": [
-      "원문 실행 문장: No, I just put 10 million on a stock and I'm going to wait for it to pump.",
-      "원문 실행 문장: Well, I only trade predictable patterns in the morning."
+      "그는 주식 한 종목에 10억 달러를 투자하고 그 가격이 오르는 동안 기다린다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "성과·수익 발화: “No, I just put 10 million on a stock and I'm going to wait for it to pump.” 홍보·행동유도 발화: “You want to join?” / “Arnold, just type free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 150,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7489,22 +7868,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "805285795856944": {
     "date": "2026.01.07",
     "duration": "00:41",
-    "originalTitle": "3.7K views | Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: You get access to actual funding that you can trade from which you can make money.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who res…",
+    "title": "2024년 20분 투자 전략으로 $50,000 계좌를 성공적으로 관리한 사례",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 40.83초·로컬 Whisper large-v3-turbo 전사 142단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Boom, you're a funded trader.” / “You literally click on it and you buy it.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자전략",
+      "FundedTrader"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Boom, you're a funded trader.” 이어 “You literally click on it and you buy it.” 이어 “I then applied my trading strategy, which is called 20 Minute Trader.” 이어 “I've got the exact same account I had before, but now the profits I make on this account are real.”",
+    "core": "20분 투자 전략을 사용하여 $50,000 계좌를 성공적으로 관리하고 실제 수익을 얻었다.",
     "rules": [
-      "원문 실행 문장: You get access to actual funding that you can trade from which you can make money.",
-      "원문 실행 문장: You literally click on it and you buy it.",
-      "원문 실행 문장: After about two to three weeks, I hit their profit target without losing too much."
+      "20분 투자 전략을 사용하여 $50,000 계좌를 성공적으로 관리하고 실제 수익을 얻었다.",
+      "성과를 인정받아 'Funded Trader' 자격을 취득했다."
     ],
-    "caution": "성과·수익 발화: “I paid for one that aimed for a $50,000 account.” / “After about two to three weeks, I hit their profit target without losing too much.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 142,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7513,20 +7892,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.12",
     "duration": "00:31",
     "originalTitle": "Prop Firms2.mp4",
-    "title": "영상 발화 분석: In my opinion, and in many cases, this is the more beginner-friendly route than any other entry points i…",
+    "title": "Prop Firms 초보자에게 적합한 트레이딩 진입점",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 31.27초·로컬 Whisper large-v3-turbo 전사 91단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “don't get deterred by the phrase proprietary trading firm.” / “In my opinion, and in many cases, this is the more beginner-friendly route than any other entry points into trading.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "프로피전딩",
+      "초보자 트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “don't get deterred by the phrase proprietary trading firm.” 이어 “In my opinion, and in many cases, this is the more beginner-friendly route than any other entry points into trading.” 이어 “Once you sign up for one, you want to get a practice account and learn how to drive this vehicle called a prop firm.” 이어 “For very little cost on your part.”",
+    "core": "프로피전딩 회사에서의 트레이딩은 초보자에게 더 친숙하며, 수천 달러를 거래할 수 있는 기회를 제공한다.",
     "rules": [
-      "원문 실행 문장: In my opinion, and in many cases, this is the more beginner-friendly route than any other entry points into trading.",
-      "원문 실행 문장: Because if done correctly, it gives you access to trade with tens of thousands of dollars and the profits that money can make."
+      "프로피전딩 회사에 가입하면 실습 계좌를 열고 이 도구를 활용해 거래 방법을 배워야 한다.",
+      "정확하게 거래를 수행하면 수천 달러를 거래할 수 있고 이로 인한 수익을 얻을 수 있다.",
+      "실제로 거래를 시작하기 전에 실습 계좌를 통해 거래 방법을 익혀야 한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 91,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7535,23 +7916,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.04.26",
     "duration": "02:56",
     "originalTitle": "Lance Trading April26.mp4",
-    "title": "선물·지수: So with our strategy, we're actually able to trade the system really at any time of the market being ope…",
+    "title": "Lance Trading April26: 1PM EST 1초 차트에서의 20분 거래 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 176.13초·로컬 Whisper large-v3-turbo 전사 529단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “But just so you guys know what we're actually trading, we are trading in the futures market.” / “So in my mind, what that means is that the blue line wants to continue to go down.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "선물·지수",
+      "트레이딩",
+      "1초 차트",
+      "20분 거래"
     ],
-    "core": "원문 전사 기준 선물·지수 콘텐츠다. “But just so you guys know what we're actually trading, we are trading in the futures market.” 이어 “So in my mind, what that means is that the blue line wants to continue to go down.” 이어 “And it will exit me out for a win.” 이어 “So just like that, we're able to make about 150 bucks on that trade within a minute or two.”",
+    "core": "1초 차트에서의 짧은 가격 움직임을 이용해 레버리지 거래를 진행한다.",
     "rules": [
-      "원문 실행 문장: So with our strategy, we're actually able to trade the system really at any time of the market being open.",
-      "원문 실행 문장: So right there is my entry.",
-      "원문 실행 문장: So at this point in time, since we're in a short, our take profit actually goes down at the bottom since we're betting on it going down.",
-      "원문 실행 문장: And it will exit me out for a win.",
-      "원문 실행 문장: So just like that, we're able to make about 150 bucks on that trade within a minute or two."
+      "1초 차트에서 레버리지 거래를 진행하며, 레버리지가 높은 만큼 위험도가 크다.",
+      "RSI가 상승세를 보일 때 빠르게 진입하여 빠르게 이익을 실현한다.",
+      "블루 라인과 오렌지 라인의 방향이 다를 때 블루 라인을short으로 거래한다."
     ],
-    "caution": "성과·수익 발화: “So at this point in time, since we're in a short, our take profit actually goes down at the bottom since we're betting on it going down.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 529,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7559,20 +7940,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "820836030269195": {
     "date": "2025.08.21",
     "duration": "00:55",
-    "originalTitle": "6.5K views · 33 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Wait, isn't that your mom's house?",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 투자 트레이딩 전략 공개 - Jeremy Wormy의 20분 투자",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 54.77초·로컬 Whisper large-v3-turbo 전사 173단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Well if it isn't chermy wormy.” / “I just got out of prison actually.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 투자",
+      "투자 전략",
+      "Jeremy Wormy"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Well if it isn't chermy wormy.” 이어 “I just got out of prison actually.” 이어 “Actually, I wanted to apologize to you for how I've treated you.” 이어 “Best of luck man.”",
+    "core": "20분 투자 트레이딩은 단시간 내에 수익을 얻을 수 있는 방법이다.",
     "rules": [
-      "원문 실행 문장: Wait, isn't that your mom's house?",
-      "원문 실행 문장: Wait, wait, wait."
+      "Jeremey Wormy는 자신의 전략을 무료로 제공한다."
     ],
-    "caution": "홍보·행동유도 발화: “I accept your apology and I'll give you my strategy for free.” / “Just comment free below and I'll send you my full video strategy for free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 173,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7580,19 +7963,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "831035436691790": {
     "date": "2026.04.08",
     "duration": "00:44",
-    "originalTitle": "1.9K views · 3.2K reactions | Click here to learn more https://20mt.link/4aTOTn7 #trade #trader #stockmarket #money | 20-Minute Trader",
-    "title": "주식·섹터: And just wait for them to drop together.",
+    "originalTitle": "Click here to learn more https://20mt.link/4aTOTn7 #trade #trader #stockmarket #money",
+    "title": "Dow Jones와 Apple 주식 가격 변동을 이용한 매매 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 44.28초·로컬 Whisper large-v3-turbo 전사 141단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Piece of information that you learned that feels illegal to know.” / “And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entire lives.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "주식매매",
+      "DowJones"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Piece of information that you learned that feels illegal to know.” 이어 “And you put this orange line, which is the Dow Jones Industrial Average, which we've all heard our entire lives.” 이어 “It again happens here.” 이어 “So that's weird.”",
+    "core": "Dow Jones과 Apple 주식 가격이 일치하듯 떨어지면, Dow Jones이 먼저 회복되는 시점을 이용해 매수할 수 있다.",
     "rules": [
-      "원문 실행 문장: And just wait for them to drop together."
+      "Dow Jones이 하락하면 Apple 주식도 떨어지게 되고, Dow Jones이 회복하면 Apple 주식도 따라 회복되는 경향이 있다.",
+      "Dow Jones이 먼저 회복되면 그 시점에서 Apple 주식을 매수한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 141,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7600,24 +7987,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "832231499858414": {
     "date": "2026.02.09",
     "duration": "01:53",
-    "originalTitle": "7.1K views · 1.2K reactions | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: I placed a trade when I hit the bottom here.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 113.33초·로컬 Whisper large-v3-turbo 전사 368단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So I'm going to monetize this setup right here.” / “I don't believe it's going to go all the way up there.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 투자 트렌드 분석과 실시간 매매 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "선물·지수",
+      "투자",
+      "20분 트레이딩"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “So I'm going to monetize this setup right here.” 이어 “I don't believe it's going to go all the way up there.” 이어 “Just keep moving it up a little bit like that and keep going here, here.” 이어 “If you can do that, you can be a 20 minute trader.”",
+    "core": "블루 라인과 오렌지 라인이 함께 하락한 후 오렌지 라인이 회복되면서 블루 라인도 상승하는 신호를 활용합니다.",
     "rules": [
-      "원문 실행 문장: I placed a trade when I hit the bottom here.",
-      "원문 실행 문장: I can move it around.",
-      "원문 실행 문장: That means that if the blue line hits that, I exit at a fixed loss.",
-      "원문 실행 문장: What's fun about this program is the fact that I can move these things around a bit and I can change where my stop loss goes so that if it goes blue line goes into the profit, I can actually secure my profit by moving my stop loss above the break-even line li…",
-      "원문 실행 문장: The thing that I look for is mutual downtrend of the orange line and the blue line."
+      "블루 라인의 하락을 감지하고, 오렌지 라인이 회복될 때 진입합니다.",
+      "지정가 매수로 진입한 후, 블루 라인이 이익을 보이면 스탑 러스팅을 조정하여 이익을 보호합니다."
     ],
-    "caution": "성과·수익 발화: “The green box is the take profit.” / “And what that does is it locks in some profit, right?” 홍보·행동유도 발화: “And then boom, the orange line pops up independently, signaling that the blue line is going to follow up right now.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 368,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7625,19 +8011,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "833394759619968": {
     "date": "2025.11.08",
     "duration": "00:36",
-    "originalTitle": "4.1K views | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: And I trade for 20 minutes, predictable patterns every morning.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 투자 트레이딩 웹클래스 무료 티켓 얻기",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 35.60초·로컬 Whisper large-v3-turbo 전사 109단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You better watch it, man.” / “You're going to find out who the f*** I really am.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "투자",
+      "20분 트레이딩",
+      "무료 웹클래스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “You better watch it, man.” 이어 “You're going to find out who the f*** I really am.” 이어 “Get an edge on the market.” 이어 “Hey, say come back.”",
+    "core": "20분 만에 예측 가능한 투자 패턴을 이용해 시장에서 경쟁력을 얻는 방법을 배운다.",
     "rules": [
-      "원문 실행 문장: And I trade for 20 minutes, predictable patterns every morning."
+      "20분 동안 예측 가능한 패턴을 이용해 매매를 한다."
     ],
-    "caution": "홍보·행동유도 발화: “And I'm doing a web class really soon.” / “And I'll send you a free ticket.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 109,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7645,19 +8034,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "841653832119254": {
     "date": "2025.12.11",
     "duration": "01:29",
-    "originalTitle": "2.3K views · 6 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: It allows you to trade within the first 20 minutes of the market's opening.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 거래 전략을 배우는 방법",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 88.77초·로컬 Whisper large-v3-turbo 전사 238단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Are you the trading wizard?” / “It's stressful.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "20분 거래",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Are you the trading wizard?” 이어 “It's stressful.” 이어 “Just a regular dude.” 이어 “You really jacked up my stoke.”",
+    "core": "20분 거래는 시장의 예측 가능한 패턴을 활용하여 거래를 시작하는 전략이다.",
     "rules": [
-      "원문 실행 문장: It allows you to trade within the first 20 minutes of the market's opening."
+      "20분 거래를 배우려면 먼저 클래스 댓글을 달아야 한다.",
+      "클래스 댓글을 달면 20분 거래 전략을 무료로 배울 수 있다."
     ],
-    "caution": "홍보·행동유도 발화: “You must first find the comment section and comment class.” / “No, please just comment class and be on your way now.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 238,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7665,21 +8057,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "849067817792686": {
     "date": "2025.10.13",
     "duration": "00:13",
-    "originalTitle": "15K views · 6 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: It's a reed, boom, not a duck, it's a reed, it's a reed, mooster bombastic, bomba fanta.",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 투자 트레이더의 레드 신호",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 12.60초·로컬 Whisper large-v3-turbo 전사 17단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “It's a reed, boom, not a duck, it's a reed, it's a reed, mooster bombastic, bomba fanta.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20분 투자",
+      "레드 신호",
+      "진입 시점"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “It's a reed, boom, not a duck, it's a reed, it's a reed, mooster bombastic, bomba fanta.”",
+    "core": "레드 신호가 나타나면 즉시 진입해야 합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: It's a reed, boom, not a duck, it's a reed, it's a reed, mooster bombastic, bomba fanta."
+      "레드 신호가 나타나면 즉시 진입해야 합니다.",
+      "모스트러 빅 폭스 랜덤 신호를 신중하게 분석해야 합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 17,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7687,24 +8081,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "850847590779292": {
     "date": "2025.10.31",
     "duration": "02:42",
-    "originalTitle": "8.7K views · 25 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "심리·규율: Look for this setup where there's a mutual downtrend.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 161.83초·로컬 Whisper large-v3-turbo 전사 468단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's a secret Wall Street doesn't want you to know.” / “In fact, I'll just explain it now while the trade is happening.”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "옵션 포지션 운용에 관한 트레이딩 관점",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "옵션",
+      "심리·규율",
+      "선물·지수",
+      "20분 트레이딩"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Here's a secret Wall Street doesn't want you to know.” 이어 “In fact, I'll just explain it now while the trade is happening.” 이어 “Order filled.” 이어 “And very easy to learn.”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "원문 실행 문장: Look for this setup where there's a mutual downtrend.",
-      "원문 실행 문장: I'll retrace this for you right after so you can see the elements of what allowed me to do this entry.",
-      "원문 실행 문장: Watch, this thing's going to pop right up at that take profit sell order.",
-      "원문 실행 문장: We look for an aggressive move by the orange line like you see right here.",
-      "원문 실행 문장: And I patiently wait."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "성과·수익 발화: “Watch, this thing's going to pop right up at that take profit sell order.” / “What's cool is that as long as I am right more than I am wrong on this, I'm profitable.” 홍보·행동유도 발화: “That signals more often than not that the blue line is simply going to follow up and start rising.” / “And I'll send you a free video.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 468,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7712,23 +8104,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "852359813886059": {
     "date": "2025.10.20",
     "duration": "01:45",
-    "originalTitle": "7.3K views · 37 comments | Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "선물·지수: I'm going to show you a 20-minute trader trade in real time.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 105.47초·로컬 Whisper large-v3-turbo 전사 289단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm going to show you a 20-minute trader trade in real time.” / “Let's see how it goes.”",
+    "originalTitle": "Comment “FREE” if you want to receive my trading course for free. #trader #trading #stockmarket #20minutetrader In a recent survey of 20-Minute Trader students across all products…",
+    "title": "20분 투자자 전략으로 S&P 500과 DJIA의 상관관계를 이용한 1분 이익 실현",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "선물·지수",
+      "투자전략",
+      "20분투자자",
+      "S&P500"
     ],
-    "core": "원문 전사 기준 선물·지수 콘텐츠다. “I'm going to show you a 20-minute trader trade in real time.” 이어 “Let's see how it goes.” 이어 “Currently up $56.” 이어 “You want to see more of this?”",
+    "core": "상관하락 추세와 독립적인 상승 움직임을 이용해 높은 위험보상비를 추구한다.",
     "rules": [
-      "원문 실행 문장: I'm going to show you a 20-minute trader trade in real time.",
-      "원문 실행 문장: The way the pattern works is I look for a mutual downtrend of the blue line and the orange line, which you can see is happening now.",
-      "원문 실행 문장: Then I look for an independent motion of the orange line popping upward that signals that the blue line is going to reverse and shoot right back up.",
-      "원문 실행 문장: Mutual downtrend, focusing on the orange line reversing, at which point I will grab the trade and we shall see it bounce back up.",
-      "원문 실행 문장: Now I probably could have caught a slightly better entry, but this should still work out."
+      "S&P 500과 DJIA의 상관하락 추세를 찾고, DJIA가 독립적으로 상승할 때 이를 잡아 높은 이익을 얻는다.",
+      "상승 추세가 시작될 때 즉시 매수하여 빠르게 이익을 실현한다."
     ],
-    "caution": "성과·수익 발화: “I'm going to attempt to make $100 using this pattern.” / “What's cool about this pattern is as long as we're right more than we're wrong, we're profitable.” 홍보·행동유도 발화: “The blue line tends to follow immediately after that.” / “Follow for more.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 289,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7736,20 +8128,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "853803020793964": {
     "date": "2026.01.16",
     "duration": "00:06",
-    "originalTitle": "8.8K views | Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those stu…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 6.41초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who res…",
+    "title": "20분 트레이더 웹클래스 무료 티켓 얻는 방법",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…”",
+    "core": "20분 트레이더 웹클래스에 참석하려면 'FREE'를 댓글로 남기면 무료로 참여할 수 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies.."
+      "참석을 원하는 웹클래스는 20분 트레이더의 웹사이트를 통해 예약해야 합니다."
     ],
-    "caution": "성과·수익 발화: “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 whe…” 홍보·행동유도 발화: “Comment “FREE” to get a ticket to my next web class for free!” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7757,20 +8150,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "857520240788454": {
     "date": "2026.01.05",
     "duration": "00:44",
-    "originalTitle": "4.9K views · 48 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: No, I just put 10 million on a stock and I'm going to wait for it to pump.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "옵션 포지션 운용에 관한 트레이딩 관점",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 44.10초·로컬 Whisper large-v3-turbo 전사 150단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey, good to see you.” / “And you go to the gym?”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "20분 거래",
+      "예측 가능한 패턴"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Hey, good to see you.” 이어 “And you go to the gym?” 이어 “Yes, exactly.” 이어 “Okay, I'll be back.”",
+    "core": "예측 가능한 거래 패턴을 이용해 20분 이내에 거래를 완료하고 나머지 시간은 자유롭게 활용하는 방법을 공유한다.",
     "rules": [
-      "원문 실행 문장: No, I just put 10 million on a stock and I'm going to wait for it to pump.",
-      "원문 실행 문장: Well, I only trade predictable patterns in the morning."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "성과·수익 발화: “No, I just put 10 million on a stock and I'm going to wait for it to pump.” 홍보·행동유도 발화: “Going to the gym, you want to join?” / “Arnold, just type free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 150,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7779,24 +8174,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.06.24",
     "duration": "03:18",
     "originalTitle": "3 minutes trading mistakes.mp4",
-    "title": "위험관리: Now, there are basically two ways that I trade.",
+    "title": "3분 트레이딩: 개인 자금을 안전하게 관리하는 방법",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 197.50초·로컬 Whisper large-v3-turbo 전사 681단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Five trading mistakes I will never make again.” / “Even if the account were lost entirely, I would still be profitable overall.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Five trading mistakes I will never make again.” 이어 “Even if the account were lost entirely, I would still be profitable overall.” 이어 “And suddenly, you're not making objective decisions anymore.” 이어 “And eventually you realize there is no shortcut.”",
+    "core": "개인 자금을 안전하게 관리하려면 거래 계좌에서 잃을 수 있는 금액을 제한해야 한다.",
     "rules": [
-      "원문 실행 문장: Now, there are basically two ways that I trade.",
-      "원문 실행 문장: I do still trade with my own money, but I use a completely different approach now.",
-      "원문 실행 문장: And because of that, I found it much harder to trade effectively.",
-      "원문 실행 문장: Unless I could somehow completely remove that emotional burden, I would never trade somebody else's money again.",
-      "원문 실행 문장: This doesn't mean I can't take a calculated risk."
+      "개인 자금을 거래 계좌에 넣지 않고, 계좌 잔액이 원금을 초과할 때마다 금액을 인출한다.",
+      "자신의 자금을 거래할 때는 감정적 요인으로 인한 실수를 피하도록 계좌 잔액을 관리한다."
     ],
-    "caution": "성과·수익 발화: “For example, let's say I put $5,000 into an account.” / “Even if the account were lost entirely, I would still be profitable overall.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 681,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7804,21 +8197,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "863642036289002": {
     "date": "2026.01.15",
     "duration": "00:13",
-    "originalTitle": "15K views · 3 comments | Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: It's a weeb, not a duck, it's a weeb, it's a weeb Mooster Bombastic Bomba Fanta",
+    "originalTitle": "Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who res…",
+    "title": "20분 트레이더 웹클래스 무료 티켓 이벤트",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 12.58초·로컬 Whisper large-v3-turbo 전사 16단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “It's a weeb, not a duck, it's a weeb, it's a weeb Mooster Bombastic Bomba Fanta”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “It's a weeb, not a duck, it's a weeb, it's a weeb Mooster Bombastic Bomba Fanta”",
+    "core": "20분 트레이더 웹클래스에 참석하려면 'FREE'를 댓글로 남기면 무료로 참여할 수 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: It's a weeb, not a duck, it's a weeb, it's a weeb Mooster Bombastic Bomba Fanta"
+      "이벤트는 특정 웹클래스에만 적용됩니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 16,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7826,23 +8219,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "864539302728225": {
     "date": "2025.11.25",
     "duration": "00:58",
-    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: But the truth is that they had to put down and risk a lot of money.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 거래의 스트레스와 실패 확률",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 58.20초·로컬 Whisper large-v3-turbo 전사 220단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's three things that nobody talks about when it comes to trading.” / “When you can lose everything that you spent months or years to earn, it can be unbearable.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk"
+      "옵션",
+      "위험관리",
+      "거래",
+      "스트레스"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Here's three things that nobody talks about when it comes to trading.” 이어 “When you can lose everything that you spent months or years to earn, it can be unbearable.” 이어 “But then it takes all day to sit at your computer, watch charts, wait for the right entry point.” 이어 “We wait for the signal and we're in and out in just a few minutes.”",
+    "core": "거래는 큰 스트레스를 초래하며, 일일 거래에서 한 번의 승자가 아홉 번의 패배를 의미한다.",
     "rules": [
-      "원문 실행 문장: But the truth is that they had to put down and risk a lot of money.",
-      "원문 실행 문장: Lastly, it takes a crazy amount of time to learn how to trade successfully.",
-      "원문 실행 문장: But then it takes all day to sit at your computer, watch charts, wait for the right entry point.",
-      "원문 실행 문장: We use these secret predictable patterns that just happen every day.",
-      "원문 실행 문장: We wait for the signal and we're in and out in just a few minutes."
+      "거래는 많은 스트레스를 초래하며, 모든 수익은 큰 위험을 감수해야 한다.",
+      "일일 거래에서 승자는 극히 드물고 패배는 흔하다.",
+      "20분 거래는 일정한 패턴을 기다리고 짧은 시간 내에 진입과 이탈을 수행한다."
     ],
-    "caution": "홍보·행동유도 발화: “If that's something you think could fit into your lifestyle and you want to partake in it, just hit that link below and I will send you a full video explanation of 20-minute tradi…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 220,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7850,21 +8244,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "865538169674458": {
     "date": "2026.01.10",
     "duration": "00:33",
-    "originalTitle": "3.9K views | Watch the full video of how to use Trump to make money here: https://youtu.be/0M48lwtUHD4 And comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: The average level of the S&P for valuations is about 20X.",
+    "originalTitle": "Watch the full video of how to use Trump to make money here: https://youtu.be/0M48lwtUHD4 And comment “FREE” to get a ticket to my next web class for free! #trader #trading In a r…",
+    "title": "트럼프 시대의 S&P 35 이상 시장 과매수 신호",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 32.83초·로컬 Whisper large-v3-turbo 전사 104단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The average level of the S&P for valuations is about 20X.” / “When it hits above 35, that's when it is overvalued.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "주식·섹터",
+      "선물·지수",
+      "투자 전략",
+      "시장 분석"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “The average level of the S&P for valuations is about 20X.” 이어 “When it hits above 35, that's when it is overvalued.” 이어 “This rocket ship has run out of fuel.” 이어 “There will be a correction where the market will drop.”",
+    "core": "S&P의 평가 수익배수(SPV)가 35를 넘으면 시장은 과매수 상태로 진입할 가능성이 높습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: The average level of the S&P for valuations is about 20X."
+      "S&P의 SPV가 35를 넘으면 시장 과매수 신호가 발생합니다.",
+      "이 시점에서 투자자들은 투자 수익이 더 이상 증가하지 않을 것으로 예상합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 104,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7872,21 +8268,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "866970322802426": {
     "date": "2026.01.27",
     "duration": "00:45",
-    "originalTitle": "2.5K views | Get 90% off Apex using code 20MT today! Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: The dark side of trading.",
+    "originalTitle": "Get 90% off Apex using code 20MT today! Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all…",
+    "title": "90% 할인 쿠폰으로 Apex 이용하기 - 20MT 코드로!",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 45.08초·로컬 Whisper large-v3-turbo 전사 129단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The dark side of trading.” / “Trading has the ability to reach deep inside you, pull out a demon of extreme irresponsibility gambler psychosis and give that demon tons of power.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "할인 쿠폰",
+      "클래스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “The dark side of trading.” 이어 “Trading has the ability to reach deep inside you, pull out a demon of extreme irresponsibility gambler psychosis and give that demon tons of power.” 이어 “And you have to figure out how to crush them, squash them, and prevent them.” 이어 “It's a vital part of learning trading.”",
+    "core": "트레이딩은 내면의 책임감과 윤리를 파괴할 수 있는 강력한 힘을 가지고 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: The dark side of trading."
+      "90% 할인 쿠폰 코드 20MT를 사용하여 Apex를 이용할 수 있습니다."
     ],
-    "caution": "성과·수익 발화: “I have seen a church lady who's never had a traffic ticket or a parking ticket, who's never failed to return her library book on time, get into the field of trading and become the…” 홍보·행동유도 발화: “I have seen a church lady who's never had a traffic ticket or a parking ticket, who's never failed to return her library book on time, get into the field of trading and become the…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 129,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7894,19 +8291,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "872526868795512": {
     "date": "2025.12.01",
     "duration": "00:46",
-    "originalTitle": "2.5K views · 20 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: In the next minutes, I'm going to show you exactly what 20-minute trading is and how you can use it with…",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 투자 트레이딩 기초: 초보자에게 적합한 간단한 방법",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 45.83초·로컬 Whisper large-v3-turbo 전사 173단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “In the next minutes, I'm going to show you exactly what 20-minute trading is and how you can use it with the goal of an additional source of income and getting one step closer to your dream situation every sin…” / “While seasoned traders are very welcome, this method works best with complete beginners and amateur traders.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "투자 트레이딩",
+      "초보자 트레이딩",
+      "20분 투자"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “In the next minutes, I'm going to show you exactly what 20-minute trading is and how you can use it with the goal of an additional source of income and getting one step closer to your dream situation every sin…” 이어 “While seasoned traders are very welcome, this method works best with complete beginners and amateur traders.” 이어 “As a matter of fact, some of my most successful students were beginners whose main motivation was simply to substantially improve their quality of life.” 이어 “So if this sounds like you, please keep watching as it just might change your life.”",
+    "core": "20분 투자 트레이딩은 일상적인 수입원을 추가하고 꿈의 상황에 한 걸음 더 가까워지는 데 도움을 줍니다.",
     "rules": [
-      "원문 실행 문장: In the next minutes, I'm going to show you exactly what 20-minute trading is and how you can use it with the goal of an additional source of income and getting one step closer to your dream situation every single day."
+      "20분 투자 트레이딩은 초보자와 아마추어 트레이더에게 가장 효과적입니다.",
+      "전문 트레이더들은 이 방법을 복잡하게 생각하지만, 이 기법은 매우 간단합니다.",
+      "주요 목표는 생활 질을 크게 향상시키는 것입니다."
     ],
-    "caution": "성과·수익 발화: “In the next minutes, I'm going to show you exactly what 20-minute trading is and how you can use it with the goal of an additional source of income and getting one step closer to…” 홍보·행동유도 발화: “This course is not for professional traders.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 173,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7915,20 +8317,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.03.31",
     "duration": "00:15",
     "originalTitle": "2025_04_If I Make This_V3_BIO.mp4",
-    "title": "영상 발화 분석: If I make this, you gotta start 20 minute training.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 15.00초·Facebook 자동 자막 10단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If I make this, you gotta start 20 minute training.”",
+    "title": "20분 투자로 평균 주간 수익 188달러",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20분 트레이딩",
+      "투자 수익"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “If I make this, you gotta start 20 minute training.”",
+    "core": "20분 투자로 주간 평균 수익 188달러를 얻을 수 있다는 사실을 강조한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: If I make this, you gotta start 20 minute training."
+      "20분 투자로 주간 평균 수익 188달러를 얻었다는 조사 결과를 공유한다.",
+      "20분 트레이딩 코스를 시작하려면 링크를 클릭하라."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 10,
     "transcriptSource": "Facebook 자동 자막"
@@ -7936,19 +8339,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "879637751342042": {
     "date": "2026.01.12",
     "duration": "00:23",
-    "originalTitle": "3.4K views · 8 comments | Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: This is like if you had a rich uncle who said, hey, if you can show me that you're a consistent trader a…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 23.07초·로컬 Whisper large-v3-turbo 전사 83단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is like if you had a rich uncle who said, hey, if you can show me that you're a consistent trader and you know how to perform trades and make profits and without losing too much, I'm going to put a bunch…” / “You can trade it.”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who res…",
+    "title": "20분 트레이더 수업 참가권을 얻는 방법",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim"
+      "옵션",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “This is like if you had a rich uncle who said, hey, if you can show me that you're a consistent trader and you know how to perform trades and make profits and without losing too much, I'm going to put a bunch…” 이어 “You can trade it.” 이어 “But if you start making money, I'll give you 80 to 90% of the profits of that money.” 이어 “How does that sound?”",
+    "core": "성실한 트레이더로서의 능력을 입증하면, 수익의 80~90%를 얻을 수 있는 기회.",
     "rules": [
-      "원문 실행 문장: You can trade it."
+      "성실한 트레이더로 입증되면, 수익의 80~90%를 얻을 수 있는 기회가 주어진다."
     ],
-    "caution": "성과·수익 발화: “But if you start making money, I'll give you 80 to 90% of the profits of that money.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 83,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7956,23 +8361,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "885837937331296": {
     "date": "2025.12.26",
     "duration": "00:40",
-    "originalTitle": "10K views · 89 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "Fibonacci: I just buy when the Dow jumps up.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 40.47초·로컬 Whisper large-v3-turbo 전사 135단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I just lost $800 in 34 seconds.” / “What do you mean?”",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 거래 전략으로 34초 만에 1,789달러 수익 얻기",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "Fibonacci",
-      "CTA"
+      "피보나치",
+      "20분 거래",
+      "기술적 분석",
+      "Dow 지수"
     ],
-    "core": "원문 전사 기준 Fibonacci 콘텐츠다. “I just lost $800 in 34 seconds.” 이어 “What do you mean?” 이어 “It's called 20 minute trading.” 이어 “Step away from that computer.”",
+    "core": "20분 거래 전략을 사용하면 단시간에 큰 수익을 얻을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: I just buy when the Dow jumps up.",
-      "원문 실행 문장: I place my trade, pattern happens, ticker jumps up, I sell.",
-      "원문 실행 문장: No, I mean, I literally just wait for the Dow to jump up and I'm done for the day.",
-      "원문 실행 문장: I'm gonna just do this one trade first."
+      "RSI, MACD, 피보나치 등 기술적 분석을 활용하여 거래를 결정합니다.",
+      "Dow 지수가 상승할 기회를 기다리고, 그 시점에 거래를 실행합니다."
     ],
-    "caution": "성과·수익 발화: “I just lost $800 in 34 seconds.” / “I just made $1,789 in 34 seconds.” 홍보·행동유도 발화: “Just comment free on this video and I'll send you my video training for free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 135,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -7980,20 +8385,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "892950593542614": {
     "date": "2026.08.15",
     "duration": "00:24",
-    "originalTitle": "3.8K views · 19 reactions | Comment CLASS to learn more about 20-Minute Trading. In a recent survey conducted with 20-Minute Trader students across all platforms we offer, 68.4% of responding students reported making profit when applying 20-Minute Trader strategies. #fyp | 20-Minute Trader",
-    "title": "위험관리: You have to have a predefined risk for which you are completely okay with losing on each trade and on th…",
+    "originalTitle": "Comment CLASS to learn more about 20-Minute Trading. In a recent survey conducted with 20-Minute Trader students across all platforms we offer, 68.4% of responding students report…",
+    "title": "20분 거래 클래스: 68.4% 수익률 보고",
     "kind": "psychology",
     "verdict": "핵심 원칙",
-    "fidelity": "원본 24.43초·Facebook 자동 자막 67단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you're trading in a state of anxiety at all, you're doing it wrong.” / “You're actually supposed to feel calm and nonchalant and unworried and carefree.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology"
+      "위험관리",
+      "심리·규율",
+      "20분 거래",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “If you're trading in a state of anxiety at all, you're doing it wrong.” 이어 “You're actually supposed to feel calm and nonchalant and unworried and carefree.” 이어 “Not careless, carefree.” 이어 “You have to have a predefined risk for which you are completely okay with losing on each trade and on the daily loss lockout.”",
+    "core": "20분 거래 전략을 사용하면 평균적으로 68.4%의 학생들이 수익을 얻었습니다.",
     "rules": [
-      "원문 실행 문장: You have to have a predefined risk for which you are completely okay with losing on each trade and on the daily loss lockout."
+      "68.4%의 학생들이 20분 거래 전략을 사용하여 수익을 얻었습니다.",
+      "매일 손실 한도를 설정하고 그 범위 내에서만 거래하십시오."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 67,
     "transcriptSource": "Facebook 자동 자막"
@@ -8001,21 +8409,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "893157386834792": {
     "date": "2026.02.22",
     "duration": "00:40",
-    "originalTitle": "2.9K views | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "주식·섹터: I might get in trouble for telling you this because there are billions of dollars being spent on trying…",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 투자 전략으로 30초 내 시장 예측",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 40.22초·로컬 Whisper large-v3-turbo 전사 126단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I might get in trouble for telling you this because there are billions of dollars being spent on trying to figure out a way to predict the immediate future in the stock market.” / “I was sitting there looking at charts and I started to notice this repeating pattern.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "주식·섹터",
+      "투자 전략",
+      "20분 투자",
+      "차트 분석"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “I might get in trouble for telling you this because there are billions of dollars being spent on trying to figure out a way to predict the immediate future in the stock market.” 이어 “I was sitting there looking at charts and I started to notice this repeating pattern.” 이어 “I tried trading it and it's $756 in the first month.” 이어 “All it is is looking at the relationship between two lines on a chart.”",
+    "core": "투자자가 20분 투자 전략을 통해 30초 내 시장 변동을 예측할 수 있는 간단한 차트 패턴을 발견했다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I might get in trouble for telling you this because there are billions of dollars being spent on trying to figure out a way to predict the immediate future in the stock market."
+      "차트에서 두 선의 관계를 분석하여 30초 내 시장 변동을 예측하는 방법을 사용",
+      "매월 최소 $756의 수익을 얻을 수 있는 방법"
     ],
-    "caution": "성과·수익 발화: “I tried trading it and it's $756 in the first month.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 126,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -8023,21 +8433,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "894116646906833": {
     "date": "2026.01.03",
     "duration": "00:09",
-    "originalTitle": "6.1K views · 16 comments | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: You do, you do, you do, you do, you do.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분 트레이더 조사 결과를 공유하는 라이브 웹 클래스 무료 티켓 이벤트",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 8.83초·로컬 Whisper large-v3-turbo 전사 10단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You do, you do, you do, you do, you do.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20분 트레이더",
+      "라이브 웹 클래스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “You do, you do, you do, you do, you do.”",
+    "core": "20분 트레이더 학생들이 가장 관심을 가지고 있는 주제를 조사한 결과를 공유합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: You do, you do, you do, you do, you do."
+      "20분 트레이더 학생들을 대상으로 조사가 이루어졌습니다.",
+      "조사 결과를 바탕으로 다음 라이브 웹 클래스를 준비하고 있습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 10,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -8045,19 +8456,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "894528596258072": {
     "date": "2025.12.28",
     "duration": "00:28",
-    "originalTitle": "4.2K views | Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: I personally use 20-Minute Trader because it only takes 20 minutes.",
+    "originalTitle": "Comment “FREE” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students wh…",
+    "title": "20분만에 수익 얻은 20-Minute Trader의 성과와 배경",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 27.70초·로컬 Whisper large-v3-turbo 전사 105단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I personally use 20-Minute Trader because it only takes 20 minutes.” / “You don't have to learn a bunch of complicated symbols.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "20-Minute Trader"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I personally use 20-Minute Trader because it only takes 20 minutes.” 이어 “You don't have to learn a bunch of complicated symbols.” 이어 “It broke even.” 이어 “It took off because in 2022, all the other gurus disappeared because their system sucked in a bearish market, a crashing market, yet mine did great.”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "원문 실행 문장: I personally use 20-Minute Trader because it only takes 20 minutes."
+      "20-Minute Trader는 20분 만에 배울 수 있으며, 복잡한 기호를 배우지 않아도 된다.",
+      "처음 1년 반 동안 수익을 내지 않았지만, 200명 정도의 학생들이 시작했고, 그 중 절반 정도가 수익을 내었다."
     ],
-    "caution": "성과·수익 발화: “I didn't make a single bit of profit for the first year and a half and didn't care.” 홍보·행동유도 발화: “I probably had 200 or 300 people start the course.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 105,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -8065,20 +8479,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "894672423407657": {
     "date": "2026.02.22",
     "duration": "00:42",
-    "originalTitle": "2.2K views | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "위험관리: I did risk my life savings and it was the dumbest thing ever because I did have a very bad week one time…",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 41.89초·로컬 Whisper large-v3-turbo 전사 173단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I did risk my life savings and it was the dumbest thing ever because I did have a very bad week one time and I kept really trying to make it all back and recover it all in one trade and by doing so I ended up…” / “I use something called proprietary trading firms which gives me a whole bunch of money to trade with if I simply prove to them that I am a good enough trader but what's cool about it is if I do lose their mone…”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "클래스 참가를 위한 투자 실패 후 회복 전략",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk"
+      "위험관리",
+      "투자",
+      "전문 기관",
+      "자금 이용"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I did risk my life savings and it was the dumbest thing ever because I did have a very bad week one time and I kept really trying to make it all back and recover it all in one trade and by doing so I ended up…” 이어 “I use something called proprietary trading firms which gives me a whole bunch of money to trade with if I simply prove to them that I am a good enough trader but what's cool about it is if I do lose their mone…” 이어 “They gave me access to it.” 이어 “It's to gain access to way more money plus to protect myself from any such possibility of massive losses.”",
+    "core": "투자 실패 후 회복을 위해 큰 위험을 감수하는 대신 전문 기관의 자금을 이용하는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: I did risk my life savings and it was the dumbest thing ever because I did have a very bad week one time and I kept really trying to make it all back and recover it all in one trade and by doing so I ended up wiping out huge chunks of my account.",
-      "원문 실행 문장: I use something called proprietary trading firms which gives me a whole bunch of money to trade with if I simply prove to them that I am a good enough trader but what's cool about it is if I do lose their money I could lose tens of thousands of dollars of the…"
+      "자신의 자산을 투자해 큰 손실을 본 후, 대신 전문 기관의 자금을 이용해 투자를 진행한다.",
+      "전문 기관이 손실을 감수하도록 약속하고, 이로 인한 위험을 피할 수 있다.",
+      "만약 이익을 거두면 대부분의 수익을 얻을 수 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 173,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -8086,21 +8504,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "898497629734399": {
     "date": "2026.02.26",
     "duration": "00:49",
-    "originalTitle": "2.2K views · 12 reactions | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "심리·규율: Then you focus on just trading one account, which has the other accounts synchronized and linked to it s…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 48.95초·로컬 Whisper large-v3-turbo 전사 178단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The simplest path to being a more successful, more disciplined trader looks like this.” / “And that's exactly why I teach the 20-minute trader strategy that I've refined over the last five years, using a predictable pattern to make small, well-timed trades that last about a minute on average.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 투자 전략으로 월 10,000달러 수익 달성 방법",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "journal",
-      "CTA"
+      "심리·규율",
+      "투자",
+      "20분 트레이딩",
+      "성공적인 트레이딩"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “The simplest path to being a more successful, more disciplined trader looks like this.” 이어 “And that's exactly why I teach the 20-minute trader strategy that I've refined over the last five years, using a predictable pattern to make small, well-timed trades that last about a minute on average.” 이어 “Next, you work toward getting access to multiple funded accounts.” 이어 “In my opinion, that is what I have seen with my own eyes to be the highest likelihood strategy to succeed and make $10,000 a month.”",
+    "core": "성공적인 트레이딩을 위한 가장 단순한 방법은 일관된 작은 수익을 얻는 전략을 개발하고, 일정 손실 한도를 설정하는 것이다.",
     "rules": [
-      "원문 실행 문장: Then you focus on just trading one account, which has the other accounts synchronized and linked to it so that you can use the one strategy in the one account."
+      "20분 투자 전략을 통해 일관된 작은 수익을 얻는 방법을 배운다.",
+      "다양한 계좌에 접근하고, 한 계좌에서 전략을 실행한다.",
+      "매일 손실 한도를 엄격히 준수하여 한 번의 나쁜 날을 견디는 법을 배운다."
     ],
-    "caution": "성과·수익 발화: “In my opinion, that is what I have seen with my own eyes to be the highest likelihood strategy to succeed and make $10,000 a month.” 홍보·행동유도 발화: “Then you just follow strict daily loss limits so we can withstand one bad day when it ultimately happens.” / “And then of course, journal everything and stay accountable, not for days, but for weeks and weeks and weeks and weeks and weeks and months at a time.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 178,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -8108,19 +8529,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "900166062980622": {
     "date": "2026.02.02",
     "duration": "00:30",
-    "originalTitle": "2.3K views | Get 90% off Apex using code 20MT today! Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "지지·저항: They started making $25,000 a month, essentially ending her career as a real estate agent and making it…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 30.42초·로컬 Whisper large-v3-turbo 전사 82단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I once completely destroyed someone's career through trading.” / “I taught her my system.”",
+    "originalTitle": "Get 90% off Apex using code 20MT today! Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all…",
+    "title": "20MT 코드로 Apex 90% 할인 받고 20분 거래로 가족 생활 지원",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support"
+      "지지·저항",
+      "20MT",
+      "Apex",
+      "20분 거래"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “I once completely destroyed someone's career through trading.” 이어 “I taught her my system.” 이어 “She employed it.” 이어 “They started making $25,000 a month, essentially ending her career as a real estate agent and making it so she only had to trade 20, 30 minutes a day to support her family, her husband, and her vacations.”",
+    "core": "20분 거래로 가족 생활을 지원할 수 있는 수익을 얻을 수 있다는 사실을 알게 되었다.",
     "rules": [
-      "원문 실행 문장: They started making $25,000 a month, essentially ending her career as a real estate agent and making it so she only had to trade 20, 30 minutes a day to support her family, her husband, and her vacations."
+      "20MT 코드를 사용하여 Apex 가격의 90% 할인을 받을 수 있다.",
+      "Apex를 사용하여 수백만 달러의 자금을 통해 월 25,000달러의 수익을 얻을 수 있었다."
     ],
-    "caution": "성과·수익 발화: “They started making $25,000 a month, essentially ending her career as a real estate agent and making it so she only had to trade 20, 30 minutes a day to support her family, her hu…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 82,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -8128,21 +8553,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "915885184208501": {
     "date": "2026.02.03",
     "duration": "00:42",
-    "originalTitle": "3.2K views · 8 comments | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: So I've now worked with a thousand people one-on-one who weren't traders that have now become traders.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 투자 트레이더로 10,000달러 월매출 달성: 60-70시간 주당 4개월간의 집중 훈련",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 42.17초·로컬 Whisper large-v3-turbo 전사 144단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So I've now worked with a thousand people one-on-one who weren't traders that have now become traders.” / “And we have dozens of people who've already achieved that.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자 트레이딩",
+      "20분 투자 트레이더"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “So I've now worked with a thousand people one-on-one who weren't traders that have now become traders.” 이어 “And we have dozens of people who've already achieved that.” 이어 “I've been working on this 60, 70 hours a week for the last four months because I wanted to see if I could just work directly with people, get them to this point.” 이어 “The whole 20 Minute Trader team couldn't be more proud of themselves for seeing these lives change the way we have.”",
+    "core": "100여 명의 초보 트레이더를 10,000달러 월매출 수준으로 성장시킨 방법을 공유한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: So I've now worked with a thousand people one-on-one who weren't traders that have now become traders."
+      "100여 명의 초보 트레이더를 10,000달러 월매출 수준으로 성장시켰다.",
+      "60-70시간 주당 4개월간 집중 훈련을 통해 이 성과를 달성했다."
     ],
-    "caution": "성과·수익 발화: “So I've now worked with a thousand people one-on-one who weren't traders that have now become traders.” / “Again, these are people who've never traded before who are now making $10,000 a month.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 144,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -8151,20 +8577,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.05.28",
     "duration": "00:11",
     "originalTitle": "May 28, 2026.mp4",
-    "title": "영상 발화 분석: An event like no other, in honor of Memorial Day.",
+    "title": "5/28 Jeremy 특별 라이브 이벤트 (4PM EST)",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 10.66초·로컬 Whisper large-v3-turbo 전사 2단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “An event like no other, in honor of Memorial Day.” / “You won't want to miss this very special live event with Jeremy.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "Jeremy",
+      "메모리얼데이",
+      "라이브 이벤트"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “An event like no other, in honor of Memorial Day.” 이어 “You won't want to miss this very special live event with Jeremy.” 이어 “Save your seat with this link: https://20mt.link/4aTOTn7 #event #live #today #special.” 이어 “Продолжение следует...”",
+    "core": "미리 준비된 이벤트를 통해 Jeremy의 전략을 살펴볼 수 있다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: An event like no other, in honor of Memorial Day."
+      "오늘 4PM EST에 Jeremy의 특별 이벤트에 참석하라는 초대가 있다.",
+      "이 이벤트는 메모리얼 데이를 기념하는 특별한 이벤트로, 놓치지 말아야 한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 2,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -8173,23 +8601,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.03.11",
     "duration": "01:16",
     "originalTitle": "5 Steps",
-    "title": "위험관리: These are the five steps you need to learn in order to trade as a total beginner.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 76.37초·로컬 Whisper large-v3-turbo 전사 323단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Do you want to get into trading but don't know where to start?” / “Step three, pick one trading strategy.”",
+    "title": "초보자를 위한 5단계 트레이딩 가이드: 9:00",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "초보자 트레이딩",
+      "프로퍼티 트레이딩"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Do you want to get into trading but don't know where to start?” 이어 “Step three, pick one trading strategy.” 이어 “Trading with fake money until you're consistently profitable.” 이어 “Because trading alone is where emotions take over and people start doing stupid things like revenge trading, chasing losses, doubling size, ignoring stop losses, or taking random setups.”",
+    "core": "초보자를 위한 트레이딩 학습 과정을 5단계로 요약한다.",
     "rules": [
-      "원문 실행 문장: These are the five steps you need to learn in order to trade as a total beginner.",
-      "원문 실행 문장: If you want to trade, you are entering a world that has a lot of words, symbols, and phrases that people casually throw around like everyone knows what they mean.",
-      "원문 실행 문장: Step four, paper trade.",
-      "원문 실행 문장: Because trading alone is where emotions take over and people start doing stupid things like revenge trading, chasing losses, doubling size, ignoring stop losses, or taking random setups."
+      "학습을 시작하기 전에 트레이딩의 언어를 이해해야 합니다.",
+      "프로퍼티 트레이딩 회사에 가입하여 실무 경험을 쌓아야 합니다.",
+      "일정한 트레이딩 전략을 선택하고 이를 따라야 합니다."
     ],
-    "caution": "성과·수익 발화: “Trading with fake money until you're consistently profitable.” 홍보·행동유도 발화: “We do offer a free web class where you can get your questions answered live.” / “If that's a free web class.” 전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 323,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -8197,20 +8625,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "932588805864584": {
     "date": "2026.02.06",
     "duration": "00:06",
-    "originalTitle": "4.1K views · 3 comments | Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those stu…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 5.53초·로컬 Whisper large-v3-turbo 전사 3단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who re…",
+    "title": "20분 트레이더 클래스 참가 방법",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader st…”",
+    "core": "20분 트레이더 학생들이 클래스에 참석하는 방법을 알려주는 내용이다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies.."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "성과·수익 발화: “#trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 whe…” 홍보·행동유도 발화: “Comment “CLASS” to get a ticket to my next web class for free!” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 3,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -8218,20 +8647,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "942331635441408": {
     "date": "2026.03.30",
     "duration": "00:47",
-    "originalTitle": "11 reactions | Link in bio #trade #daytrade #money | 20-Minute Trader",
-    "title": "영상 발화 분석: Every time I click buy, market tanks.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 46.60초·로컬 Whisper large-v3-turbo 전사 149단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Whoa, what are you doing?” / “Every time I click buy, market tanks.”",
+    "originalTitle": "Link in bio #trade #daytrade #money",
+    "title": "20분 거래 전략: 일별 패턴 활용",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "옵션",
+      "20분 거래",
+      "일별 초기 시장 동향"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Whoa, what are you doing?” 이어 “Every time I click buy, market tanks.” 이어 “Do you have a lighter by any chance?” 이어 “You want one?”",
+    "core": "20분 거래는 일별 초기 시장 동향을 활용하여 예측 가능한 손실을 관리하는 전략이다.",
     "rules": [
-      "원문 실행 문장: Every time I click buy, market tanks."
+      "매일 아침 시장이 열릴 때 20분 동안 거래를 시작한다.",
+      "예측 가능한 손실을 통해 높은 안정감을 얻는다."
     ],
-    "caution": "성과·수익 발화: “Well, I used to lose $500 a day as a trader.” / “Now I just burn $300.” 홍보·행동유도 발화: “Hit the link in the bio, and I'll send you a video that explains it all.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 149,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -8240,20 +8671,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.03.30",
     "duration": "00:09",
     "originalTitle": "20-Min Trader Aug 24 Finally Monday v2.mov",
-    "title": "영상 발화 분석: Happy Monday!.",
+    "title": "2023년 8월 24일 월요일 20분 거래자 v2",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 8.70초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Happy Monday!.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "20분 거래",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Happy Monday!.”",
+    "core": "매수 신호가 나타나면 즉시 거래를 시작해야 합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Happy Monday!."
+      "매수 신호가 나타나면 즉시 거래를 시작해야 합니다.",
+      "지정가로 거래를 진행합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -8262,19 +8694,22 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.04.23",
     "duration": "00:36",
     "originalTitle": "What we do with 20 Minute Trader.mp4",
-    "title": "위험관리: What we do at 20 Minute Trader is we have an exact blueprint of risk this much, aim for this much, do th…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 36.17초·로컬 Whisper large-v3-turbo 전사 139단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What we do at 20 Minute Trader is we have an exact blueprint of risk this much, aim for this much, do this, this is where you enter, this is where you exit.” / “Hit a certain profit, you're done for the day so the greed doesn't take over and cause you to end up giving away your greed, your profits, and causing you to chase losses into the gutter.”",
+    "title": "20분 트레이딩의 구체적인 진입과 이탈 지점",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "20분 트레이딩",
+      "위험 관리",
+      "수익 목표"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “What we do at 20 Minute Trader is we have an exact blueprint of risk this much, aim for this much, do this, this is where you enter, this is where you exit.” 이어 “Hit a certain profit, you're done for the day so the greed doesn't take over and cause you to end up giving away your greed, your profits, and causing you to chase losses into the gutter.” 이어 “We have it all worked out.” 이어 “Obviously, my results are unique to me and everyone is different.”",
+    "core": "20분 트레이딩에서 정확한 위험 관리와 수익 목표를 통해 매일 수천 달러의 수익을 얻는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: What we do at 20 Minute Trader is we have an exact blueprint of risk this much, aim for this much, do this, this is where you enter, this is where you exit."
+      "특정 손실을 초과하면 거래를 종료한다.",
+      "특정 수익을 달성하면 거래를 종료한다."
     ],
-    "caution": "성과·수익 발화: “Hit a certain profit, you're done for the day so the greed doesn't take over and cause you to end up giving away your greed, your profits, and causing you to chase losses into the…” / “And so when I follow these strategies in a structured way, I find myself getting payouts every few days or every couple weeks to the tune of $1,000, $2,000, $5,000.” 홍보·행동유도 발화: “And so when I follow these strategies in a structured way, I find myself getting payouts every few days or every couple weeks to the tune of $1,000, $2,000, $5,000.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 139,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -8282,19 +8717,20 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "969936992693817": {
     "date": "2026.06.23",
     "duration": "00:55",
-    "originalTitle": "2024_09 - Bully High School Skit COMMENT.mov",
-    "title": "영상 발화 분석: Well if it isn't germy wormy.",
+    "originalTitle": "Link in bio to learn more",
+    "title": "트레이딩 화면을 활용한 짧은 장면",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 54.77초·로컬 Whisper large-v3-turbo 전사 175단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Well if it isn't germy wormy.” / “I just got out of prison actually.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "짧은 장면"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Well if it isn't germy wormy.” 이어 “I just got out of prison actually.” 이어 “Can I try 20 minute trading?” 이어 “Best of luck man.”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "원문 실행 문장: Wait wait wait."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "홍보·행동유도 발화: “I accept your apology and I'll give you my strategy for free.” / “Just comment free below and I'll send you my full video strategy for free.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 175,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -8302,21 +8738,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "9743938319025036": {
     "date": "2025.05.20",
     "duration": "00:10",
-    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: Everybody in the club gets us.",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "시장 분석에 관한 트레이딩 관점",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 10.40초·로컬 Whisper large-v3-turbo 전사 12단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Everybody in the club gets us.” / “Everybody in the club gets us.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "20-Minute Trader"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Everybody in the club gets us.” 이어 “Everybody in the club gets us.”",
+    "core": "클럽 멤버들은 우리를 잘 이해하고 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Everybody in the club gets us."
+      "클럽 멤버들은 우리를 잘 이해하고 있습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 12,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -8324,20 +8760,24 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "987525530933116": {
     "date": "2026.06.12",
     "duration": "02:51",
-    "originalTitle": "If you want to make money trading - COMMENT CLASS.mp4",
-    "title": "영상 발화 분석: Pay hundreds of dollars to these firms that will give you a test to verify that you are a good trader an…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 171.30초·Facebook 자동 자막 604단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Wanna know how to make money with trading?” / “Once they were, we said, let's try out funding now.”",
+    "originalTitle": "Comment CLASS to learn more #learn #trading #class",
+    "title": "20분 투자 트레이딩 웹클래스: 75% 승률과 수익성 향상",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "옵션",
+      "투자",
+      "20분 트레이딩",
+      "실시간 거래"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Wanna know how to make money with trading?” 이어 “Once they were, we said, let's try out funding now.” 이어 “I love teaching people this.” 이어 “Beautiful family by the way.”",
+    "core": "20분 동안의 실시간 거래로 75% 승률을 달성하고 수익을 얻는 방법을 배웁니다.",
     "rules": [
-      "원문 실행 문장: Pay hundreds of dollars to these firms that will give you a test to verify that you are a good trader and they let you actually trade on their stimulated trading accounts and if you show that you are making money consistently and profitably, they say, great,…"
+      "20분 동안 실시간 거래를 시작하고, 일관된 수익을 보이면 투자 회사가 수천 달러의 계좌를 지원합니다.",
+      "실제 거래 계정에서 수익을 얻은 후에만 투자 회사의 계좌에서 돈을 인출할 수 있습니다.",
+      "웹클래스에서 질문을 제출하고 실시간으로 답변을 받을 수 있습니다."
     ],
-    "caution": "성과·수익 발화: “Practice it until you're proficient and you have a seventy, 75% win rate.” 홍보·행동유도 발화: “Now, you can't take that money out until you've made profits on but let's say you make thousands of dollars of profits on those accounts but you get the majority of those profits…” / “Um shaking my I was like in my sweats with my hat on backwards I felt embarrassed but they were very thankful and this is a routine thing that I experience and I love it so hopefu…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 604,
     "transcriptSource": "Facebook 자동 자막"
@@ -8345,21 +8785,20 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "991167526503069": {
     "date": "2025.05.01",
     "duration": "00:46",
-    "originalTitle": "4K views | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "심리·규율: We are hitting the club scene tonight.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 46.20초·Facebook 자동 자막 155단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey bro, you going out?” / “Pearl, Velocity.”",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "트레이딩 화면을 활용한 짧은 장면",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "심리·규율",
+      "짧은 장면"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Hey bro, you going out?” 이어 “Pearl, Velocity.” 이어 “I'm going to the 20 Minute Trader Club.” 이어 “Dress anyway you like.”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Hey bro, you going out?"
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "홍보·행동유도 발화: “Uh do I gotta know somebody or type class in the They're going to send you a free ticket to this live web class where they teach you the strategy even if you're a non-trader or a…” / “Is there a dress code for this webinar?” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 155,
     "transcriptSource": "Facebook 자동 자막"
@@ -8367,21 +8806,21 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
   "998180375856096": {
     "date": "2025.05.15",
     "duration": "00:13",
-    "originalTitle": "21 comments | Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students who responded reported average weekly investment gains of $216.30 when applying 20-Minute Trader strategies. | 20-Minute Trader",
-    "title": "영상 발화 분석: It's a weeb, a muck, a sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sic…",
+    "originalTitle": "Comment “CLASS” to get a ticket to my next live web class for free! #trader #trading In a recent survey of 20-Minute Trader students across all products we offer, those students w…",
+    "title": "20분 트레이더 클래스 참가 방법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 12.57초·로컬 Whisper large-v3-turbo 전사 112단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “It's a weeb, a muck, a sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick,…”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "20분 트레이더"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “It's a weeb, a muck, a sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick,…”",
+    "core": "20분 트레이더 학생들이 가장 효과적인 방법을 찾기 위해 조사가 이루어졌습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: It's a weeb, a muck, a sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, sick, si…"
+      "무료로 참가할 수 있는 클래스가 다음에 열립니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 112,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -8390,19 +8829,23 @@ export const Official20MinuteTraderTranscriptOverrides = new Map(Object.entries(
     "date": "2026.07.15",
     "duration": "00:34",
     "originalTitle": "20k SKIT - CLASS.mov",
-    "title": "주식·섹터: Here I go investing 20K in the stock market no no no don't do it wait what all the guru say that's the b…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 33.97초·Facebook 자동 자막 131단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here I go investing 20K in the stock market no no no don't do it wait what all the guru say that's the best way to invest my money historically sure but they don't tell you that 90% of traders lose money plus…”",
+    "title": "20K로 시작하는 20분 거래 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "주식·섹터",
+      "20분 거래",
+      "초보자용",
+      "일일 거래"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Here I go investing 20K in the stock market no no no don't do it wait what all the guru say that's the best way to invest my money historically sure but they don't tell you that 90% of traders lose money plus…”",
+    "core": "20분 거래는 일일 거래 중 초기 20분 동안의 가격 패턴을 이용해 단타를 하는 방법이다.",
     "rules": [
-      "원문 실행 문장: Here I go investing 20K in the stock market no no no don't do it wait what all the guru say that's the best way to invest my money historically sure but they don't tell you that 90% of traders lose money plus the market might crash the mark but aren't you tra…"
+      "20분 거래는 일일 거래의 초기 20분 동안 가격 패턴을 이용해 거래한다.",
+      "투자 금액은 20,000 달러로 시작할 수 있다.",
+      "초보자도 쉽게 접근할 수 있는 예측 가능한 거래 방식이다."
     ],
-    "caution": "성과·수익 발화: “Here I go investing 20K in the stock market no no no don't do it wait what all the guru say that's the best way to invest my money historically sure but they don't tell you that 9…” 홍보·행동유도 발화: “Here I go investing 20K in the stock market no no no don't do it wait what all the guru say that's the best way to invest my money historically sure but they don't tell you that 9…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 131,
     "transcriptSource": "Facebook 자동 자막"

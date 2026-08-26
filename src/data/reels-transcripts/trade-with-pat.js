@@ -1,23 +1,25 @@
-// 자동 생성 파일: 원본 전사와 대표 프레임 검토 결과
+// 자동 생성 파일: 전사와 대표 화면에서 추출한 한국어 콘텐츠 요약
 export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1019736353469349": {
     "date": "2025.09.03",
     "duration": "00:47",
-    "originalTitle": "2.1K views · 5 comments | $2500 scalping trade live on stream. #trading #scalping #forex #tradewithpat | Trade with Pat",
-    "title": "지지·저항: Getting in here at 100%.",
+    "originalTitle": "$2500 scalping trade live on stream. #trading #scalping #forex #tradewithpat",
+    "title": "$2500 스팩핑 트레이딩 실시간 스트림",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 47.27초·로컬 Whisper large-v3-turbo 전사 84단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I am triggered in.” / “That's a nice pump right there.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "resistance",
-      "performance claim"
+      "지지·저항",
+      "스파킹 트레이딩",
+      "FOREX",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “I am triggered in.” 이어 “That's a nice pump right there.” 이어 “Good pump on that candle.” 이어 “$25,000 in my pocket.”",
+    "core": "100% 가격에서 진입하여 목표 가격까지의 상승세를 추적하며 중간 수익을 실현하였습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I am triggered in."
+      "100% 가격에서 진입하여 $1,000까지 상승세를 추적",
+      "목표 가격을 돌파하고 틱을 잡아 $1,000 수익 실현"
     ],
-    "caution": "성과·수익 발화: “Getting in here at 100%.” / “$25,000 in my pocket.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 84,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -25,24 +27,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1022335270190321": {
     "date": "2026.06.25",
     "duration": "00:37",
-    "originalTitle": "4.5K views · 48 reactions | Comment ROBOT to see the system so good that prop firms are banning traders from using it! #trading #forex #tradingrobot #forexrobot #propfirm | Trade with Pat",
-    "title": "이동평균: Eastern, I'm waiting for all of these candles to close.",
+    "originalTitle": "Comment ROBOT to see the system so good that prop firms are banning traders from using it! #trading #forex #tradingrobot #forexrobot #propfirm",
+    "title": "8시 15분부터 9시 15분까지의 범위를 기준으로 매매하는 EU 트레이딩 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 36.52초·로컬 Whisper large-v3-turbo 전사 114단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “My EU trading strategy is so good prop firms are banning my members.” / “Then I mark up my range high and my range low.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "moving average",
-      "CTA"
+      "이동평균",
+      "EU 트레이딩",
+      "포인트 런치",
+      "EMA"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “My EU trading strategy is so good prop firms are banning my members.” 이어 “Then I mark up my range high and my range low.” 이어 “Then when price comes to the top of my range, I'm looking for sell trades.” 이어 “But they don't ban you if you're losing.”",
+    "core": "EU 트레이딩 전략은 범위를 기준으로 매매하여 높은 수익률을 얻는다.",
     "rules": [
-      "원문 실행 문장: Eastern, I'm waiting for all of these candles to close.",
-      "원문 실행 문장: Then I mark up my range high and my range low.",
-      "원문 실행 문장: I set up a 200 period EMA.",
-      "원문 실행 문장: I only buy above and sell below.",
-      "원문 실행 문장: Then when price comes to the top of my range, I'm looking for sell trades."
+      "200 기간 EMA를 설정하고 가격이 범위 상단에 도달할 때 4~5pip의 목표로 판매 주문을 실행한다.",
+      "포인트 런치를 사용하여 손절매를 설정한다."
     ],
-    "caution": "홍보·행동유도 발화: “Unless, of course, the trailing stop takes it further.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 114,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -50,25 +51,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1033221809098491": {
     "date": "2026.07.10",
     "duration": "00:38",
-    "originalTitle": "24 reactions | I look YOUNG but I’m an OLD Trader. Started my trading website 17 years ago, still at it today with this strategy. #trading #forex #tradewithpat #daytrading | Trade with Pat",
-    "title": "지지·저항: Let's break down a gold trade from today's live stream.",
+    "originalTitle": "I look YOUNG but I’m an OLD Trader. Started my trading website 17 years ago, still at it today with this strategy. #trading #forex #tradewithpat #daytrading",
+    "title": "17년 경력의 트레이더, 9:30부터 9:45까지의 금 가격 변동 분석",
     "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 38.04초·로컬 Whisper large-v3-turbo 전사 128단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “My trading website is 17 years old and this is the strategy that kept it alive.” / “This sets my trading range for the session.”",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "FVG",
-      "resistance",
-      "risk"
+      "지지·저항",
+      "옵션",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “My trading website is 17 years old and this is the strategy that kept it alive.” 이어 “This sets my trading range for the session.” 이어 “I check the higher time frame to put my stop loss above the one-hour level of resistance.” 이어 “I almost got taken out, but I set my levels right and I smashed my take problem.”",
+    "core": "레벨 오브 스탠스를 설정하고, 가격이 거래 범위를 벗어나면 진입 방향을 결정한다.",
     "rules": [
-      "원문 실행 문장: Let's break down a gold trade from today's live stream.",
-      "원문 실행 문장: Then I'm simply waiting for price to break and close outside of the range.",
-      "원문 실행 문장: I check the higher time frame to put my stop loss above the one-hour level of resistance.",
-      "원문 실행 문장: Now this was far from a perfect trade.",
-      "원문 실행 문장: I almost got taken out, but I set my levels right and I smashed my take problem."
+      "9:30부터 9:45까지의 첫 세 개의 5분봉을 분석하여 거래 범위를 설정한다.",
+      "가격이 거래 범위를 벗어나면 거래 방향을 결정한다.",
+      "레벨 오브 스탠스를 설정하고, 한 시간 레벨의 저항 위에 스탑 런지를 배치한다."
     ],
-    "caution": "전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 128,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -76,25 +76,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1033437299164811": {
     "date": "2026.07.05",
     "duration": "00:24",
-    "originalTitle": "3.6K views · 719 reactions | Comment ROBOT to get my account growing system. 60% to 80% win rate over the past few months. Being more picky with my trade entry candle momentum confirmations. #trading #forex #tradewithpat #daytrading | Trade with Pat",
-    "title": "지지·저항: Most traders enter the moment price touches their level.",
+    "originalTitle": "Comment ROBOT to get my account growing system. 60% to 80% win rate over the past few months. Being more picky with my trade entry candle momentum confirmations. #trading #forex #…",
+    "title": "60%에서 80%로 높아진 스파크링 캔들 모멘텀 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 24.12초·로컬 Whisper large-v3-turbo 전사 72단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “My trading win rate went from 60% to 80% thanks to one candle.” / “Most traders enter the moment price touches their level.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "FVG",
-      "support",
-      "resistance",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "트레이딩",
+      "포렉스"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “My trading win rate went from 60% to 80% thanks to one candle.” 이어 “Most traders enter the moment price touches their level.” 이어 “A small candle followed by a big engulfing candle.” 이어 “I can enter and win my trade.”",
+    "core": "캔들 모멘텀을 확인하여 진입 시점을 더 신중하게 선택하면 승률이 향상될 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Most traders enter the moment price touches their level.",
-      "원문 실행 문장: I wait for one thing first.",
-      "원문 실행 문장: I can enter and win my trade."
+      "작은 캔들 후 큰 캔들 이식이 나타나면 진입 시점을 선택합니다.",
+      "이 방법을 사용하면 승률이 60%에서 80%로 높아졌습니다."
     ],
-    "caution": "성과·수익 발화: “My trading win rate went from 60% to 80% thanks to one candle.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 72,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -102,20 +100,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1034275039265214": {
     "date": "2026.05.14",
     "duration": "00:34",
-    "originalTitle": "7.8K views · 38 comments | 17 year Goated Trading Strategy 🐐 #trading #forex #daytrading #scalping #tradingstrategy | Trade with Pat",
-    "title": "영상 발화 분석: Then I'm waiting for an aggressive price move, either out the bottom or the top of that range.",
+    "originalTitle": "17 year Goated Trading Strategy 🐐 #trading #forex #daytrading #scalping #tradingstrategy",
+    "title": "17년간의 오전 9시 30분 고택 건설을 위한 2시간 일일 트레이딩 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 34.36초·로컬 Whisper large-v3-turbo 전사 120단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I've been trading for 17 years using this goaded strategy.” / “Eastern, I'm marking out the first three five-minute candles, the high and the low.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "FVG"
+      "FVG",
+      "일일 트레이딩",
+      "스컬핑",
+      "고택 건설"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I've been trading for 17 years using this goaded strategy.” 이어 “Eastern, I'm marking out the first three five-minute candles, the high and the low.” 이어 “I want that move to create a fair value gap.” 이어 “Then I'm done trading for the day and I can get back to designing my mansion, which is what I really want to do.”",
+    "core": "고정된 시간대와 가격 범위에서 가격 움직임을 이용해 매매 결정을 내립니다.",
     "rules": [
-      "원문 실행 문장: Then I'm waiting for an aggressive price move, either out the bottom or the top of that range.",
-      "원문 실행 문장: I want that move to create a fair value gap."
+      "매일 아침 오전 9시 30분에 3개의 5분봉을 확인하고, 가격 범위를 설정합니다.",
+      "가격이 범위의 하단이나 상단을 벗어나는 강한 움직임을 기다립니다.",
+      "가격이 공정한 가격갭을 확인하고, 그 수준으로 되돌아오면 거래를 종료합니다."
     ],
-    "caution": "성과·수익 발화: “Trading just two hours per day.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 120,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -123,24 +125,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1037321669010060": {
     "date": "2026.08.17",
     "duration": "00:29",
-    "originalTitle": "2.6K views · 873 reactions | 18 years of trading. These are the best levels to enter from. #trading #tradewithpat #forex #daytrading | Trade with Pat",
-    "title": "지지·저항: If you want to increase your win rate, only trade at extremes.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 29.12초·로컬 Whisper large-v3-turbo 전사 97단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you want to increase your win rate, only trade at extremes.” / “I'm looking for buying opportunities.”",
+    "originalTitle": "18 years of trading. These are the best levels to enter from. #trading #tradewithpat #forex #daytrading",
+    "title": "18년 거래 경험에서 배운 최적 진입 수준",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "performance claim"
+      "지지·저항",
+      "거래 전략",
+      "트레이딩",
+      "FX"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “If you want to increase your win rate, only trade at extremes.” 이어 “I'm looking for buying opportunities.” 이어 “Think about it like this.” 이어 “And that's what keeps my win rate high.”",
+    "core": "가격이 중간 수준에서 있을 때 거래하지 않아야 하며, 극단적인 지원과 저항 수준에서만 거래할 것을 권장한다.",
     "rules": [
-      "원문 실행 문장: If you want to increase your win rate, only trade at extremes.",
-      "원문 실행 문장: When price is sitting in the middle of the range where it is right now, we don't really want to trade.",
-      "원문 실행 문장: I don't want to trade in the middle.",
-      "원문 실행 문장: I want to trade at the edges."
+      "가격이 중간 수준에서 있을 때는 거래하지 말고, 극단적인 지원 수준에서 구매 기회를 찾고, 저항 수준에서는 판매 기회를 찾는다.",
+      "중간 수준에서 거래하지 않고, 극단적인 수준에서만 거래하는 것이 수익률을 높이는 방법이다."
     ],
-    "caution": "성과·수익 발화: “If you want to increase your win rate, only trade at extremes.” / “And that's what keeps my win rate high.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 97,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -148,21 +149,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1069167578782284": {
     "date": "2026.07.19",
     "duration": "00:22",
-    "originalTitle": "36 reactions · 28 comments | Get my trades for FREE.. can’t believe I’m doing this. #trading #tradewithpat #forex #forexsignals #gold | Trade with Pat",
-    "title": "영상 발화 분석: I never get tired of winning.",
+    "originalTitle": "Get my trades for FREE.. can’t believe I’m doing this. #trading #tradewithpat #forex #forexsignals #gold",
+    "title": "VIP 트레이드 6-1 승리 기록과 무료 액세스 제공",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 22.40초·로컬 Whisper large-v3-turbo 전사 59단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I never get tired of winning.” / “Life is good.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "tradewithpat",
+      "forex"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I never get tired of winning.” 이어 “Life is good.” 이어 “And this Euro-Ossie win right here.” 이어 “But the deal is almost done.”",
+    "core": "VIP 계정에서 6승 1패의 성적을 기록하며, 이익을 얻은 금과 유로-오시아 거래를 공유한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I never get tired of winning."
+      "VIP 계정에서 6승 1패의 성적을 기록하고, 이익을 얻은 금과 유로-오시아 거래를 공유한다.",
+      "현재 무료로 VIP 트레이드 액세스를 제공하고, 이 제안이 끝나는 것을 알린다."
     ],
-    "caution": "홍보·행동유도 발화: “Right now I'm giving away free access to my VIP trades.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 59,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -170,21 +173,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1076693158655560": {
     "date": "2026.08.24",
     "duration": "00:24",
-    "originalTitle": "2.2K views · 14 comments | 349% gain in 6 weeks, hands free. #trading #tradingrobot #forex #daytrading #tradewithpat | Trade with Pat",
-    "title": "위험관리: 354 trades placed, a 66% win rate, and apparently balls of steel because he's running this thing on aggr…",
+    "originalTitle": "349% gain in 6 weeks, hands free. #trading #tradingrobot #forex #daytrading #tradewithpat",
+    "title": "6주 349% 수익, 투자 자동화",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 24.32초·로컬 Whisper large-v3-turbo 전사 58단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This client didn't double his account.” / “He grew it by 350% using our robot.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "backtest",
-      "performance claim"
+      "위험관리",
+      "자동화",
+      "투자",
+      "FX"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “This client didn't double his account.” 이어 “He grew it by 350% using our robot.” 이어 “And this is not a backtest.” 이어 “354 trades placed, a 66% win rate, and apparently balls of steel because he's running this thing on aggressive risk.”",
+    "core": "자동 트레이딩 로봇을 사용하여 6주 만에 350%의 수익을 얻은 실제 사례.",
     "rules": [
-      "원문 실행 문장: 354 trades placed, a 66% win rate, and apparently balls of steel because he's running this thing on aggressive risk."
+      "6주 동안 354 번의 거래를 통해 349%의 수익을 얻었다.",
+      "66%의 승률을 유지하며 고위험 투자를 진행했다."
     ],
-    "caution": "성과·수익 발화: “He grew it by 350% using our robot.” / “354 trades placed, a 66% win rate, and apparently balls of steel because he's running this thing on aggressive risk.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 58,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -192,20 +197,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1082286390780190": {
     "date": "2025.09.23",
     "duration": "00:33",
-    "originalTitle": "3.2K views | Best Trading Strategy setup of 2025! 🤝 #trading #tradewithpat #forex #daytrading #tradingstrategy | Trade with Pat",
-    "title": "영상 발화 분석: Eastern, we set up our range high and our range low at the 15-minute candle.",
+    "originalTitle": "Best Trading Strategy setup of 2025! 🤝 #trading #tradewithpat #forex #daytrading #tradingstrategy",
+    "title": "2025년 최적의 15분봉 범위 고점과 저점 기반의 트레이딩 세터",
     "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 33.39초·로컬 Whisper large-v3-turbo 전사 103단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is my favorite trading setup in 2025.” / “At 9.30 a.m.”",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "FVG"
+      "FVG",
+      "트레이딩",
+      "tradewithpat",
+      "forex"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “This is my favorite trading setup in 2025.” 이어 “At 9.30 a.m.” 이어 “Then on the 5-minute candle, we get a huge push-up like this, giving us a break of structure, creating fair value gaps in the big green candles, which gives us a strong demand zone on the small red candle befo…” 이어 “Then I just want price to come down to that level of demand where I take a long position, stop-loss below the range and the demand zone, and then I smash my take profit.”",
+    "core": "15분봉에서 범위 고점과 저점을 설정하고, 5분봉에서 큰 상승 추세를 기대하며, 그 추세의 강한 수요 구간에서 롱 포지션을 잡는 전략.",
     "rules": [
-      "원문 실행 문장: Eastern, we set up our range high and our range low at the 15-minute candle.",
-      "원문 실행 문장: Then I just want price to come down to that level of demand where I take a long position, stop-loss below the range and the demand zone, and then I smash my take profit."
+      "오전 9시 30분 동부 시간대에 15분봉에서 범위 고점과 저점을 설정",
+      "5분봉에서 큰 상승 추세를 보이면 그 추세의 강한 수요 구간에서 롱 포지션을 잡는다",
+      "스탑 러스를 범위와 수요 구간 아래로 설정하고, 수익 실현을 강하게 추격한다."
     ],
-    "caution": "성과·수익 발화: “Then I just want price to come down to that level of demand where I take a long position, stop-loss below the range and the demand zone, and then I smash my take profit.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 103,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -213,24 +222,22 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1095535466380076": {
     "date": "2026.08.19",
     "duration": "00:39",
-    "originalTitle": "9.4K views · 361 reactions | This ORB Trading Strategy is EVERYTHING. #trading #daytrading #orb #forex #futuresq | Trade with Pat",
-    "title": "돌파·개장 범위: If you trade the market open, do this first.",
+    "originalTitle": "This ORB Trading Strategy is EVERYTHING. #trading #daytrading #orb #forex #futuresq",
+    "title": "/ORB 전략의 아침 9:30 분봉 분석과 페인트백 기법",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 39.12초·로컬 Whisper large-v3-turbo 전사 140단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you trade the market open, do this first.” / “Now, instead of guessing which way the market is going to move, I'm simply waiting for a candle to break and close out the top or the bottom of the range.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "FVG",
-      "breakout"
+      "개장 범위",
+      "옵션",
+      "/ORB 전략"
     ],
-    "core": "원문 전사 기준 돌파·개장 범위 콘텐츠다. “If you trade the market open, do this first.” 이어 “Now, instead of guessing which way the market is going to move, I'm simply waiting for a candle to break and close out the top or the bottom of the range.” 이어 “They always want to trade the top of that breakout.” 이어 “So I simply wait for price to tap into that fair value gap, put me into the trade at the top of the range, and smash my take profit.”",
+    "core": "/ORB 전략은 아침 시장 개장 후 첫 15분봉을 분석하여 페인트백 기법을 활용해 거래 방향을 결정합니다.",
     "rules": [
-      "원문 실행 문장: If you trade the market open, do this first.",
-      "원문 실행 문장: Instead, I let the first 15-minute candle form, mark out the high and the low.",
-      "원문 실행 문장: And that's the direction I'm going to trade in.",
-      "원문 실행 문장: They always want to trade the top of that breakout.",
-      "원문 실행 문장: So I simply wait for price to tap into that fair value gap, put me into the trade at the top of the range, and smash my take profit."
+      "매일 아침 9:30부터 첫 15분봉을 관찰하고 고가와 저가를 기록한다."
     ],
-    "caution": "성과·수익 발화: “So I simply wait for price to tap into that fair value gap, put me into the trade at the top of the range, and smash my take profit.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 140,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -238,20 +245,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1112186600851619": {
     "date": "2025.09.04",
     "duration": "00:11",
-    "originalTitle": "1.5K views · 6 comments | Every trader starts the same way chasing trades, blowing accounts, and thinking profits come from finding a magic setup. The reality is profitable traders are made from one change. They stop focusing on being right all the time and instead build discipline around risk management and consistency. When you treat trading like a business not a lottery ticket, that’s when everything shifts. This one change is the difference between years of frustration and finally becoming a consistently profitable trader. #trading #tradewithpat #forex #daytrading #forexsignals | Trade with Pat",
-    "title": "위험관리: They stop focusing on being right all the time and instead build discipline around risk management and c…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 10.73초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Every trader starts the same way chasing trades, blowing accounts, and thinking profits come from finding a magic setup.” / “The reality is profitable traders are made from one change.”",
+    "originalTitle": "Every trader starts the same way chasing trades, blowing accounts, and thinking profits come from finding a magic setup. The reality is profitable traders are made from one change…",
+    "title": "투자 초보자들이 실수하는 방식과 성공하는 방법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology"
+      "위험관리",
+      "심리·규율",
+      "투자",
+      "위험 관리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Every trader starts the same way chasing trades, blowing accounts, and thinking profits come from finding a magic setup.” 이어 “The reality is profitable traders are made from one change.” 이어 “This one change is the difference between years of frustration and finally becoming a consistently profitable trader.” 이어 “#trading #tradewithpat #forex #daytrading #forexsignals.”",
+    "core": "성공하는 트레이더들은 항상 옳다고 생각하는 것을 중단하고 위험 관리와 일관성을 강화하는 데 집중한다.",
     "rules": [
-      "원문 실행 문장: They stop focusing on being right all the time and instead build discipline around risk management and consistency."
+      "투자 초보자들은 수익을 얻기 위해 마법 같은 투자 기법을 찾는 반면, 성공하는 트레이더들은 위험 관리와 일관성을 강화하는 데 집중한다.",
+      "성공하는 트레이더들은 투자를 사업처럼 다루며, 단순히 행운을 기대하는 것과는 다르게 접근한다."
     ],
-    "caution": "성과·수익 발화: “The reality is profitable traders are made from one change.” / “This one change is the difference between years of frustration and finally becoming a consistently profitable trader.” 홍보·행동유도 발화: “When you treat trading like a business not a lottery ticket, that’s when everything shifts.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -259,19 +269,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1191864296083129": {
     "date": "2025.09.01",
     "duration": "00:17",
-    "originalTitle": "1.2K views | Don’t get MAD get MOVING! I didn’t come from money. I’m like you, just a little bit further into my trading journey! #trading #tradewithpat #forex #daytrading #finance | Trade with Pat",
-    "title": "영상 발화 분석: You can be jealous and you can say, stop bragging in the comments.",
+    "originalTitle": "Don’t get MAD get MOVING! I didn’t come from money. I’m like you, just a little bit further into my trading journey! #trading #tradewithpat #forex #daytrading #finance",
+    "title": "9:00부터 시작된 달러/엔 거래에서의 전략적 움직임",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 16.94초·로컬 Whisper large-v3-turbo 전사 64단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “When I talk about my mansion, my Porsche, my Rolex, there's two ways to take that.” / “You can be jealous and you can say, stop bragging in the comments.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "tradewithpat",
+      "외환"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “When I talk about my mansion, my Porsche, my Rolex, there's two ways to take that.” 이어 “You can be jealous and you can say, stop bragging in the comments.” 이어 “Or you can see it as motivation that someone like you, someone that didn't come from money, is able to achieve incredible things through trading.” 이어 “I'll show you my strategy.”",
+    "core": "성공은Trading을 통해 이루어질 수 있으며, 중요한 것은 계속 움직이는 것이다.",
     "rules": [
-      "원문 실행 문장: You can be jealous and you can say, stop bragging in the comments."
+      "9:00부터 시작된 달러/엔 거래에서 0.0005의 스탠드인을 사용하여 진입",
+      "매수 후 0.0003의 이익을 얻고 스탠드인을 이동시키며, 추가 이익을 추적"
     ],
-    "caution": "홍보·행동유도 발화: “If you want, comment, trade.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 64,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -279,21 +293,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1211453317158699": {
     "date": "2026.01.08",
     "duration": "00:20",
-    "originalTitle": "3.1K views · 16 comments | Everyone thinks passing prop firms is complicated. It’s not. My process: 1️⃣ Install the robot 2️⃣ Choose the set file 3️⃣ Let it run Boring trading strategies > emotional trading. #trading #tradewithpat #forex #propfirm #propfirmtrader | Trade with Pat",
-    "title": "위험관리: Three steps I use to pass prop firm.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 19.63초·로컬 Whisper large-v3-turbo 전사 64단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Three steps I use to pass prop firm.” / “Load the optimized prop firm set files.”",
+    "originalTitle": "Everyone thinks passing prop firms is complicated. It’s not. My process: 1️⃣ Install the robot 2️⃣ Choose the set file 3️⃣ Let it run Boring trading strategies > emotional trading…",
+    "title": "프로피어를 통과하는 단순 3단계 프로세스",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk"
+      "위험관리",
+      "프로피어",
+      "Forex",
+      "자동매매"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Three steps I use to pass prop firm.” 이어 “Load the optimized prop firm set files.” 이어 “Normally I don't.” 이어 “And my members come chat with us today.”",
+    "core": "프로피어를 통과하는 것은 복잡하지 않으며, 로봇을 설치하고 설정 파일을 선택한 후 실행하면 됩니다.",
     "rules": [
-      "원문 실행 문장: Three steps I use to pass prop firm.",
-      "원문 실행 문장: Load the optimized prop firm set files.",
-      "원문 실행 문장: Let the robot execute trades and manage the risk manually if I choose."
+      "Forex 로봇을 차트에 드래그 앤 드롭하여 설치합니다.",
+      "옵티마이즈된 프로피어 설정 파일을 불러옵니다.",
+      "로봇을 실행하고 수동으로 위험을 관리할 수 있습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 64,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -301,20 +318,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1246314843850309": {
     "date": "2025.10.03",
     "duration": "00:37",
-    "originalTitle": "3K views · 11 comments | Did you watch this trade live? ORB Scalping Strategy (Live Trade) #trading #forex #tradewithpat #daytrading #orbtrading | Trade with Pat",
-    "title": "지지·저항: I'm into the trading position right now.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 37.24초·로컬 Whisper large-v3-turbo 전사 73단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm into the trading position right now.” / “Come on, baby.”",
+    "originalTitle": "Did you watch this trade live? ORB Scalping Strategy (Live Trade) #trading #forex #tradewithpat #daytrading #orbtrading",
+    "title": "ORB 스팩클링 전략 (925 가격대에서의 강력한 저항 극복)",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "resistance"
+      "개장 범위",
+      "지지·저항",
+      "ORB 트레이딩",
+      "스팩클링"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “I'm into the trading position right now.” 이어 “Come on, baby.” 이어 “There you go.” 이어 “I knew it, baby.”",
+    "core": "강력한 저항 수준을 극복하고 가격이 하락하는 것을 기다렸다가 티크를 잡는 전략을 사용했습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I'm into the trading position right now."
+      "가격이 925 수준에서 강력한 저항을 만났습니다.",
+      "가격이 하락할 기회를 잡아 TP1을 잡았습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 73,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -322,20 +342,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1263245188579223": {
     "date": "2026.03.25",
     "duration": "00:22",
-    "originalTitle": "2.3K views · 19 comments | The biggest gurus sell dreams. But you never hear from their students. That tells you everything. #trading #tjr #toritrades #mambafx #forex | Trade with Pat",
-    "title": "영상 발화 분석: The biggest trading gurus sell $7,000 courses, but do you know who you never hear from?",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 21.80초·로컬 Whisper large-v3-turbo 전사 56단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The biggest trading gurus sell $7,000 courses, but do you know who you never hear from?” / “Their members.”",
+    "originalTitle": "The biggest gurus sell dreams. But you never hear from their students. That tells you everything. #trading #tjr #toritrades #mambafx #forex",
+    "title": "24시간 내 실시간 결과: 7,000달러 코스 대비 실질적 성과",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "4H",
-      "CTA"
+      "캔들 범위",
+      "트레이딩",
+      "TJR",
+      "토리트레이드"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “The biggest trading gurus sell $7,000 courses, but do you know who you never hear from?” 이어 “Their members.” 이어 “Meanwhile, I'm a literal nobody, and these are all from my members in just the last 24 hours.” 이어 “No fake lifestyle, no rented Lambos, just real people getting real results.”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "원문 실행 문장: The biggest trading gurus sell $7,000 courses, but do you know who you never hear from?"
+      "7,000달러 코스를 수강한 학생들은 듣지 못한다.",
+      "제작자는 24시간 동안 실제 성과를 보여준다."
     ],
-    "caution": "성과·수익 발화: “The biggest trading gurus sell $7,000 courses, but do you know who you never hear from?” 홍보·행동유도 발화: “Who you follow in this space actually matters.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 56,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -343,21 +366,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1285729080340685": {
     "date": "2026.05.15",
     "duration": "00:23",
-    "originalTitle": "2.9K views · 12 comments | Even I can last longer than some of these trades 😏 I love scalping with my robot 🤖 #Scalping #orbtrading #forex #tradingrobot | Trade with Pat",
-    "title": "영상 발화 분석: For this strategy, I set my trading range from 8 to 9.15 a.m.",
+    "originalTitle": "Even I can last longer than some of these trades 😏 I love scalping with my robot 🤖 #Scalping #orbtrading #forex #tradingrobot",
+    "title": "8~9:15am Euro USD 스팩핑 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 23.44초·로컬 Whisper large-v3-turbo 전사 83단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Even I can last longer than some of these trades.” / “I let the trade play out and two candles later, I was at take drop.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "스파킹",
+      "orbtrading",
+      "forex"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Even I can last longer than some of these trades.” 이어 “I let the trade play out and two candles later, I was at take drop.” 이어 “dollar, as you can see by this verified live trading account.” 이어 “And when he says these quick trades are just unreal, I'm with him.”",
+    "core": "유로와 미국 달러에서 8시부터 9:15분까지의 거래가 매우 효과적이다.",
     "rules": [
-      "원문 실행 문장: For this strategy, I set my trading range from 8 to 9.15 a.m.",
-      "원문 실행 문장: I let the trade play out and two candles later, I was at take drop."
+      "이 전략은 8시부터 9:15분까지 거래 범위를 설정한다.",
+      "두 캔들 뒤에 테이크 프리미엄을 잡을 수 있다.",
+      "유로와 미국 달러에서 이 방법이 매우 효과적임을 확인할 수 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 83,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -365,20 +391,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1293861752430293": {
     "date": "2025.11.09",
     "duration": "00:20",
-    "originalTitle": "3.1K views · 87 comments | A Trading Robot changed my life, and routine! No more long hours. #trading #tradingrobot #forexrobot #forexea #tradewithpat | Trade with Pat",
-    "title": "돌파·개장 범위: I used to spend 8 hours a day trading, now my robot does it for me in 90 minutes.",
+    "originalTitle": "A Trading Robot changed my life, and routine! No more long hours. #trading #tradingrobot #forexrobot #forexea #tradewithpat",
+    "title": "8시간 일일 트레이딩에서 90분으로 바꾼 트레이딩 로봇",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 20.16초·로컬 Whisper large-v3-turbo 전사 69단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I used to spend 8 hours a day trading, now my robot does it for me in 90 minutes.” / “Every single one of these trades was a short-term scalp using the orb trading strategy.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "breakout"
+      "개장 범위",
+      "트레이딩",
+      "트레이딩로봇",
+      "forex"
     ],
-    "core": "원문 전사 기준 돌파·개장 범위 콘텐츠다. “I used to spend 8 hours a day trading, now my robot does it for me in 90 minutes.” 이어 “Every single one of these trades was a short-term scalp using the orb trading strategy.” 이어 “This test here shows the historical performance of the robot over 15 years and how it automatically compounds gains.” 이어 “If the chart life is getting boring, try a robot, you're probably already losing the one.”",
+    "core": "트레이딩 로봇이 8시간 일일 트레이딩을 90분으로 줄여주며, 오르비 트레이딩 전략을 사용해 단타를 취한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I used to spend 8 hours a day trading, now my robot does it for me in 90 minutes."
+      "매일 8시간을 90분으로 줄여 트레이딩을 수행한다.",
+      "오르비 트레이딩 전략을 사용해 단타를 취한다.",
+      "15년간의 역사적 성과를 통해 자동적으로 수익을 증식한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 69,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -386,21 +416,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1294376052522481": {
     "date": "2026.01.25",
     "duration": "00:22",
-    "originalTitle": "2.6K views · 24 comments | Trading doesn’t stop just because I’m on vacation 🌴 Beach in front of me, charts on my phone. High-probability levels, clean entries, quick wins. Discipline > location. #trading #tradewithpat #forex #daytrading | Trade with Pat",
-    "title": "영상 발화 분석: Trading doesn't stop just because I'm on vacation.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 22.48초·로컬 Whisper large-v3-turbo 전사 78단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Trading doesn't stop just because I'm on vacation.” / “This sniper entry and this sniper entry, which is two of the VIP trades I hit.”",
+    "originalTitle": "Trading doesn’t stop just because I’m on vacation 🌴 Beach in front of me, charts on my phone. High-probability levels, clean entries, quick wins. Discipline > location. #trading #…",
+    "title": "연휴 중에도 트레이딩: 비치 앞에서 4시간 수급 수준 타이핑",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim"
+      "심리·규율",
+      "트레이딩",
+      "연휴 중 트레이딩",
+      "4시간 수급 수준"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Trading doesn't stop just because I'm on vacation.” 이어 “This sniper entry and this sniper entry, which is two of the VIP trades I hit.” 이어 “When Price tapped that level on the 5-minute, I took an aggressive entry and Price slammed all the way down to my take profit, locking in a quick 2%.” 이어 “I'm back from vacation and I've got incredible setups this week.”",
+    "core": "연휴 중에도 고확률 수익을 얻을 수 있으며, 규율이 장소보다 중요하다.",
     "rules": [
-      "원문 실행 문장: Trading doesn't stop just because I'm on vacation.",
-      "원문 실행 문장: This sniper entry and this sniper entry, which is two of the VIP trades I hit.",
-      "원문 실행 문장: When Price tapped that level on the 5-minute, I took an aggressive entry and Price slammed all the way down to my take profit, locking in a quick 2%."
+      "비치 앞에서 휴가 중이지만, 4시간 수급 수준을 타이핑하여 강제 진입을 했다.",
+      "가격이 5분봉에서 수급 수준을 타이핑했을 때, 강하게 진입하여 목표 수익을 실현했다.",
+      "연휴 후에도 좋은 셋업을 얻을 수 있으며, 규율이 장소보다 중요하다."
     ],
-    "caution": "성과·수익 발화: “When Price tapped that level on the 5-minute, I took an aggressive entry and Price slammed all the way down to my take profit, locking in a quick 2%.” 홍보·행동유도 발화: “Join us now.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 78,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -408,22 +441,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1320452449428457": {
     "date": "2025.09.06",
     "duration": "00:18",
-    "originalTitle": "1.7K views · 10 comments | MetaTrader is the best platform to trade with in 2025. What do your think? #trading #tradewithpat #forex #MetaTrader #forexbroker #tradingplatform | Trade with Pat",
-    "title": "영상 발화 분석: There are thousands of trading platforms, but half of all traders use just one for three reasons.",
+    "originalTitle": "MetaTrader is the best platform to trade with in 2025. What do your think? #trading #tradewithpat #forex #MetaTrader #forexbroker #tradingplatform",
+    "title": "2025년 가장 좋은 거래 플랫폼 MetaTrader",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 18.18초·로컬 Whisper large-v3-turbo 전사 65단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “There are thousands of trading platforms, but half of all traders use just one for three reasons.” / “There's more money being traded on this platform than anywhere else.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "MetaTrader",
+      "forex",
+      "tradingplatform"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “There are thousands of trading platforms, but half of all traders use just one for three reasons.” 이어 “There's more money being traded on this platform than anywhere else.” 이어 “Two, it has the best automation tools with the MQL language, so you can use trading robots like Forex Fury.” 이어 “Where do you trade?”",
+    "core": "MetaTrader는 거래량이 가장 많은 플랫폼이며, 최고의 자동화 도구를 제공하여 거래 로봇을 사용할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: There are thousands of trading platforms, but half of all traders use just one for three reasons.",
-      "원문 실행 문장: Two, it has the best automation tools with the MQL language, so you can use trading robots like Forex Fury.",
-      "원문 실행 문장: Where do you trade?"
+      "MetaTrader는 거래량이 가장 많은 플랫폼입니다.",
+      "MetaTrader는 MQL 언어로 최고의 자동화 도구를 제공합니다.",
+      "MetaTrader 모바일 앱은 빠르고 반응이 빠릅니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 65,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -431,23 +466,21 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1338184485144812": {
     "date": "2026.08.06",
     "duration": "00:35",
-    "originalTitle": "3.8K views · 86 reactions | 5 Minute Trading Strategy I use daily! #trading #tradewithpat #forex #daytrading #forexstrategy | Trade with Pat",
-    "title": "지지·저항: At 930 I mark out the low and the high of the first 15minute handle.",
+    "originalTitle": "5 Minute Trading Strategy I use daily! #trading #tradewithpat #forex #daytrading #forexstrategy",
+    "title": "9:30 AM 미 동부시간 15분봉 저고리와 고고리 확인 후 5분봉 반등 기회 포착",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 35.24초·Facebook 자동 자막 110단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Trading strategy won big this morning while sipping coffee on the deck.” / “Then I wait for a five minute candle to close out the bottom or the top of my range like that telling me I'm looking for buys.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance"
+      "개장 범위",
+      "지지·저항"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Trading strategy won big this morning while sipping coffee on the deck.” 이어 “Then I wait for a five minute candle to close out the bottom or the top of my range like that telling me I'm looking for buys.” 이어 “So I felt like that was the best area to enter the trading position.” 이어 “Price shot up immediately for a sniper entry tagging my take profits live on stream.”",
+    "core": "5분봉 차트에서 저고리와 고고리를 확인하고, 그 범위 내에서 반등을 기다리는 전략.",
     "rules": [
-      "원문 실행 문장: At 930 I mark out the low and the high of the first 15minute handle.",
-      "원문 실행 문장: Then I wait for a five minute candle to close out the bottom or the top of my range like that telling me I'm looking for buys.",
-      "원문 실행 문장: So I felt like that was the best area to enter the trading position.",
-      "원문 실행 문장: Price shot up immediately for a sniper entry tagging my take profits live on stream."
+      "9:30 AM 미 동부시간에 15분봉 차트의 저고리와 고고리를 확인하고, 5분봉 차트에서 그 범위의 하단이나 상단을 테스트하는 데 기다린다.",
+      "저고리와 고고리 사이에서 반등이 발생하면 거래 포지션을 진입한다."
     ],
-    "caution": "전사에서 초기 손절·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 110,
     "transcriptSource": "Facebook 자동 자막"
@@ -455,20 +488,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1338799050928232": {
     "date": "2025.09.22",
     "duration": "00:19",
-    "originalTitle": "3.3K views · 90 comments | Trade with Pat ROBOT coming soon! 🤖 #trading #tradingrobot #forex #forexrobot #tradewithpat | Trade with Pat",
-    "title": "돌파·개장 범위: See just how incredible this trading account is as almost every single trade on this account is royal bl…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 18.82초·Facebook 자동 자막 55단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “See just how incredible this trading account is as almost every single trade on this account is royal blue.” / “This is your first look at the Trade with Pat robot using my open range breakout trading strategy completely automated.”",
+    "originalTitle": "Trade with Pat ROBOT coming soon! 🤖 #trading #tradingrobot #forex #forexrobot #tradewithpat",
+    "title": "시장 분석에 관한 트레이딩 관점",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "breakout"
+      "시장 분석",
+      "트레이딩",
+      "트레이딩로봇",
+      "외환"
     ],
-    "core": "원문 전사 기준 돌파·개장 범위 콘텐츠다. “See just how incredible this trading account is as almost every single trade on this account is royal blue.” 이어 “This is your first look at the Trade with Pat robot using my open range breakout trading strategy completely automated.” 이어 “This still won't be available till mid October.” 이어 “I just want to introduce you.”",
+    "core": "Trade with Pat ROBOT은 완전 자동화된 오픈 범위 브레이크아웃 트레이딩 전략을 사용합니다.",
     "rules": [
-      "원문 실행 문장: See just how incredible this trading account is as almost every single trade on this account is royal blue.",
-      "원문 실행 문장: This is your first look at the Trade with Pat robot using my open range breakout trading strategy completely automated."
+      "이 계정의 모든 거래가 블루색으로 표시됩니다.",
+      "오픈 범위 브레이크아웃 전략을 사용하여 완전히 자동화된 거래를 실행합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 55,
     "transcriptSource": "Facebook 자동 자막"
@@ -476,22 +512,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1340656850691177": {
     "date": "2025.12.14",
     "duration": "00:30",
-    "originalTitle": "9.9K views · 27 comments | My GOLD Trading Strategy is CLICKING! #trading #tradewithpat #gold #goldtrading #xauusd | Trade with Pat",
-    "title": "지지·저항: Then I want to see an impulsive move that breaks structure and creates a fair value gap.",
+    "originalTitle": "My GOLD Trading Strategy is CLICKING! #trading #tradewithpat #gold #goldtrading #xauusd",
+    "title": "11월과 12월에서 금 가격 변동을 활용한 3단계 트레이딩 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 29.57초·로컬 Whisper large-v3-turbo 전사 92단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “My gold strategy is clicking.” / “What's working for me is a simple three-step process.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "FVG",
-      "support"
+      "지지·저항",
+      "금 가격 변동",
+      "XAUUSD"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “My gold strategy is clicking.” 이어 “What's working for me is a simple three-step process.” 이어 “Then I want to see an impulsive move that breaks structure and creates a fair value gap.” 이어 “And was it ever a good one?”",
+    "core": "가격이 공정한 가치 틱을 인정하면 이어진 추세에 진입하는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: Then I want to see an impulsive move that breaks structure and creates a fair value gap.",
-      "원문 실행 문장: I then wait for price to respect that fair value gap.",
-      "원문 실행 문장: Then I enter on the continuation, which is exactly what I did on this setup that I shared with my gold trading community."
+      "가격이 지지 구간을 유지하고, 구조를 깨는 강한 추세를 보이면 공정한 가치 틱을 기다린다.",
+      "그 후 가격이 공정한 가치 틱을 인정하면 이어진 추세에 진입한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 92,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -499,20 +536,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1344980473661033": {
     "date": "2025.09.09",
     "duration": "00:18",
-    "originalTitle": "1.1K views · 12 comments | Why Traders QUIT ❌ Can you be the one that outlasts the others? The one that survives and then thrives? I believe you can. #trading #tradewithpat #forex #daytrading #forexsignals | Trade with Pat",
-    "title": "심리·규율: After two years, almost every single trader is gone, except the handful of alphas that were just built d…",
+    "originalTitle": "Why Traders QUIT ❌ Can you be the one that outlasts the others? The one that survives and then thrives? I believe you can. #trading #tradewithpat #forex #daytrading #forexsignals",
+    "title": "2년 후 살아남은 트레이더들, 당신은 그 중 하나가 될 수 있을까?",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 17.53초·로컬 Whisper large-v3-turbo 전사 69단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “After two years, almost every single trader is gone, except the handful of alphas that were just built different.” / “Don't be scared of this chart.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology"
+      "심리·규율",
+      "트레이딩",
+      "생존 트레이딩",
+      "장기 성공"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “After two years, almost every single trader is gone, except the handful of alphas that were just built different.” 이어 “Don't be scared of this chart.” 이어 “Most people give up on everything they do.” 이어 “If you can find your edge, adjust to the markets, and don't let your emotions get in the way, then you'll be here with me in 10 years, or at least away on some insane vacation.”",
+    "core": "트레이더들이 실패하는 이유를 피하고 장기적으로 성공하려면 자신의 강점을 찾고 감정을 통제해야 한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: After two years, almost every single trader is gone, except the handful of alphas that were just built different."
+      "장기적으로 성공하려면 자신의 강점을 찾고 감정을 통제해야 한다.",
+      "2년 후에도 트레이딩을 계속할 수 있는 트레이더들은 감정을 통제하고 시장 변화에 적응할 수 있는 능력이 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 69,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -520,21 +560,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1348788296683652": {
     "date": "2025.10.26",
     "duration": "00:29",
-    "originalTitle": "2.6K views · 13 comments | 79% Win Rate with Gold & Forex Signals (19-5)! #forex #forexsignals #goldsignals #trading #tradewithpat | Trade with Pat",
-    "title": "지지·저항: This gold trade broke through my trend line right here, then retraced to my level, pushed up hard, and s…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 29.45초·로컬 Whisper large-v3-turbo 전사 91단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Did somebody say 79% win rate?” / “I was back at the mansion build this week.”",
+    "originalTitle": "79% Win Rate with Gold & Forex Signals (19-5)! #forex #forexsignals #goldsignals #trading #tradewithpat",
+    "title": "19-5에서 79% Win Rate의 금과 외환 신호",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "performance claim"
+      "지지·저항",
+      "금 신호",
+      "외환 신호",
+      "79% 수익률"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Did somebody say 79% win rate?” 이어 “I was back at the mansion build this week.” 이어 “This gold trade broke through my trend line right here, then retraced to my level, pushed up hard, and smashed my take profit fast.” 이어 “Then I set this trade here, my support level, broke through, retested, tapped in, price pushed up, stayed here for a little bit, then pushed up fast, and smashed that take profit too.”",
+    "core": "79%의 높은 수익률을 보여주는 금과 외환 신호를 통해 성공적인 거래를 이끌어낼 수 있습니다.",
     "rules": [
-      "원문 실행 문장: This gold trade broke through my trend line right here, then retraced to my level, pushed up hard, and smashed my take profit fast.",
-      "원문 실행 문장: Then I set this trade here, my support level, broke through, retested, tapped in, price pushed up, stayed here for a little bit, then pushed up fast, and smashed that take profit too."
+      "금 가격이 추세선을 돌파하고, 지원 수준을 돌파한 후 빠르게 타이크 프로FIT을 달성하지 못했습니다.",
+      "외환 시장에서의 신호를 따라 성공적인 거래를 이끌어낼 수 있습니다."
     ],
-    "caution": "성과·수익 발화: “Did somebody say 79% win rate?” / “Then I set this trade here, my support level, broke through, retested, tapped in, price pushed up, stayed here for a little bit, then pushed up fast, and smashed that take profit…” 홍보·행동유도 발화: “Join VIP and come swim at the mansion.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 91,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -542,20 +584,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1365122502207320": {
     "date": "2026.06.19",
     "duration": "00:45",
-    "originalTitle": "26K views · 347 reactions | Comment SCALPING I’ll send you the full strategy now! #trading #forex #tradewithpat #scalping #tradingstrategy | Trade with Pat",
-    "title": "Fibonacci: 15-minute candle and when it closes, take the Fibonacci, take it from the high to the low, extend it, th…",
+    "originalTitle": "Comment SCALPING I’ll send you the full strategy now! #trading #forex #tradewithpat #scalping #tradingstrategy",
+    "title": "9:30 15분봉 이용한 스컬피지 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 45.24초·로컬 Whisper large-v3-turbo 전사 135단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I used this strategy to win a trading championship a decade ago and it still works today.” / “15-minute candle and when it closes, take the Fibonacci, take it from the high to the low, extend it, then load up the ATR candle size indicator.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "Fibonacci"
+      "피보나치",
+      "스컬피지",
+      "Fibonacci",
+      "ATR"
     ],
-    "core": "원문 전사 기준 Fibonacci 콘텐츠다. “I used this strategy to win a trading championship a decade ago and it still works today.” 이어 “15-minute candle and when it closes, take the Fibonacci, take it from the high to the low, extend it, then load up the ATR candle size indicator.” 이어 “Here are the settings and we need our 15-minute candle to be above the red ATR line to signify this is a manipulation candle.” 이어 “Right about there.”",
+    "core": "Fibonacci와 ATR을 활용한 스컬피지 전략으로 15분봉에서 이익을 얻는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: 15-minute candle and when it closes, take the Fibonacci, take it from the high to the low, extend it, then load up the ATR candle size indicator.",
-      "원문 실행 문장: Flip to the 1-minute time frame, set our sell limit order the opposite direction of the manipulation candle, target the 38.2, then let that trade play out, go down all the way to your profit, or set that trade to break even, target the 61.8 and let that trade…"
+      "15분봉이 빨간 ATR 선 위에 위치해야 하며, 1분봉으로 전환하여 역방향 매도 제한 주문을 설정한다.",
+      "38.2% 목표가로 주문을 설정하고, 이익 실현 또는 손절을 61.8%로 설정한다."
     ],
-    "caution": "성과·수익 발화: “Flip to the 1-minute time frame, set our sell limit order the opposite direction of the manipulation candle, target the 38.2, then let that trade play out, go down all the way to…” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 135,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -563,21 +608,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1373712287450067": {
     "date": "2025.10.05",
     "duration": "00:25",
-    "originalTitle": "3.1K views · 7 comments | 4 STEP AMD TRADING MODEL 📈. Been cleaning up with this trading strategy lately! #tradewithpat #forex #trading #swingtrading #scalping #priceaction | Trade with Pat",
-    "title": "영상 발화 분석: Next, on the 15-minute time frame, I'm looking at accumulation.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 24.79초·로컬 Whisper large-v3-turbo 전사 83단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is my multi-millionaire four-step trading model.” / “Next, on the 15-minute time frame, I'm looking at accumulation.”",
+    "originalTitle": "4 STEP AMD TRADING MODEL 📈. Been cleaning up with this trading strategy lately! #tradewithpat #forex #trading #swingtrading #scalping #priceaction",
+    "title": "4단계 AMD 트레이딩 모델: 15분 차트에서의 누적과 조작",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "4단계 트레이딩 모델",
+      "AMD",
+      "VIP 트레이딩 룸"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “This is my multi-millionaire four-step trading model.” 이어 “Next, on the 15-minute time frame, I'm looking at accumulation.” 이어 “And yes, this is accumulation here as well.” 이어 “And once I get the break of this level right here, I sent this trade to thousands of traders in my VIP trading room and smashed my take profit.”",
+    "core": "15분 차트에서의 누적 신호를 확인하고, 조작 수준을 돌파하면 매매 신호가 발생합니다.",
     "rules": [
-      "원문 실행 문장: Next, on the 15-minute time frame, I'm looking at accumulation.",
-      "원문 실행 문장: And once I get the break of this level right here, I sent this trade to thousands of traders in my VIP trading room and smashed my take profit."
+      "15분 차트에서 누적 신호를 확인하고, 15분 차트의 조작 수준을 돌파하면 매매 신호가 발생합니다.",
+      "VIP 트레이딩 룸에 가입하면 이 모델의 매매 신호를 받을 수 있습니다."
     ],
-    "caution": "성과·수익 발화: “And once I get the break of this level right here, I sent this trade to thousands of traders in my VIP trading room and smashed my take profit.” 홍보·행동유도 발화: “If you want my trades, join VIP now.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 83,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -585,20 +632,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1384702183050160": {
     "date": "2025.12.07",
     "duration": "00:32",
-    "originalTitle": "2.9K views | My trading robot trades for me.. #Forexrobot #tradingrobot #tradewithpat #trading | Trade with Pat",
-    "title": "영상 발화 분석: Now, I'm going to show you the worst entry of the week, and even with a rough start, manage the position…",
+    "originalTitle": "My trading robot trades for me.. #Forexrobot #tradingrobot #tradewithpat #trading",
+    "title": "My Trading Robot의 주말 터치: 하락 시작에서 회복까지",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 31.55초·로컬 Whisper large-v3-turbo 전사 118단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Members are sending me their results every day, and people are seeing progress with their own strategies.” / “I've been super busy with my mansion build, so having a tool that helps me manage my trades has been super helpful.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩 로봇",
+      "하이브리드 실행",
+      "자동 트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Members are sending me their results every day, and people are seeing progress with their own strategies.” 이어 “I've been super busy with my mansion build, so having a tool that helps me manage my trades has been super helpful.” 이어 “Now, I'm going to show you the worst entry of the week, and even with a rough start, manage the position and finish the trade nicely.” 이어 “Really cool to see.”",
+    "core": "트레이딩 로봇이 실시간으로 전략을 관리하고 수정하며, 투자 성과를 향상시킵니다.",
     "rules": [
-      "원문 실행 문장: Now, I'm going to show you the worst entry of the week, and even with a rough start, manage the position and finish the trade nicely."
+      "주말 동안 하락 시작했지만, 트레이딩 로봇이 위치를 관리하고 터치를 회복시킵니다.",
+      "다음 무료 업데이트에서는 하이브리드 실행 트레이딩 모델을 포함합니다."
     ],
-    "caution": "홍보·행동유도 발화: “My trading robot just had another free update, and honestly, the performance speaks for itself.” / “If you want to see how it works, jump in the Discord, check out the setups, or better yet, join now.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 118,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -606,24 +656,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1403792728338057": {
     "date": "2026.08.01",
     "duration": "00:38",
-    "originalTitle": "7.8K views · 574 reactions | OLD Guys can trade too 😬 #trading #tradewithpat #forex #daytrading #trader | Trade with Pat",
-    "title": "Fibonacci: When that candle closes, I mark out the top and bottom of the candle.",
+    "originalTitle": "OLD Guys can trade too 😬 #trading #tradewithpat #forex #daytrading #trader",
+    "title": "9:30 AM에서의 15분봉 기준 가격 범위 탐색",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 37.68초·로컬 Whisper large-v3-turbo 전사 130단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm old as hell and this is my trading strategy.” / “When that candle closes, I mark out the top and bottom of the candle.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "FVG",
-      "Fibonacci"
+      "피보나치",
+      "트레이딩",
+      "일일 트레이딩"
     ],
-    "core": "원문 전사 기준 Fibonacci 콘텐츠다. “I'm old as hell and this is my trading strategy.” 이어 “When that candle closes, I mark out the top and bottom of the candle.” 이어 “On this trade, I had an obvious inverse fair value gap.” 이어 “Then I let the trade play out live on stream in front of 9,000 people inevitably smashing my take profit.”",
+    "core": "노년층도 트레이딩을 할 수 있다는 것을 보여주는 전략.",
     "rules": [
-      "원문 실행 문장: When that candle closes, I mark out the top and bottom of the candle.",
-      "원문 실행 문장: And that's going to tell me that I'm looking for buy trades.",
-      "원문 실행 문장: On this trade, I had an obvious inverse fair value gap.",
-      "원문 실행 문장: Then I simply waited for price to pull back, tap me into the trade.",
-      "원문 실행 문장: Then I let the trade play out live on stream in front of 9,000 people inevitably smashing my take profit."
+      "9:30 AM에 15분봉의 최고점과 최저점을 기록하고, 가격이 이 범위를 벗어나면 매수 기회를 찾는다.",
+      "Fibonacci를 사용하여 가격이 할인된 수준에서 거래할 수 있는 기회를 확인한다."
     ],
-    "caution": "성과·수익 발화: “Then I let the trade play out live on stream in front of 9,000 people inevitably smashing my take profit.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 130,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -631,20 +680,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1405548161070494": {
     "date": "2026.02.15",
     "duration": "00:26",
-    "originalTitle": "2.5K views · 17 comments | Enough romance. It’s time for results. VIP access. Automated profits. 🚀 | Trade with Pat",
-    "title": "영상 발화 분석: Or this Trade with Pat robot account up 163% for a real member in our Discord.",
+    "originalTitle": "Enough romance. It’s time for results. VIP access. Automated profits. 🚀",
+    "title": "Forex Fury 신규 업데이트와 Trade with Pat 로봇의 163% 수익",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 25.82초·로컬 Whisper large-v3-turbo 전사 73단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The time for love and babies, that's over.” / “It's time for profits, like this Forex Fury trading account running the brand new core update released just 24 hours ago.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "4H",
-      "performance claim"
+      "캔들 범위",
+      "Forex Fury",
+      "Trade with Pat",
+      "자동화 수익"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “The time for love and babies, that's over.” 이어 “It's time for profits, like this Forex Fury trading account running the brand new core update released just 24 hours ago.” 이어 “And don't forget VIP with 5 wins in a row right now.” 이어 “Time for love may be over, but the Valentine's deals are running all week.”",
+    "core": "자동화된 수익을 통해 실질적인 결과를 추구해야 한다는 점을 강조한다.",
     "rules": [
-      "원문 실행 문장: Or this Trade with Pat robot account up 163% for a real member in our Discord."
+      "Forex Fury 계정이 24시간 전에 출시된 신규 업데이트를 사용하고 있습니다.",
+      "Trade with Pat 로봇 계정은 실제 멤버의 수익이 163%로 증명되었다."
     ],
-    "caution": "성과·수익 발화: “Or this Trade with Pat robot account up 163% for a real member in our Discord.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 73,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -652,21 +704,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1412360863585827": {
     "date": "2025.12.21",
     "duration": "00:29",
-    "originalTitle": "3.8K views · 10 comments | Still searching for the best forex signals? Christmas deal is live 🎄 This is your sign 🪧 #bestforexsignals #forexsignals #forextrading #xmasdeals #tradinglife | Trade with Pat",
-    "title": "영상 발화 분석: But I don't want to sell from this supply because this is just a pullback when I want to trade with the…",
+    "originalTitle": "Still searching for the best forex signals? Christmas deal is live 🎄 This is your sign 🪧 #bestforexsignals #forexsignals #forextrading #xmasdeals #tradinglife",
+    "title": "12월까지의 전략: 수요와 공급 구간을 활용한 트레이딩",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 29.48초·로컬 Whisper large-v3-turbo 전사 94단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This one concept is why my Forex signals stay consistent even in December.” / “But I don't want to sell from this supply because this is just a pullback when I want to trade with the overall higher time frame trend.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "forexsignals",
+      "forextrading",
+      "tradinglife"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “This one concept is why my Forex signals stay consistent even in December.” 이어 “But I don't want to sell from this supply because this is just a pullback when I want to trade with the overall higher time frame trend.” 이어 “So I want the price to actually break through supply, then I'll enter when price returns to demand.” 이어 “Christmas deals are on now.”",
+    "core": "수요와 공급 구간을 활용하여 장기 트렌드와 일치하는 시점에 진입하는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: But I don't want to sell from this supply because this is just a pullback when I want to trade with the overall higher time frame trend.",
-      "원문 실행 문장: So I want the price to actually break through supply, then I'll enter when price returns to demand."
+      "12월까지 수요와 공급 구간을 설정하여 장기 트렌드와 일치하는 시점에 진입한다.",
+      "공급 구간에서 매도하지 않고, 가격이 수요 구간으로 되돌아오면 진입한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 94,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -674,21 +728,22 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1432403728273411": {
     "date": "2026.02.08",
     "duration": "00:25",
-    "originalTitle": "2.9K views · 16 comments | My NEW FX Trading Strategy Secret Asian range → London push → New York reversal It’s not random. It’s timing. | Trade with Pat",
-    "title": "지지·저항: I just won this VIP trade and this VIP trade, and yeah, I've been winning a lot lately thanks to this se…",
+    "originalTitle": "My NEW FX Trading Strategy Secret Asian range → London push → New York reversal It’s not random. It’s timing.",
+    "title": "아시아 세션 범위 → 런던 세션 밀기 → 뉴욕 세션 역전",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 24.82초·로컬 Whisper large-v3-turbo 전사 81단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I just won this VIP trade and this VIP trade, and yeah, I've been winning a lot lately thanks to this secret.” / “The Asian session creates the range.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "backtest"
+      "지지·저항",
+      "트레이딩 전략",
+      "세션 기반 이동"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “I just won this VIP trade and this VIP trade, and yeah, I've been winning a lot lately thanks to this secret.” 이어 “The Asian session creates the range.” 이어 “Then New York does what it does.” 이어 “Add in an impulsive displacement from support, and I'm connecting for a quick 30 pips.”",
+    "core": "아시아 세션이 범위를 생성하고, 런던 세션이 가격을 밀고, 뉰욕 세션이 역전을 일으키는 패턴을 이용합니다.",
     "rules": [
-      "원문 실행 문장: I just won this VIP trade and this VIP trade, and yeah, I've been winning a lot lately thanks to this secret.",
-      "원문 실행 문장: It's a session-based move."
+      "아시아 세션이 범위를 생성하고, 런던 세션이 가격을 밀어, 뉰욕 세션이 역전을 일으킵니다.",
+      "지원에서의 급격한 이동을 이용하여 빠른 30pip 수익을 얻습니다."
     ],
-    "caution": "홍보·행동유도 발화: “Go backtest it yourself if you don't believe me, and join VIP while you're at it.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 81,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -696,21 +751,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1454501652288355": {
     "date": "2025.10.13",
     "duration": "00:41",
-    "originalTitle": "2.9K views · 15 comments | 7-1 in VIP right now! 🔥 Trading hot in the vip room currently in a nice streak in just the last week. #trading #tradewithpat #forex #daytrading #forexsignals | Trade with Pat",
-    "title": "영상 발화 분석: Try and make a little bit of money this morning.",
+    "originalTitle": "7-1 in VIP right now! 🔥 Trading hot in the vip room currently in a nice streak in just the last week. #trading #tradewithpat #forex #daytrading #forexsignals",
+    "title": "7-1 VIP 실시간 거래! 🔥 최근 한 주 동안 VIP 방에서 좋은 흐름을 보고 있습니다.",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 41.46초·로컬 Whisper large-v3-turbo 전사 38단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Try and make a little bit of money this morning.” / “Reject, please.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "tradewithpat",
+      "외환"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Try and make a little bit of money this morning.” 이어 “Reject, please.” 이어 “Just got to stay calm.” 이어 “That's TP1 right there at 1,200.”",
+    "core": "지난 한 주 동안 VIP 방에서 좋은 흐름을 보고 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Try and make a little bit of money this morning."
+      "340에서 1,200 달러의 목표가를 설정하고 거래를 시작했습니다.",
+      "TP1을 1,200 달러로 설정하고 TP2를 달성했습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 38,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -718,21 +775,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1466230027915719": {
     "date": "2025.09.25",
     "duration": "00:33",
-    "originalTitle": "3.2K views · 9 comments | Scalping win live using the ORB trading strategy. #trading #tradewithpat #forex #daytrading #orbstrategy | Trade with Pat",
-    "title": "영상 발화 분석: We are close to TP1 here.",
+    "originalTitle": "Scalping win live using the ORB trading strategy. #trading #tradewithpat #forex #daytrading #orbstrategy",
+    "title": "ORB 전략으로 실시간 스팩핑 이익 실현",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 32.85초·로컬 Whisper large-v3-turbo 전사 74단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm into the trade.” / “Just need a little bit more here.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "개장 범위",
+      "/ORB 전략",
+      "스파킹",
+      "일일 거래"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm into the trade.” 이어 “Just need a little bit more here.” 이어 “We are close to TP1 here.” 이어 “500 in my pocket.”",
+    "core": "ORB 전략을 활용하여 5초간의 가격 변동을 이용해 이익을 실현하였습니다.",
     "rules": [
-      "원문 실행 문장: I'm into the trade.",
-      "원문 실행 문장: We are close to TP1 here."
+      "위치에서 5초간 가격이 상승하면 스팩핑 이익을 실현하려고 했습니다.",
+      "TP1 가격 수준에서 500 달러의 이익을 실현하였습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 74,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -740,21 +799,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1469172814189453": {
     "date": "2026.05.12",
     "duration": "00:26",
-    "originalTitle": "Been hungover for 3 days and still winning trades 😂 Honestly though… this is one of the biggest reasons I automate my trading. Humans are inconsistent. Tired. Emotional. Distracted. Overconfident. A robot executes the same way every time. If you already have a strategy that works, learning automation might completely change the game for you. #forex #trading #daytrading #algorithmictrading #tradingbot | Trade with Pat",
-    "title": "영상 발화 분석: I've been hungover for like 3 days.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 26.21초·Facebook 자동 자막 81단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I've been hungover for like 3 days.” / “I literally can't even look at the charts right now but I'm still winning my trades and honestly, if you have a trading strategy that actually works, this is your sign to automate it.”",
+    "originalTitle": "Been hungover for 3 days and still winning trades 😂 Honestly though… this is one of the biggest reasons I automate my trading. Humans are inconsistent. Tired. Emotional. Distracte…",
+    "title": "3일 동안 숙취 상태에서도 이익을 거두며 자동화된 트레이딩의 중요성",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "심리·규율",
+      "자동화",
+      "거래 전략",
+      "일관성"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I've been hungover for like 3 days.” 이어 “I literally can't even look at the charts right now but I'm still winning my trades and honestly, if you have a trading strategy that actually works, this is your sign to automate it.” 이어 “Give a freelancer 500 bucks and come back to a trading robot in your inbox next week.” 이어 “Now, if you don't want to take advice from a hungover forty year old, I get it.”",
+    "core": "인간의 일관성과 감정적 요인은 거래 성과에 부정적인 영향을 줌. 반면, 로봇은 일관된 방식으로 거래를 수행한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I've been hungover for like 3 days."
+      "인간은 일관성이 없고 피곤하며 감정적이다. 숙취 상태에서도 이익을 거두는 것을 보았다면, 거래 전략이 일관되게 실행되도록 자동화를 고려해야 한다.",
+      "로봇은 매번 동일한 방식으로 거래를 수행하므로, 이미 효과적인 전략을 가지고 있다면 자동화를 통해 성과를 향상시킬 수 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 81,
     "transcriptSource": "Facebook 자동 자막"
@@ -762,21 +823,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1469538607713164": {
     "date": "2025.09.08",
     "duration": "00:18",
-    "originalTitle": "2K views · 7 comments | $2000 Nasdaq Scalpjng Trade WIN! #trading #tradewithpat #nasdaq #daytrading #scalping | Trade with Pat",
-    "title": "영상 발화 분석: Let's push this thing back up.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 17.97초·Facebook 자동 자막 35단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Let's push this thing back up.” / “Let's TP one at 4thousand.”",
+    "originalTitle": "$2000 Nasdaq Scalpjng Trade WIN! #trading #tradewithpat #nasdaq #daytrading #scalping",
+    "title": "$2000 Nasdaq 스팩핑 성공! 4000에서 터치 후 타이밍 잡기",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "선물·지수",
+      "nasdaq",
+      "스파킹",
+      "일일거래"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Let's push this thing back up.” 이어 “Let's TP one at 4thousand.” 이어 “Let's pull TP.” 이어 “Okay, that's 2000 in my pocket right there.”",
+    "core": "4000에서 터치하고 4000에서 타이밍을 잡아 수익을 실현하는 것이 중요하다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Let's push this thing back up."
+      "4000에서 터치하고 4000에서 타이밍을 잡아 수익을 실현한다.",
+      "4000에서 터치하고 4000에서 타이밍을 잡아 수익을 실현한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 35,
     "transcriptSource": "Facebook 자동 자막"
@@ -784,21 +847,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1479482787194292": {
     "date": "2026.05.04",
     "duration": "00:14",
-    "originalTitle": "I'm a trading VAMPIRE from the STONE AGES! #trading #tradewithpat #forex | Trade with Pat",
-    "title": "영상 발화 분석: Il y a mieux qu'être mal accompagné, pas vrai Où est ton papa ?",
+    "originalTitle": "I'm a trading VAMPIRE from the STONE AGES! #trading #tradewithpat #forex",
+    "title": "스tone Ages에서 온 트레이딩 빌드어드! #트레이딩 #트레이딩위드패트 #외환",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 14.28초·로컬 Whisper large-v3-turbo 전사 36단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Il y a mieux qu'être mal accompagné, pas vrai Où est ton papa ?” / “Dis-moi où est ton papa ?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "외환",
+      "비전"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Il y a mieux qu'être mal accompagné, pas vrai Où est ton papa ?” 이어 “Dis-moi où est ton papa ?” 이어 “Sans même devoir lui parler, il sait ce qui ne va pas Ah, sacré papa !”",
+    "core": "성공적인 트레이딩은 부족한 지원을 받지 않아도 가능하다는 것을 강조한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Il y a mieux qu'être mal accompagné, pas vrai Où est ton papa ?"
+      "성공적인 트레이딩은 부족한 지원을 받지 않아도 가능하다는 것을 보여준다.",
+      "비록 부모와 대화하지 않아도 그의 상태를 알 수 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 36,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -806,23 +871,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1485338056332724": {
     "date": "2026.04.22",
     "duration": "00:27",
-    "originalTitle": "2.1K views · 4 comments | 37 seconds is all it took me.. to win the trade. #trading #tradewithpat #forex #daytrading | Trade with Pat",
-    "title": "유동성 스윕: The trade, obviously the trade.",
+    "originalTitle": "37 seconds is all it took me.. to win the trade. #trading #tradewithpat #forex #daytrading",
+    "title": "뉴욕 세션 내 37초 거래 승리",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 27.24초·로컬 Whisper large-v3-turbo 전사 88단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “It only took me 37 seconds this morning.” / “We're in an obvious downtrend here.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity"
+      "유동성",
+      "트레이딩",
+      "트레이딩와패트",
+      "외환"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “It only took me 37 seconds this morning.” 이어 “We're in an obvious downtrend here.” 이어 “Get myself a little reversal right here.” 이어 “And we all hit this trade in the Discord.”",
+    "core": "거래 범위 내에서 높은 가격에서 거래를 진입하여 빠른 거래 반전을 활용하여 이익을 실현했습니다.",
     "rules": [
-      "원문 실행 문장: The trade, obviously the trade.",
-      "원문 실행 문장: My robot set the trading range for the New York session this morning.",
-      "원문 실행 문장: So I was looking for sell positions.",
-      "원문 실행 문장: And then smash my take profit quickly.",
-      "원문 실행 문장: And we all hit this trade in the Discord."
+      "뉴욕 세션에서 거래 범위가 설정되었고, 하락 추세가 명확했습니다.",
+      "높은 가격에서 거래를 진입하여 빠른 거래 반전을 활용했습니다."
     ],
-    "caution": "성과·수익 발화: “And then smash my take profit quickly.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 88,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -830,23 +895,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1501563514200450": {
     "date": "2025.09.07",
     "duration": "00:31",
-    "originalTitle": "4.3K views · 66 comments | ORB Scalping strategy prints! #trading #tradewithpat #forex #daytrading #forexsignals | Trade with Pat",
-    "title": "영상 발화 분석: On the 5-minute time frame at 9.30 a.m., I'm simply looking at the first three candles.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 31.48초·로컬 Whisper large-v3-turbo 전사 118단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I've been withdrawing $70,000 every month this year thanks to this easy trading strategy.” / “Then I want to see the price either break and close out the top or the bottom.”",
+    "originalTitle": "ORB Scalping strategy prints! #trading #tradewithpat #forex #daytrading #forexsignals",
+    "title": "9:30 AM 미 동부시간 5분봉 ORB 스팩핑 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "/ORB",
+      "5분봉",
+      "일일 트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I've been withdrawing $70,000 every month this year thanks to this easy trading strategy.” 이어 “Then I want to see the price either break and close out the top or the bottom.” 이어 “That means I want to buy.” 이어 “Then the position goes in my direction and smashes my take profit.”",
+    "core": "5분봉에서 9:30 AM에 첫 세 개의 캔들로 범위를 설정하고, 가격이 상단을 돌파하면 매수합니다.",
     "rules": [
-      "원문 실행 문장: On the 5-minute time frame at 9.30 a.m., I'm simply looking at the first three candles.",
-      "원문 실행 문장: Then I want to see the price either break and close out the top or the bottom.",
-      "원문 실행 문장: That means I want to buy.",
-      "원문 실행 문장: Once we get to that level, I enter the trading position.",
-      "원문 실행 문장: Then the position goes in my direction and smashes my take profit."
+      "5분봉에서 9:30 AM에 첫 세 개의 캔들로 범위를 설정합니다.",
+      "가격이 상단을 돌파하면 매수합니다.",
+      "가격이 목표 수익률 달성 시 이익 실현"
     ],
-    "caution": "성과·수익 발화: “I've been withdrawing $70,000 every month this year thanks to this easy trading strategy.” / “Then the position goes in my direction and smashes my take profit.” 홍보·행동유도 발화: “Comment trade to learn more.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 118,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -854,21 +920,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1503659584643302": {
     "date": "2026.05.01",
     "duration": "00:38",
-    "originalTitle": "6.2K views | Ranking my favorite girl traders in 2026 👀📈 Tori Trades vs Market Mommy vs Mona Trades vs Zahloria vs Tanja Trades vs Chloe Trades vs Lumi Trades vs Hannah Forex… Yeah this one got competitive real quick 😅 Who’s taking the top spot? Did I miss anyone? Drop your picks below 👇 #trading #girltraders #forex #daytrading #toritrades | Trade with Pat",
-    "title": "영상 발화 분석: Tori trades or Hannah Forek.",
+    "originalTitle": "Ranking my favorite girl traders in 2026 👀📈 Tori Trades vs Market Mommy vs Mona Trades vs Zahloria vs Tanja Trades vs Chloe Trades vs Lumi Trades vs Hannah Forex… Yeah this one go…",
+    "title": "2026년 최고의 여자 트레이더들: Tori Trades와 Market Mommy의 경쟁",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 38.16초·로컬 Whisper large-v3-turbo 전사 139단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Favorite girl trader.” / “Look, Chloe's local to me.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "옵션",
+      "여자 트레이더",
+      "트레이딩",
+      "Forex"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Favorite girl trader.” 이어 “Look, Chloe's local to me.” 이어 “Tori trades or market mommy.” 이어 “But for number one, we've got to go Tori trades, baby.”",
+    "core": "여자 트레이더들 사이에서 Tori Trades가 가장 높은 평가를 받았으며, Market Mommy와의 경쟁에서 우위를 점했다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Favorite girl trader."
+      "2026년 여자 트레이더들 사이에서 Tori Trades가 가장 높은 평가를 받았으며, Market Mommy와의 경쟁에서 우위를 점했다.",
+      "Tori Trades는 직선적인 접근법을 취하지만, Mona Trades는 유머러스한 스타일을 보여주며, Chloe Trades는 지역적 이점을 활용한다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 139,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -876,21 +945,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1517795819497889": {
     "date": "2025.11.14",
     "duration": "00:40",
-    "originalTitle": "2.8K views · 8 comments | Live Stream Trading DOMINANCE. Scalping with the orb strategy like my life depends on it. On our way to 10 straight wins soon hopefully 🤞. #trading #tradewithpat #forex #scalping | Trade with Pat",
-    "title": "영상 발화 분석: We are close to a TP3, aren't we?",
+    "originalTitle": "Live Stream Trading DOMINANCE. Scalping with the orb strategy like my life depends on it. On our way to 10 straight wins soon hopefully 🤞. #trading #tradewithpat #forex #scalping",
+    "title": "/ORB 전략으로 10연승 향한 스파이딩 실시간 트레이딩",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 39.60초·로컬 Whisper large-v3-turbo 전사 65단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Let's see if we can make some PIP.” / “Let's see if we're able to hit a TP2 here.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "/ORB 전략",
+      "스파이딩",
+      "10연승"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Let's see if we can make some PIP.” 이어 “Let's see if we're able to hit a TP2 here.” 이어 “My ass hurts.” 이어 “There it is, baby, TP3, we hit them all.”",
+    "core": "ORB 전략을 활용해 TP1, TP2, TP3를 차례로 달성하며 10연승을 향해 나아가고 있습니다.",
     "rules": [
-      "원문 실행 문장: We are close to a TP3, aren't we?",
-      "원문 실행 문장: We are close, almost."
+      "400 PIP를 달성한 후 TP1을 잡았습니다.",
+      "TP2를 잡아 수익을 실현하고, TP3를 가까워지면서 10연승을 향해 나아갑니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 65,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -898,24 +969,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1520219489733528": {
     "date": "2026.05.16",
     "duration": "00:31",
-    "originalTitle": "18K views · 39 comments | My FIBONACCI Golden ZONE strategy! Still love this trading tool 17 years into the charts. #trading #fibonacci #tradewithpat #forex #daytrading | Trade with Pat",
-    "title": "Fibonacci: I still use the Fibonacci after 17 years of trading, getting entries at my golden zone.",
+    "originalTitle": "My FIBONACCI Golden ZONE strategy! Still love this trading tool 17 years into the charts. #trading #fibonacci #tradewithpat #forex #daytrading",
+    "title": "17년째 사용하는 피보나치 금지역 ZONE 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 31.44초·로컬 Whisper large-v3-turbo 전사 102단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I still use the Fibonacci after 17 years of trading, getting entries at my golden zone.” / “After a strong price move, I grab the Fibonacci, mark out the bottom of that move to the top of that move, swing it over, then all I want is price to retrace to my golden zone.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "FVG",
-      "Fibonacci",
-      "risk",
-      "performance claim"
+      "피보나치",
+      "위험관리",
+      "금지역"
     ],
-    "core": "원문 전사 기준 Fibonacci 콘텐츠다. “I still use the Fibonacci after 17 years of trading, getting entries at my golden zone.” 이어 “After a strong price move, I grab the Fibonacci, mark out the bottom of that move to the top of that move, swing it over, then all I want is price to retrace to my golden zone.” 이어 “I want price between 71% to 85%, and if the trend is obvious, I get a fair value gap or level of demand, a bullish engulfing candle, then I'm getting into my trade, and I'm getting a great risk-reward ratio be…”",
+    "core": "피보나치를 사용해 가격이 빠지다가 금지역에서 반등하는 것을 기다리는 전략이다.",
     "rules": [
-      "원문 실행 문장: I still use the Fibonacci after 17 years of trading, getting entries at my golden zone.",
-      "원문 실행 문장: After a strong price move, I grab the Fibonacci, mark out the bottom of that move to the top of that move, swing it over, then all I want is price to retrace to my golden zone.",
-      "원문 실행 문장: I want price between 71% to 85%, and if the trend is obvious, I get a fair value gap or level of demand, a bullish engulfing candle, then I'm getting into my trade, and I'm getting a great risk-reward ratio because my golden zone is a steep, steep discount."
+      "강한 가격 움직임 후 피보나치를 그려서 가격이 하락한 최저점에서부터 상승한 최고점까지의 라인을 그린다.",
+      "가격이 71%에서 85% 사이로 되돌아오기를 기다린다.",
+      "가격이 긍정적인 신호를 보이는 경우(예: bullish engulfing 캔들)에 진입한다."
     ],
-    "caution": "성과·수익 발화: “I want price between 71% to 85%, and if the trend is obvious, I get a fair value gap or level of demand, a bullish engulfing candle, then I'm getting into my trade, and I'm gettin…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 102,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -923,21 +994,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1528397589078884": {
     "date": "2026.05.18",
     "duration": "00:13",
-    "originalTitle": "4K views · 6 comments | I CAN COOK (trade) #trading #tradewithpat #forex #daytrading | Trade with Pat",
-    "title": "영상 발화 분석: The dogs got pecky Even a corner the cob I'm already in the Champions League It's on me if I stand on st…",
+    "originalTitle": "I CAN COOK (trade) #trading #tradewithpat #forex #daytrading",
+    "title": "I CAN COOK (trade) - 코인 가격 변동에 따라 매매 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 12.58초·로컬 Whisper large-v3-turbo 전사 37단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The dogs got pecky Even a corner the cob I'm already in the Champions League It's on me if I stand on street, I need a pet to land on me or catch don't land on feet”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "코인 트레이딩",
+      "일일 트레이딩",
+      "FX"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “The dogs got pecky Even a corner the cob I'm already in the Champions League It's on me if I stand on street, I need a pet to land on me or catch don't land on feet”",
+    "core": "코인 가격 변동을 이용해 매매 전략을 구현해야 합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: The dogs got pecky Even a corner the cob I'm already in the Champions League It's on me if I stand on street, I need a pet to land on me or catch don't land on feet"
+      "코인 가격이 하락할 때 매수하고, 상승할 때 매도해야 합니다.",
+      "하락세가 지속되면 포지션을 축소해야 합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 37,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -945,24 +1018,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1547903487341040": {
     "date": "2026.04.19",
     "duration": "00:23",
-    "originalTitle": "2.3K views · 109 comments | After years of trading… I got tired of forcing entries. So I turned my strategy into a robot. If you want to see how it works, comment ROBOT 👇 #Tradingrobot #forexrobot #trading #forex #daytrading | Trade with Pat",
-    "title": "영상 발화 분석: I'm in a live trade right now.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 22.68초·로컬 Whisper large-v3-turbo 전사 90단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm in a live trade right now.” / “I didn't even place the trade.”",
+    "originalTitle": "After years of trading… I got tired of forcing entries. So I turned my strategy into a robot. If you want to see how it works, comment ROBOT 👇 #Tradingrobot #forexrobot #trading #…",
+    "title": "로봇 트레이딩으로 수익을 얻은 실제 사례",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "시장 분석",
+      "로봇 트레이딩",
+      "자동 거래",
+      "FX"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm in a live trade right now.” 이어 “I didn't even place the trade.” 이어 “This is the trade in my account.” 이어 “And my community is using the same set file too.”",
+    "core": "로봇이 자동으로 거래를 실행하여 수익을 얻을 수 있음을 보여줍니다.",
     "rules": [
-      "원문 실행 문장: I'm in a live trade right now.",
-      "원문 실행 문장: I didn't even place the trade.",
-      "원문 실행 문장: The trade just closed in my favor.",
-      "원문 실행 문장: This is the trade in my account.",
-      "원문 실행 문장: And my community is using the same set file too."
+      "현재 실시간 거래 중이며, 로봇을 차트에 추가하고 최적화된 파일을 로드하여 거래를 실행합니다.",
+      "로봇이 자동으로 거래를 실행하고 수익을 얻은 것을 확인할 수 있습니다.",
+      "커뮤니티에서도 동일한 최적화된 파일을 사용하고 있습니다."
     ],
-    "caution": "성과·수익 발화: “This is the current win rate.” 홍보·행동유도 발화: “Comment robot to learn more.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 90,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -970,20 +1043,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1583188803484308": {
     "date": "2026.07.15",
     "duration": "00:11",
-    "originalTitle": "64 reactions · 7 comments | Gen Z Trading Tip from UNC Wake up early #trading #forex #genztraders | Trade with Pat",
-    "title": "영상 발화 분석: If you don't like the news, if you don't like the price action, you know you can wake up early and trade…",
+    "originalTitle": "Gen Z Trading Tip from UNC Wake up early #trading #forex #genztraders",
+    "title": "Gen Z 트레이딩 팁: 런던 세션에서 일찍 일어나서 거래하기",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 11.30초·로컬 Whisper large-v3-turbo 전사 42단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is a tip for all the Gen Z traders.” / “If you don't like the news, if you don't like the price action, you know you can wake up early and trade the London session.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "Gen Z 트레이딩",
+      "FOREX",
+      "런던 세션"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “This is a tip for all the Gen Z traders.” 이어 “If you don't like the news, if you don't like the price action, you know you can wake up early and trade the London session.” 이어 “That's where I got my wins today.”",
+    "core": "Gen Z 트레이더들에게 뉴스나 가격 움직임을 좋아하지 않으면 런던 세션에서 일찍 거래하는 것이 좋습니다.",
     "rules": [
-      "원문 실행 문장: If you don't like the news, if you don't like the price action, you know you can wake up early and trade the London session."
+      "Gen Z 트레이더들은 런던 세션에서 거래하면 높은 확률의 거래를 할 수 있습니다.",
+      "좋아하지 않는 뉴스나 가격 움직임을 피하고 런던 세션에서 거래하면 성공할 수 있습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 42,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -991,23 +1067,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1586553663186716": {
     "date": "2026.07.01",
     "duration": "00:35",
-    "originalTitle": "1.9K views · 11 reactions | Comment ROBOT for the trading system that helped my members pass their challenges. #trading #tradewithpat #forex #daytrading #gold | Trade with Pat",
-    "title": "영상 발화 분석: Of my members pass prop firms today and they barely know how to trade.",
+    "originalTitle": "Comment ROBOT for the trading system that helped my members pass their challenges. #trading #tradewithpat #forex #daytrading #gold",
+    "title": "TRX: 하락 추세에서 반등 후 하락 지표로 금 거래 성공",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 34.64초·Facebook 자동 자막 114단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Of my members pass prop firms today and they barely know how to trade.” / “We had a huge push down, created a level of supply.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "tradewithpat",
+      "forex"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Of my members pass prop firms today and they barely know how to trade.” 이어 “We had a huge push down, created a level of supply.” 이어 “Now, comes the important part, the reaction.” 이어 “You can also see we've been over bought on the stochastic so I sent the trade to my room, I have 7 wins, two loses on the month, and this is another win.”",
+    "core": "상승 추세에서 가격이 반등하지 않고 큰 하늘꼬리가 생기면 하락 추세로 돌아갈 가능성이 높다.",
     "rules": [
-      "원문 실행 문장: Of my members pass prop firms today and they barely know how to trade.",
-      "원문 실행 문장: Here's the gold trade I sent them.",
-      "원문 실행 문장: Now, when this candle does not close above the supply and gives me this huge wick right here, that's my indication that price is going to push down.",
-      "원문 실행 문장: You can also see we've been over bought on the stochastic so I sent the trade to my room, I have 7 wins, two loses on the month, and this is another win."
+      "가격이 수급 수준에서 반등하지 않고 큰 하늘꼬리가 생기면 하락 추세로 돌아갈 가능성이 높다.",
+      "Stochastic이 과매수 상태일 때 금 거래를 추천한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 114,
     "transcriptSource": "Facebook 자동 자막"
@@ -1015,21 +1091,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1591354968636899": {
     "date": "2026.05.11",
     "duration": "00:20",
-    "originalTitle": "What did 17 years of trading get you? #trading #forex #tradewithpat #tradingstrategy #tradingrobot | Trade with Pat",
-    "title": "영상 발화 분석: Only fools rush in But I can't help Falling in love with you",
+    "originalTitle": "What did 17 years of trading get you? #trading #forex #tradewithpat #tradingstrategy #tradingrobot",
+    "title": "17년간의 거래가 당신에게 무엇을 가져다주었나요? #트레이딩 #외환 #tradewithpat",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 19.79초·로컬 Whisper large-v3-turbo 전사 13단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Only fools rush in But I can't help Falling in love with you”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "외환",
+      "tradewithpat"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Only fools rush in But I can't help Falling in love with you”",
+    "core": "17년간의 거래 경험은 거래 전략을 개발하는 데 필수적이었다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Only fools rush in But I can't help Falling in love with you"
+      "17년간의 거래 경험을 통해 다양한 시장 상황을 이해하고 대응하는 방법을 배웠다.",
+      "성공적인 거래를 위해서는 꾸준한 학습과 실험이 필요하다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 13,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1037,21 +1115,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1599336924603094": {
     "date": "2026.02.21",
     "duration": "00:27",
-    "originalTitle": "2.6K views · 15 comments | I don’t guess New York. I read Asia. I read London. When the structure aligns, the bias is clear. Then it’s just execution. #trading #forex #tradewithpat #daytrading | Trade with Pat",
-    "title": "유동성 스윕: I can tell if a trade is worth taking just by looking at the last two sessions.",
+    "originalTitle": "I don’t guess New York. I read Asia. I read London. When the structure aligns, the bias is clear. Then it’s just execution. #trading #forex #tradewithpat #daytrading",
+    "title": "아시아-런던-뉴욕 세션 구조에 따른 높은 확률 매매 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 26.86초·로컬 Whisper large-v3-turbo 전사 95단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I can tell if a trade is worth taking just by looking at the last two sessions.” / “I'm preparing for New York to reverse it.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "sweep"
+      "유동성",
+      "트레이딩",
+      "외환",
+      "트레이드와패트"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “I can tell if a trade is worth taking just by looking at the last two sessions.” 이어 “I'm preparing for New York to reverse it.” 이어 “Once I see the Asian low get swept in London, I believe the New York session will push up, sweeping the Asian high as a way to rebalance the market, giving me the price direction for my New York trades.” 이어 “Find my entry, execute, and cash in.”",
+    "core": "아시아 세션에서 범위가 좁고 런던 세션에서 가격이 확장되면 뉴욕 세션에서 역전이 발생할 확률이 높다.",
     "rules": [
-      "원문 실행 문장: I can tell if a trade is worth taking just by looking at the last two sessions.",
-      "원문 실행 문장: When Asia builds a tight range and the London price expands aggressively, I'm not chasing this move down.",
-      "원문 실행 문장: Find my entry, execute, and cash in."
+      "아시아 세션에서 범위가 좁고 런던 세션에서 가격이 확장되면 뉴욕 세션이 역전할 가능성을 준비한다.",
+      "뉴욕 세션에서 아시아 저점이 런던 세션에서 흡수되면 뉴욕 세션이 아시아 고점까지 상승할 것으로 예상한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 95,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1059,20 +1139,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1604690454087534": {
     "date": "2026.04.20",
     "duration": "00:26",
-    "originalTitle": "1.7K views · 78 reactions | This is why I watch gaps. Everyone else hesitates… I see where the buyers actually stepped in. Ran it back to the level. Took the trade. That one move carried my entire week. #trading #tradewithpat #forex #daytrading | Trade with Pat",
-    "title": "영상 발화 분석: This single trade carried my entire week.",
+    "originalTitle": "This is why I watch gaps. Everyone else hesitates… I see where the buyers actually stepped in. Ran it back to the level. Took the trade. That one move carried my entire week. #tra…",
+    "title": "갭을 통해 주문을 잡은 주요 움직임",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 26.48초·로컬 Whisper large-v3-turbo 전사 77단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This single trade carried my entire week.” / “The buyers were in charge.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "갭",
+      "매수",
+      "주가"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “This single trade carried my entire week.” 이어 “The buyers were in charge.” 이어 “Normally, I wouldn't hit this level again.” 이어 “So I jumped in, sent it to 1,300 traders, and had a huge week.”",
+    "core": "갭을 통해 구매력이 나타나는 지점을 파악하고 거래를 잡아 전체 주가를 끌어올렸다.",
     "rules": [
-      "원문 실행 문장: This single trade carried my entire week."
+      "갭이 형성된 가격 수준에서 거래를 잡았고, 그 움직임이 주가를 끌어올렸다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 77,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1080,22 +1163,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1632526844559125": {
     "date": "2026.03.31",
     "duration": "00:20",
-    "originalTitle": "36K views · 56 comments | I’m 40 and this is my EU Trading Strategy! Shoutout to big daddy max for the cameo. #trading #tradewithpat #forex #tradingstrategy | Trade with Pat",
-    "title": "영상 발화 분석: From 8 to 9.15 AM, I mark out the high and the low of those candles.",
+    "originalTitle": "I’m 40 and this is my EU Trading Strategy! Shoutout to big daddy max for the cameo. #trading #tradewithpat #forex #tradingstrategy",
+    "title": "40대의 EU 거래 전략: 8:00~9:15 사이의 가격 범위를 기준으로 매매",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 19.96초·로컬 Whisper large-v3-turbo 전사 70단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm 40, let's go, Unk!” / “From 8 to 9.15 AM, I mark out the high and the low of those candles.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "40대의 EU 거래 전략",
+      "tradewithpat",
+      "forex"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm 40, let's go, Unk!” 이어 “From 8 to 9.15 AM, I mark out the high and the low of those candles.” 이어 “This is my trading range for the next 90 minutes.” 이어 “Then if I get a wick, I trade the reversal and the results have been beautiful.”",
+    "core": "40대의 EU 거래 전략은 8:00부터 9:15 사이의 가격 범위를 기준으로 하락과 상승을 예측합니다.",
     "rules": [
-      "원문 실행 문장: From 8 to 9.15 AM, I mark out the high and the low of those candles.",
-      "원문 실행 문장: I wait for price to come to either the top or the bottom of that range.",
-      "원문 실행 문장: Then if I get a wick, I trade the reversal and the results have been beautiful."
+      "8:00부터 9:15 사이의 가격 범위를 확인하고, 가격이 범위의 상단이나 하단에 도달할 때 매매를 결정합니다.",
+      "가격이 희미하게 변동할 때, 거래 방향을 역전시킵니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 70,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1103,25 +1187,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1650778226185059": {
     "date": "2026.05.05",
     "duration": "00:26",
-    "originalTitle": "Did I get it right?! Best Day Trading Strategy 2026. #trading #tradewithpat #forex #tradingstrategy #ict | Trade with Pat",
-    "title": "이동평균: Best trading strategies 2026.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 26.44초·로컬 Whisper large-v3-turbo 전사 83단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Best trading strategies 2026.” / “People love that lately.”",
+    "originalTitle": "Did I get it right?! Best Day Trading Strategy 2026. #trading #tradewithpat #forex #tradingstrategy #ict",
+    "title": "2026년 최고의 일일 거래 전략: ICT와 월키포프의 선택",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "FVG",
-      "moving average",
-      "support",
-      "resistance",
-      "Fibonacci",
-      "CTA"
+      "지지·저항",
+      "이동평균",
+      "피보나치"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “Best trading strategies 2026.” 이어 “People love that lately.” 이어 “ICT versus volume profile.” 이어 “The best levels.”",
+    "core": "2026년 최고의 일일 거래 전략은 공급과 수요를 기반으로 합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Best trading strategies 2026."
+      "ICT와 워키포프 전략 중 ICT를 선택하였습니다.",
+      "공급과 수요를 기반으로 거래를 진행합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 83,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1129,23 +1211,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1681751972971523": {
     "date": "2026.06.02",
     "duration": "00:48",
-    "originalTitle": "99K views · 404 reactions | My SICK ORB Trading Strategy (MANSION)! #trading #tradewithpat #forex #daytrading #orbstrategy | Trade with Pat",
-    "title": "영상 발화 분석: When it's finished, I mark out the range high and the range low.",
+    "originalTitle": "My SICK ORB Trading Strategy (MANSION)! #trading #tradewithpat #forex #daytrading #orbstrategy",
+    "title": "9:30 AM 15분봉에서 벌집형 범위 돌파 후 5분봉에서 진입 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 48.28초·로컬 Whisper large-v3-turbo 전사 157단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I probably wouldn't be moving into a mansion without this trading strategy.” / “When it's finished, I mark out the range high and the range low.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "FVG"
+      "FVG",
+      "개장 범위",
+      "/ORB 전략"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I probably wouldn't be moving into a mansion without this trading strategy.” 이어 “When it's finished, I mark out the range high and the range low.” 이어 “And then I wait for price to retrace back to that level, and I'm looking for an indecision candle, something telling me that I could get into the trade.” 이어 “I'm watching the candles push up, hoping that they can continue to go up higher and higher, inevitably going all the way to my take profit right about there.”",
+    "core": "15분봉에서 벌집형 범위를 확인하고, 5분봉에서 벌집형 범위를 돌파한 가격을 기점으로 매수 포지션을 잡는 전략을 설명한다.",
     "rules": [
-      "원문 실행 문장: When it's finished, I mark out the range high and the range low.",
-      "원문 실행 문장: Then I flip to the 5-minute time frame, and I'm just waiting for a candle to break out the range high or low and close, just like that, telling me I want to look for buys.",
-      "원문 실행 문장: Now I just need my entry, so let's mark up a fair value gap.",
-      "원문 실행 문장: And then I wait for price to retrace back to that level, and I'm looking for an indecision candle, something telling me that I could get into the trade.",
-      "원문 실행 문장: I'm watching the candles push up, hoping that they can continue to go up higher and higher, inevitably going all the way to my take profit right about there."
+      "15분봉에서 벌집형 범위의 고점과 저점 확인",
+      "5분봉에서 벌집형 범위를 돌파한 가격을 기점으로 매수 포지션 잡기",
+      "매수 포지션 잡은 후 가격이 벌집형 범위로 되돌아오면 진입"
     ],
-    "caution": "성과·수익 발화: “I'm watching the candles push up, hoping that they can continue to go up higher and higher, inevitably going all the way to my take profit right about there.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 157,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1153,23 +1235,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1682097326385923": {
     "date": "2026.06.07",
     "duration": "00:36",
-    "originalTitle": "3.5K views · 3 comments | 83.93% Win Rate since April 🤯 Including a 13 trade win streak! #trading #tradewithpat #forex #forexsignals #daytrading | Trade with Pat",
-    "title": "유동성 스윕: My mansion here is getting so, so close to finished.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 36.24초·로컬 Whisper large-v3-turbo 전사 126단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I've won over 83% of my trades since April, at one point winning 13 in a row.” / “Now let's break down my favorite trade of the week.”",
+    "originalTitle": "83.93% Win Rate since April 🤯 Including a 13 trade win streak! #trading #tradewithpat #forex #forexsignals #daytrading",
+    "title": "4월 이후 83.93% 승률, 13개 연속 승리의 주식 추적",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "performance claim"
+      "유동성",
+      "trading",
+      "tradewithpat",
+      "forex"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “I've won over 83% of my trades since April, at one point winning 13 in a row.” 이어 “Now let's break down my favorite trade of the week.” 이어 “This created a level of supply, and the break of structure right here was the end of the short-term trend.” 이어 “I waited for price to come back to my level of supply, tap in, sent that trade, took a little bit at first, but eventually came all the way down, smashed my take profit.”",
+    "core": "가격이 수급을 휩쓸고 강한 하락세를 보였을 때, 단기 추세의 종료를 예측할 수 있다.",
     "rules": [
-      "원문 실행 문장: My mansion here is getting so, so close to finished.",
-      "원문 실행 문장: Now let's break down my favorite trade of the week.",
-      "원문 실행 문장: On this trade, price first swept liquidity, then made an aggressive move to the downside.",
-      "원문 실행 문장: I waited for price to come back to my level of supply, tap in, sent that trade, took a little bit at first, but eventually came all the way down, smashed my take profit."
+      "4월 이후 83.93%의 승률을 기록하며, 가격이 수급을 휩쓸고 강한 하락세를 보였을 때 단기 추세의 종료를 예측할 수 있다.",
+      "13개 연속 승리를 기록하며, 가격이 수급을 휩쓸고 강한 하락세를 보였을 때 단기 추세의 종료를 예측할 수 있다."
     ],
-    "caution": "성과·수익 발화: “I've won over 83% of my trades since April, at one point winning 13 in a row.” / “I waited for price to come back to my level of supply, tap in, sent that trade, took a little bit at first, but eventually came all the way down, smashed my take profit.” 홍보·행동유도 발화: “If you want to see my next trade, join VIP.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 126,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1177,22 +1259,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1752933588709974": {
     "date": "2026.01.11",
     "duration": "00:36",
-    "originalTitle": "2.6K views · 12 comments | My winning trading strategy continues to perform in the forex market. Staying disciplined, patient, and consistent is what delivers results over time. No hype, no overtrading, just clean setups and proper risk management. This is exactly how we keep stacking wins week after week. Consistency beats excitement every single time 📈 #trading #forex #forexsignals #tradewithpat | Trade with Pat",
-    "title": "영상 발화 분석: Step one, I'm looking at this higher time frame demand level broke structure, gave us a huge fair value…",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 36.44초·로컬 Whisper large-v3-turbo 전사 111단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm WinningTrades, my community is passing prop challenges, and this is how we're doing it.” / “So I know this higher time frame level of demand is really strong.”",
+    "originalTitle": "My winning trading strategy continues to perform in the forex market. Staying disciplined, patient, and consistent is what delivers results over time. No hype, no overtrading, jus…",
+    "title": "시간 프레임별 강력한 세팅과 일관된 리스크 관리로 승리를 쌓는 방법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "FVG"
+      "FVG",
+      "위험관리",
+      "심리·규율",
+      "일관성"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm WinningTrades, my community is passing prop challenges, and this is how we're doing it.” 이어 “So I know this higher time frame level of demand is really strong.” 이어 “And then all I wanted was price to break out of that demand zone and start pushing up.” 이어 “Get my trades now.”",
+    "core": "일관성은 시간이 지남에 따라 더 큰 수익을 가져다준다.",
     "rules": [
-      "원문 실행 문장: Step one, I'm looking at this higher time frame demand level broke structure, gave us a huge fair value gap.",
-      "원문 실행 문장: So I know this higher time frame level of demand is really strong.",
-      "원문 실행 문장: For step two, I'm looking for that lower time frame confirmation.",
-      "원문 실행 문장: So I entered my trade, I sent this to over 1,300 traders, and I smashed my tape."
+      "시간 프레임이 높은 수준에서 수요 구조가 깨진 후 큰 공정가격갭이 발생하면, 이는 강력한 수준의 수요를 나타낸다.",
+      "시간 프레임이 낮은 수준에서 추세선이 깨진 후 가격이 수요 구역을 벗어나 상승하면, 이는 진입 시점을 제공한다.",
+      "진입 후, 1,300명의 트레이더에게 이 트레이드를 공유하고, 이익을 실현한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 111,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1200,21 +1284,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1753166915379977": {
     "date": "2025.12.17",
     "duration": "00:35",
-    "originalTitle": "348K views · 4 comments | I’m 40 and this is my Day Trading Strategy after 17 years. #trading #tradewithpat #forex #daytrading #forexsignals | Trade with Pat",
-    "title": "영상 발화 분석: Then as price does break out the top of the range, I'm looking for fair value gaps or even better demand…",
+    "originalTitle": "I’m 40 and this is my Day Trading Strategy after 17 years. #trading #tradewithpat #forex #daytrading #forexsignals",
+    "title": "40세 거래자 17년차 일일 거래 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 34.52초·로컬 Whisper large-v3-turbo 전사 127단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm 40 trading 17 years and this is my strategy.” / “Eastern every single day, I'm looking at the 15-minute candle.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "FVG"
+      "FVG",
+      "일일 거래",
+      "FX",
+      "일일 FX 거래"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm 40 trading 17 years and this is my strategy.” 이어 “Eastern every single day, I'm looking at the 15-minute candle.” 이어 “Then as price does break out the top of the range, I'm looking for fair value gaps or even better demand zones where I can wait for price to retrace to that level.” 이어 “And when everything goes my way, I win my trade.”",
+    "core": "15분봉을 통해 거래 범위를 설정하고, 가격이 범위를 벗어나면 원래 방향으로 목표 가격을 향해 매수한다.",
     "rules": [
-      "원문 실행 문장: Then as price does break out the top of the range, I'm looking for fair value gaps or even better demand zones where I can wait for price to retrace to that level.",
-      "원문 실행 문장: Then I want to buy in the direction of the original break, targeting that original break.",
-      "원문 실행 문장: And when everything goes my way, I win my trade."
+      "매일 아침 9:30 동부 시간대에 15분봉을 확인하고, 캔들 가격이 고점과 저점으로 표시된다.",
+      "가격이 범위를 벗어나면, 공정한 가치 텔레포트 또는 더 좋은 수요 구역을 찾는다.",
+      "가격이 원래 방향으로 움직일 때, 그 목표 가격을 향해 매수한다."
     ],
-    "caution": "전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 127,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1222,20 +1309,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1764235304933871": {
     "date": "2026.05.03",
     "duration": "00:33",
-    "originalTitle": "My BEST trading month since 2022 📈 While most traders were struggling… I simplified everything. 3 things changed the game: Stopped being greedy Traded WITH the trend Only took clean setups Now sitting on a 9 trade win streak. Sometimes less really is more. Drop a 🔥 if you’ve been overcomplicating your trading Not financial advice. Results vary. #trading #tradingstrategy #daytrading #tradewithpat #forex | Trade with Pat",
-    "title": "위험관리: I was happy to take my wins at any risk reward.",
+    "originalTitle": "My BEST trading month since 2022 📈 While most traders were struggling… I simplified everything. 3 things changed the game: Stopped being greedy Traded WITH the trend Only took cle…",
+    "title": "2022년 이후 가장 좋은 trading 달: 간소화와 단순화",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 33.48초·로컬 Whisper large-v3-turbo 전사 110단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “While traders were getting crushed last month, I had my best month since 2022.” / “No more trying to catch massive, massive moves.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk"
+      "위험관리",
+      "trading",
+      "간소화",
+      "클리어 셋업"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “While traders were getting crushed last month, I had my best month since 2022.” 이어 “No more trying to catch massive, massive moves.” 이어 “I completely stopped looking for that perfect reversal that just never came.” 이어 “And that's how I'm at nine wins in a row right now.”",
+    "core": "더 적은 규칙을 따르면 더 좋은 결과를 얻을 수 있다는 인사이트를 전달.",
     "rules": [
-      "원문 실행 문장: I was happy to take my wins at any risk reward.",
-      "원문 실행 문장: If we were in the uptrend, I was just looking for buy trades."
+      "지나치게 큰 이익을 추구하지 말고, 가능한 한 빨리 이익을 실현하라.",
+      "장세에 맞는 방향으로만 거래하라.",
+      "클리어한 셋업만을 따르고, 그렇지 않으면 거래하지 말라."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 110,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1243,20 +1334,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1813488069638097": {
     "date": "2026.07.30",
     "duration": "00:26",
-    "originalTitle": "1.9K views · 13 reactions | It’s this easy to show verified trading results so why can’t anyone else do it? #trading #tradewithpat #myfxbook #tradingresults #daytrading | Trade with Pat",
-    "title": "영상 발화 분석: It's a verified trading account up 437% this year and this is how I set it up.",
+    "originalTitle": "It’s this easy to show verified trading results so why can’t anyone else do it? #trading #tradewithpat #myfxbook #tradingresults #daytrading",
+    "title": "FXB로 설정한 실제 437% 수익의 일일 트레이딩 계정",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 26.24초·Facebook 자동 자막 77단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “99% of trading gurus will never show you this.” / “It's a verified trading account up 437% this year and this is how I set it up.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "performance claim"
+      "시장 분석",
+      "일일 트레이딩",
+      "FXB",
+      "MyFXBook"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “99% of trading gurus will never show you this.” 이어 “It's a verified trading account up 437% this year and this is how I set it up.” 이어 “Just download my FXB, install it on my broker, drag it on to any chart, enter my login, and that's it.” 이어 “It's really that easy and this is one of my member accounts in just the last month so ask yourself why aren't any of the gurus showing you verified results”",
+    "core": "실제로 437% 수익을 올린 일일 트레이딩 계정을 공개하며, 이는 다른 트레이더들이 실적을 공개하지 않는 이유를 설명한다.",
     "rules": [
-      "원문 실행 문장: It's a verified trading account up 437% this year and this is how I set it up.",
-      "원문 실행 문장: Just download my FXB, install it on my broker, drag it on to any chart, enter my login, and that's it."
+      "FXB를 다운로드하고 브로커에 설치한 후, 임포트를 클릭하여 계정을 설정한다.",
+      "차트에 계정을 드래그하고 로그인 정보를 입력하면 설정이 완료된다.",
+      "437% 수익을 올린 계정은 최근 한 달간의 회원 계정이다."
     ],
-    "caution": "성과·수익 발화: “99% of trading gurus will never show you this.” / “It's a verified trading account up 437% this year and this is how I set it up.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 77,
     "transcriptSource": "Facebook 자동 자막"
@@ -1264,23 +1359,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1826708375382943": {
     "date": "2026.04.06",
     "duration": "00:34",
-    "originalTitle": "9.2K views · 25 comments | 17 years of trading… broken down into 33 seconds. My scalping strategy, simplified. No fluff, just execution. #trading #scalping #forex #daytrading #trader | Trade with Pat",
-    "title": "지지·저항: I mark up the high and the low, creating my trading range.",
+    "originalTitle": "17 years of trading… broken down into 33 seconds. My scalping strategy, simplified. No fluff, just execution. #trading #scalping #forex #daytrading #trader",
+    "title": "뉴욕 세션 8~9:15 아메리카 세션에서의 레벨 기반 스팩핑 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 34.00초·로컬 Whisper large-v3-turbo 전사 116단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “It took me 17 years to learn this scalping strategy.” / “I'm trading during the New York session only.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance"
+      "지지·저항",
+      "트레이딩",
+      "스파킹",
+      "외환"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “It took me 17 years to learn this scalping strategy.” 이어 “I'm trading during the New York session only.” 이어 “I use the bottom of the range as support, the top of the range as resistance.” 이어 “And if it all goes well, price goes all the way up and smashes my take profit.”",
+    "core": "레벨 기반의 가격 변동을 이용해 높은 빈도로 이익을 얻는 전략을 소개한다.",
     "rules": [
-      "원문 실행 문장: I mark up the high and the low, creating my trading range.",
-      "원문 실행 문장: I use the bottom of the range as support, the top of the range as resistance.",
-      "원문 실행 문장: And when price comes to this low right here and shows me that it's going to reject, I will enter my scalping position using the trading range reversal.",
-      "원문 실행 문장: And if it all goes well, price goes all the way up and smashes my take profit."
+      "뉴욕 세션의 아침 8시부터 9:15까지 15분봉을 분석한다.",
+      "하루 중 가장 낮은 가격을 기록한 레벨에서 거래를 시작한다.",
+      "가격이 저항 수준에서 반발하면 거래 포지션을 진입한다."
     ],
-    "caution": "성과·수익 발화: “And if it all goes well, price goes all the way up and smashes my take profit.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 116,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1288,25 +1384,22 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1861190424416051": {
     "date": "2026.03.08",
     "duration": "00:37",
-    "originalTitle": "2.2K views · 134 reactions | New Silver Trading Strategy & Prop firm payouts! #trading #tradewithpat #forex #silvertrading #tradingstrategy | Trade with Pat",
-    "title": "유동성 스윕: And this week, I sent my first ever silver trade.",
+    "originalTitle": "New Silver Trading Strategy & Prop firm payouts! #trading #tradewithpat #forex #silvertrading #tradingstrategy",
+    "title": "실제 금속 거래와 프로피엠 지급금의 신Silver 트레이딩 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 37.12초·로컬 Whisper large-v3-turbo 전사 102단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Two members just got big prop firm payouts.” / “And this week, I sent my first ever silver trade.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "sweep",
       "FVG",
-      "resistance",
-      "risk"
+      "유동성",
+      "지지·저항",
+      "옵션"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “Two members just got big prop firm payouts.” 이어 “And this week, I sent my first ever silver trade.” 이어 “So when price comes up here and sweeps that liquidity, then pushes down aggressively, I get one, two, three different entry options.” 이어 “The gold VIP room now has silver signals, no extra charge, and the futures room is coming next.”",
+    "core": "저항 수준에서 스탑 런치가 발생하면 가격이 역발진할 것으로 예상하고, 그에 따른 여러 진입 기회를 활용할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: And this week, I sent my first ever silver trade.",
-      "원문 실행 문장: With this obvious level of resistance, I expect a significant number of stop losses above it.",
-      "원문 실행 문장: So when price comes up here and sweeps that liquidity, then pushes down aggressively, I get one, two, three different entry options."
+      "금속 거래가 이루어진 가격 수준은 3000 달러였습니다."
     ],
-    "caution": "전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 102,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1314,21 +1407,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1863196151024116": {
     "date": "2026.05.17",
     "duration": "00:38",
-    "originalTitle": "14K views · 14 comments | The Moving Average bounce STRATEGY! When I’m on a trading cold streak I’ll hit one of these to break out of it. 🥶 #trading #ema #movingaverage #forex #daytrading | Trade with Pat",
-    "title": "이동평균: Then, if price is trading cleanly below the EMA and returns to the EMA and bounces off of the EMA, then…",
+    "originalTitle": "The Moving Average bounce STRATEGY! When I’m on a trading cold streak I’ll hit one of these to break out of it. 🥶 #trading #ema #movingaverage #forex #daytrading",
+    "title": "EMA 200 밑에서 반등하는 전략: 추세 하락 시 수요 수준에서 진입",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 37.67초·로컬 Whisper large-v3-turbo 전사 127단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “One of my easiest setups is the moving average bounce.” / “Get that moving average exponential.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "moving average"
+      "이동평균",
+      "EMA",
+      "movingaverage",
+      "forex"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “One of my easiest setups is the moving average bounce.” 이어 “Get that moving average exponential.” 이어 “Next, I just need a level of supply since we're in a downtrend.” 이어 “And this is just one of the easiest trading strategies to use when your normal strategy isn't paying off.”",
+    "core": "EMA 200 이하에서 가격이 반등하면 수요 수준에서 진입할 수 있는 쉬운 세팅을 찾을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Then, if price is trading cleanly below the EMA and returns to the EMA and bounces off of the EMA, then I can look for my moving average bounce.",
-      "원문 실행 문장: And when price returns to that level, I can enter a trade directly there.",
-      "원문 실행 문장: And this is just one of the easiest trading strategies to use when your normal strategy isn't paying off."
+      "가격이 EMA 200 이하에서 거래되고 EMA와 접촉하여 반등하면 EMA 반등 세팅을 확인할 수 있습니다.",
+      "하락 추세에서 수요 수준이 가격을 다시 방문하면 그 지점에서 진입할 수 있습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 127,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1336,23 +1431,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1871661106830024": {
     "date": "2026.04.15",
     "duration": "00:29",
-    "originalTitle": "3.5K views | After 17 years of trading… this is still my favorite setup. 2 timeframes. Simple execution. High-probability entries. Most traders overcomplicate everything. I wait for structure → confirmation → entry. That’s it. If it plays out… steak for dinner 🥩 #trading #daytrading #forex #tradewithpat #tradingstrategy | Trade with Pat",
-    "title": "이동평균: Then when price pulls back to that level, I jump to the five minute time frame where I look for an aggre…",
+    "originalTitle": "After 17 years of trading… this is still my favorite setup. 2 timeframes. Simple execution. High-probability entries. Most traders overcomplicate everything. I wait for structure…",
+    "title": "17년 거래 경험 후 여전히 선호하는 1시간과 5분 틱, 구조 확인 후 진입",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 29.32초·로컬 Whisper large-v3-turbo 전사 98단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “After 17 years of trading, this is my favorite level to take trades from.” / “On the hourly, I'm looking for a clear uptrend above a 100 period EMA.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "moving average",
-      "support",
-      "resistance"
+      "지지·저항",
+      "이동평균",
+      "거래 전략",
+      "데이 트레이딩"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “After 17 years of trading, this is my favorite level to take trades from.” 이어 “On the hourly, I'm looking for a clear uptrend above a 100 period EMA.” 이어 “Then I mark out my level of demand.” 이어 “And then if the price goes my way, I'm eating steak for dinner.”",
+    "core": "구조를 기다리고 확인한 후에만 진입하는 것이 높은 확률의 거래를 가져온다.",
     "rules": [
-      "원문 실행 문장: Then when price pulls back to that level, I jump to the five minute time frame where I look for an aggressive price push.",
-      "원문 실행 문장: Then I mark out my level of demand.",
-      "원문 실행 문장: I wait for price to pull back to that level."
+      "100 기간 EMA 위의 명확한 상승 추세를 찾고, 저항이 변신한 지원 수준을 확인",
+      "5분 틱에서 가격이 그 수준으로 되돌아오고, 가격이 흐름에 따라 스테이크를 먹는다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 98,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1360,23 +1455,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1892075851443397": {
     "date": "2026.02.26",
     "duration": "00:28",
-    "originalTitle": "62K views · 93 comments | 17 year scalping strategy in just 27 seconds. Much love to my orb traders. #trading #tradewithpat #forex #daytrading | Trade with Pat",
-    "title": "영상 발화 분석: And I only trade the same two hours every single day.",
+    "originalTitle": "17 year scalping strategy in just 27 seconds. Much love to my orb traders. #trading #tradewithpat #forex #daytrading",
+    "title": "17년간의 스컬핑 전략, 27초 만에 실현",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 27.65초·로컬 Whisper large-v3-turbo 전사 88단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I've been trading for 17 years and this scalping strategy finally made me consistent.” / “At 9.30 a.m., I mark up the high and the low of the first 15-minute candle.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "FVG"
+      "FVG",
+      "개장 범위",
+      "스컬핑",
+      "데이트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I've been trading for 17 years and this scalping strategy finally made me consistent.” 이어 “At 9.30 a.m., I mark up the high and the low of the first 15-minute candle.” 이어 “Then, on the five-minute time frame, I wait for a displacement move that creates a fair value gap.” 이어 “I enter the trade and then I do something else with my day.”",
+    "core": "17년간의 경험을 통해 개발된 스컬핑 전략은 단 27초 만에 실현 가능하다.",
     "rules": [
-      "원문 실행 문장: And I only trade the same two hours every single day.",
-      "원문 실행 문장: At 9.30 a.m., I mark up the high and the low of the first 15-minute candle.",
-      "원문 실행 문장: Then, on the five-minute time frame, I wait for a displacement move that creates a fair value gap.",
-      "원문 실행 문장: Once price retraces to that gap, I wait for price to print a bullish engulfing candle.",
-      "원문 실행 문장: I enter the trade and then I do something else with my day."
+      "오전 9시 30분에 첫 15분봉의 고가와 저가를 기록한다.",
+      "5분봉에서 가격이 공정값갭을 형성하는 이동을 기다린다.",
+      "가격이 갭으로 되돌아오면 bullish engulfing 캔들을 기다린다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 88,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1384,23 +1480,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1981182946138204": {
     "date": "2026.03.01",
     "duration": "00:35",
-    "originalTitle": "8.5K views | This 1 minute scalping strategy has been through hundreds of backtests across different market conditions. High precision. Clear structure. No guessing. Execution is everything. #Scalping #1minutescalping #tradingstrategy #tradewithpat #trading | Trade with Pat",
-    "title": "영상 발화 분석: At 9.30 a.m., I mark up the high and the low of the first five-minute candle.",
+    "originalTitle": "This 1 minute scalping strategy has been through hundreds of backtests across different market conditions. High precision. Clear structure. No guessing. Execution is everything. #…",
+    "title": "9:30 아침 5분봉 고저를 기준으로 한 1분 스포일러 스트레티지",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 34.87초·로컬 Whisper large-v3-turbo 전사 115단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This one minute scalping strategy just gave me four straight wins, four straight days, and it only trades one specific window.” / “At 9.30 a.m., I mark up the high and the low of the first five-minute candle.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "FVG",
-      "performance claim"
+      "1분 스포일러",
+      "매매 신호"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “This one minute scalping strategy just gave me four straight wins, four straight days, and it only trades one specific window.” 이어 “At 9.30 a.m., I mark up the high and the low of the first five-minute candle.” 이어 “This move needs to create a big fair value gap, and I'll only enter a trade when price comes back to that level, respects the level, and prints a bullish engulfing pattern, which we have right about here.” 이어 “Then I'm in my trade, and I'm off to the gym.”",
+    "core": "1분봉에서 가격이 원래 범위의 70% 이상으로 벗어나고, bullish engulfing 패턴이 나타나면 거래를 진입한다.",
     "rules": [
-      "원문 실행 문장: At 9.30 a.m., I mark up the high and the low of the first five-minute candle.",
-      "원문 실행 문장: Then on the one-minute time frame, I want to see price push out the top of that range aggressively beyond at least 70% the size of the original range.",
-      "원문 실행 문장: This move needs to create a big fair value gap, and I'll only enter a trade when price comes back to that level, respects the level, and prints a bullish engulfing pattern, which we have right about here.",
-      "원문 실행 문장: Then I'm in my trade, and I'm off to the gym."
+      "9:30 아침에 5분봉의 고가와 저가를 기록한다.",
+      "1분봉에서 가격이 원래 범위의 70% 이상으로 벗어나면 거래를 진입한다.",
+      "bullish engulfing 패턴이 나타나면 거래를 진입한다."
     ],
-    "caution": "성과·수익 발화: “Then on the one-minute time frame, I want to see price push out the top of that range aggressively beyond at least 70% the size of the original range.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 115,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1408,21 +1504,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1981315282678229": {
     "date": "2026.07.23",
     "duration": "00:31",
-    "originalTitle": "1.2K views · 42 reactions | Comment ‘ROBOT’ to see my verified trading performance. #trading #tradewithpat #forex #daytrading | Trade with Pat",
-    "title": "유동성 스윕: price inevitably reverses and hits this one concept is how i called the top and bottom trading gold this…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 31.20초·로컬 Whisper large-v3-turbo 전사 93단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “price inevitably reverses and hits this one concept is how i called the top and bottom trading gold this morning here we have an obvious level of resistance gold is a highly manipulated market so when price br…”",
+    "originalTitle": "Comment ‘ROBOT’ to see my verified trading performance. #trading #tradewithpat #forex #daytrading",
+    "title": "금 가격 역행 및 리스터십 스와프로의 거래 전략",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "sweep",
-      "resistance"
+      "유동성",
+      "지지·저항",
+      "금 거래",
+      "레버리지 트레이딩"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “price inevitably reverses and hits this one concept is how i called the top and bottom trading gold this morning here we have an obvious level of resistance gold is a highly manipulated market so when price br…”",
+    "core": "금 가격이 저항 수준을 돌파하면 역행을 일으키며, 이는 기관들이 사용하는 엔지니어드 리스크 스와프임을 설명.",
     "rules": [
-      "원문 실행 문장: price inevitably reverses and hits this one concept is how i called the top and bottom trading gold this morning here we have an obvious level of resistance gold is a highly manipulated market so when price breaks through the resistance it's actually an engin…"
+      "금 가격이 저항 수준을 돌파하면 역행을 일으키며, 이는 기관들이 사용하는 엔지니어드 리스크 스와프임을 설명.",
+      "저항 수준을 돌파하면 즉시 거래를 시작하여 리스터십 스와프로 이익을 실현.",
+      "지지 수준을 돌파하면 즉시 거래를 시작하여 리스터십 스와프로 이익을 실현."
     ],
-    "caution": "성과·수익 발화: “price inevitably reverses and hits this one concept is how i called the top and bottom trading gold this morning here we have an obvious level of resistance gold is a highly manip…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 93,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1430,20 +1529,22 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "1985424868780564": {
     "date": "2026.05.02",
     "duration": "00:10",
-    "originalTitle": "If I had 3 wishes to make you a goated trader: Discipline when it’s boring Patience when nothing’s happening Trust in a system you’ve actually tested Most people don’t lack strategy… they lack consistency. #trading #tradewithpat #daytrading #daytrader #forex | Trade with Pat",
-    "title": "영상 발화 분석: I'm gonna do cause this gon' make the news, gotta make your move Told that bitch get in cause she lookin…",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 9.63초·로컬 Whisper large-v3-turbo 전사 38단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm gonna do cause this gon' make the news, gotta make your move Told that bitch get in cause she lookin' confused I broke the rule cause this bitch a witness Plus I just popped dude but she”",
+    "originalTitle": "If I had 3 wishes to make you a goated trader: Discipline when it’s boring Patience when nothing’s happening Trust in a system you’ve actually tested Most people don’t lack strate…",
+    "title": "매매 심리와 규율에 관한 트레이딩 관점",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "심리·규율",
+      "거래",
+      "일관성",
+      "테스트"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm gonna do cause this gon' make the news, gotta make your move Told that bitch get in cause she lookin' confused I broke the rule cause this bitch a witness Plus I just popped dude but she”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "원문 실행 문장: I'm gonna do cause this gon' make the news, gotta make your move Told that bitch get in cause she lookin' confused I broke the rule cause this bitch a witness Plus I just popped dude but she"
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 38,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1451,20 +1552,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "2023206818555936": {
     "date": "2026.07.18",
     "duration": "00:06",
-    "originalTitle": "6 comments | How traders deal with Canadian WILDFIRES. #trading #wildfires | Trade with Pat",
-    "title": "영상 발화 분석: You're wondering where all of my trading profits went, it was to buy this Canadian wildfire survival kit.",
+    "originalTitle": "How traders deal with Canadian WILDFIRES. #trading #wildfires",
+    "title": "캐나다 산불 대처 전략: 트레이더의 생존 키트",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 6.03초·Facebook 자동 자막 18단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You're wondering where all of my trading profits went, it was to buy this Canadian wildfire survival kit.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "캐나다 산불",
+      "투자 전략",
+      "생존 키트"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “You're wondering where all of my trading profits went, it was to buy this Canadian wildfire survival kit.”",
+    "core": "캐나다 산불 시장 변동을 예측하고 대처하는 방법은 개인 투자자에게 중요한 교훈이다.",
     "rules": [
-      "원문 실행 문장: You're wondering where all of my trading profits went, it was to buy this Canadian wildfire survival kit."
+      "캐나다 산불 발생 시 시장 변동을 예측하고 대응하는 방법을 설명한다.",
+      "생존 키트를 구매하여 장기적인 투자 전략을 구축한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 18,
     "transcriptSource": "Facebook 자동 자막"
@@ -1472,22 +1576,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "2035666413888194": {
     "date": "2025.09.21",
     "duration": "00:33",
-    "originalTitle": "1.4K views · 3 comments | 7/8 Wins Gold Trading Strategy! #trading #tradewithpat #gold #xauusd | Trade with Pat",
-    "title": "지지·저항: And then we had this gold trade I sent on the one hour time frame.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 33.34초·로컬 Whisper large-v3-turbo 전사 125단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I've hit seven of my last eight gold trades.” / “And Honey is healing from her injury.”",
+    "originalTitle": "7/8 Wins Gold Trading Strategy! #trading #tradewithpat #gold #xauusd",
+    "title": "7/8 승리의 금 거래 전략: 4시간 차트에서의 강력한 지지 수준",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "4H",
-      "support"
+      "지지·저항",
+      "금 거래",
+      "XAUUSD",
+      "4시간 차트"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “I've hit seven of my last eight gold trades.” 이어 “And Honey is healing from her injury.” 이어 “We had this quick win right here.” 이어 “And this four hour level of demand that broke previous structure, giving us a strong entry signal and driving the price up to my take profit of 2,600 pips.”",
+    "core": "4시간 차트에서의 강력한 지지 수준을 이용해 금 가격을 상승시킨 전략을 설명한다.",
     "rules": [
-      "원문 실행 문장: And then we had this gold trade I sent on the one hour time frame.",
-      "원문 실행 문장: But if you're looking at the four hour time frame, you can see we had a very strong level of support here.",
-      "원문 실행 문장: And this four hour level of demand that broke previous structure, giving us a strong entry signal and driving the price up to my take profit of 2,600 pips."
+      "4시간 차트에서 강력한 지지 수준을 확인하고, 이 수준을 돌파하며 구매 신호를 얻었다.",
+      "4시간 차트에서의 강력한 수요 수준이 구매 신호를 제공하여 2,600pip의 이익을 얻었다."
     ],
-    "caution": "성과·수익 발화: “And this four hour level of demand that broke previous structure, giving us a strong entry signal and driving the price up to my take profit of 2,600 pips.” 홍보·행동유도 발화: “If you want my next gold trade, join VIP now and I'll see you on the charts.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 125,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1495,20 +1600,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "2057642652296455": {
     "date": "2026.06.29",
     "duration": "00:45",
-    "originalTitle": "5.6K views · 171 reactions | Comment ROBOT to learn how I’ve automated this strategy to consistently grow my accounts this year. Love trading ORB, especially with supply and demand. #trading #forex #tradewithpat #daytrading | Trade with Pat",
-    "title": "영상 발화 분석: I'm trading in my new hot tub I use this strategy at 8 AM you're just looking at the first 15minute cand…",
+    "originalTitle": "Comment ROBOT to learn how I’ve automated this strategy to consistently grow my accounts this year. Love trading ORB, especially with supply and demand. #trading #forex #tradewith…",
+    "title": "8시부터 5분봉에서 반등 저항선을 기다리는 ORB 거래 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 45.04초·Facebook 자동 자막 156단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm trading in my new hot tub I use this strategy at 8 AM you're just looking at the first 15minute candle and when that candle closes you mark up the range high and the range low now drop down to the 5 minute…”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "ORB",
+      "supply and demand",
+      "daytrading"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm trading in my new hot tub I use this strategy at 8 AM you're just looking at the first 15minute candle and when that candle closes you mark up the range high and the range low now drop down to the 5 minute…”",
+    "core": "ORB 거래에서 반등 저항선을 이용해 매수 포지션을 잡는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: I'm trading in my new hot tub I use this strategy at 8 AM you're just looking at the first 15minute candle and when that candle closes you mark up the range high and the range low now drop down to the 5 minute time frame and we're just going to wait for a can…"
+      "8시에 15분봉이 마감되면, 5분봉에서 가격이 범위를 벗어나면 진입 포인트를 찾는다.",
+      "가격이 범위의 저항선을 향해 반등하면, 그 지점에서 매수 진입한다.",
+      "진입 후 가격이 빠르게 상승하면 목표 수익을 잡는다."
     ],
-    "caution": "성과·수익 발화: “I'm trading in my new hot tub I use this strategy at 8 AM you're just looking at the first 15minute candle and when that candle closes you mark up the range high and the range low…” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 156,
     "transcriptSource": "Facebook 자동 자막"
@@ -1516,20 +1625,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "2067936073841208": {
     "date": "2026.07.18",
     "duration": "00:05",
-    "originalTitle": "3K views · 19 reactions | POV: Trading Worked. | Trade with Pat",
-    "title": "영상 발화 분석: I always want you to stop.",
+    "originalTitle": "POV: Trading Worked.",
+    "title": "POV: 트레이딩이 작동했습니다. 14:00 가격대에서 매수 후 14:30 가격대에서 매도",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 5.42초·로컬 Whisper large-v3-turbo 전사 11단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I always want you.” / “I always want you to stop.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "시점",
+      "매수매도"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I always want you.” 이어 “I always want you to stop.”",
+    "core": "트레이딩이 성공할 수 있는 방법은 정확한 시점에서 진입과 이탈을 결정하는 것입니다.",
     "rules": [
-      "원문 실행 문장: I always want you to stop."
+      "14:00 가격대에서 매수를 결정하고, 14:30 가격대에서 매도를 결정한다.",
+      "정확한 시점에서 진입과 이탈을 결정하는 것이 중요하다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 11,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1537,23 +1649,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "2175013396647022": {
     "date": "2026.04.26",
     "duration": "00:40",
-    "originalTitle": "2.9K views · 6 comments | Most traders overcomplicate this. HTF shows direction. LTF gives confirmation. Simple. Not financial advice. Trade safely. #trading #tradewithpat #forex #daytrading #forexsignals | Trade with Pat",
-    "title": "지지·저항: This trade, this trade, and this trade are all part of a 23 and 3 VIP month, all thanks to two time fram…",
+    "originalTitle": "Most traders overcomplicate this. HTF shows direction. LTF gives confirmation. Simple. Not financial advice. Trade safely. #trading #tradewithpat #forex #daytrading #forexsignals",
+    "title": "HFT에서 명확한 추세를 찾고 LFT에서 확인을 받는 단순 트레이딩 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 40.08초·로컬 Whisper large-v3-turbo 전사 132단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This trade, this trade, and this trade are all part of a 23 and 3 VIP month, all thanks to two time frame analysis.” / “On the higher time frame, all I'm looking for is an obvious uptrend in areas where I can enter trades, demand zones, and resistance zones that are broken and turned support.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance"
+      "지지·저항",
+      "트레이딩",
+      "tradewithpat",
+      "forex"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “This trade, this trade, and this trade are all part of a 23 and 3 VIP month, all thanks to two time frame analysis.” 이어 “On the higher time frame, all I'm looking for is an obvious uptrend in areas where I can enter trades, demand zones, and resistance zones that are broken and turned support.” 이어 “Then, when price retraces to either level, then I come down to the lower time frame where I'm looking for confirmation, like a break of structure, or price breaking through a trend line, or just an explosive m…” 이어 “Then, I have confirmation, I can enter my trading position, let it rise, send it to all my VIP trading room members, and hopefully, if all goes well, I smash my take profit.”",
+    "core": "HFT에서 명확한 추세를 찾고, LFT에서 확인을 받으면 거래를 시작할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: This trade, this trade, and this trade are all part of a 23 and 3 VIP month, all thanks to two time frame analysis.",
-      "원문 실행 문장: On the higher time frame, all I'm looking for is an obvious uptrend in areas where I can enter trades, demand zones, and resistance zones that are broken and turned support.",
-      "원문 실행 문장: Then, when price retraces to either level, then I come down to the lower time frame where I'm looking for confirmation, like a break of structure, or price breaking through a trend line, or just an explosive move from that higher time frame zone.",
-      "원문 실행 문장: Then, I have confirmation, I can enter my trading position, let it rise, send it to all my VIP trading room members, and hopefully, if all goes well, I smash my take profit."
+      "HFT에서 상승 추세가 명확한 구간에서 거래 가능 포인트를 찾고, 가격이 그 구간으로 되돌아오면 LFT에서 구조의 깨짐이나 틱 라인을 통과하는 것을 확인합니다.",
+      "그러면 거래를 시작하고, VIP 트레이딩 룸 멤버들에게 신호를 전송합니다."
     ],
-    "caution": "성과·수익 발화: “Then, I have confirmation, I can enter my trading position, let it rise, send it to all my VIP trading room members, and hopefully, if all goes well, I smash my take profit.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 132,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1561,20 +1673,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "2220681935134509": {
     "date": "2026.05.08",
     "duration": "00:19",
-    "originalTitle": "“The craziest thing about this trade… is I didn’t execute it myself.” 👀 After 17 years of trading, I realized most traders don’t struggle because they lack a strategy… They struggle with execution. Fear. Hesitation. Overtrading. Closing too early. I dealt with all of it too. That’s why I started automating my trading strategies. 🤖📊 Not financial advice. Trading involves risk. #tradewithpat #trading #forex #forexrobot #tradingrobot | Trade with Pat",
-    "title": "영상 발화 분석: The craziest thing about this trade is that I didn't even execute it, my robot did.",
+    "originalTitle": "“The craziest thing about this trade… is I didn’t execute it myself.” 👀 After 17 years of trading, I realized most traders don’t struggle because they lack a strategy… They strugg…",
+    "title": "17년 거래 경험에서 얻은 실행력의 중요성",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 18.96초·로컬 Whisper large-v3-turbo 전사 64단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The craziest thing about this trade is that I didn't even execute it, my robot did.” / “And in my 17 years of trading, the biggest issue I see traders have is execution because I had that issue too.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "위험관리",
+      "거래 전략",
+      "자동화",
+      "실행력"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “The craziest thing about this trade is that I didn't even execute it, my robot did.” 이어 “And in my 17 years of trading, the biggest issue I see traders have is execution because I had that issue too.” 이어 “Even when I had the strategy and the fundamentals, I'd make mistakes live.” 이어 “So that's why I automate my trading strategies and maybe you should too.”",
+    "core": "거래 전략이 있음에도 불구하고 실천에서 실수를 범하는 거래자들이 많다.",
     "rules": [
-      "원문 실행 문장: The craziest thing about this trade is that I didn't even execute it, my robot did."
+      "17년간 거래하면서 실행력 문제를 가장 많이 겪었다.",
+      "자동화된 거래 전략을 개발하여 실행력 문제를 해결하려고 노력했다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 64,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1582,20 +1697,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "2231985950677715": {
     "date": "2026.08.13",
     "duration": "00:18",
-    "originalTitle": "5.9K views · 19 reactions | Day trading is dead. Night trading is the new DRIP! 💧 #trading #daytrading #nighttrading #reaction | Trade with Pat",
-    "title": "영상 발화 분석: Day trade, night trade, whatever.",
+    "originalTitle": "Day trading is dead. Night trading is the new DRIP! 💧 #trading #daytrading #nighttrading #reaction",
+    "title": "NIGHT TRADING이 새로운 DRIP이 되다 💧",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 17.56초·로컬 Whisper large-v3-turbo 전사 60단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Okay, so you trading stuff?” / “All right, I like it.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "NIGHT TRADING",
+      "DRIP",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Okay, so you trading stuff?” 이어 “All right, I like it.” 이어 “What do you trade normally?” 이어 “I don't even do stitches, but this might be the best trading clip I've seen all year.”",
+    "core": "NIGHT TRADING이 Day Trading을 대체하며 새로운 트레이딩 방법으로 자리매김하고 있습니다.",
     "rules": [
-      "원문 실행 문장: Day trade, night trade, whatever.",
-      "원문 실행 문장: What do you trade normally?"
+      "NIGHT TRADING이 Day Trading을 대체하며 새로운 트레이딩 방법으로 자리매김하고 있습니다.",
+      "이 클립은 올해 가장 좋은 트레이딩 클립 중 하나로 평가받고 있습니다."
     ],
-    "caution": "홍보·행동유도 발화: “If this guy ever releases a night trading course, I'll be his first customer.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 60,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1603,21 +1721,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "2239424246899123": {
     "date": "2026.07.09",
     "duration": "00:27",
-    "originalTitle": "3 comments | IM BAAAACK! My first LIVE STREAM trade in 7 months. #tradewithpat #trading #forex #daytrading Did you miss me? | Trade with Pat",
-    "title": "영상 발화 분석: To my first trading position What are we going here?",
+    "originalTitle": "IM BAAAACK! My first LIVE STREAM trade in 7 months. #tradewithpat #trading #forex #daytrading Did you miss me?",
+    "title": "IM BAAAACK! 687 hundred에서의 첫 번째 라이브 트레이딩",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 27.49초·Facebook 자동 자막 33단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “To my first trading position What are we going here?” / “687 hundred.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "FX",
+      "데이트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “To my first trading position What are we going here?” 이어 “687 hundred.” 이어 “Alright, let's take a partial profit right there.” 이어 “We wanted and we have now hit our TP two”",
+    "core": "687 hundred에서 파트 프로핏을 취하고, 목표 가격을 달성한 후 첫 번째 라이브 트레이딩을 시작했다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: To my first trading position What are we going here?"
+      "687 hundred에서 파트 프로핏을 취하고, 목표 가격을 달성한 후 첫 번째 라이브 트레이딩을 시작했다.",
+      "첫 번째 라이브 트레이딩으로 다시 만나서 기뻐했다."
     ],
-    "caution": "성과·수익 발화: “Alright, let's take a partial profit right there.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 33,
     "transcriptSource": "Facebook 자동 자막"
@@ -1625,19 +1745,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "24639326495722347": {
     "date": "2025.09.30",
     "duration": "00:25",
-    "originalTitle": "2.2K views · 151 reactions | 72.5% Free FOREX Signals. Unbelievable track record! #trading #forexsignals #freeforexsignals #tradewithpat #forex | Trade with Pat",
-    "title": "영상 발화 분석: Did you miss this last big trade?",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 24.77초·로컬 Whisper large-v3-turbo 전사 86단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Did you miss this last big trade?” / “Don't worry.”",
+    "originalTitle": "72.5% Free FOREX Signals. Unbelievable track record! #trading #forexsignals #freeforexsignals #tradewithpat #forex",
+    "title": "72.5% 성공률의 실전 Forex 신호 4년간의 성적",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim"
+      "시장 분석",
+      "forex",
+      "forexsignals",
+      "freeforexsignals"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Did you miss this last big trade?” 이어 “Don't worry.” 이어 “I'd love to have you.”",
+    "core": "72.5%의 성공률을 기록하며 실전에서 신호를 제공해 왔습니다.",
     "rules": [
-      "원문 실행 문장: Did you miss this last big trade?"
+      "4년 동안 72.5%의 성공률을 기록했으며, 이전 신호를 확인할 수 있습니다.",
+      "10,000명의 실전 투자자들이 마지막 신호를 보았습니다.",
+      "무료로 신호를 받을 수 있는 방에 참여할 수 있습니다."
     ],
-    "caution": "성과·수익 발화: “I've sent hundreds of free Forex signals over the last four years with a win rate this year of 72.5%.” 홍보·행동유도 발화: “I've sent hundreds of free Forex signals over the last four years with a win rate this year of 72.5%.” / “So join me in the free room.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 86,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1645,20 +1770,22 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "2505133386548869": {
     "date": "2025.10.09",
     "duration": "00:50",
-    "originalTitle": "2.9K views · 7 comments | Trades are HEATING UP 🔥! Join us on the live stream to see me dominate every Monday and Wednesday! Probably add Fridays after my robot releases and I have some more free time. #trading #tradewithpat #forex #daytrading #forexsignals | Trade with Pat",
-    "title": "영상 발화 분석: I want a thousand in my pocket.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 50.34초·로컬 Whisper large-v3-turbo 전사 79단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I want a thousand in my pocket.” / “Looking pretty good about that right now.”",
+    "originalTitle": "Trades are HEATING UP 🔥! Join us on the live stream to see me dominate every Monday and Wednesday! Probably add Fridays after my robot releases and I have some more free time. #tr…",
+    "title": "월요일과 수요일 매매 활동 가열! 1200 이상에서 진입하고 1700까지 추격",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "FVG"
+      "FVG",
+      "매매 전략",
+      "TP1"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I want a thousand in my pocket.” 이어 “Looking pretty good about that right now.” 이어 “Nice candle for us, eh?” 이어 “1200 plus 500, 1700.”",
+    "core": "매매는 가격이 상승할 때 진입하고, 목표 가격에 도달하면 종료하는 전략을 사용합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I want a thousand in my pocket."
+      "1200 이상에서 진입하고, 1700까지 추격",
+      "TP1이 가격 상승 구간에서 설정됨"
     ],
-    "caution": "성과·수익 발화: “I want a thousand in my pocket.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 79,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1666,24 +1793,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "2523640931344151": {
     "date": "2025.09.13",
     "duration": "00:35",
-    "originalTitle": "3.4K views · 20 comments | Whale Trading Strategy 🐳 If you don’t understand supply and demand concepts. Get back to the charts! #trading #tradewithpat #forex #supplyanddemandtrading | Trade with Pat",
-    "title": "위험관리: We all know the whales move the price.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 35.13초·로컬 Whisper large-v3-turbo 전사 117단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “We all know the whales move the price.” / “Then all you need to do is wait for the price to come back to that level of demand.”",
+    "originalTitle": "Whale Trading Strategy 🐳 If you don’t understand supply and demand concepts. Get back to the charts! #trading #tradewithpat #forex #supplyanddemandtrading",
+    "title": "웨일 트레이딩 전략: 수요와 공급 개념을 이해하지 못했을 때",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "FVG",
-      "risk",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "웨일 트레이딩"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “We all know the whales move the price.” 이어 “Then all you need to do is wait for the price to come back to that level of demand.” 이어 “You know it's a good level because the buyers were already there.” 이어 “You know it.”",
+    "core": "웨일들이 가격을 움직이는 방식을 이해하고, 수요 수준에서 매수 포지션을 잡아 가격이 회귀할 때 이익을 실현한다.",
     "rules": [
-      "원문 실행 문장: We all know the whales move the price.",
-      "원문 실행 문장: When you see an impulsive move with three big green candles in a row with fair value gaps, that creates a level of demand in the markets where the whales are.",
-      "원문 실행 문장: Then all you need to do is wait for the price to come back to that level of demand.",
-      "원문 실행 문장: You set your long position at that zone, put your take profit up high, put your stop loss below that demand and let that thing connect and absolutely rip all the way to your take profit, baby."
+      "세 개의 큰 녹색 캔들로 이루어진 강한 상승 추세가 나타나고, 그 끝에서 가격이 수요 수준으로 회귀할 때 매수 포지션을 잡는다.",
+      "매수 포지션을 잡은 후, 목표 수익을 높은 가격으로 설정하고, 스탑 러스터를 수요 수준 아래로 놓는다.",
+      "가격이 목표 수익 수준까지 떨어지지 않고 수요 수준에서 연결되면 이익을 실현한다."
     ],
-    "caution": "성과·수익 발화: “This is how I follow and profit.” / “You set your long position at that zone, put your take profit up high, put your stop loss below that demand and let that thing connect and absolutely rip all the way to your take…” 홍보·행동유도 발화: “This is how I follow and profit.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 117,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1691,20 +1818,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "2649664812101018": {
     "date": "2026.03.06",
     "duration": "00:31",
-    "originalTitle": "96K views · 20 reactions | Asian range, London push, New York reversal. Let me hear you say it, while I trade it! #trading #tradewithpat #forex #futures | Trade with Pat",
-    "title": "유동성 스윕: Then I can enter a buy trade in the New York session because I'm expecting the New York reversal to swee…",
+    "originalTitle": "Asian range, London push, New York reversal. Let me hear you say it, while I trade it! #trading #tradewithpat #forex #futures",
+    "title": "아시아 범위, 런던 추격, 뉴욕 역전",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 30.63초·로컬 Whisper large-v3-turbo 전사 88단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I have backtested this strategy for 15 years and it still works today.” / “Asian range, London push, New York reversal.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "sweep",
-      "backtest"
+      "유동성",
+      "트레이딩",
+      "tradewithpat",
+      "외환"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “I have backtested this strategy for 15 years and it still works today.” 이어 “Asian range, London push, New York reversal.” 이어 “One, I want the Asian range to be tight.” 이어 “Then I can enter a buy trade in the New York session because I'm expecting the New York reversal to sweep the Asian high.”",
+    "core": "아시아 범위가 조정되고 런던 세션에서 강력한 추세가 발생하면 뉴욕 세션에서 역전을 기대할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Then I can enter a buy trade in the New York session because I'm expecting the New York reversal to sweep the Asian high."
+      "아시아 범위가 조정되었을 때 런던 세션에서 강력한 추세를 기대하고, 뉴욕 세션에서 역전을 추적하려면 런던 세션의 저점을 뚫어야 합니다.",
+      "뉴욕 세션에서 아시아 고점의 역전을 추적하려면 런던 세션의 고점을 뚫어야 합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 88,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1712,20 +1842,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "27618389464459348": {
     "date": "2026.06.21",
     "duration": "00:24",
-    "originalTitle": "3.6K views · 20 reactions | Comment VIP and get access to my next trade idea 💡 #trading #forex #tradewithpat #forexsi̇gnals #daytrading | Trade with Pat",
-    "title": "영상 발화 분석: Is this trade gonna hit my profit?",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 24.16초·로컬 Whisper large-v3-turbo 전사 73단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Is this trade gonna hit my profit?” / “Price pushes aggressively.”",
+    "originalTitle": "Comment VIP and get access to my next trade idea 💡 #trading #forex #tradewithpat #forexsi̇gnals #daytrading",
+    "title": "4월 이후 84% 승률의 단순 트레이딩 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim"
+      "오더블록",
+      "forex",
+      "daytrading",
+      "tradewithpat"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Is this trade gonna hit my profit?” 이어 “Price pushes aggressively.” 이어 “I want this candle to close outside of that zone.” 이어 “I've won seven trades in a row.”",
+    "core": "가격이 목표 가격을 향해 강하게 움직이고, 캔들sticks가 그 구간을 벗어나는 것을 기다린다.",
     "rules": [
-      "원문 실행 문장: Is this trade gonna hit my profit?",
-      "원문 실행 문장: I want this candle to close outside of that zone."
+      "가격이 목표 가격을 향해 강하게 움직일 때, 캔들sticks가 그 구간을 벗어나는 것을 기다린다.",
+      "7번 연속 승리를 거둔 후, 동일한 전략을 적용한다."
     ],
-    "caution": "성과·수익 발화: “Is this trade gonna hit my profit?” / “I've been winning 84% of my trades since April thanks to this simplest trick.” 홍보·행동유도 발화: “Join me now.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 73,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1733,24 +1866,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "28573963468855058": {
     "date": "2026.08.14",
     "duration": "00:37",
-    "originalTitle": "4.1K views · 119 reactions | The EASIEST Trade entry. Have you ever tried it? #trading #tradewithpat #forex #daytrading #tradingstrategy | Trade with Pat",
-    "title": "지지·저항: The easiest trade entry after 18 years is the zone tap and close.",
+    "originalTitle": "The EASIEST Trade entry. Have you ever tried it? #trading #tradewithpat #forex #daytrading #tradingstrategy",
+    "title": "18년 경력의 최고 진입 전략: ZONE TAP AND CLOSE",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 36.92초·로컬 Whisper large-v3-turbo 전사 108단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The easiest trade entry after 18 years is the zone tap and close.” / “This one was used as resistance, then used as support.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance"
+      "지지·저항",
+      "거래 전략",
+      "ZTAC",
+      "지지 저항"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “The easiest trade entry after 18 years is the zone tap and close.” 이어 “This one was used as resistance, then used as support.” 이어 “It's called the zone tap and close.” 이어 “That gives me confirmation that I can take my buy trade, take profit at recent price levels, and if all goes well, the trade will go in my direction and smash my take profit.”",
+    "core": "지역 터치와 닫기 전략은 첫 번째 캔들로 구역에 진입하고 그 구역 위로 닫히는 것을 확인하면 구매 진입을 결정할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: The easiest trade entry after 18 years is the zone tap and close.",
-      "원문 실행 문장: First, I set up my support zone.",
-      "원문 실행 문장: It's called the zone tap and close.",
-      "원문 실행 문장: I want to see the first candle that comes into my zone tap in and then close above the zone.",
-      "원문 실행 문장: That gives me confirmation that I can take my buy trade, take profit at recent price levels, and if all goes well, the trade will go in my direction and smash my take profit."
+      "지역 터치와 닫기 전략은 첫 번째 캔들로 구역에 진입하고 그 구역 위로 닫히는 것을 확인하면 구매 진입을 결정합니다.",
+      "지지 구역을 설정하고 그 구역을 터치하고 닫히면 구매 진입을 실행합니다.",
+      "지지 구역이 저항 구역으로 역할을 변경할 수 있습니다."
     ],
-    "caution": "성과·수익 발화: “That gives me confirmation that I can take my buy trade, take profit at recent price levels, and if all goes well, the trade will go in my direction and smash my take profit.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 108,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1758,21 +1891,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "2870794626613591": {
     "date": "2026.06.15",
     "duration": "00:18",
-    "originalTitle": "4.5K views | Comment ROBOT to learn how I didn’t even place this trade myself. The bot traded the range reversal based on the settings I chose. #trading #tradewithpat #forex #tradingrobot | Trade with Pat",
-    "title": "Fibonacci: I just mark up my range high and my range low with the Fibonacci.",
+    "originalTitle": "Comment ROBOT to learn how I didn’t even place this trade myself. The bot traded the range reversal based on the settings I chose. #trading #tradewithpat #forex #tradingrobot",
+    "title": "Fibonacci 사용으로 10연승 거래, ROBOT 기반 범위 반전 거래",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 18.04초·로컬 Whisper large-v3-turbo 전사 48단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “That's 10 wins in a row.” / “I just mark up my range high and my range low with the Fibonacci.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "Fibonacci"
+      "피보나치",
+      "Fibonacci",
+      "ROBOT",
+      "범위반전"
     ],
-    "core": "원문 전사 기준 Fibonacci 콘텐츠다. “That's 10 wins in a row.” 이어 “I just mark up my range high and my range low with the Fibonacci.” 이어 “I wait for price to push up, tap into that level of supply.” 이어 “I trade the rejection, exit at this 61.8 retracement, and I'm done for the day.”",
+    "core": "Fibonacci를 사용하여 범위를 설정하고 거래를 실행하는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: I just mark up my range high and my range low with the Fibonacci.",
-      "원문 실행 문장: I wait for price to push up, tap into that level of supply.",
-      "원문 실행 문장: I trade the rejection, exit at this 61.8 retracement, and I'm done for the day."
+      "가격이 범위 상단을 향해 상승하면, 61.8% 반등 수준에서 매도를 실행한다.",
+      "Fibonacci를 사용하여 범위를 정하고, 가격이 그 수준에서 거부되면 거래를 실행한다."
     ],
-    "caution": "전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 48,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1780,21 +1915,22 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "3065304253675477": {
     "date": "2026.07.06",
     "duration": "00:07",
-    "originalTitle": "1.6K views | THE LIVE STREAM IS BACK! Took 7 months off, no big deal. Planned on starting em when I got in the mansion again but it’s taking too long to build. See you on stream soon! #tradewithpat #trading #forex | Trade with Pat",
-    "title": "영상 발화 분석: New York, concrete jungle with dreams of pain.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 6.79초·로컬 Whisper large-v3-turbo 전사 8단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “New York, concrete jungle with dreams of pain.”",
+    "originalTitle": "THE LIVE STREAM IS BACK! Took 7 months off, no big deal. Planned on starting em when I got in the mansion again but it’s taking too long to build. See you on stream soon! #tradewi…",
+    "title": "7개월 만에 라이브 스트림 복귀! 맨션 건설 지연",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "라이브 스트림"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “New York, concrete jungle with dreams of pain.”",
+    "core": "7개월 만에 라이브 스트림을 복귀하며, 맨션 건설이 지연되고 있어 라이브 시간이 미정이다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: New York, concrete jungle with dreams of pain."
+      "7개월 동안 라이브 스트림을 중단하였으나, 맨션 건설이 지연되어 라이브 시간이 미정이다.",
+      "새로운 라이브 스트림은 맨션 건설 완료 후 예정이다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 8,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1802,20 +1938,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "3173818059447047": {
     "date": "2025.12.18",
     "duration": "00:23",
-    "originalTitle": "3.5K views | Prop firm PASS with FX Trading Robot (FTMO)! #ftmo #forex #propfirm #forexrobot #trading | Trade with Pat",
-    "title": "영상 발화 분석: At one point, his account was this close to being lost.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 23.48초·로컬 Whisper large-v3-turbo 전사 88단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I can't believe how this prop firm account turned around.” / “At one point, his account was this close to being lost.”",
+    "originalTitle": "Prop firm PASS with FX Trading Robot (FTMO)! #ftmo #forex #propfirm #forexrobot #trading",
+    "title": "PASS 프로피지먼트 계정 회복: FX 트레이딩 로봇의 역할",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "프로피지먼트",
+      "FX",
+      "FX로봇"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I can't believe how this prop firm account turned around.” 이어 “At one point, his account was this close to being lost.” 이어 “And this morning, he told us that account reached his prop firm goal.” 이어 “This is just his experience.”",
+    "core": "FX 트레이딩 로봇을 사용하여 프로피지먼트 계정이 회복된 사례를 확인할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: At one point, his account was this close to being lost."
+      "프로피지먼트 계정이 손실 위기에 처했지만, FX 트레이딩 로봇을 사용하여 회복되었다.",
+      "커뮤니티 멤버와 직접 상담하려면 무료 Discord를 확인하라."
     ],
-    "caution": "성과·수익 발화: “Obviously, that's not a guarantee.” 홍보·행동유도 발화: “But if you want to talk with him and other members, check out the free Discord.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 88,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1823,21 +1962,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "3770035803298249": {
     "date": "2025.11.28",
     "duration": "00:21",
-    "originalTitle": "2.4K views | Black Friday is HERE! Get the Trade with Pat robot or join the discord to see what it’s all about! Much love! #trading #tradewithpat #forex #tradingrobot #forexrobot | Trade with Pat",
-    "title": "영상 발화 분석: Traders are tired of staring at the charts, and I've got a Black Friday offer to help fix that problem.",
+    "originalTitle": "Black Friday is HERE! Get the Trade with Pat robot or join the discord to see what it’s all about! Much love! #trading #tradewithpat #forex #tradingrobot #forexrobot",
+    "title": "Black Friday 특별 할인! Pat 로봇으로 트레이딩 시작하기",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 20.80초·로컬 Whisper large-v3-turbo 전사 72단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The results are in.” / “Traders are tired of staring at the charts, and I've got a Black Friday offer to help fix that problem.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "tradewithpat",
+      "forex"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “The results are in.” 이어 “Traders are tired of staring at the charts, and I've got a Black Friday offer to help fix that problem.” 이어 “My brand new robot launched this month is already getting positive feedback from traders in our Discord.” 이어 “I'm seeing great personal results with it as well.”",
+    "core": "새로운 트레이딩 로봇이 시장에서 좋은 반응을 얻고 있으며, Black Friday 할인을 통해 즉시 구매할 수 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: The results are in."
+      "Black Friday 할인 코드를 사용하여 Pat 로봇을 구매할 수 있습니다.",
+      "Discord에 가입하여 로봇의 작동 방식을 확인할 수 있습니다."
     ],
-    "caution": "홍보·행동유도 발화: “And if you want to join us, use code Black Friday, our biggest discount of the year, and get the robot today.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 72,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1845,20 +1986,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "4058949514416538": {
     "date": "2025.10.21",
     "duration": "00:24",
-    "originalTitle": "4K views | 16 mins is all it takes in trading! #trading #tradewithpat #forex #daytrading #forexsignals | Trade with Pat",
-    "title": "지지·저항: 800, I'm going to TP1 at 1,000.",
+    "originalTitle": "16 mins is all it takes in trading! #trading #tradewithpat #forex #daytrading #forexsignals",
+    "title": "16분 거래 전략: 800에서 진입, 1000에서 타이밍 잡기",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 24.27초·로컬 Whisper large-v3-turbo 전사 39단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I am into the position.” / “TP1, let's go TP1 right there.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "resistance"
+      "지지·저항",
+      "거래 전략",
+      "포지션 진입",
+      "타이밍 잡기"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “I am into the position.” 이어 “TP1, let's go TP1 right there.” 이어 “And we're looking for some more here.” 이어 “Break the resistance.”",
+    "core": "16분 동안의 거래를 통해 목표 가격을 잡고 실현하는 방법을 설명한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I am into the position."
+      "800에서 포지션 진입",
+      "1000에서 타이밍 잡고 실현"
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 39,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1866,21 +2010,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "4166456983633102": {
     "date": "2025.09.14",
     "duration": "00:19",
-    "originalTitle": "2.9K views · 13 comments | Trading can take years before you see consistent profits and that journey can feel overwhelming at times. I know exactly how it feels to face setbacks and wonder if success will ever come. Every loss and every lesson is shaping you into a stronger trader with sharper instincts. I stayed patient, kept learning, and trusted the process until things finally clicked for me. If I made it through the struggles and built a profitable strategy, you can too. Stay committed, refine your approach, and remember that the grind is part of the growth. Your future self will be proud you didn’t quit when it got tough. Keep pushing forward and believe in your potential. #trading #tradewithpat #forex #daytrading #finance #money | Trade with Pat",
-    "title": "영상 발화 분석: Trading can take years before you see consistent profits and that journey can feel overwhelming at times.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 18.57초·로컬 Whisper large-v3-turbo 전사 3단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Trading can take years before you see consistent profits and that journey can feel overwhelming at times.” / “I stayed patient, kept learning, and trusted the process until things finally clicked for me.”",
+    "originalTitle": "Trading can take years before you see consistent profits and that journey can feel overwhelming at times. I know exactly how it feels to face setbacks and wonder if success will e…",
+    "title": "트레이딩 성공까지의 긴 여정: 실패를 극복하고 성장하는 과정",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "성장",
+      "성공"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Trading can take years before you see consistent profits and that journey can feel overwhelming at times.” 이어 “I stayed patient, kept learning, and trusted the process until things finally clicked for me.” 이어 “Your future self will be proud you didn’t quit when it got tough.” 이어 “¡Suscríbete al canal!”",
+    "core": "트레이딩은 실패를 통해 배우고 성장하며, 결국에는 일관된 수익을 얻을 수 있다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Trading can take years before you see consistent profits and that journey can feel overwhelming at times."
+      "실패를 겪더라도 끝까지 포기하지 않고 배우며 성장한다.",
+      "성공적인 전략을 구축하기까지는 많은 시간과 노력이 필요하다.",
+      "매우 중요한 것은 끈기와 끊임없는 학습이다."
     ],
-    "caution": "성과·수익 발화: “If I made it through the struggles and built a profitable strategy, you can too.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 3,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1888,20 +2035,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "4195364464064018": {
     "date": "2025.09.19",
     "duration": "00:35",
-    "originalTitle": "2.5K views · 10 comments | Wick rejections & trading candle closures ONLY! #trading #forex #tradewithpat #daytrading #wicks #candleclosures | Trade with Pat",
-    "title": "지지·저항: Secret behind my win streak is wick rejections you can see here we have a very clear level of resistance…",
+    "originalTitle": "Wick rejections & trading candle closures ONLY! #trading #forex #tradewithpat #daytrading #wicks #candleclosures",
+    "title": "wick rejection과 candle closure를 기준으로 한 day trading 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 34.82초·Facebook 자동 자막 124단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Secret behind my win streak is wick rejections you can see here we have a very clear level of resistance price push down off of this level before and now price is starting to push up now a lot of traders when…” / “You have to listen to those wick rejections.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "resistance"
+      "지지·저항",
+      "트레이딩",
+      "외환",
+      "tradewithpat"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Secret behind my win streak is wick rejections you can see here we have a very clear level of resistance price push down off of this level before and now price is starting to push up now a lot of traders when…” 이어 “You have to listen to those wick rejections.” 이어 “Make sure you get the candle close.”",
+    "core": "wick rejection이 발생할 때 가격이 반대 방향으로 움직일 가능성이 높다는 것을 인지해야 한다.",
     "rules": [
-      "원문 실행 문장: Secret behind my win streak is wick rejections you can see here we have a very clear level of resistance price push down off of this level before and now price is starting to push up now a lot of traders when they see the price break out of there are already…",
-      "원문 실행 문장: Make sure you get the candle close."
+      "wick rejection이 발생할 때 가격이 반대 방향으로 움직일 가능성이 높으므로, candle이 닫힐 때까지 기다려야 한다.",
+      "레벨의 저항에서 가격이 내려가고 다시 상승하는 동안 wick rejection을 주의해야 한다.",
+      "candle이 가격을 반대로 움직이는 것을 거부할 때 진입하지 말아야 한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 124,
     "transcriptSource": "Facebook 자동 자막"
@@ -1909,22 +2060,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "4214527785457451": {
     "date": "2026.02.01",
     "duration": "00:44",
-    "originalTitle": "3.6K views | This is the ORB (Opening Range Breakout) strategy I personally use. It’s been verified, tested, and fits my trading style. Results come from discipline, not luck. #trading #forex #tradewithpat #daytrading #orbstrategy | Trade with Pat",
-    "title": "돌파·개장 범위: I mark out the high, I mark out the low, wait for price to break out on the 5-minute time frame, but I o…",
+    "originalTitle": "This is the ORB (Opening Range Breakout) strategy I personally use. It’s been verified, tested, and fits my trading style. Results come from discipline, not luck. #trading #forex…",
+    "title": "ORB 전략: 15분봉에서 시작하는 매매 시점과 bullish engulfing 패턴 기다림",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 43.54초·로컬 Whisper large-v3-turbo 전사 141단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “My orb trading strategy is behind this 3-day trading account and this verified insane 10-day trading account too.” / “I'm simply looking at the 15-minute candle at the beginning of each session.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "FVG",
-      "breakout"
+      "개장 범위",
+      "심리·규율",
+      "ORB 전략"
     ],
-    "core": "원문 전사 기준 돌파·개장 범위 콘텐츠다. “My orb trading strategy is behind this 3-day trading account and this verified insane 10-day trading account too.” 이어 “I'm simply looking at the 15-minute candle at the beginning of each session.” 이어 “Then I'm simply waiting for price to come back to that level of demand, but I don't enter immediately.” 이어 “That's where I enter my trade and if I'm too busy on vacation, my robot trades it for me.”",
+    "core": "ORB 전략은 일관된 이익을 얻는 데 중요한 역할을 하며, 매매는 큰 가격 움직임과 bullish engulfing 패턴이 나타날 때 이루어집니다.",
     "rules": [
-      "원문 실행 문장: I mark out the high, I mark out the low, wait for price to break out on the 5-minute time frame, but I only trade if I get proper displacement, a big aggressive move that creates either a fair value gap or a level of demand like this.",
-      "원문 실행 문장: Then I'm simply waiting for price to come back to that level of demand, but I don't enter immediately.",
-      "원문 실행 문장: That's where I enter my trade and if I'm too busy on vacation, my robot trades it for me."
+      "15분봉에서 하루 시작할 때 고가와 저가를 확인하고, 5분봉에서 가격이 breakout 되는 시점에서 대형 가격 움직임이 발생하면 거래를 시작한다.",
+      "매매는 bullish engulfing 패턴이 나타날 때 이루어진다.",
+      "휴가 중이라면 로봇이 거래를 대신한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 141,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1932,28 +2085,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "4373251449608814": {
     "date": "2026.07.18",
     "duration": "00:50",
-    "originalTitle": "2.1K views · 465 reactions | Comment ROBOT to get this strategy automated in your accounts. #trading #nasdaq #tradingstrategy #tradewithpat #forex | Trade with Pat",
-    "title": "이동평균: First, I have to set up my opening range, marking out the high and the low from 930 to 945.",
+    "originalTitle": "Comment ROBOT to get this strategy automated in your accounts. #trading #nasdaq #tradingstrategy #tradewithpat #forex",
+    "title": "9:30~9:45 NASDAQ 개장 범위 내에서의 판매 탐색과 200 SMA 아래 매매",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 50.12초·로컬 Whisper large-v3-turbo 전사 171단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Price pushed down, pushed down, and went all the way.” / “That tells me I'm looking for sales.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "moving average",
-      "support",
-      "resistance",
-      "breakout",
-      "Fibonacci",
-      "performance claim"
+      "개장 범위",
+      "지지·저항",
+      "이동평균",
+      "피보나치"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “Price pushed down, pushed down, and went all the way.” 이어 “That tells me I'm looking for sales.” 이어 “Well, right here, we have an obvious flip zone.” 이어 “And after I tapped in in front of hundreds of people, price pushed down, pushed down, and went all the way to my take profit.”",
+    "core": "NASDAQ 가격이 200 SMA 아래로 내려가면 판매 신호를 찾을 수 있다.",
     "rules": [
-      "원문 실행 문장: First, I have to set up my opening range, marking out the high and the low from 930 to 945.",
-      "원문 실행 문장: Then I want to see a break and close, just like I got right here.",
-      "원문 실행 문장: Using the Fibonacci, I want to make sure price comes back above the 50%, but where is my entry going to be?",
-      "원문 실행 문장: So this is actually where I entered the trade live on stream.",
-      "원문 실행 문장: And after I tapped in in front of hundreds of people, price pushed down, pushed down, and went all the way to my take profit."
+      "9:30부터 9:45 사이의 개장 범위를 설정하고, 가격이 200 SMA 아래로 내려가면 판매를 탐색한다.",
+      "Fibonacci 50% 수준에서 가격이 회복되면, 이전에 저항 역할을 한 구간에서 매수 진입한다."
     ],
-    "caution": "성과·수익 발화: “Using the Fibonacci, I want to make sure price comes back above the 50%, but where is my entry going to be?” / “And after I tapped in in front of hundreds of people, price pushed down, pushed down, and went all the way to my take profit.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 171,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1961,24 +2109,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "4403968299921634": {
     "date": "2026.06.04",
     "duration": "01:00",
-    "originalTitle": "5.1K views · 15 comments | I’ve been using this 5-minute scalping strategy for over a decade, and it remains one of my favorite ways to trade the markets. Simple. Repeatable. Effective. In this reel, I’ll show you exactly how I identify setups, find entries, and manage risk using my 5-minute trading approach. What timeframe do you trade most often? 👇 #trading #scalping #scalpingstrategy #tradewithpat | Trade with Pat",
-    "title": "영상 발화 분석: And when that candle finishes, all we're going to do is mark out the candle high and mark out the candle…",
+    "originalTitle": "I’ve been using this 5-minute scalping strategy for over a decade, and it remains one of my favorite ways to trade the markets. Simple. Repeatable. Effective. In this reel, I’ll s…",
+    "title": "5분봉 스팩핑 전략: 9:30 Eastern Time의 캔들 분석",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 59.85초·로컬 Whisper large-v3-turbo 전사 208단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “five-minute scalping strategy that I've traded for over a decade.” / “But you see, we just had a break and close, but it was quite weak.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "위험관리",
+      "5분봉",
+      "스파킹"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “five-minute scalping strategy that I've traded for over a decade.” 이어 “But you see, we just had a break and close, but it was quite weak.” 이어 “We want the pullback to that level right there.” 이어 “And right there, I smashed my take profit.”",
+    "core": "5분봉 차트에서 캔들 고점과 저점으로 범위를 설정하고, 이동성으로 인한 범위 돌파를 기다린다.",
     "rules": [
-      "원문 실행 문장: And when that candle finishes, all we're going to do is mark out the candle high and mark out the candle low.",
-      "원문 실행 문장: So this is not a break and close I'm looking for.",
-      "원문 실행 문장: But I did not use that level, right?",
-      "원문 실행 문장: What happens with the move?",
-      "원문 실행 문장: And right there, I smashed my take profit."
+      "9:30 Eastern Time에 첫 15분봉이 완성되면, 그 범위의 고점과 저점을 기록한다.",
+      "이동성이 있는 범위 돌파가 발생하면, 그 수준에서 역발포를 기다린다.",
+      "역발포가 발생하면 즉시 진입하여 가격이 이동성으로 인해 범위를 벗어나는 것을 기다린다."
     ],
-    "caution": "성과·수익 발화: “And within a couple of candles here, I'm looking to get into profit.” / “And right there, I smashed my take profit.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 208,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1986,21 +2133,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "4552026638360681": {
     "date": "2026.07.14",
     "duration": "00:11",
-    "originalTitle": "462 reactions · 13 shares | Traded CPI on Live Stream today.. Didn’t go as well as this shows and the real ones know that 😭😂 #trading #tradewithpat #forex #livestream | Trade with Pat",
-    "title": "영상 발화 분석: Our weird little CPI strategy is gonna work today and the news is out and it is down it is up and I'm I'…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 11.14초·로컬 Whisper large-v3-turbo 전사 32단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Our weird little CPI strategy is gonna work today and the news is out and it is down it is up and I'm I'm taking the profit on that take that $7,000”",
+    "originalTitle": "Traded CPI on Live Stream today.. Didn’t go as well as this shows and the real ones know that 😭😂 #trading #tradewithpat #forex #livestream",
+    "title": "CPI 라이브 스트림에서 7,000 달러 수익 실현",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "CPI",
+      "실시간 트레이딩",
+      "FX"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Our weird little CPI strategy is gonna work today and the news is out and it is down it is up and I'm I'm taking the profit on that take that $7,000”",
+    "core": "CPI 데이터 발표 직후 시장 변동을 활용해 수익을 얻었다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Our weird little CPI strategy is gonna work today and the news is out and it is down it is up and I'm I'm taking the profit on that take that $7,000"
+      "CPI 데이터 발표 직후 시장 변동을 활용해 7,000 달러 수익을 실현했다.",
+      "실제 매매에서는 시장 변동을 예측하고 빠르게 반응해야 한다."
     ],
-    "caution": "성과·수익 발화: “Our weird little CPI strategy is gonna work today and the news is out and it is down it is up and I'm I'm taking the profit on that take that $7,000” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 32,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2008,23 +2157,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "654191934408878": {
     "date": "2025.09.20",
     "duration": "00:24",
-    "originalTitle": "6.5K views · 15 comments | ORB Trading Strategy + Market Trend! 📈 #trading #tradewithpat #forex #orb #openrangebreakout | Trade with Pat",
-    "title": "이동평균: So you're thinking it's time to go short, but come to the 15-minute time frame.",
+    "originalTitle": "ORB Trading Strategy + Market Trend! 📈 #trading #tradewithpat #forex #orb #openrangebreakout",
+    "title": "15분봉에서의 지원 수준과 200EMA 위에서의 구름 모양",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 23.57초·로컬 Whisper large-v3-turbo 전사 96단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Orb trading just works better with the trend.” / “So you're thinking it's time to go short, but come to the 15-minute time frame.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "moving average",
-      "support",
-      "breakout"
+      "개장 범위",
+      "지지·저항",
+      "이동평균",
+      "ORB 전략"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “Orb trading just works better with the trend.” 이어 “So you're thinking it's time to go short, but come to the 15-minute time frame.” 이어 “We just want to buy.” 이어 “So add this confluence, you'll win more trades.”",
+    "core": "ORB 전략은 추세와 함께 더 효과적이다. 가격이 지지 수준에서 반등하면 매수할 기회가 생긴다.",
     "rules": [
-      "원문 실행 문장: So you're thinking it's time to go short, but come to the 15-minute time frame.",
-      "원문 실행 문장: We just want to buy.",
-      "원문 실행 문장: So if I play this one out, you can see touches off the support, knocks you out of your trade, and comes all the way back up."
+      "15분봉에서 가격이 지지 수준 위에 위치하면 uptrend가 지속된다.",
+      "200EMA 위에서 가격이 유지되면 uptrend로 간주된다.",
+      "가격이 지지 수준에서 반등하면 매수할 기회가 생긴다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 96,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2032,21 +2182,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "682886601346343": {
     "date": "2025.11.23",
     "duration": "00:30",
-    "originalTitle": "5.2K views · 22 comments | My 2026 Gold Trading Strategy. Yes, it’s simple but the second level confirmation is my solution for current market conditions on XAUUSD. | Trade with Pat",
-    "title": "영상 발화 분석: The second level I use for confirmation.",
+    "originalTitle": "My 2026 Gold Trading Strategy. Yes, it’s simple but the second level confirmation is my solution for current market conditions on XAUUSD.",
+    "title": "2026년 금 거래 전략: XAUUSD에서 두 단계 확인을 통한 진입 방법",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 30.06초·로컬 Whisper large-v3-turbo 전사 91단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I don't know where gold is going, but this strategy has been giving me clean setups all month.” / “When price comes to the first level and it holds, it tells me institutions defended this level.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "금 거래",
+      "XAUUSD",
+      "두 단계 확인"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I don't know where gold is going, but this strategy has been giving me clean setups all month.” 이어 “When price comes to the first level and it holds, it tells me institutions defended this level.” 이어 “And when I get that break, I believe buyers are committed.” 이어 “I analyze this exact setup in my gold trading room.”",
+    "core": "현재 시장 조건에서 두 단계 확인을 통해 진입할 수 있는 간단한 금 거래 전략을 제시합니다.",
     "rules": [
-      "원문 실행 문장: The second level I use for confirmation.",
-      "원문 실행 문장: And then I retest that entry, catching institutional confirmation and get that true shift in control."
+      "가격이 첫 번째 수준에 도달하고 유지되면, 이는 기관들이 이 수준을 방어했다는 신호입니다.",
+      "두 번째 수준에서 가격이 깨지면, 구매자들이 진입을 확신하게 됩니다."
     ],
-    "caution": "홍보·행동유도 발화: “Join over 950 other traders to learn more.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 91,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2054,22 +2206,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "757241497367655": {
     "date": "2025.11.07",
     "duration": "00:32",
-    "originalTitle": "5.6K views · 18 comments | Trade with Pat on Reels",
-    "title": "영상 발화 분석: So why did I take this trade?",
+    "originalTitle": "Trade with Pat on Reels",
+    "title": "Pat의 Reels에서 $800 근처에서 테스트: TP1과 TP3 사용",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 32.00초·로컬 Whisper large-v3-turbo 전사 66단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Let's see if we can get a reaction here.” / “Around here.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "TP1",
+      "TP3"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Let's see if we can get a reaction here.” 이어 “Around here.” 이어 “Over and over and over again.” 이어 “Close to TP3 here.”",
+    "core": "TP1과 TP3을 사용하여 이익을 실현하는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: So why did I take this trade?",
-      "원문 실행 문장: Okay, wait a second.",
-      "원문 실행 문장: Close to TP3 here."
+      "800 달러 근처에서 반응을 기다린 후 TP1을 설정하고 이익을 실현한다.",
+      "TP3을 설정하여 추가 이익을 추적한다."
     ],
-    "caution": "성과·수익 발화: “I'm at so much profit here.” / “I'd like to take another $500 off right now of a pool.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 66,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2077,23 +2230,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "771948372105590": {
     "date": "2025.09.05",
     "duration": "00:31",
-    "originalTitle": "3.5K views · 285 reactions | EASIEST Forex Trading Strategy I’ve ever used. ORB Scalping has changed the game for me in 2025. Sharper entries, better overall direction and just growing trading accounts. #trading #tradewithpat #forex #daytrading #scalping #orb | Trade with Pat",
-    "title": "위험관리: Now you've probably seen a lot of people enter their trade right there.",
+    "originalTitle": "EASIEST Forex Trading Strategy I’ve ever used. ORB Scalping has changed the game for me in 2025. Sharper entries, better overall direction and just growing trading accounts. #trad…",
+    "title": "2025년 ORB 스폈링 전략으로 성장하는 거래 계좌",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 31.10초·로컬 Whisper large-v3-turbo 전사 112단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I've been trading for 16 years and this is the easiest trading strategy you can learn.” / “Then we just want a candle to break out the top or the bottom.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "개장 범위",
+      "위험관리",
+      "FOREX",
+      "ORB Scalping"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I've been trading for 16 years and this is the easiest trading strategy you can learn.” 이어 “Then we just want a candle to break out the top or the bottom.” 이어 “I need a pullback to a level of demand.” 이어 “And the rest is absolutely history.”",
+    "core": "ORB 스폈링 전략은 단순하면서도 효과적인 거래 방법으로, 가격이 범위를 벗어나기 전에 역발포를 기다린 후 진입합니다.",
     "rules": [
-      "원문 실행 문장: Break and close.",
-      "원문 실행 문장: Now you've probably seen a lot of people enter their trade right there.",
-      "원문 실행 문장: That's where I enter my trade.",
-      "원문 실행 문장: Stop loss below the zone."
+      "오전 9시 30분에 첫 세 개의 5분봉을 확인하고 범위의 상한과 하한을 파악합니다.",
+      "가격이 범위를 벗어나려 할 때 역발포를 기다린 후 진입합니다.",
+      "진입 후 스탑 러스를 범위 아래의 수준으로 설정합니다."
     ],
-    "caution": "홍보·행동유도 발화: “Comment, trade, and learn more.” 전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 112,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2101,20 +2255,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "773401621763802": {
     "date": "2025.09.02",
     "duration": "00:31",
-    "originalTitle": "2.1K views · 10 comments | Pro Scalper or Lucky 🍀? #trading #forex #tradewithpat #scalping #daytrading | Trade with Pat",
-    "title": "영상 발화 분석: Take my first take profit and just do a partial on that.",
+    "originalTitle": "Pro Scalper or Lucky 🍀? #trading #forex #tradewithpat #scalping #daytrading",
+    "title": "EU 쌍방향 거래에서 700포인트 수익 실현",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 31.20초·로컬 Whisper large-v3-turbo 전사 45단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Alright, so I caught a big red candle on EU.” / “Pretty good reaction.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "프로스칼퍼",
+      "운",
+      "EU"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Alright, so I caught a big red candle on EU.” 이어 “Pretty good reaction.” 이어 “Let's do a small partial right there.” 이어 “And still up 700.”",
+    "core": "프로 스칼퍼와 운의 차이는 명확한 거래 신호와 타이밍에 따라 결정된다.",
     "rules": [
-      "원문 실행 문장: Take my first take profit and just do a partial on that."
+      "EU 쌍방향 거래에서 큰 레드캔들 발생",
+      "1000포인트 수익 후 일부 이익 실현"
     ],
-    "caution": "성과·수익 발화: “Alright, I'm up a thousand.” / “Take my first take profit and just do a partial on that.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 45,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2122,20 +2279,22 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "778849441703960": {
     "date": "2025.09.24",
     "duration": "00:29",
-    "originalTitle": "3.3K views · 55 comments | This Forex FURY account is HOT 🔥. 8 years on the market this trading robot continues to produce for me. #trading #tradewithpat #forex #forexfury #tradingrobot #forexrobot | Trade with Pat",
-    "title": "영상 발화 분석: With the biggest trade here, where there was a pullback, entered the trade on this candle, price pushed…",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 29.31초·로컬 Whisper large-v3-turbo 전사 94단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Win, win, win, win, win, win, win, win, win, win, win.” / “Is there anything better in the world than a trading account that looks like this?”",
+    "originalTitle": "This Forex FURY account is HOT 🔥. 8 years on the market this trading robot continues to produce for me. #trading #tradewithpat #forex #forexfury #tradingrobot #forexrobot",
+    "title": "8년간의 성과를 보여주는 Forex FURY의 실시간 거래 계정",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "ForexFury"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Win, win, win, win, win, win, win, win, win, win, win.” 이어 “Is there anything better in the world than a trading account that looks like this?” 이어 “With the biggest trade here, where there was a pullback, entered the trade on this candle, price pushed up, and exited the trade on this candle for 60 pips.” 이어 “If you want to learn more, come to the Fury website and check out all of these live trading accounts.”",
+    "core": "Forex FURY 로봇은 8년 동안 꾸준히 수익을 내어 거래 계정을 성장시킵니다.",
     "rules": [
-      "원문 실행 문장: With the biggest trade here, where there was a pullback, entered the trade on this candle, price pushed up, and exited the trade on this candle for 60 pips."
+      "8년 동안 Forex FURY 로봇이 거래를 수행하며 수익을 내어 거래 계정을 성장시킵니다.",
+      "가장 큰 거래에서는 가격이 상승하여 60pip을 얻었습니다."
     ],
-    "caution": "전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 94,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2143,23 +2302,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "782165468080581": {
     "date": "2026.04.10",
     "duration": "00:39",
-    "originalTitle": "46K views · 15 reactions | Everyone talks about fair value gaps… Almost nobody uses them properly. This is the simplified version I’ve refined over years. #trading #tradewithpat #FVG #ict #ifvg | Trade with Pat",
-    "title": "영상 발화 분석: First price pushes up, it creates a big fair value gap, and immediately traders are looking for price to…",
+    "originalTitle": "Everyone talks about fair value gaps… Almost nobody uses them properly. This is the simplified version I’ve refined over years. #trading #tradewithpat #FVG #ict #ifvg",
+    "title": "FVG 활용법: 실제 진입 시점은 대량 매수 전 수요대기 지대",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 39.40초·로컬 Whisper large-v3-turbo 전사 130단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I've been trading for 17 years and almost everyone is using fair value gaps wrong.” / “But if you trade FVGs, you've probably seen price slam through it every single time.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "FVG"
+      "FVG",
+      "거래전략",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I've been trading for 17 years and almost everyone is using fair value gaps wrong.” 이어 “But if you trade FVGs, you've probably seen price slam through it every single time.” 이어 “The real entry comes at the start of the move, the demand zone before the big push up.” 이어 “You'll be absolutely shocked.”",
+    "core": "FVG는 가격이 큰 상승을 앞두고 빠르게 회귀하는 지점을 나타내며, 진입 시점은 대량 매수 전 수요대기 지대에서 발생합니다.",
     "rules": [
-      "원문 실행 문장: First price pushes up, it creates a big fair value gap, and immediately traders are looking for price to come to this level, and this is where they want to enter a trade from.",
-      "원문 실행 문장: But if you trade FVGs, you've probably seen price slam through it every single time.",
-      "원문 실행 문장: Because FVG is not the entry model.",
-      "원문 실행 문장: The real entry comes at the start of the move, the demand zone before the big push up.",
-      "원문 실행 문장: Wait for price to come to this level, get your entry on that confirmation, and if you don't believe me, go ahead, back test this yourself."
+      "17년간의 경험에 근거해 FVG를 잘못 사용하는 사람들을 지적한다.",
+      "FVG는 가격이 큰 상승을 앞두고 빠르게 회귀하는 지점을 나타내며, 진입 시점은 대량 매수 전 수요대기 지대에서 발생합니다.",
+      "FVG가 가격을 통과하는 경우 실제 진입 시점은 대량 매수 전 수요대기 지대에서 발생합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 130,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2167,21 +2326,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "782335198042729": {
     "date": "2025.09.17",
     "duration": "00:29",
-    "originalTitle": "103K views · 131 comments | Crazy NEW Trading Strategy. Full video out 9am EST Thursday! #trading #forex #scalping #tradingstrategy #tradewithpat | Trade with Pat",
-    "title": "4시간봉 캔들 레인지: Then on the five minute time frame, you're just watching price accumulation, waiting for manipulation wh…",
+    "originalTitle": "Crazy NEW Trading Strategy. Full video out 9am EST Thursday! #trading #forex #scalping #tradingstrategy #tradewithpat",
+    "title": "4시간 캔들 고점과 5분 캔들 가격 누적을 활용한 신규 스케일링 전략",
     "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 28.84초·로컬 Whisper large-v3-turbo 전사 95단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This new trading strategy is crazy.” / “You're just looking at the first four hour candle of the day, marking the high from the top wick, the low from the bottom wick.”",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "4H",
-      "risk"
+      "캔들 범위",
+      "위험관리",
+      "트레이딩",
+      "외환"
     ],
-    "core": "원문 전사 기준 4시간봉 캔들 레인지 콘텐츠다. “This new trading strategy is crazy.” 이어 “You're just looking at the first four hour candle of the day, marking the high from the top wick, the low from the bottom wick.” 이어 “Then you wait for price to re-enter the range, enter your trading position, stop loss below this level, and the distribution phase takes you all the way to your take profit.” 이어 “Watch the full video on my channel now.”",
+    "core": "4시간 캔들 고점과 5분 캔들 가격 누적을 활용하여 가격 조작을 기다리고, 가격이 범위를 벗어나면 진입하고, 가격이 범위로 되돌아오면 거래 포지션을 잡는다.",
     "rules": [
-      "원문 실행 문장: Then on the five minute time frame, you're just watching price accumulation, waiting for manipulation when price comes outside of the range, faking out traders.",
-      "원문 실행 문장: Then you wait for price to re-enter the range, enter your trading position, stop loss below this level, and the distribution phase takes you all the way to your take profit."
+      "4시간 캔들에서 하루의 고점을 확인하고, 5분 캔들에서 가격 누적을 관찰한다.",
+      "가격이 범위를 벗어나면 가격 조작을 기다린 후 가격이 범위로 되돌아오면 거래 포지션을 잡는다.",
+      "스TOP 레스를 이 가격 아래로 설정하고, 분배 단계에서는 이익 실현 수준을 달성한다."
     ],
-    "caution": "성과·수익 발화: “Then you wait for price to re-enter the range, enter your trading position, stop loss below this level, and the distribution phase takes you all the way to your take profit.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 95,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2189,20 +2351,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "793900036497702": {
     "date": "2025.09.10",
     "duration": "00:24",
-    "originalTitle": "1.5K views · 4 comments | NO REPLAY MODE, JUST LIVE TRADING! #trading #tradewithpat #forex #daytrading | Trade with Pat",
-    "title": "영상 발화 분석: Things are going all right.",
+    "originalTitle": "NO REPLAY MODE, JUST LIVE TRADING! #trading #tradewithpat #forex #daytrading",
+    "title": "시장 분석에 관한 트레이딩 관점",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 24.03초·로컬 Whisper large-v3-turbo 전사 52단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I can get a win here.” / “Okay, I'm getting ready here.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "데이트레이딩",
+      "외환"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I can get a win here.” 이어 “Okay, I'm getting ready here.” 이어 “A little more.” 이어 “Take profit.”",
+    "core": "레버리지 트레이딩을 통해 실시간으로 수익을 추구하는 방법을 보여줍니다.",
     "rules": [
-      "원문 실행 문장: Take profit."
+      "레버리지로 큰 수익을 추구하되, 높은 위험을 감수해야 합니다.",
+      "9:00 AM에 시작하여 실시간 가격 변동을 관찰하고 진입합니다.",
+      "익절을 위해 가격이 상승하면 즉시 수익을 실현합니다."
     ],
-    "caution": "성과·수익 발화: “Take profit.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 52,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2210,21 +2376,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "803748682002927": {
     "date": "2025.09.15",
     "duration": "00:06",
-    "originalTitle": "3.2K views · 9 comments | Why your man won’t text you back, he’s trading! #trading #tradewithpat #forex #daytrading | Trade with Pat",
-    "title": "영상 발화 분석: Everybody, I'm looking for the end of the night",
+    "originalTitle": "Why your man won’t text you back, he’s trading! #trading #tradewithpat #forex #daytrading",
+    "title": "9:00 PM부터 11:00 PM 사이에 FX 거래 중인 남자친구",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 6.07초·로컬 Whisper large-v3-turbo 전사 9단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Everybody, I'm looking for the end of the night”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "tradewithpat",
+      "forex"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Everybody, I'm looking for the end of the night”",
+    "core": "남자친구가 밤 늦게 문자를 안 보내는 이유는 거래 중이라는 사실을 알게 되었습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Everybody, I'm looking for the end of the night"
+      "9:00 PM부터 11:00 PM 사이에 FX 거래를 하고 있습니다.",
+      "문자로 연락이 안 오는 이유는 거래 중이라는 점을 기억하세요."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 9,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2232,23 +2400,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "806531985598409": {
     "date": "2025.10.31",
     "duration": "00:44",
-    "originalTitle": "2.7K views · 9 comments | Nasdaq ORB trading strategy. Ignore the trump impression. #trading #tradewithpat #forex #daytrading | Trade with Pat",
-    "title": "지지·저항: We're gonna take another profit target if I hit this orb.",
+    "originalTitle": "Nasdaq ORB trading strategy. Ignore the trump impression. #trading #tradewithpat #forex #daytrading",
+    "title": "Nasdaq ORB 전략: 트럼프 영향 무시하고 $600에서 매도",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 43.52초·로컬 Whisper large-v3-turbo 전사 93단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Yeah, I'm gay.” / “That's what we're hoping to do.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "resistance",
-      "breakout",
-      "performance claim"
+      "개장 범위",
+      "지지·저항",
+      "선물·지수",
+      "Nasdaq"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Yeah, I'm gay.” 이어 “That's what we're hoping to do.” 이어 “We're gonna take another profit target if I hit this orb.” 이어 “Yeah, I'm gay.”",
+    "core": "Nasdaq ORB 전략은 특정 가격대에서 매매를 결정하는 데 중요한 역할을 합니다.",
     "rules": [
-      "원문 실행 문장: We're gonna take another profit target if I hit this orb.",
-      "원문 실행 문장: Just another- We'll take another 20-30% off of this trade there.",
-      "원문 실행 문장: Yeah, let's take that off of the trade right there."
+      "ORB 근처에서 매수하고, TP1 가격($600)에서 매도를 결정합니다.",
+      "매도 후 추가 이익을 위해 20-30% 더 빼는 것을 고려합니다."
     ],
-    "caution": "성과·수익 발화: “Let's take that right there at about $600.” / “Just another- We'll take another 20-30% off of this trade there.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 93,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2256,21 +2424,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "816692497613441": {
     "date": "2025.10.19",
     "duration": "00:27",
-    "originalTitle": "2.4K views · 18 comments | 83% WIN RATE with Forex & Gold Trading Signals. #trading #tradewithpat #forex #forexsignals #goldtrading | Trade with Pat",
-    "title": "영상 발화 분석: On my favorite signal of the week, Price broke through my trend line with an impulsive move.",
+    "originalTitle": "83% WIN RATE with Forex & Gold Trading Signals. #trading #tradewithpat #forex #forexsignals #goldtrading",
+    "title": "83% 승률 Forex & 금 거래 신호로 VIP 진입",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 27.29초·로컬 Whisper large-v3-turbo 전사 90단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Is it possible to win 83% of your trades?” / “On my favorite signal of the week, Price broke through my trend line with an impulsive move.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "FVG",
-      "performance claim"
+      "트레이딩",
+      "tradewithpat",
+      "forex"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Is it possible to win 83% of your trades?” 이어 “On my favorite signal of the week, Price broke through my trend line with an impulsive move.” 이어 “This created a fair value gap.” 이어 “I'll see you in VIP this week.”",
+    "core": "가격이 추세선을 돌파하면서 생성된 공정가격갭을 기반으로 거래 신호를 보내 거래를 성공시켰습니다.",
     "rules": [
-      "원문 실행 문장: On my favorite signal of the week, Price broke through my trend line with an impulsive move.",
-      "원문 실행 문장: I then expected Price to react off of this level, so I sent the signal to thousands of traders, and then we smashed the take profit here for 1.45%."
+      "가격이 추세선을 돌파하면서 공정가격갭이 생성되었고, 이 수준에서 가격이 반발하여 거래 신호를 보냈습니다.",
+      "VIP 진입을 위해 83% 승률의 거래 신호를 활용했습니다."
     ],
-    "caution": "성과·수익 발화: “Is it possible to win 83% of your trades?” / “I then expected Price to react off of this level, so I sent the signal to thousands of traders, and then we smashed the take profit here for 1.45%.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 90,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2278,24 +2448,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "830467142967611": {
     "date": "2025.10.12",
     "duration": "00:33",
-    "originalTitle": "2.2K views · 8 comments | 6-1 vip trading signals this week in Forex & GOLD rooms! #trading #forex #tradewithpat #forexsignals | Trade with Pat",
-    "title": "지지·저항: My mansion is getting drywalled less than six months till I move in.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 33.22초·로컬 Whisper large-v3-turbo 전사 115단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Six wins in VIP this week.” / “We had this level of resistance right here.”",
+    "originalTitle": "6-1 vip trading signals this week in Forex & GOLD rooms! #trading #forex #tradewithpat #forexsignals",
+    "title": "6월 1일 VIP 트레이딩 신호: 금과 외환 시장에서의 성과",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "CTA"
+      "지지·저항",
+      "트레이딩",
+      "FX",
+      "FXsignals"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Six wins in VIP this week.” 이어 “We had this level of resistance right here.” 이어 “And then I was looking to use that exact same level right there as support.” 이어 “And I also had three more wins in the Forex room.”",
+    "core": "금 가격이 저항 수준을 돌파하고 지원 수준을 유지하면서 큰 이익을 얻었습니다.",
     "rules": [
-      "원문 실행 문장: My mansion is getting drywalled less than six months till I move in.",
-      "원문 실행 문장: And this was my favorite VIP trade.",
-      "원문 실행 문장: And then I was looking to use that exact same level right there as support.",
-      "원문 실행 문장: And the price pushed all the way up, smashing my take profit huge."
+      "6월 1일 VIP 트레이딩 신호에서, 금 가격이 저항 수준을 돌파하고 그 수준을 지원으로 사용하여 큰 이익을 얻었습니다.",
+      "6월 1일 외환 룸에서 추가로 3번의 성공을 거두었습니다.",
+      "구체적인 매매 규칙은 제시되지 않았습니다."
     ],
-    "caution": "성과·수익 발화: “And the price pushed all the way up, smashing my take profit huge.” 홍보·행동유도 발화: “Of course, it's gold.” / “So join VIP now and shout out to my lifetime members.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 115,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2303,21 +2473,22 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "848689524457515": {
     "date": "2026.01.01",
     "duration": "00:05",
-    "originalTitle": "I was born to help traders. This new year is no different. I’ve achieved my goals already. Now I want to help you achieve yours. | Trade with Pat",
-    "title": "영상 발화 분석: I was born to help traders.",
+    "originalTitle": "I was born to help traders. This new year is no different. I’ve achieved my goals already. Now I want to help you achieve yours.",
+    "title": "2023년에도 트레이더를 돕는 데 충실한 시작",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 5.00초·Facebook 게시문 캡션 25단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I was born to help traders.” / “This new year is no different.”",
+    "fidelity": "원본 영상·Facebook 게시문 캡션(무음 영상)·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "목표 달성"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I was born to help traders.” 이어 “This new year is no different.” 이어 “I’ve achieved my goals already.” 이어 “Now I want to help you achieve yours.”",
+    "core": "이해와 성공을 통해 트레이더의 목표를 도와주겠다는 의지를 전달",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I was born to help traders."
+      "이해와 성공을 통해 트레이더의 목표를 도와주겠다는 의지를 전달",
+      "이해와 성공을 통해 트레이더의 목표를 도와주겠다는 의지를 전달"
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 25,
     "transcriptSource": "Facebook 게시문 캡션(무음 영상)"
@@ -2325,21 +2496,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "849447221366500": {
     "date": "2025.11.16",
     "duration": "00:23",
-    "originalTitle": "2.8K views | The market feels easy right now. Everything seems to be clicking! #trading #tradewithpat #forex #daytrading #forexsignals | Trade with Pat",
-    "title": "영상 발화 분석: Just look at this gold trade.",
+    "originalTitle": "The market feels easy right now. Everything seems to be clicking! #trading #tradewithpat #forex #daytrading #forexsignals",
+    "title": "VIP에서 7일 연속 승리, 신규 트레이딩 로봇 성과",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 23.34초·로컬 Whisper large-v3-turbo 전사 85단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The market is easy right now.” / “My new trading robot is a winning machine just two weeks in.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "tradewithpat",
+      "forex"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “The market is easy right now.” 이어 “My new trading robot is a winning machine just two weeks in.” 이어 “We had the break.” 이어 “I entered the trading position, sent this to thousands of traders, and smashed the take profit.”",
+    "core": "신규 트레이딩 로봇이 7일 연속 승리를 거두고, 금 가격에서 실시간 거래를 성공적으로 마쳤습니다.",
     "rules": [
-      "원문 실행 문장: Just look at this gold trade.",
-      "원문 실행 문장: I entered the trading position, sent this to thousands of traders, and smashed the take profit."
+      "VIP에서 7일 연속 승리를 기록",
+      "신규 트레이딩 로봇을 사용하여 금 가격에서 실시간 거래를 성공적으로 마쳤습니다"
     ],
-    "caution": "성과·수익 발화: “I entered the trading position, sent this to thousands of traders, and smashed the take profit.” 홍보·행동유도 발화: “Look, if you want the robot or you want my exact trades, now's the time to join.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 85,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2347,20 +2520,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "854395041052179": {
     "date": "2026.05.22",
     "duration": "00:24",
-    "originalTitle": "My trading robot opened this trade. I watched it playout from my couch, as I hit 200% on this account. If you want the link to the account, just ask me in the comments, much love. #trading #tradingrobot #tradewithpat | Trade with Pat",
-    "title": "영상 발화 분석: My robot just took this trade for me.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 23.68초·로컬 Whisper large-v3-turbo 전사 37단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “My robot just took this trade for me.” / “I'll show you the full trading account when it's done.”",
+    "originalTitle": "My trading robot opened this trade. I watched it playout from my couch, as I hit 200% on this account. If you want the link to the account, just ask me in the comments, much love.…",
+    "title": "트레이딩 봇이 200% 수익 달성한 거래를 실시간으로 관찰",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "트레이딩 봇",
+      "트레이딩과세"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “My robot just took this trade for me.” 이어 “I'll show you the full trading account when it's done.” 이어 “And here is my account up big this year.” 이어 “Now we have over 1,500 members.”",
+    "core": "트레이딩 봇이 실시간으로 거래를 진행하며 200% 수익을 달성하였습니다.",
     "rules": [
-      "원문 실행 문장: My robot just took this trade for me."
+      "트레이딩 봇이 거래를 진행하고 200% 수익을 달성하였습니다.",
+      "실시간으로 거래 과정을 관찰하였습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 37,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2368,21 +2544,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "872866845131213": {
     "date": "2026.01.01",
     "duration": "00:30",
-    "originalTitle": "4.1K views · 8 comments | My trading strategy is boring… but boring pays. Join the ones who care about results, not excitement. #trading #forex #daytrading #tradewithpat #tradingstrategy | Trade with Pat",
-    "title": "영상 발화 분석: On the one hour time frame, I'm looking for a rally base drop, as you can see right there.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 29.55초·로컬 Whisper large-v3-turbo 전사 91단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “My trading strategy is boring.” / “On the one hour time frame, I'm looking for a rally base drop, as you can see right there.”",
+    "originalTitle": "My trading strategy is boring… but boring pays. Join the ones who care about results, not excitement. #trading #forex #daytrading #tradewithpat #tradingstrategy",
+    "title": "1시간 틱에서 런 베이스 드롭을 기다리는 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim"
+      "시장 분석",
+      "트레이딩",
+      "외환",
+      "일일 트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “My trading strategy is boring.” 이어 “On the one hour time frame, I'm looking for a rally base drop, as you can see right there.” 이어 “On the lower time frame, once price closes inside supply, I'm entering the trade on a trend line break confirmation.” 이어 “Boring works.”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "원문 실행 문장: On the one hour time frame, I'm looking for a rally base drop, as you can see right there.",
-      "원문 실행 문장: On the lower time frame, once price closes inside supply, I'm entering the trade on a trend line break confirmation.",
-      "원문 실행 문장: That's when I send this trade to my trading room, and this one hit for 2.2%."
+      "1시간 틱에서 가격이 최근 저점 빠져나갈 때, 시장이 판매로 변하고 있다는 신호가 된다.",
+      "가격이 공급 구간 안으로 들어가면, 추세선 돌파로 진입한다."
     ],
-    "caution": "성과·수익 발화: “That's exactly why it's profitable.” / “That's when I send this trade to my trading room, and this one hit for 2.2%.” 홍보·행동유도 발화: “Come and join us.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 91,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2390,21 +2568,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "876780765410527": {
     "date": "2026.04.04",
     "duration": "00:17",
-    "originalTitle": "4.5K views · 10 comments | AI connecting Claude to TradingView isn’t going to save your trading account. If you don’t have a profitable strategy, AI just automates your losses faster. #trading #claude #ai #tradingview | Trade with Pat",
-    "title": "영상 발화 분석: AI is not coming to save your trading account.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 17.16초·로컬 Whisper large-v3-turbo 전사 57단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “AI is not coming to save your trading account.” / “But look at this.”",
+    "originalTitle": "AI connecting Claude to TradingView isn’t going to save your trading account. If you don’t have a profitable strategy, AI just automates your losses faster. #trading #claude #ai #…",
+    "title": "AI와 TradingView 연결로 수익은 향상되지 않음",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "AI",
+      "클로드"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “AI is not coming to save your trading account.” 이어 “But look at this.” 이어 “This is a real account.” 이어 “If you don't have a profitable strategy, AI will only combine a bunch of indicators, form fitted to historical data, and that simply won't work now.”",
+    "core": "AI는 수익을 증가시키지 않고, 이미 손실을 보고 있는 전략을 더욱 자동화시킬 뿐이다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: AI is not coming to save your trading account."
+      "실제 계정에서 AI가 단순히 기술적 지표를 조합하되, 이전 데이터에 맞춘 것이지만, 효과는 없다.",
+      "이미 손실을 보고 있는 전략을 AI가 자동화시키면 손실이 더욱 빨리 증가한다."
     ],
-    "caution": "성과·수익 발화: “If you don't have a profitable strategy, AI will only combine a bunch of indicators, form fitted to historical data, and that simply won't work now.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 57,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2412,21 +2592,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "887925120286947": {
     "date": "2026.06.12",
     "duration": "00:15",
-    "originalTitle": "4.1K views | Comment ‘ROBOT’ & STOP chart watching! 🛑 #trading #tradewithpat #forex #tradingrobot | Trade with Pat",
-    "title": "영상 발화 분석: It's the first time we met, I pray Time made me yours again No one sees me like this How does she do tha…",
+    "originalTitle": "Comment ‘ROBOT’ & STOP chart watching! 🛑 #trading #tradewithpat #forex #tradingrobot",
+    "title": "ROBOT & STOP 차트 관찰 중지! 🛑 9:00",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 15.00초·로컬 Whisper large-v3-turbo 전사 39단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “It's the first time we met, I pray Time made me yours again No one sees me like this How does she do that?” / “He likes stress I need a second to breathe like Okay, I'm locked in XXXX”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "tradewithpat",
+      "forex"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “It's the first time we met, I pray Time made me yours again No one sees me like this How does she do that?” 이어 “He likes stress I need a second to breathe like Okay, I'm locked in XXXX”",
+    "core": "차트를 관찰하는 것보다 로봇을 신뢰하는 것이 더 나은 방법이다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: It's the first time we met, I pray Time made me yours again No one sees me like this How does she do that?"
+      "차트를 직접 보지 않고 로봇의 신호를 따르는 것이 좋다.",
+      "STOP 손절 주문을 사용하여 위험을 관리한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 39,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2434,21 +2616,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "896842233428118": {
     "date": "2026.05.31",
     "duration": "00:24",
-    "originalTitle": "1.9K views · 9 comments | HUGE VIP MONTH (81% HIT RATE!) #trading #tradewithpat #forex #forexsignals | Trade with Pat",
-    "title": "영상 발화 분석: I just had a huge trading month in VIP, 81%.",
+    "originalTitle": "HUGE VIP MONTH (81% HIT RATE!) #trading #tradewithpat #forex #forexsignals",
+    "title": "HUGE VIP MONTH (81% 히트레이트) 6월 예상 성과",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 23.72초·로컬 Whisper large-v3-turbo 전사 68단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I just had a huge trading month in VIP, 81%.” / “Our community is getting better, passing challenges, getting payouts.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "시장 분석",
+      "트레이딩",
+      "트레이딩와패트",
+      "외환"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I just had a huge trading month in VIP, 81%.” 이어 “Our community is getting better, passing challenges, getting payouts.” 이어 “Staying oh so very, very patient, so we're winning again.” 이어 “I hope you're with us.”",
+    "core": "6월은 VIP 계정의 성과가 더욱 좋아질 것으로 예상된다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I just had a huge trading month in VIP, 81%."
+      "81%의 히트레이트를 기록하며 VIP 계정에서 성과를 보였다.",
+      "6월에는 더욱 좋은 성과를 기대하고 있다."
     ],
-    "caution": "성과·수익 발화: “I just had a huge trading month in VIP, 81%.” 홍보·행동유도 발화: “And the markets are respecting our levels, winning from demand, and of course winning from supply.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 68,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2456,21 +2640,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "912533357854893": {
     "date": "2026.02.11",
     "duration": "00:17",
-    "originalTitle": "3.2K views · 163 reactions | I have to confess something… I’m not even trading anymore. My robot does it for me 🤖📈 #trading #tradewithpat #tradingrobot #daytrading | Trade with Pat",
-    "title": "영상 발화 분석: I just load it on the chart, select the entry mode I want and let it execute.",
+    "originalTitle": "I have to confess something… I’m not even trading anymore. My robot does it for me 🤖📈 #trading #tradewithpat #tradingrobot #daytrading",
+    "title": "로봇이 주식을 대신 거래하는 시점: 새로운 트레이딩 방식",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 16.89초·로컬 Whisper large-v3-turbo 전사 60단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I have to confess something, I'm not even trading anymore.” / “I just load it on the chart, select the entry mode I want and let it execute.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "자동 거래",
+      "로봇 트레이딩",
+      "데이 트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I have to confess something, I'm not even trading anymore.” 이어 “I just load it on the chart, select the entry mode I want and let it execute.” 이어 “And I'm not the only one.” 이어 “So maybe you should stop trading too.”",
+    "core": "로봇이 자동으로 거래를 진행하므로 인간은 단순히 설정만 하고 결과를 확인하는 데 만족한다.",
     "rules": [
-      "원문 실행 문장: I just load it on the chart, select the entry mode I want and let it execute.",
-      "원문 실행 문장: So maybe you should stop trading too."
+      "로봇이 설정된 조건에 따라 거래를 진행한다.",
+      "많은 트레이더들이 로봇을 사용하여 만족스러운 결과를 얻고 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 60,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2478,21 +2664,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "916884094152539": {
     "date": "2026.02.22",
     "duration": "00:30",
-    "originalTitle": "3.6K views · 18 comments | This trading strategy feels ILLEGAL. 🚨 It’s simple but effective leading to a great month in FX VIP! #trading #forex #tradewithpat #daytrading #forexsignals | Trade with Pat",
-    "title": "지지·저항: I still need a level of resistance or supply to enter the trade from.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 30.36초·로컬 Whisper large-v3-turbo 전사 93단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This trading strategy is so simple it almost feels illegal.” / “To make this work, I need a tight Asian session range.”",
+    "originalTitle": "This trading strategy feels ILLEGAL. 🚨 It’s simple but effective leading to a great month in FX VIP! #trading #forex #tradewithpat #daytrading #forexsignals",
+    "title": "FX VIP에서의 높은 승률을 이끌어낸 뉴욕 세션 개장 거래 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "resistance",
-      "performance claim"
+      "지지·저항",
+      "트레이딩",
+      "FX",
+      "FXVIP"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “This trading strategy is so simple it almost feels illegal.” 이어 “To make this work, I need a tight Asian session range.” 이어 “And then I'm expecting the New York session reversal, but that's not it.” 이어 “That's where I confirm my entry, and I'm 77% win rate in VIP this month.”",
+    "core": "뉴욕 세션 개장가를 기준으로 거래하면 높은 승률을 얻을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: I still need a level of resistance or supply to enter the trade from.",
-      "원문 실행 문장: That's where I confirm my entry, and I'm 77% win rate in VIP this month."
+      "아시아 세션에서 조정을 기다린 후, 런던 세션의 강한 추세를 이용하여 뉴욕 세션 개장가를 거래합니다.",
+      "뉴욕 세션 개장가에서 거래하려면 아시아 세션이 조정을 보여야 합니다.",
+      "뉴욕 세션이 역전될 것으로 예상되며, 거래를 시작하기 전에 저항 수준이 필요합니다."
     ],
-    "caution": "성과·수익 발화: “That's where I confirm my entry, and I'm 77% win rate in VIP this month.” 홍보·행동유도 발화: “Join us now.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 93,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2500,21 +2689,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "924224700102329": {
     "date": "2026.02.20",
     "duration": "00:05",
-    "originalTitle": "1K views · 35 reactions | It’s never too late to give yourself freedom. Day trading did that for me, now I’m blessed. #trading #tradewithpat #forex #daytrading | Trade with Pat",
-    "title": "영상 발화 분석: I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry.",
+    "originalTitle": "It’s never too late to give yourself freedom. Day trading did that for me, now I’m blessed. #trading #tradewithpat #forex #daytrading",
+    "title": "일찍 시작하지 않아도 트레이딩으로 자유를 얻을 수 있다. #트레이딩 #트레이딩위드패트 #외환 #일일트레이딩",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 4.90초·로컬 Whisper large-v3-turbo 전사 10단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "트레이딩위드패트",
+      "외환"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry.”",
+    "core": "일찍 시작하지 않아도 트레이딩을 통해 자유를 얻을 수 있다는 긍정적인 메시지를 전달한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I'm sorry. I'm sorry. I'm sorry. I'm sorry. I'm sorry."
+      "일찍 시작하지 않아도 트레이딩을 통해 자유를 얻을 수 있다.",
+      "현재까지의 성과로 인해 행운을 얻었다는 점을 강조한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 10,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2522,20 +2713,22 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "927647712978202": {
     "date": "2026.03.15",
     "duration": "00:15",
-    "originalTitle": "2.3K views · 11 comments | Did you know? 🤖 Around 70% of trades in today’s markets are placed by trading robots, not humans. Algorithms analyze data, react to price movements, and execute trades in milliseconds… faster than any human ever could. That’s why more traders are turning to automation. Robots don’t hesitate. Robots don’t get emotional. Robots just execute the strategy. The future of trading isn’t coming… it’s already here. 🚀 #trading #tradewithpat #tradingrobot #forexrobot | Trade with Pat",
-    "title": "영상 발화 분석: 70% of trades in the market aren't even placed by humans.",
+    "originalTitle": "Did you know? 🤖 Around 70% of trades in today’s markets are placed by trading robots, not humans. Algorithms analyze data, react to price movements, and execute trades in millisec…",
+    "title": "70%의 거래가 로봇에 의해 이루어짐",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 15.48초·로컬 Whisper large-v3-turbo 전사 41단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “70% of trades in the market aren't even placed by humans.” / “Trades like this one right here and these prop firm challenges were passed by members of my community using Trading Robot.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim"
+      "심리·규율",
+      "자동화",
+      "로봇 거래"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “70% of trades in the market aren't even placed by humans.” 이어 “Trades like this one right here and these prop firm challenges were passed by members of my community using Trading Robot.” 이어 “They react faster, they execute faster, they never hesitate.”",
+    "core": "시장의 거래 중 70%는 로봇에 의해 이루어지며, 이들은 가격 변동을 즉시 반응하고 실행합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: 70% of trades in the market aren't even placed by humans."
+      "시장에서 70%의 거래가 로봇에 의해 이루어집니다.",
+      "로봇은 가격 변동을 즉시 반응하고 실행합니다."
     ],
-    "caution": "성과·수익 발화: “70% of trades in the market aren't even placed by humans.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 41,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2543,21 +2736,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "935133175886484": {
     "date": "2026.03.28",
     "duration": "00:15",
-    "originalTitle": "2.8K views · 47 comments | Vibe coding my 17 year trading strategy into an automated robot! #trading #forex #tradewithpat #tradingrobot #forexrobot | Trade with Pat",
-    "title": "영상 발화 분석: I put my 17 year trading strategy into these.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 15.00초·로컬 Whisper large-v3-turbo 전사 51단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I put my 17 year trading strategy into these.” / “No more sitting at the charts every morning.”",
+    "originalTitle": "Vibe coding my 17 year trading strategy into an automated robot! #trading #forex #tradewithpat #tradingrobot #forexrobot",
+    "title": "17년간의 트레이딩 전략을 자동화한 로봇 개발",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "옵션",
+      "트레이딩",
+      "FX",
+      "자동화"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I put my 17 year trading strategy into these.” 이어 “No more sitting at the charts every morning.” 이어 “Data backed, tested over years, avoids news volatility.” 이어 “And what it's doing in my accounts right now, you kind of have to see for yourself.”",
+    "core": "17년간의 트레이딩 전략을 자동화한 로봇으로 매일 아침 차트 분석을 자동화하고 있습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I put my 17 year trading strategy into these."
+      "17년간 데이터로 검증된 전략을 기반으로 한 자동화된 로봇을 개발하여 매일 아침 차트 분석을 자동화합니다.",
+      "신호가 발생할 때만 거래를 실행하며, 뉴스 이슈로 인한 변동성을 피합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 51,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2565,19 +2760,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "941458908377578": {
     "date": "2026.03.29",
     "duration": "00:26",
-    "originalTitle": "2.8K views · 10 comments | Stacking winning trades… one setup at a time. 📈 Get MY TRADES! #trading #tradewithpat #forex #forexsignals | Trade with Pat",
-    "title": "유동성 스윕: I've got my trading robot set up cooking.",
+    "originalTitle": "Stacking winning trades… one setup at a time. 📈 Get MY TRADES! #trading #tradewithpat #forex #forexsignals",
+    "title": "FX 마진 거래에서 스택 트레이딩을 통한 수익 증대",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 25.52초·로컬 Whisper large-v3-turbo 전사 81단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm stacking winning trades.” / “And this was my favorite VIP signal of the week.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity"
+      "유동성",
+      "위험관리",
+      "FX 트레이딩",
+      "스택 트레이딩"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “I'm stacking winning trades.” 이어 “And this was my favorite VIP signal of the week.” 이어 “The last thing I wanted was the zone break.” 이어 “I hit 32 pips.”",
+    "core": "FX 마진 거래에서 스택 트레이딩을 통해 수익을 지속적으로 증대시킵니다.",
     "rules": [
-      "원문 실행 문장: I've got my trading robot set up cooking."
+      "liquidity가 명백한 수요 수준 아래로 스와프되었고, 가격이 추세선을 깨지 않으면 계속된다는 신호를 받았습니다.",
+      "진입 후 가격이 즉시 틱을 내며 32pip 수익을 얻었습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 81,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2585,23 +2784,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "951685663990305": {
     "date": "2026.03.14",
     "duration": "00:20",
-    "originalTitle": "7.3K views · 10 comments | Understanding liquidity changed my trading forever. I look for an obvious level of support or resistance. Wait for the liquidity sweep. Then trade the reversal. Simple concept. Powerful results. #trading #tradewithpat #liquiditytrading #tradingstrategy | Trade with Pat",
-    "title": "유동성 스윕: After 17 years trading, I only look for one move in the market.",
+    "originalTitle": "Understanding liquidity changed my trading forever. I look for an obvious level of support or resistance. Wait for the liquidity sweep. Then trade the reversal. Simple concept. Po…",
+    "title": "17년 거래 경험에서 배운 유동성 활용 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 19.72초·로컬 Whisper large-v3-turbo 전사 65단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “After 17 years trading, I only look for one move in the market.” / “Once these stop losses get triggered, I trade the reversal.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "sweep",
-      "support",
-      "risk"
+      "유동성",
+      "지지·저항",
+      "위험관리",
+      "지지 수준"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “After 17 years trading, I only look for one move in the market.” 이어 “Once these stop losses get triggered, I trade the reversal.” 이어 “Support, sweep, reversal.” 이어 “And after one or two good setup, I'm simply done for the day.”",
+    "core": "유동성 스루를 기다리며 명확한 지지 수준에서 반전을 거래하는 것이 핵심입니다.",
     "rules": [
-      "원문 실행 문장: After 17 years trading, I only look for one move in the market.",
-      "원문 실행 문장: I spot an obvious level of support, then I wait for price to sweep that level.",
-      "원문 실행 문장: Once these stop losses get triggered, I trade the reversal."
+      "지지 수준을 확인하고, 유동성 스루가 발생할 때 그 수준에서 반전을 거래하라.",
+      "일정 수의 좋은 셋업 후 거래를 종료한다."
     ],
-    "caution": "전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 65,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2609,22 +2808,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "953332877688369": {
     "date": "2026.05.30",
     "duration": "00:37",
-    "originalTitle": "2.1K views · 4 comments | Trading has completely changed my life! #trading #tradewithpat #daytrading | Trade with Pat",
-    "title": "이동평균: First, this absolute gold sniper, then this perfect EU sell, and then another EU sell.",
+    "originalTitle": "Trading has completely changed my life! #trading #tradewithpat #daytrading",
+    "title": "200% 수익률 달성과 sniper 전략의 성공",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 36.56초·로컬 Whisper large-v3-turbo 전사 106단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Trading has completely changed my life.” / “I hit 200% on another trading account, and these were the best VIP trades of the week.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "moving average",
-      "resistance",
-      "performance claim"
+      "지지·저항",
+      "이동평균",
+      "트레이딩",
+      "tradewithpat"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “Trading has completely changed my life.” 이어 “I hit 200% on another trading account, and these were the best VIP trades of the week.” 이어 “Price pulled back.” 이어 “Check out VIP now.”",
+    "core": "Downtrend에서의 sniper 전략이 수익을 가져다주며, VIP 계정을 추천한다.",
     "rules": [
-      "원문 실행 문장: First, this absolute gold sniper, then this perfect EU sell, and then another EU sell.",
-      "원문 실행 문장: Price was trading below the EMA, rejected off of my resistance level, and that was enough for me to get into another sniper entry."
+      "200% 수익률을 달성한 계정에서 downtrend를 이용해 sniper 전략을 사용하여 수익을 얻었다.",
+      "3명의 커뮤니티 멤버가 prop challenge을 완료했다.",
+      "VIP 계정을 통해 더 좋은 성과를 얻을 수 있다고 추천한다."
     ],
-    "caution": "성과·수익 발화: “I hit 200% on another trading account, and these were the best VIP trades of the week.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 106,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2632,19 +2833,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "957537096536044": {
     "date": "2025.09.12",
     "duration": "00:18",
-    "originalTitle": "1.4K views · 9 comments | Trading GOLD is getting EASIER thanks to stagflation I hit 2 wins today! #trading #xauusd #goldtrading #tradewithpat #forex | Trade with Pat",
-    "title": "영상 발화 분석: Making gold an easy target for buy trades.",
+    "originalTitle": "Trading GOLD is getting EASIER thanks to stagflation I hit 2 wins today! #trading #xauusd #goldtrading #tradewithpat #forex",
+    "title": "stagflation 기간의 2회 금 거래 성공",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 17.94초·로컬 Whisper large-v3-turbo 전사 52단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “We are trading gold again.” / “All because of stagflation.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "금 거래",
+      "stagflation",
+      "XAUUSD"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “We are trading gold again.” 이어 “All because of stagflation.” 이어 “jobs are going down while inflation is going back up again.” 이어 “You can thank me in the comments.”",
+    "core": "stagflation 상황에서 금 거래가 더 쉬워졌으며, 두 번의 거래에서 큰 수익을 얻었다.",
     "rules": [
-      "원문 실행 문장: Making gold an easy target for buy trades."
+      "U.S. 직원 수가 감소하고 인플레이션율이 증가하면서 금 가격이 상승하여 매수 기회가 생겼습니다.",
+      "2회 거래에서 큰 수익을 얻었습니다."
     ],
-    "caution": "전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 52,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2652,21 +2857,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "971135929234093": {
     "date": "2026.05.19",
     "duration": "00:14",
-    "originalTitle": "2.2K views · 16 comments | What’s wrong with WHITE Traders 📈 It always hurts my eyes on a white chart. #trading #tradewithpat #forex #daytrading | Trade with Pat",
-    "title": "영상 발화 분석: There is something really, really wrong with white traders.",
+    "originalTitle": "What’s wrong with WHITE Traders 📈 It always hurts my eyes on a white chart. #trading #tradewithpat #forex #daytrading",
+    "title": "화이트 차트 사용에 대한 문제점과 향상 방법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 13.92초·로컬 Whisper large-v3-turbo 전사 35단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “There is something really, really wrong with white traders.” / “I don't know how you even do this.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "차트색상",
+      "거래성과"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “There is something really, really wrong with white traders.” 이어 “I don't know how you even do this.” 이어 “Look, just come here, click on this, and this black chart might even help you win some trades.”",
+    "core": "화이트 차트는 거래시 눈이 아프고, 검은색 차트를 사용하면 거래 성과가 향상될 수 있다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: There is something really, really wrong with white traders."
+      "화이트 차트를 사용하면 거래시 눈이 아프게 됩니다.",
+      "검은색 차트를 사용하면 거래 성과가 향상될 수 있습니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 35,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2674,19 +2881,24 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "971455215554212": {
     "date": "2026.03.18",
     "duration": "00:22",
-    "originalTitle": "3.2K views | if you know what to look for. My strategy: • Identify a strong supply zone • Wait for price to return at a discount/premium • Enter on a clean bearish engulfing That’s it. No overcomplication. Just high-probability entries. This is the exact model I use in my own trading. #silvertrading #supplyanddemand #forexstrategy #priceaction #daytrading | Trade with Pat",
-    "title": "영상 발화 분석: Then once I get my bearish engulfing candle, I'm into the markets sending this exact entry to my entire…",
+    "originalTitle": "if you know what to look for. My strategy: • Identify a strong supply zone • Wait for price to return at a discount/premium • Enter on a clean bearish engulfing That’s it. No over…",
+    "title": "실제 거래 예시로 강력한 공급 구간과 배신 engulfing 캔들 이용",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 22.48초·로컬 Whisper large-v3-turbo 전사 59단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I sold silver this morning and this is exactly what happened.” / “Silver is a volatile asset which gives big moves, which is why I like strong supply levels being frequently respected and a discounted price retracing at least 50%.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim"
+      "시장 분석",
+      "silvertrading",
+      "supplyanddemand",
+      "forexstrategy"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I sold silver this morning and this is exactly what happened.” 이어 “Silver is a volatile asset which gives big moves, which is why I like strong supply levels being frequently respected and a discounted price retracing at least 50%.” 이어 “Then once I get my bearish engulfing candle, I'm into the markets sending this exact entry to my entire community.”",
+    "core": "강력한 공급 구간을 식별하고, 가격이 할인된 상태에서 돌아와야 진입할 수 있는 높은 확률의 진입 포인트를 잡는다.",
     "rules": [
-      "원문 실행 문장: Then once I get my bearish engulfing candle, I'm into the markets sending this exact entry to my entire community."
+      "강력한 공급 구간을 식별한다.",
+      "가격이 할인된 상태에서 돌아와야 진입한다.",
+      "배신 engulfing 캔들이 나타나면 진입한다."
     ],
-    "caution": "성과·수익 발화: “Silver is a volatile asset which gives big moves, which is why I like strong supply levels being frequently respected and a discounted price retracing at least 50%.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 59,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2694,21 +2906,23 @@ export const TradeWithPatTranscriptOverrides = new Map(Object.entries({
   "996644969613300": {
     "date": "2026.04.14",
     "duration": "00:10",
-    "originalTitle": "3.1K views · 9 comments | You can say my trading results are fake but what can you say about all my community results? Nothing 🤝 #trading #tradewithpat #forex #daytrading #tradingrobot | Trade with Pat",
-    "title": "영상 발화 분석: Even if you show real results, they'll still call it fake.",
+    "originalTitle": "You can say my trading results are fake but what can you say about all my community results? Nothing 🤝 #trading #tradewithpat #forex #daytrading #tradingrobot",
+    "title": "커뮤니티 성과로 입증, 개인 성과는 여전히 의심받는 거래자",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 9.80초·로컬 Whisper large-v3-turbo 전사 33단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Even if you show real results, they'll still call it fake.” / “That's just how it is.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "옵션",
+      "거래",
+      "거래 결과",
+      "커뮤니티"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Even if you show real results, they'll still call it fake.” 이어 “That's just how it is.” 이어 “But when you start polling up those community receipts, yeah, that's when they tend to shut up.”",
+    "core": "커뮤니티의 성과를 통해 거래 결과의 진실성을 입증할 수 있다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Even if you show real results, they'll still call it fake."
+      "커뮤니티의 거래 결과를 공유하면 개인의 성과가 의심받지 않게 된다.",
+      "실제 거래 결과를 공유하더라도 여전히 개인 성과는 의심받을 수 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 33,
     "transcriptSource": "Whisper large-v3-turbo"

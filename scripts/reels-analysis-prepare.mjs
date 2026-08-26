@@ -33,6 +33,7 @@ const options = process.argv.slice(2).reduce(
     const [name, value] = argument.split('=', 2);
     if (name === '--per-source') result.perSource = Number(value);
     if (name === '--source') result.sources.push(value);
+    if (name === '--id') result.ids.push(value);
     if (name === '--output') result.output = path.resolve(value);
     if (name === '--concurrency') result.concurrency = Number(value);
     if (name === '--offset') result.offset = Number(value);
@@ -40,7 +41,7 @@ const options = process.argv.slice(2).reduce(
     if (name === '--skip-visuals') result.visuals = false;
     return result;
   },
-  { perSource: 1, sources: [], output: null, concurrency: 3, offset: 0, reprocess: false, visuals: true },
+  { perSource: 1, sources: [], ids: [], output: null, concurrency: 3, offset: 0, reprocess: false, visuals: true },
 );
 
 if (!Number.isInteger(options.perSource) || options.perSource < 1) {
@@ -63,6 +64,7 @@ const unknownSources = [...selectedSources].filter((slug) => !sourceFiles[slug])
 if (unknownSources.length) {
   throw new Error(`Unknown source slug: ${unknownSources.join(', ')}`);
 }
+const requestedIds = new Set(options.ids);
 
 const analyzedIdsBySource = new Map(
   Object.entries(sourceFiles).map(([slug, relativePath]) => {
@@ -77,10 +79,11 @@ const analyzedIdsBySource = new Map(
 const selection = inventory.sources.flatMap((source) => {
   if (!selectedSources.has(source.slug)) return [];
   const analyzedIds = analyzedIdsBySource.get(source.slug);
-  return source.reelIds
+  const candidates = source.reelIds
+    .filter((id) => !requestedIds.size || requestedIds.has(id))
     .filter((id) => (options.reprocess || !analyzedIds.has(id)) && !deferredIds.has(id))
-    .slice(options.offset)
-    .slice(0, options.perSource)
+    .slice(options.offset);
+  return (requestedIds.size ? candidates : candidates.slice(0, options.perSource))
     .map((id) => ({
       slug: source.slug,
       id,

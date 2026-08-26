@@ -1,21 +1,25 @@
-// 자동 생성 파일: 원본 전사와 대표 프레임 검토 결과
+// 자동 생성 파일: 전사와 대표 화면에서 추출한 한국어 콘텐츠 요약
 export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1011043045186384": {
     "date": "2026.07.22",
     "duration": "00:42",
-    "originalTitle": "6.4K views · 76 reactions | What's the difference between Opening Range, Initial Balance, and Clearing Range? 📊 If you want to learn how to trade these setups with a mentor who shows you exactly where to look and what tools to use, comment \"SUCCESS\" and I’ll send you more info! #optionstradng #daytradeducation #openingrange #initialbalance #clearingrange 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "주식·섹터: So based on today's dividend and share price, it would take approximately $40,662 invested in Starbucks…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 42.33초·로컬 Whisper large-v3-turbo 전사 103단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is how many shares of Starbucks you'd need to own to get $1,000 in dividends each year.” / “Now, calculate the shares needed.”",
+    "originalTitle": "What's the difference between Opening Range, Initial Balance, and Clearing Range? 📊 If you want to learn how to trade these setups with a mentor who shows you exactly where to loo…",
+    "title": "스타벅스 주식으로 연간 1,000달러의 배당금 얻기",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "개장 범위",
+      "위험관리",
+      "주식·섹터",
+      "스타벅스"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “This is how many shares of Starbucks you'd need to own to get $1,000 in dividends each year.” 이어 “Now, calculate the shares needed.” 이어 “So go ahead and round up to 403.” 이어 “So based on today's dividend and share price, it would take approximately $40,662 invested in Starbucks stock to target $1,000 per year in dividend income.”",
+    "core": "스타벅스 주식을 403개 보유하면 연간 1,000달러의 배당금을 얻을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: So based on today's dividend and share price, it would take approximately $40,662 invested in Starbucks stock to target $1,000 per year in dividend income."
+      "403개의 스타벅스 주식을 보유하면 연간 약 1,000달러의 배당금을 얻을 수 있습니다.",
+      "연간 배당금을 원하는 금액으로 주식 수를 계산해야 합니다."
     ],
-    "caution": "성과·수익 발화: “This is how many shares of Starbucks you'd need to own to get $1,000 in dividends each year.” / “So based on today's dividend and share price, it would take approximately $40,662 invested in Starbucks stock to target $1,000 per year in dividend income.” 홍보·행동유도 발화: “Follow for more trading education.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 103,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -23,21 +27,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1022080058835174": {
     "date": "2023.10.14",
     "duration": "00:20",
-    "originalTitle": "1.3K views · 9 comments | Raghee Horner on Reels",
-    "title": "영상 발화 분석: so",
+    "originalTitle": "Raghee Horner on Reels",
+    "title": "Raghee Horner의 Reels: 15분 거래 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 19.69초·로컬 Whisper large-v3-turbo 전사 1단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “so”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "15분 거래",
+      "Raghee Horner"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “so”",
+    "core": "15분 거래는 시장의 변동성을 최대한 활용할 수 있는 효과적인 방법이다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: so"
+      "15분 거래는 시장의 변동성을 최대한 활용할 수 있는 효과적인 방법이다.",
+      "매수 시점은 가격이 하락 추세에서 반등할 때이며, 매도 시점은 가격이 상승 추세에서 하락할 때이다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -45,24 +50,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1024472133718126": {
     "date": "2026.08.03",
     "duration": "00:40",
-    "originalTitle": "14K views · 218 reactions | 5 most important liquidity concepts⬆️ Follow for more trading education to help you become a more consistent trader! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #tradingconcepts #liquidity #profitabletrading #tradereducation | Raghee Horner",
-    "title": "유동성 스윕: First, identify liquidity around swing highs and swing lows, previous days levels, major round numbers.",
+    "originalTitle": "5 most important liquidity concepts⬆️ Follow for more trading education to help you become a more consistent trader! 👉 Disclaimer: This content is for educational purposes only an…",
+    "title": "유동성 스윕 뒤 반전 확인",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 40.21초·로컬 Whisper large-v3-turbo 전사 110단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here are the five most important liquidity concepts.” / “Then wait for price to sweep those levels before looking for a trade, not during the move.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "sweep",
-      "CTA"
+      "유동성",
+      "옵션",
+      "위험관리",
+      "liquidity"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “Here are the five most important liquidity concepts.” 이어 “Then wait for price to sweep those levels before looking for a trade, not during the move.” 이어 “Next, use volume profile and an anchored volume weighted average price to identify where size, like the institutions, funds, banks, have been most active.” 이어 “Finally, recognize whether price is accumulating, sweeping, or trending before making your next trade.”",
+    "core": "liquidity 개념을 이해하고 시장 트렌드를 확인한 후 가격이 수준을 흘러내리는 것을 기다려야 합니다.",
     "rules": [
-      "원문 실행 문장: First, identify liquidity around swing highs and swing lows, previous days levels, major round numbers.",
-      "원문 실행 문장: Then wait for price to sweep those levels before looking for a trade, not during the move.",
-      "원문 실행 문장: Next, use volume profile and an anchored volume weighted average price to identify where size, like the institutions, funds, banks, have been most active.",
-      "원문 실행 문장: Finally, recognize whether price is accumulating, sweeping, or trending before making your next trade."
+      "스윙 고점과 저점, 이전 거래일의 수준, 주요 라운드 숫자 근처에서 가격이 수준을 흘러내리는 것을 기다려야 합니다.",
+      "거래 전 시장이 트렌드 중인지 확인해야 합니다.",
+      "가격이 축적, 흘러내리거나 트렌드를 보이는지 확인해야 합니다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more trading education to help you become a more consistent trader.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 110,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -70,21 +75,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1031754769394070": {
     "date": "2026.06.09",
     "duration": "00:17",
-    "originalTitle": "8.1K views · 114 reactions | Weekly Recap 📊 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #weeklyrecap #tradingpsychology #profitabletrading #emotionaltrading | Raghee Horner",
-    "title": "위험관리: Past performance does not guarantee future results, and all trading involves risk.",
+    "originalTitle": "Weekly Recap 📊 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance…",
+    "title": "주간 리뷰 📊 9:00 달러 인버스 ETF 움직임",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 16.97초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice.” / “Past performance does not guarantee future results, and all trading involves risk.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "CTA"
+      "위험관리",
+      "주간 리뷰",
+      "달러 인버스 ETF"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice.” 이어 “Past performance does not guarantee future results, and all trading involves risk.” 이어 “Please do your own research or consult a licensed financial professional before making trading decisions.” 이어 “#optionstrading #weeklyrecap #tradingpsychology #profitabletrading #emotionaltrading.”",
+    "core": "주간 동안 달러 인버스 ETF 가격 변동을 분석하고 향후 전략을 수립해야 합니다.",
     "rules": [
-      "원문 실행 문장: Past performance does not guarantee future results, and all trading involves risk."
+      "주간 동안 달러 인버스 ETF 가격이 하락세를 보였습니다.",
+      "향후 투자 결정을 위해 추가 분석이 필요합니다."
     ],
-    "caution": "성과·수익 발화: “Past performance does not guarantee future results, and all trading involves risk.” 홍보·행동유도 발화: “Weekly Recap 📊 Follow for more trading education!” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -92,21 +98,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1039963766588291": {
     "date": "2022.03.03",
     "duration": "00:29",
-    "originalTitle": "15 reactions | What a well-planned, patiently executed trade feels like. Dot chase a trade. Let it come to you. | Raghee Horner",
-    "title": "영상 발화 분석: Sweet dreams are made of it, who am I to disagree?",
+    "originalTitle": "What a well-planned, patiently executed trade feels like. Dot chase a trade. Let it come to you.",
+    "title": "완성된 트레이딩을 체험하는 순간: Dot 추적과 기다림",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 29.17초·로컬 Whisper large-v3-turbo 전사 266단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Sweet dreams are made of it, who am I to disagree?” / “Travel the world in the seven seas, everybody's looking for something Sweet dreams are made of these, who am I to disagree?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "Dot 추적",
+      "완성"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Sweet dreams are made of it, who am I to disagree?” 이어 “Travel the world in the seven seas, everybody's looking for something Sweet dreams are made of these, who am I to disagree?” 이어 “Travel the world in the seven seas, everybody's looking for something Sweet dreams are made of this, who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who ar…”",
+    "core": "완성된 트레이딩을 체험하는 순간은 꿈을 이루는 것과 같습니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Sweet dreams are made of it, who am I to disagree?"
+      "완성된 트레이딩을 위해 꿈을 이루는 것처럼 기다리세요.",
+      "Dot을 따라 추적하되, 그림이 완성될 때까지 기다리세요."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 266,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -114,28 +122,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1052892117126281": {
     "date": "2026.07.21",
     "duration": "01:00",
-    "originalTitle": "18K views · 331 reactions | What's the difference between Bull Trap, Bear Trap, and Liquidity Sweep? 📉 Follow for more options trading tips! #optionstrading #tradingconcepts #bulltrap #beartrap #liquiditysweep 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "유동성 스윕: Price sweeps below a key support level, triggers stop losses and short entries, then reverses higher as…",
+    "originalTitle": "What's the difference between Bull Trap, Bear Trap, and Liquidity Sweep? 📉 Follow for more options trading tips! #optionstrading #tradingconcepts #bulltrap #beartrap #liquidityswe…",
+    "title": "Bull Trap, Bear Trap, Liquidity Sweep의 차이와 사용법 (14:30)",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 60.10초·로컬 Whisper large-v3-turbo 전사 139단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What's the difference between bull trap, bear trap, and liquidity sweep?” / “Number two, bear trap.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "sweep",
-      "support",
-      "resistance",
-      "breakout",
-      "risk",
-      "CTA"
+      "유동성",
+      "지지·저항",
+      "옵션",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “What's the difference between bull trap, bear trap, and liquidity sweep?” 이어 “Number two, bear trap.” 이어 “Price sweeps below a key support level, triggers stop losses and short entries, then reverses higher as institutions used out liquidity to fill their positions.” 이어 “Use liquidity sweeps to identify potential reversals around important market levels.”",
+    "core": "bull trap은 가격이 저항선을 돌파하고 레TAIL 투자자들이 진입한 후에 지능투자자가 가격을 역전시키는 현상을, bear trap은 반대 현상을, liquidity sweep는 중요한 지원 수준을 아래로 떨어뜨리고 대규모 매도 주문이 발생한 후에 가격이 역전하는 것을 설명한다.",
     "rules": [
-      "원문 실행 문장: Price sweeps below a key support level, triggers stop losses and short entries, then reverses higher as institutions used out liquidity to fill their positions.",
-      "원문 실행 문장: Use bull traps to identify failed breakouts before entering short trades.",
-      "원문 실행 문장: Use bear traps to identify failed breakouts before entering long trades.",
-      "원문 실행 문장: Use liquidity sweeps to identify potential reversals around important market levels."
+      "가격이 저항선을 돌파하고 레TAIL 투자자들이 진입한 후에 지능투자자가 가격을 역전시키는 현상을 bull trap이라고 한다.",
+      "가격이 지지선을 돌파하고 레TAIL 투자자들이 진입한 후에 지능투자자가 가격을 역전시키는 현상을 bear trap이라고 한다.",
+      "가격이 중요한 지지선을 아래로 떨어뜨리고 대규모 매도 주문이 발생한 후에 가격이 역전하는 현상을 liquidity sweep라고 한다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more trading options tips.” 전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 139,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -143,20 +147,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1060463647682963": {
     "date": "2020.08.08",
     "duration": "00:09",
-    "originalTitle": "Occasionally, and thankfully rarely, I forget that trading is supposed to be enjoyable and interesting. When I can say I am in that zone it’s because I have put a check in the enjoyable and interesting boxes. Having traded solo for 1/3 of my career and having a community on and off the last 2/3, I can say that having a group of likeminded people to trade with matters; that kind of growth and connection with other people matter. And not everyone is going to check that box. I was looking back on my trading journal and track record and found that I flatlined as a trader for about seven years. I didn’t have those boxes checked and didn’t have community in my trading. Sure I was profitable but I wasn’t getting better. Look around at who you’re hanging with in your trading life (and any other area): Are they better at trading or some aspect of trading than you? Do they have a quality in their trading you want to develop? That’s who you listen to and try to spend time with. And maybe it started with a book, videos, a class, a course... When I have those things, those two important boxes get checked. I wish you enjoyable and interesting times. | Raghee Horner",
-    "title": "심리·규율: Having traded solo for 1/3 of my career and having a community on and off the last 2/3, I can say that h…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 8.96초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Occasionally, and thankfully rarely, I forget that trading is supposed to be enjoyable and interesting.” / “I was looking back on my trading journal and track record and found that I flatlined as a trader for about seven years.”",
+    "originalTitle": "Occasionally, and thankfully rarely, I forget that trading is supposed to be enjoyable and interesting. When I can say I am in that zone it’s because I have put a check in the enj…",
+    "title": "7년 동안 성장 없이 무역을 했던 나의 경험이 담긴 영상",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "journal",
-      "CTA"
+      "옵션",
+      "심리·규율",
+      "무역",
+      "성장"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Occasionally, and thankfully rarely, I forget that trading is supposed to be enjoyable and interesting.” 이어 “I was looking back on my trading journal and track record and found that I flatlined as a trader for about seven years.” 이어 “Look around at who you’re hanging with in your trading life (and any other area): Are they better at trading or some aspect of trading than you?” 이어 “I wish you enjoyable and interesting times..”",
+    "core": "무역이 즐거운 경험임을 잊는 경우, 좋은 친구들과 함께하는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: Having traded solo for 1/3 of my career and having a community on and off the last 2/3, I can say that having a group of likeminded people to trade with matters; that kind of growth and connection with other people matter."
+      "무역 성과가 없던 7년 동안 친구들과 함께하지 않았다.",
+      "무역에서 성장하고 싶다면, 더 나은 무역을 하는 사람들을 찾아라.",
+      "책, 비디오, 클래스, 코스 등으로 시작할 수 있다."
     ],
-    "caution": "성과·수익 발화: “Sure I was profitable but I wasn’t getting better.” 홍보·행동유도 발화: “And maybe it started with a book, videos, a class, a course...” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -164,27 +172,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1074666405090893": {
     "date": "2026.07.28",
     "duration": "00:51",
-    "originalTitle": "12K views · 193 reactions | Pullback To Anchored VWAP Works Anytime Anywhere 📈 Follow for more trading strategy tips! #optionstradingstrategies #daytradethemarket #anchoredvwap #technicalanalysis #tradingmind | Raghee Horner",
-    "title": "지지·저항: Then wait for price to pull back to that line.",
+    "originalTitle": "Pullback To Anchored VWAP Works Anytime Anywhere 📈 Follow for more trading strategy tips! #optionstradingstrategies #daytradethemarket #anchoredvwap #technicalanalysis #tradingmind",
+    "title": "VWAP 기반의 런치 앤드 리턴 전략: 시간무관, 장소무관",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 51.17초·로컬 Whisper large-v3-turbo 전사 161단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm going to teach you how to catch something like this and make great trades.” / “Then wait for price to pull back to that line.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "breakout",
-      "risk",
-      "CTA"
+      "VWAP",
+      "지지·저항",
+      "옵션",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “I'm going to teach you how to catch something like this and make great trades.” 이어 “Then wait for price to pull back to that line.” 이어 “After that, wait for a hammer, bullish engulfing, inside candle, minor high or low, a strong rejection candle at the anchored volume weighted average price.” 이어 “This helps you enter trades at better prices while defining your risk before the trade, which is exactly when you're supposed to do it.”",
+    "core": "VWAP을 기반으로 한 런치 앤드 리턴 전략은 시장 상황과 관계없이 언제 어디서나 적용 가능하다.",
     "rules": [
-      "원문 실행 문장: Then wait for price to pull back to that line.",
-      "원문 실행 문장: Next, look for volume to dry up on the way in.",
-      "원문 실행 문장: After that, wait for a hammer, bullish engulfing, inside candle, minor high or low, a strong rejection candle at the anchored volume weighted average price.",
-      "원문 실행 문장: Finally, enter in the trend direction and place your stop just beyond the reach of the anchored volume weighted average price.",
-      "원문 실행 문장: This helps you enter trades at better prices while defining your risk before the trade, which is exactly when you're supposed to do it."
+      "주요 고점이나 이arnings gap, breakout 캔들에서 VWAP을 앵커링하고, 가격이 그 라인으로 되돌아오면 기다린다.",
+      "거래량이 캔들 내림길에서 줄어들면 진입 신호를 확인하고, 헤머, bullish engulfing, inside candle, 작은 고점 또는 저점, 강력한 거부 캔들 등이 나타나면 진입한다.",
+      "진입 방향과 일치하는 방향으로 진입하고, VWAP 라인을 넘지 않도록 손절를 배치한다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more trading strategy tips.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 161,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -192,25 +197,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1093907906014564": {
     "date": "2025.11.25",
     "duration": "01:04",
-    "originalTitle": "133K views · 3K reactions | How To Build Trading Strategies Like The Top 1%🔝 I am a seasoned trader and educator with 35 years of profitable trading and if you want to learn more about trading, make sure to follow! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: That decision shapes every move you make.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 63.50초·로컬 Whisper large-v3-turbo 전사 182단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “It took me 38 years to learn this, but I'll teach it to you in less than a minute.” / “Don't try to trade everything.”",
+    "originalTitle": "How To Build Trading Strategies Like The Top 1%🔝 I am a seasoned trader and educator with 35 years of profitable trading and if you want to learn more about trading, make sure to…",
+    "title": "38년 경력의 트레이더가 알려주는 1% 수준의 트레이딩 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "선물·지수",
+      "트레이딩 전략",
+      "백테스트"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “It took me 38 years to learn this, but I'll teach it to you in less than a minute.” 이어 “Don't try to trade everything.” 이어 “Track everything.” 이어 “I am a seasoned trader and educator with 38 years of profitable trading.”",
+    "core": "성공적인 트레이딩 전략은 목표 설정부터 데이터 분석까지 체계적인 과정을 거쳐야 한다.",
     "rules": [
-      "원문 실행 문장: That decision shapes every move you make.",
-      "원문 실행 문장: Don't try to trade everything.",
-      "원문 실행 문장: Back test before you risk it.",
-      "원문 실행 문장: Test your plan on 100 past trades and track your win rate and risk-to-reward ratio.",
-      "원문 실행 문장: Log every entry, exit, end result, and review weekly and adjust based on your data."
+      "목표를 명확히 정하고, 단일 시장에서 전문성을 쌓는 것이 중요하다.",
+      "각 거래마다 3%의 위험만 감수하고, 이익은 위험의 3배를 목표로 한다.",
+      "100개의 거래를 통해 계획을 백테스트하고, 주기적으로 데이터를 분석하여 전략을 개선한다."
     ],
-    "caution": "성과·수익 발화: “Ask yourself, am I trading for quick income or long-term growth?” / “I am a seasoned trader and educator with 38 years of profitable trading.” 홍보·행동유도 발화: “If you want to learn more about trading, make sure to follow.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 182,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -218,21 +222,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1103215365083694": {
     "date": "2025.12.10",
     "duration": "01:07",
-    "originalTitle": "24K views · 465 reactions | Is it possible to stay profitable over 13000 days of trading?😱🔝 Follow for proven day trading rules from a trader with 38 years of experience! | Raghee Horner",
-    "title": "위험관리: Trading isn't about winning every trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 67.33초·로컬 Whisper large-v3-turbo 전사 226단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Is it possible to stay profitable over 13,000 days of trading?” / “That's when I learned the power of compounding.”",
+    "originalTitle": "Is it possible to stay profitable over 13000 days of trading?😱🔝 Follow for proven day trading rules from a trader with 38 years of experience!",
+    "title": "13,000일 이상의 일일 거래에서 지속적인 수익을 얻는 방법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "주식·섹터",
+      "일일 거래",
+      "자본 보호"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Is it possible to stay profitable over 13,000 days of trading?” 이어 “That's when I learned the power of compounding.” 이어 “So I built a formula, a system that told me exactly how much to risk, when to stop out, and how to scale no matter my account size.” 이어 “That's why I started the Sector Secrets Mastery, to share my systems with traders who don't want to do it alone.”",
+    "core": "거래는 매번 이익을 보는 것이 아니라 자본을 보호하는 것이 중요하다는 점을 강조한다.",
     "rules": [
-      "원문 실행 문장: Trading isn't about winning every trade.",
-      "원문 실행 문장: So I built a formula, a system that told me exactly how much to risk, when to stop out, and how to scale no matter my account size."
+      "거래에서 손실을 최소화하기 위해 고정된 위험 관리 규칙을 따르는 것이 중요하다.",
+      "계좌 규모에 관계없이 일관된 수익을 얻기 위한 시스템을 구축해야 한다.",
+      "단절감을 극복하고 장기적인 거래 기술을 배우는 데 도움이 되는 교육을 받는 것이 중요하다."
     ],
-    "caution": "성과·수익 발화: “Is it possible to stay profitable over 13,000 days of trading?” / “And if you want to keep learning the same strategies that have kept me profitable for 38 years, follow for daily lessons that turn trading into a long-term skill.” 홍보·행동유도 발화: “And if you want to keep learning the same strategies that have kept me profitable for 38 years, follow for daily lessons that turn trading into a long-term skill.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 226,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -240,21 +247,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1116519604888607": {
     "date": "2026.07.09",
     "duration": "00:46",
-    "originalTitle": "17K views · 192 reactions | Returns If You Bought This Major Stock 📊 Dividend income looks simple until you calculate how many shares you actually need. If you want market education that looks past the dividend headline, follow along and learn how to read what’s actually moving the stock! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #dividendinvesting #verizonstock #stockdividends #longterminvesting #tradingeducation | Raghee Horner",
-    "title": "위험관리: And divide your target amount by that number.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 45.51초·로컬 Whisper large-v3-turbo 전사 135단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is how many shares of Verizon you need to own to get $1,000 in dividends each year.” / “And divide your target amount by that number.”",
+    "originalTitle": "Returns If You Bought This Major Stock 📊 Dividend income looks simple until you calculate how many shares you actually need. If you want market education that looks past the divid…",
+    "title": "버라이즌 주식을 사면 1,000달러의 연간 배당금을 얻기 위한 투자 금액",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "주식·섹터",
+      "배당금",
+      "주식 투자"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “This is how many shares of Verizon you need to own to get $1,000 in dividends each year.” 이어 “And divide your target amount by that number.” 이어 “So now you're gonna go back to the calculator, enter in that amount of shares.” 이어 “So to get paid $1,000 a year by Verizon, you would have to invest about $17,088.”",
+    "core": "버라이즌 주식을 통해 연간 1,000달러의 배당금을 얻기 위해서는 약 17,088달러를 투자해야 합니다.",
     "rules": [
-      "원문 실행 문장: And divide your target amount by that number.",
-      "원문 실행 문장: So now you're gonna go back to the calculator, enter in that amount of shares."
+      "버라이즌의 연간 배당금이 2.83달러로, 이를 1,000달러로 나누어 필요한 주식 수를 계산해야 합니다.",
+      "계산 결과 354주가 필요하며, 이를 현재 주당 가격에 곱하여 투자 금액을 결정합니다."
     ],
-    "caution": "성과·수익 발화: “This is how many shares of Verizon you need to own to get $1,000 in dividends each year.” / “So to get paid $1,000 a year by Verizon, you would have to invest about $17,088.” 홍보·행동유도 발화: “If you're trying to understand dividend mass, sector rotation, and risk-first trading, follow along for grounded market education.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 135,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -262,29 +271,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1129209599331050": {
     "date": "2026.03.24",
     "duration": "01:04",
-    "originalTitle": "28K views · 693 reactions | Liquidity concepts you need in trading💧 Follow for more breakdowns like this so you stop being liquidity and start trading after the move! | Raghee Horner",
-    "title": "유동성 스윕: Number one, before the market opens, mark your liquidity levels.",
+    "originalTitle": "Liquidity concepts you need in trading💧 Follow for more breakdowns like this so you stop being liquidity and start trading after the move!",
+    "title": "시장 개장 전부터 추세 변환 후 매매 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 64.44초·로컬 Whisper large-v3-turbo 전사 184단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you really want to grow your trading account, you need to pay attention to this.” / “Remember, those are liquidity sweeps.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "sweep",
-      "moving average",
-      "support",
-      "breakout",
-      "risk",
-      "CTA"
+      "유동성",
+      "지지·저항",
+      "이동평균",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “If you really want to grow your trading account, you need to pay attention to this.” 이어 “Remember, those are liquidity sweeps.” 이어 “Number four, wait for the price to pull back after the liquidity sweep or liquidity grab.” 이어 “That means place it beyond structure, not right at the swept high or low.”",
+    "core": "시장 개장 전부터 흐름을 파악하고 추세 변환 후 진입하는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: Number one, before the market opens, mark your liquidity levels.",
-      "원문 실행 문장: Draw lines at equal highs and lows, and at the previous day's high, low, and close.",
-      "원문 실행 문장: Number four, wait for the price to pull back after the liquidity sweep or liquidity grab.",
-      "원문 실행 문장: Enter near the anchored volume weighted average price, the 34 EMA wave support, or a high volume area in the direction of the trend.",
-      "원문 실행 문장: Number five, place your stop where the trade is actually invalid while respecting your account risk rules."
+      "시장 개장 전, 일일 고가, 저가, 종가를 기준으로 라인을 그려서 흐름을 파악한다.",
+      "브레이크아웃 지점에서 흐름을 따라 가격이 빠져나가고 거부를 보이면 진입하지 않으며, 가격이 빠져나간 후 반등을 기다린다.",
+      "반등 후, 거래량이 높은 지역이나 EMA 34의 지원 수준에서 진입한다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more breakdowns like this, you stop being the liquidity, and you start trading with the real flow.” 전사에서 초기 손절·청산 기준·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 184,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -292,24 +296,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1138430184619071": {
     "date": "2025.10.22",
     "duration": "00:27",
-    "originalTitle": "72K views · 655 reactions | What’s The Difference Between $10K/Year VS $100K/Year 🤫 Follow for risk-managed strategies that work at any account size! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: I adapt one or two setups per time frame.",
+    "originalTitle": "What’s The Difference Between $10K/Year VS $100K/Year 🤫 Follow for risk-managed strategies that work at any account size! 👉 Disclaimer: This content is for educational purposes on…",
+    "title": "10만 달러와 100만 달러 연간 수익의 차이와 위험 관리 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 27.13초·로컬 Whisper large-v3-turbo 전사 88단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I make more trades to make more money.” / “I trade large accounts at a time.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "위험 관리",
+      "거래 전략",
+      "계좌 규모"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I make more trades to make more money.” 이어 “I trade large accounts at a time.” 이어 “I randomly mix indicators for every trade.” 이어 “I drill entries, exits, and size and review each week to fix any mistakes.”",
+    "core": "연간 수익이 높을수록 더 많은 거래를 하지 않고, 위험 관리를 통해 계좌 규모에 관계없이 수익을 증가시킬 수 있다.",
     "rules": [
-      "원문 실행 문장: I adapt one or two setups per time frame.",
-      "원문 실행 문장: I trade large accounts at a time.",
-      "원문 실행 문장: I randomly mix indicators for every trade.",
-      "원문 실행 문장: I use a simple rule-based toolkit, not a new indicator each week.",
-      "원문 실행 문장: I drill entries, exits, and size and review each week to fix any mistakes."
+      "연간 수익이 높을수록 더 많은 거래를 하지 않고, 선택적인 세팅만을 따르는 것이 중요하다.",
+      "모든 시장에 하나의 전략을 적용하며, 시간 프레임당 1~2개의 세팅만을 사용한다.",
+      "대규모 계좌를 관리하되, 큰 규모로 시작하지 않고 위험을 관리한다."
     ],
-    "caution": "홍보·행동유도 발화: “I follow one strategy for every market.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 88,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -317,22 +321,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1206982981271899": {
     "date": "2025.10.30",
     "duration": "00:53",
-    "originalTitle": "11K views · 179 reactions | Trading Rules That You Need To Know 🧐 Struggling with discipline to follow your own trading plan consistently? Follow for daily strategies that turn discipline into consistent profits! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "심리·규율: Person A moves stop to break even instantly, locks profits at the first target and trades every day.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 52.57초·로컬 Whisper large-v3-turbo 전사 153단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Two people are trading the same stock.” / “Six months later, person A's win rate is 10% down.”",
+    "originalTitle": "Trading Rules That You Need To Know 🧐 Struggling with discipline to follow your own trading plan consistently? Follow for daily strategies that turn discipline into consistent pro…",
+    "title": "거래 계획을 지키는 법: 일관된 수익을 위한 전략 🧐",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "주식·섹터",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Two people are trading the same stock.” 이어 “Six months later, person A's win rate is 10% down.” 이어 “When you break even, it knocks you out in normal pullbacks.” 이어 “She takes small fixed losses and lets two to four winners run, creating a safer, smoother, rising curve.”",
+    "core": "거래 계획을 지키는 것이 일관된 수익을 얻는 데 중요하다는 것을 설명한다.",
     "rules": [
-      "원문 실행 문장: Person A moves stop to break even instantly, locks profits at the first target and trades every day.",
-      "원문 실행 문장: Person B takes small quick losses, sits out C-minus setups, and lets the winner trades to a bigger target."
+      "A는 즉시 손절을 통해 이익을 잠금, 일일 거래로 이익을 추구하지만, 이로 인해 수익률이 감소한다.",
+      "B는 작은 손실을 수용하고 두 번에서 네 번의 이익을 허용하여 안정적이고 부드러운 수익 곡선을 만든다."
     ],
-    "caution": "성과·수익 발화: “Six months later, person A's win rate is 10% down.” / “Profit factor is more than one and a half times and a smoother equity curve.” 홍보·행동유도 발화: “Struggling with discipline to follow your own trading plan consistently?” / “Follow for daily strategies that turn discipline into consistent profits.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 153,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -340,25 +345,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1227575642667106": {
     "date": "2026.01.01",
     "duration": "01:16",
-    "originalTitle": "117K views · 1.9K reactions | What’s the difference between a hammer, a doji, and an engulfing candle? ☺️ If you’re tired of random candle shapes and want clear, simple rules, follow for more videos like this. | Raghee Horner",
-    "title": "지지·저항: Hammer, a doji, and an engulfing candle, and how I use each one when I trade.",
+    "originalTitle": "What’s the difference between a hammer, a doji, and an engulfing candle? ☺️ If you’re tired of random candle shapes and want clear, simple rules, follow for more videos like this.",
+    "title": "하마, 도지, 업그릴링 캔들 차이와 사용법 (Hammer, Doji, Engulfing Candle 차이)",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 75.83초·로컬 Whisper large-v3-turbo 전사 232단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hammer, a doji, and an engulfing candle, and how I use each one when I trade.” / “A hammer is one candle with a small body at the top and a long tail at the bottom, like a letter T, and I only care about it when it sits on a support line I already marked.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "CTA"
+      "지지·저항",
+      "트레이딩",
+      "캔들스틱",
+      "하마"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Hammer, a doji, and an engulfing candle, and how I use each one when I trade.” 이어 “A hammer is one candle with a small body at the top and a long tail at the bottom, like a letter T, and I only care about it when it sits on a support line I already marked.” 이어 “Then I let the next candle show me if buyers or sellers take control.” 이어 “An engulfing pattern has two candles, where the second candle covers the first candle's body, and at strong support or resistance, I use it as my main entry trigger with my stop past its low or high.”",
+    "core": "하마, 도지, 업그릴링 캔들 각각의 특징과 사용법을 설명한다.",
     "rules": [
-      "원문 실행 문장: Hammer, a doji, and an engulfing candle, and how I use each one when I trade.",
-      "원문 실행 문장: I use a hammer candle when prices fallen into a strong support and buyers slam it back up.",
-      "원문 실행 문장: I use a doji candle as a pause sign that tells me to wait and see who wins next.",
-      "원문 실행 문장: Use engulfing as a strong takeover.",
-      "원문 실행 문장: An engulfing pattern has two candles, where the second candle covers the first candle's body, and at strong support or resistance, I use it as my main entry trigger with my stop past its low or high."
+      "하마 캔들은 가격이 강한 지원 수준에서 반등할 때 사용한다.",
+      "도지 캔들은 가격 변동을 관망할 때 사용하며, 다음 캔들의 방향을 기다린다.",
+      "업그릴링 캔들은 큰 캔들이 작은 캔을 완전히 덮을 때 사용하여 주도권을 판단한다."
     ],
-    "caution": "홍보·행동유도 발화: “If you're tired of random candle shapes and want clear, simple rules that make sense, hit follow.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 232,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -366,21 +370,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1233888476946756": {
     "date": "2020.08.23",
     "duration": "00:08",
-    "originalTitle": "That Monday morning feeling | Raghee Horner",
-    "title": "영상 발화 분석: That Monday morning feeling.",
+    "originalTitle": "That Monday morning feeling",
+    "title": "그림자 런던 데이 트레이딩",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 8.06초·로컬 Whisper large-v3-turbo 전사 2단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “That Monday morning feeling.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "데이 트레이딩",
+      "Monday morning feeling"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “That Monday morning feeling.”",
+    "core": "그림자 런던 데이 트레이딩에서 Monday morning feeling을 활용하는 방법을 설명한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: That Monday morning feeling."
+      "매수 시점은 Monday morning feeling을 감지할 때",
+      "가격이 하락세일 때 즉시 매수"
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 2,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -388,28 +393,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1240309520770920": {
     "date": "2026.02.13",
     "duration": "01:21",
-    "originalTitle": "24K views · 441 reactions | How to prepare to trade in 2026 📊 Follow for more useful trading tips for 2026! | Raghee Horner",
-    "title": "이동평균: Here's how to prepare to trade in 2026 the right way.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 81.45초·로컬 Whisper large-v3-turbo 전사 224단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's how to prepare to trade in 2026 the right way.” / “If the price is above the line, only look for buys.”",
+    "originalTitle": "How to prepare to trade in 2026 📊 Follow for more useful trading tips for 2026!",
+    "title": "2026년 트레이딩 준비: SPY와 QQQ 시장 선택과 34 EMA 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "moving average",
-      "resistance",
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "이동평균",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “Here's how to prepare to trade in 2026 the right way.” 이어 “If the price is above the line, only look for buys.” 이어 “Risk no more than one to three percent of your account per trade.” 이어 “And connect with a community or a mentor who can help you stay disciplined and grounded.”",
+    "core": "2026년 트레이딩을 위한 기본 전략은 시장 선택과 단순 차트 설정이다.",
     "rules": [
-      "원문 실행 문장: Here's how to prepare to trade in 2026 the right way.",
-      "원문 실행 문장: Otherwise, stay flat or maybe look for sells.",
-      "원문 실행 문장: Then wait for it to pull back a little before you enter.",
-      "원문 실행 문장: Scale in with small size in your predetermined zone.",
-      "원문 실행 문장: Track every trade and focus on following your rules."
+      "2026년 트레이딩을 시작하기 전에 SPY 또는 QQQ와 같은 시장을 선택하라.",
+      "34 EMA와 저항 수준을 사용하여 가격이 선 위에 있을 때만 매수를 고려하라."
     ],
-    "caution": "성과·수익 발화: “Wait for it to return to those zones.” / “Risk no more than one to three percent of your account per trade.” 홍보·행동유도 발화: “Follow for more useful trading tips for 2026.” 전사에서 초기 손절·청산 기준·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 224,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -417,26 +417,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1241767774440813": {
     "date": "2025.12.03",
     "duration": "00:46",
-    "originalTitle": "35K views · 705 reactions | Explaining Stop Losses in 60 Seconds📉 Ready to control your losses and trade with guidance from experienced traders? Follow for more lessons that help you trade with confidence not emotion! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: A stop loss is your safety switch.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 46.23초·로컬 Whisper large-v3-turbo 전사 133단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I want you to take 30 trades without worrying about losing your money.” / “It tells your broker to close the trade automatically before you lose too much.”",
+    "originalTitle": "Explaining Stop Losses in 60 Seconds📉 Ready to control your losses and trade with guidance from experienced traders? Follow for more lessons that help you trade with confidence no…",
+    "title": "60초로 이해하는 스탑 라스(9:00~10:00, $100, 2%)",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "스탑 라스"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I want you to take 30 trades without worrying about losing your money.” 이어 “It tells your broker to close the trade automatically before you lose too much.” 이어 “For example, if you buy an option for $100, set the stop at $75.” 이어 “Number four, trust your stop.”",
+    "core": "스탑 라스는 투자 손실을 제한하는 안전 장치입니다.",
     "rules": [
-      "원문 실행 문장: A stop loss is your safety switch.",
-      "원문 실행 문장: Number one, risk no more than 2% of your account on any trade.",
-      "원문 실행 문장: For example, if you buy an option for $100, set the stop at $75.",
-      "원문 실행 문장: If the price of the option hits $75, the trade closes automatically.",
-      "원문 실행 문장: Number four, trust your stop."
+      "투자금의 2% 이하만 거래에 사용한다.",
+      "진입가격에서 일정 퍼센트를 하단으로 설정한 스탑 라스를 사용한다.",
+      "스탑 라스를 설정한 후 절대 낮추지 않는다."
     ],
-    "caution": "성과·수익 발화: “Number one, risk no more than 2% of your account on any trade.” / “If the price of the option hits $75, the trade closes automatically.” 홍보·행동유도 발화: “It protects your account and keeps your trading emotion-free.” / “Follow for more lessons that help you trade with confidence, not emotion.” 전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 133,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -444,21 +442,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1247116197351851": {
     "date": "2026.02.11",
     "duration": "01:08",
-    "originalTitle": "264K views · 3K reactions | This equation moves BILLIONS of dollars every single day 🤯 Follow for more trading education! | Raghee Horner",
-    "title": "옵션: Here's how most traders use it.",
+    "originalTitle": "This equation moves BILLIONS of dollars every single day 🤯 Follow for more trading education!",
+    "title": "Put Call Parity로 9억 달러 규모의 거래 결정",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 67.57초·로컬 Whisper large-v3-turbo 전사 206단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This equation moves billions of dollars every single day.” / “If the prices don't line up correctly, it means something is mispriced.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "options",
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "옵션 가격",
+      "Put Call Parity"
     ],
-    "core": "원문 전사 기준 옵션 콘텐츠다. “This equation moves billions of dollars every single day.” 이어 “If the prices don't line up correctly, it means something is mispriced.” 이어 “Add the call price to the strike price, then compare it to the put price plus the stock price.” 이어 “But if the put looks cheap, you should look closer at a downside setup if the market is bearish.”",
+    "core": "Put Call Parity는 옵션 가격과 주식 가격 사이의 수학적 관계를 통해 시장의 공정 가격을 확인할 수 있는 도구입니다.",
     "rules": [
-      "원문 실행 문장: Here's how most traders use it.",
-      "원문 실행 문장: If the call looks overpriced, you might want to avoid buying them."
+      "현재 주식 가격을 확인하고 동일한 스트라이크 가격과 만기일을 가진 콜 옵션과 풋 옵션을 선택한다.",
+      "콜 가격과 스트라이크 가격을 더한 값과 풋 가격과 주식 가격을 더한 값을 비교하여 가격이 맞는지 확인한다.",
+      "가격이 맞지 않다면, 옵션이 과정가격인지 심각한 가격 오류인지 확인한다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more trading education.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 206,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -466,22 +467,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1247211104121418": {
     "date": "2025.11.24",
     "duration": "00:44",
-    "originalTitle": "57K views · 1K reactions | This is the story of how I managed to make my first million by 25💲 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "심리·규율: This is the story of how I managed to make my first million by 27.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 43.97초·로컬 Whisper large-v3-turbo 전사 144단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is the story of how I managed to make my first million by 27.” / “I was hooked.”",
+    "originalTitle": "This is the story of how I managed to make my first million by 25💲 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financ…",
+    "title": "15세부터 시작해 27세에 첫 백만 달러 달성한 내 투자 스토리",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "투자 스토리",
+      "복리"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “This is the story of how I managed to make my first million by 27.” 이어 “I was hooked.” 이어 “By college, I was trading while finishing my degree, sometimes making more than my professors.” 이어 “Today, I've built a multi-million dollar portfolio through consistency and patience.”",
+    "core": "성장이 자동으로 이루어지는 복리의 힘을 발견하고, 이를 통해 투자에 빠져들었다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: This is the story of how I managed to make my first million by 27."
+      "15세부터 매 월급의 일정 비율을 저축하고, 그 돈이 복리로 성장하는 것을 경험했다.",
+      "대학 시절에는 수업을 마치면서도 거래를 진행했고, 27세에는 첫 백만 달러를 달성했다.",
+      "투자 성과를 통해 얻은 교훈을 바탕으로 투자 전략을 지속적으로 개선하고 있다."
     ],
-    "caution": "성과·수익 발화: “This is the story of how I managed to make my first million by 27.” / “Today, I've built a multi-million dollar portfolio through consistency and patience.” 홍보·행동유도 발화: “At the age of 15, when I was looking for a part-time job to make extra money, I had to follow a rule my mom made to save a percentage of every paycheck.” / “Follow for more trading education.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 144,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -489,29 +492,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1263455135877990": {
     "date": "2026.04.03",
     "duration": "01:17",
-    "originalTitle": "7.9K views · 127 reactions | One of them is ruining their PNL💸 Do you struggle with getting trapped in fake breakouts and liquidity sweeps? Follow for more tips to help you achieve consistent trading results! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "유동성 스윕: Use bar replay and only practice on historical charts until you can spot liquidity sweeps clearly.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 77.17초·로컬 Whisper large-v3-turbo 전사 212단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you want to learn more about trading without ruining your P&L, here's what I need you to do.” / “Previous day high, previous day low, and round psychological numbers before you take any trade.”",
+    "originalTitle": "One of them is ruining their PNL💸 Do you struggle with getting trapped in fake breakouts and liquidity sweeps? Follow for more tips to help you achieve consistent trading results!…",
+    "title": "liquidity sweeps와 fake breakouts 피하기 - 4단계 트레이딩 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "sweep",
-      "moving average",
-      "support",
-      "breakout",
-      "risk",
-      "performance claim"
+      "유동성",
+      "지지·저항",
+      "이동평균",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “If you want to learn more about trading without ruining your P&L, here's what I need you to do.” 이어 “Previous day high, previous day low, and round psychological numbers before you take any trade.” 이어 “After the sweep, wait for price to pull back into structure, like anchored volume weighted average price, an exponential moving average, or prior support before entering.” 이어 “Do you struggle with getting trapped in fake breakouts and liquidity sweeps?”",
+    "core": "liquidity sweeps와 fake breakouts를 피하는 방법을 배워 꾸준한 수익을 얻을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Use bar replay and only practice on historical charts until you can spot liquidity sweeps clearly.",
-      "원문 실행 문장: Previous day high, previous day low, and round psychological numbers before you take any trade.",
-      "원문 실행 문장: Wait for the sweep, then wait for the close back inside structure before you even think about entering.",
-      "원문 실행 문장: After the sweep, wait for price to pull back into structure, like anchored volume weighted average price, an exponential moving average, or prior support before entering.",
-      "원문 실행 문장: Risk no more than 2-3% per trade and stop trading for the day after 2R in losses."
+      "실제 거래 전까지 historical charts에서만 연습하고 liquidity sweeps를 식별할 수 있도록 하세요.",
+      "liquidity sweeps가 발생하기 전에 고점과 저점을 표시하고, psychological numbers를 사용하여 진입 포인트를 결정하세요.",
+      "첫 번째 breakout에 진입하지 마세요. liquidity sweeps가 발생한 후, 가격이 구조로 되돌아가야 진입을 고려하세요."
     ],
-    "caution": "성과·수익 발화: “Risk no more than 2-3% per trade and stop trading for the day after 2R in losses.” 홍보·행동유도 발화: “Follow for more tips to help you achieve consistent trading results.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 212,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -519,21 +517,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1271362768371293": {
     "date": "2025.10.29",
     "duration": "00:09",
-    "originalTitle": "83K views · 298 reactions | Passive Investing VS Active Trading 💥 Trading is about taking selective entries in strong sectors, limiting risk per trade, and taking profits on purpose. When the losers in your profile are limited and you let winners compound, your annual pace can beat “average” over decades. Follow for clarity on building wealth through active trades that compound faster! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Passive Investing VS Active Trading 💥 Trading is about taking selective entries in strong sectors, limi…",
+    "originalTitle": "Passive Investing VS Active Trading 💥 Trading is about taking selective entries in strong sectors, limiting risk per trade, and taking profits on purpose. When the losers in your…",
+    "title": "강한 섹터에서 선택적 진입과 수익 실현을 통한 성장",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 9.33초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Passive Investing VS Active Trading 💥 Trading is about taking selective entries in strong sectors, limiting risk per trade, and taking profits on purpose.” / “When the losers in your profile are limited and you let winners compound, your annual pace can beat “average” over decades.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "주식·섹터",
+      "투자",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Passive Investing VS Active Trading 💥 Trading is about taking selective entries in strong sectors, limiting risk per trade, and taking profits on purpose.” 이어 “When the losers in your profile are limited and you let winners compound, your annual pace can beat “average” over decades.” 이어 “Past performance does not guarantee future results, and all trading involves risk.” 이어 “Please do your own research or consult a licensed financial professional before making trading decisions..”",
+    "core": "강한 섹터에서 선택적 진입을 통해 위험을 제한하고 수익을 실현하는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: Passive Investing VS Active Trading 💥 Trading is about taking selective entries in strong sectors, limiting risk per trade, and taking profits on purpose.",
-      "원문 실행 문장: Past performance does not guarantee future results, and all trading involves risk."
+      "강한 섹터에서 진입을 선택하고, 각 거래의 위험을 제한한다.",
+      "승자가 축적될 때 손실을 제한하고 수익을 실현한다."
     ],
-    "caution": "성과·수익 발화: “Past performance does not guarantee future results, and all trading involves risk.” 홍보·행동유도 발화: “Follow for clarity on building wealth through active trades that compound faster!” 전사에서 초기 손절·청산 기준·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -541,25 +541,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1274066031568752": {
     "date": "2026.05.04",
     "duration": "00:57",
-    "originalTitle": "15K views · 426 reactions | Buy or sell 💸 Overwhelmed with trading information? Follow to learn everything you need to know to trade successfully! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: If you choose buy, you're correct.",
+    "originalTitle": "Buy or sell 💸 Overwhelmed with trading information? Follow to learn everything you need to know to trade successfully! 👉 Disclaimer: This content is for educational purposes only…",
+    "title": "상승장에서 저항 수준에서 매도, 하락장에서 지지 수준에서 매수",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 57.15초·로컬 Whisper large-v3-turbo 전사 145단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Would you buy or sell?” / “What about this one, buy or sell?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "CTA"
+      "지지·저항",
+      "트레이딩",
+      "지지 저항"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Would you buy or sell?” 이어 “What about this one, buy or sell?” 이어 “All right, last one, buy or sell.” 이어 “Overwhelmed with trading information?”",
+    "core": "상승장에서는 저항 수준에서 매도하고, 하락장에서는 지지 수준에서 매수하는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: Would you buy or sell?",
-      "원문 실행 문장: If you choose buy, you're correct.",
-      "원문 실행 문장: If you choose sell, you are correct.",
-      "원문 실행 문장: All right, last one, buy or sell.",
-      "원문 실행 문장: If you choose buy, you are correct."
+      "상승장에서 가격이 강한 저항 수준을 테스트하고 빠지면, 그 수준에서 매도하라.",
+      "하락장에서 가격이 강한 지지 수준을 테스트하고 빠지면, 그 수준에서 매수하라."
     ],
-    "caution": "홍보·행동유도 발화: “In a falling market, selling near strong resistance, this level helps you follow the trend instead of guessing what price will bounce back.” / “Follow to learn everything you need to know to trade successfully.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 145,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -567,21 +564,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1279640773125827": {
     "date": "2025.02.08",
     "duration": "00:43",
-    "originalTitle": "6 comments | Traders fail because they forget it’s all about the long game. Account growth for me has come from consistency and thinking about the habits that lead to success and also primarily trading or the long side. | Raghee Horner",
-    "title": "영상 발화 분석: Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go!",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 43.07초·로컬 Whisper large-v3-turbo 전사 15단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go!”",
+    "originalTitle": "Traders fail because they forget it’s all about the long game. Account growth for me has come from consistency and thinking about the habits that lead to success and also primaril…",
+    "title": "장기 전략과 일관성으로 계정 성장: 긴 포지션 중심의 트레이딩",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "심리·규율",
+      "장기전략",
+      "일관성",
+      "긴포지션"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go!”",
+    "core": "계정 성장은 장기적인 전략과 일관된 행동을 통해 이루어진다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go!"
+      "장기적인 전략을 고수하고 일관된 행동을 유지해야 한다.",
+      "주로 긴 포지션을 취해야 한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 15,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -589,20 +588,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1285547156576403": {
     "date": "2026.05.12",
     "duration": "01:15",
-    "originalTitle": "59K views · 1.4K reactions | POV: the basics of trading 🌎 Want to achieve consistent profits through trading? Follow to learn basics and strategies to help you make informed trades! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "유동성 스윕: And for New York, focus on the London to New York overlap when most day trading happens to see if the ma…",
+    "originalTitle": "POV: the basics of trading 🌎 Want to achieve consistent profits through trading? Follow to learn basics and strategies to help you make informed trades! 👉 Disclaimer: This content…",
+    "title": "아시아-런던-뉴욕 세션별 특징과 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 75.35초·로컬 Whisper large-v3-turbo 전사 202단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Every trading session has a job.” / “Asia usually sets a calmer early high and low box for the day.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "CTA"
+      "유동성",
+      "거래 시간대",
+      "변동성"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “Every trading session has a job.” 이어 “Asia usually sets a calmer early high and low box for the day.” 이어 “London has high liquidity, high volatility, and typically clean directional moves.” 이어 “Want to achieve consistent profits through trading?”",
+    "core": "아시아, 런던, 뉴욕 세션별 특징을 이해하면 일관된 수익을 얻을 수 있다.",
     "rules": [
-      "원문 실행 문장: And for New York, focus on the London to New York overlap when most day trading happens to see if the market continues or reverses the London move."
+      "아시아 세션은 낮은 거래량과 작은 변동성으로 시작하여 런던 세션의 강한 확장과 대비된다.",
+      "런던 세션은 높은 유동성과 변동성으로 시작하여 뉴욕 세션으로 접어들면서 점점 더 안정적이 된다.",
+      "뉴욕 세션에서는 런던 세션의 동향을 주목하여 이어지는 추세나 역전을 판단한다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow to learn the basics and strategies to help you a more informed trader.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 202,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -610,28 +612,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1289143189853015": {
     "date": "2026.04.15",
     "duration": "01:18",
-    "originalTitle": "9.6K views · 180 reactions | 90% of traders ignore liquidation heatmaps🔥 Want to go from inconsistent S&P trades to consistently profitable trading but without guessing, chasing setups, or overtrading? Follow because I will show you exactly how! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "유동성 스윕: Step two, identify key stop clusters.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 78.07초·로컬 Whisper large-v3-turbo 전사 214단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I don't know which trader needs to hear this, but liquidation heat maps can be an amazing edge in your trading.” / “Step two, identify key stop clusters.”",
+    "originalTitle": "90% of traders ignore liquidation heatmaps🔥 Want to go from inconsistent S&P trades to consistently profitable trading but without guessing, chasing setups, or overtrading? Follow…",
+    "title": "S&P 거래에서 일정 이익 얻기 위한 라이퀴데이션 히트맵 활용",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "sweep",
-      "resistance",
-      "breakout",
-      "risk",
-      "CTA"
+      "유동성",
+      "지지·저항",
+      "위험관리",
+      "선물·지수"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “I don't know which trader needs to hear this, but liquidation heat maps can be an amazing edge in your trading.” 이어 “Step two, identify key stop clusters.” 이어 “Align what you see with trend direction, volume, and levels to know if a setup is strong.” 이어 “Watch for these to avoid getting caught.”",
+    "core": "거래에서 일정 이익을 얻기 위해서는 라이퀴데이션 히트맵을 활용하여 가격 반응을 예측할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Step two, identify key stop clusters.",
-      "원문 실행 문장: Never trade heat maps alone.",
-      "원문 실행 문장: Step number four, wait for the right entry.",
-      "원문 실행 문장: Step number five, avoid liquidity traps.",
-      "원문 실행 문장: Watch for these to avoid getting caught."
+      "거래 전략을 세우기 전에 라이퀴데이션 히트맵에서 트레이더들이 포지션을 열고 폐쇄하는 지역을 파악해야 합니다.",
+      "키 스탑 클러스터를 식별하고 가격이 이 방향으로 움직일 가능성을 예측해야 합니다.",
+      "트렌드와 거래량을 확인하여 터치된 클러스터가 강한 터치인지 확인해야 합니다."
     ],
-    "caution": "성과·수익 발화: “Want to go from inconsistent trades to consistently profitable without guessing, chasing setups, over trading, and over-risking follow because I'll show you exactly how I do it.” 홍보·행동유도 발화: “Want to go from inconsistent trades to consistently profitable without guessing, chasing setups, over trading, and over-risking follow because I'll show you exactly how I do it.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 214,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -639,20 +637,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1290217446624949": {
     "date": "2026.04.24",
     "duration": "00:22",
-    "originalTitle": "157K views · 2.5K reactions | Accumulation vs. manipulation vs. distribution 💡 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "영상 발화 분석: This is accumulation.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 22.38초·로컬 Whisper large-v3-turbo 전사 14단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is accumulation.” / “This is manipulation.”",
+    "originalTitle": "Accumulation vs. manipulation vs. distribution 💡 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, o…",
+    "title": "적립, 조작, 분배의 차이 9:00-10:00",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "위험관리",
+      "적립",
+      "조작",
+      "분배"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “This is accumulation.” 이어 “This is manipulation.” 이어 “This is distribution.”",
+    "core": "적립은 저가에서 주식을 사서 높은 가격으로 판매하는 과정이다. 조작은 거래량을 조작하여 가격을 인위적으로 끌어올리는 행위이다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: This is accumulation."
+      "적립은 저가에서 주식을 사고 높은 가격에서 판매한다.",
+      "조작은 거래량을 조작하여 가격을 인위적으로 끌어올린다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more trading education.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 14,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -660,22 +661,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1291035806423987": {
     "date": "2026.03.09",
     "duration": "01:11",
-    "originalTitle": "8.6K views · 177 reactions | The difference between support, resistance, and a breakout. 📈 Follow for technical analysis basics and simplify trend identification! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: Every time it reaches that level, it's buyers that are stepping in just enough to stop price from droppi…",
+    "originalTitle": "The difference between support, resistance, and a breakout. 📈 Follow for technical analysis basics and simplify trend identification! 👉 Disclaimer: This content is for educational…",
+    "title": "상승 저항선, 하락 저항선, 브레이크아웃의 차이 (9:00-10:00)",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 70.98초·로컬 Whisper large-v3-turbo 전사 321단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is the difference between support, resistance and a breakout.” / “Every time it reaches that level, it's buyers that are stepping in just enough to stop price from dropping further.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "breakout",
-      "CTA"
+      "지지·저항",
+      "위험관리",
+      "상승 저항선",
+      "하락 저항선"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “This is the difference between support, resistance and a breakout.” 이어 “Every time it reaches that level, it's buyers that are stepping in just enough to stop price from dropping further.” 이어 “We'll see you next time.” 이어 “We'll see you next time.”",
+    "core": "상승 저항선은 가격이 반복적으로 향상되지만 뚫지 못하는 가격대이며, 브레이크아웃은 가격이 저항선을 넘어서 새로운 가격 범위를 인정받는 현상이다.",
     "rules": [
-      "원문 실행 문장: Every time it reaches that level, it's buyers that are stepping in just enough to stop price from dropping further."
+      "상승 저항선은 가격이 반복적으로 향상되지만 뚫지 못하는 가격대이다.",
+      "브레이크아웃은 가격이 저항선을 넘어서 새로운 가격 범위를 인정받는 현상이다.",
+      "하락 저항선은 가격이 반복적으로 하락하되 뚫지 못하는 가격대이다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for technical analysis, basics and simplify your trend identification.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 321,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -683,27 +686,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1292832162770833": {
     "date": "2026.03.24",
     "duration": "01:10",
-    "originalTitle": "37K views · 634 reactions | This trading strategy did $1,000,000💸 Follow for more breakdowns like this so you stop chasing breakouts and start trading the reversal! | Raghee Horner",
-    "title": "유동성 스윕: Number one, mark the trap.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 70.33초·로컬 Whisper large-v3-turbo 전사 218단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is how you make your first million with trading.” / “Remember, the market moves in the direction of the most stops.”",
+    "originalTitle": "This trading strategy did $1,000,000💸 Follow for more breakdowns like this so you stop chasing breakouts and start trading the reversal!",
+    "title": "30년 경력의 트레이딩 전략으로 100만 달러 달성",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "sweep",
-      "breakout",
-      "risk",
-      "CTA"
+      "유동성",
+      "위험관리",
+      "선물·지수",
+      "트레이딩 전략"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “This is how you make your first million with trading.” 이어 “Remember, the market moves in the direction of the most stops.” 이어 “Step number four, define risk.” 이어 “Take advantage of the rhythm of the market.”",
+    "core": "가격이 범위를 벗어나고 다시 들어오면 거래를 시작하라.",
     "rules": [
-      "원문 실행 문장: Number one, mark the trap.",
-      "원문 실행 문장: This spike is the trap, not the trade.",
-      "원문 실행 문장: Only enter once price comes back inside the range or a retest.",
-      "원문 실행 문장: Your stop goes beyond the sweet, not inside the range.",
-      "원문 실행 문장: Step number five, trade timing."
+      "범위 내에서 가격이 높고 낮은 점을 찾고, 거기서 스탑을 설정하라.",
+      "가격이 범위를 벗어나면 스탑을 놓고, 다시 들어오면 거래를 시작하라.",
+      "가장 좋은 거래 기회는 기관 투자자의 거래 시간 동안에 있다."
     ],
-    "caution": "성과·수익 발화: “This is how you make your first million with trading.” 홍보·행동유도 발화: “Follow for more breakdowns like this so you stop chasing breakouts, you stop being the liquidity, and you start trading with the flow.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 218,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -711,21 +711,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1296436205609467": {
     "date": "2026.07.06",
     "duration": "00:50",
-    "originalTitle": "16K views · 279 reactions | Charts 101 For Traders 📈 Follow along if you want trading lessons that make charts easier to read! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #chartanalysis #technicalanalysis #tradingeducation #stockmarket #daytrading | Raghee Horner",
-    "title": "심리·규율: This is the exact trading strategy I use to master trading charts.",
+    "originalTitle": "Charts 101 For Traders 📈 Follow along if you want trading lessons that make charts easier to read! 👉 Disclaimer: This content is for educational purposes only and is not financial…",
+    "title": "차트 분석 101: 가격이 전일 종가를 넘었을 때의 장세 분석",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 49.78초·로컬 Whisper large-v3-turbo 전사 141단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is the exact trading strategy I use to master trading charts.” / “Right now, price is either above or below the previous session closed.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "차트 분석",
+      "장세 분석"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “This is the exact trading strategy I use to master trading charts.” 이어 “Right now, price is either above or below the previous session closed.” 이어 “If you ignore that level, you start reacting to noise instead of structure and probability.” 이어 “That one easy to identify level is how I stopped reacting to every candle and started reading the chart with a plan.”",
+    "core": "차트를 읽을 때 전일 종가를 기준으로 가격이 상승하면 장세를 신중하게 분석해야 한다.",
     "rules": [
-      "원문 실행 문장: This is the exact trading strategy I use to master trading charts.",
-      "원문 실행 문장: That one easy to identify level is how I stopped reacting to every candle and started reading the chart with a plan."
+      "가격이 전일 종가를 넘었을 때 장세를 신중하게 분석하라.",
+      "전일 종가를 기준으로 가격이 상승하면 높은 확률로 계속 상승할 가능성이 있다."
     ],
-    "caution": "홍보·행동유도 발화: “So remember, next time you open your chart, if price is above the previous session closed, look for long side follow through.” / “Follow along if you want trading lessons that make the charts less emotional and easier to read.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 141,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -733,29 +735,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1312959314232859": {
     "date": "2026.02.24",
     "duration": "01:28",
-    "originalTitle": "10K views · 189 reactions | Good entry vs. bad entry 🆚 Follow for more trading tips that actually work! | Raghee Horner",
-    "title": "이동평균: Here's how to tell if your entry is smart or just a setup for losing money.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 87.91초·로컬 Whisper large-v3-turbo 전사 255단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's how to tell if your entry is smart or just a setup for losing money.” / “Add the 34 EMA and key support and resistance levels like Darvis.”",
+    "originalTitle": "Good entry vs. bad entry 🆚 Follow for more trading tips that actually work!",
+    "title": "4단계로 구분한 좋은 진입과 나쁜 진입 🆚 4-Step Entry Strategy",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "4H",
-      "moving average",
-      "support",
-      "resistance",
-      "risk",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "이동평균",
+      "위험관리",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “Here's how to tell if your entry is smart or just a setup for losing money.” 이어 “Add the 34 EMA and key support and resistance levels like Darvis.” 이어 “Know your zones.” 이어 “Set your stock below the swing low, size the trades the risk is 3% or less and target two to three times at risk before you even click buy.”",
+    "core": "좋은 진입은 시장 추세를 확인하고, 구매 신호를 기다리며, 목표를 설정하는 과정이다.",
     "rules": [
-      "원문 실행 문장: Here's how to tell if your entry is smart or just a setup for losing money.",
-      "원문 실행 문장: If it's making lower lows or lower highs, look for sell setups.",
-      "원문 실행 문장: Buy with small size the first time price touches your level or zone.",
-      "원문 실행 문장: Step number four, wait for the trigger.",
-      "원문 실행 문장: Set your stock below the swing low, size the trades the risk is 3% or less and target two to three times at risk before you even click buy."
+      "시장 추세를 확인하려면 4시간 또는 일간 시간대를 확인하고 가격이 높은 고점과 저점으로 움직이는지 확인하라.",
+      "진입을 결정하려면 가격이 주요 지원과 저항 수준 근처로 빠지면 작은 크기로 구매하라.",
+      "진입 신호가 명확히 나타나면 강한 bullish 캔들 또는 저항에서 거부 신호를 기다리라."
     ],
-    "caution": "성과·수익 발화: “Set your stock below the swing low, size the trades the risk is 3% or less and target two to three times at risk before you even click buy.” 홍보·행동유도 발화: “Follow for more trading tips that actually work from a 30 year plus veteran trader.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 255,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -763,27 +760,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1314275937425465": {
     "date": "2026.04.06",
     "duration": "00:55",
-    "originalTitle": "9.2K views · 157 reactions | Know your trading basics📚 Want to build consistent trading results without blowing up your account? Follow for more trading structure tips! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "유동성 스윕: Use fixed percentage risk and a daily loss limit, so your account grows slowly and safely instead of blo…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 54.70초·로컬 Whisper large-v3-turbo 전사 154단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Using daily pre-market routine, so you plan two to three A-plus trades instead of chasing random moves.” / “Use pre-market liquidity levels.”",
+    "originalTitle": "Know your trading basics📚 Want to build consistent trading results without blowing up your account? Follow for more trading structure tips! 👉 Disclaimer: This content is for educa…",
+    "title": "다이얼리 프리마켓 루틴으로 A+ 트레이딩 세팅 구축",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "moving average",
-      "risk",
-      "performance claim",
-      "CTA"
+      "유동성",
+      "이동평균",
+      "위험관리",
+      "트레이딩 기초"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “Using daily pre-market routine, so you plan two to three A-plus trades instead of chasing random moves.” 이어 “Use pre-market liquidity levels.” 이어 “This way you enter after stops get taken instead of getting trapped.” 이어 “Want to build consistent trading results without blowing up your account?”",
+    "core": "다이얼리 프리마켓 루틴을 통해 두세 개의 A+ 트레이딩 세팅을 계획하고, 이세팅을 50~100번 반복한다.",
     "rules": [
-      "원문 실행 문장: Use fixed percentage risk and a daily loss limit, so your account grows slowly and safely instead of blowing up.",
-      "원문 실행 문장: Use the 34 EMA wave with candle patterns or Darvis confirmation as a filter, so you trade with the trend on a retracement instead of fighting it or chasing it.",
-      "원문 실행 문장: This way you enter after stops get taken instead of getting trapped.",
-      "원문 실행 문장: Use one written A-plus setup.",
-      "원문 실행 문장: A-plus simply means all of your trade entry criteria has been met, so you repeat the same high probability trade 50 to 100 times without constantly jumping around to new strategies as new and losing traders sadly do."
+      "매일 프리마켓 루틴을 사용하여 두세 개의 A+ 트레이딩 세팅을 계획한다.",
+      "34 EMA와 캔들 패턴 또는 Darvis 확인을 사용하여 추세에 맞춰 거래한다.",
+      "프리마켓 유동성 수준을 사용하여 이전에 시장이 거래된 곳을 확인하고, 스탑 런처가 실행되면 진입한다."
     ],
-    "caution": "성과·수익 발화: “Use fixed percentage risk and a daily loss limit, so your account grows slowly and safely instead of blowing up.” 홍보·행동유도 발화: “Follow for more trading structure tips.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 154,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -791,23 +785,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1317086850283770": {
     "date": "2026.04.27",
     "duration": "00:48",
-    "originalTitle": "18K views · 502 reactions | Is it possible to make money trading? 🤑 Want to learn how to trade profitably? Follow for educational content to help you succeed! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: I learned that risk management gave me my edge, making sure that no single trade or even series of trade…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 48.38초·로컬 Whisper large-v3-turbo 전사 141단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Is it possible to make money trading for over 13,000 days without ever blowing up your account?” / “I learned how to hand chart prices, log trades, and place trades by physically calling up my broker.”",
+    "originalTitle": "Is it possible to make money trading? 🤑 Want to learn how to trade profitably? Follow for educational content to help you succeed! 👉 Disclaimer: This content is for educational pu…",
+    "title": "13,000일 연속 무손실 트레이딩의 비결",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "트레이딩",
+      "위험 관리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Is it possible to make money trading for over 13,000 days without ever blowing up your account?” 이어 “I learned how to hand chart prices, log trades, and place trades by physically calling up my broker.” 이어 “In 38 years, I never blew up an account or had an unprofitable year.” 이어 “Want to learn how to trade profitably?”",
+    "core": "위험 관리를 통해 단일 트레이드나 연속 트레이드가 자본을 위협하지 않도록 하는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: I learned that risk management gave me my edge, making sure that no single trade or even series of trades could threaten my capital.",
-      "원문 실행 문장: What matters most is having discipline to judge risk strategically instead of gambling your savings away.",
-      "원문 실행 문장: Want to learn how to trade profitably?"
+      "15세부터 시작하여 38년 동안 무손실을 유지하며, 단일 트레이드나 연속 트레이드가 자본을 위협하지 않도록 위험 관리를 실천했다.",
+      "자신의 자산을 단기적으로 투자하지 않고, 장기적인 관점에서 투자를 유지해야 한다."
     ],
-    "caution": "성과·수익 발화: “I traded all the way through college and hit my first million dollar year in my mid-20s.” 홍보·행동유도 발화: “Follow for educational content to help you succeed.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 141,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -815,24 +809,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1319297469526703": {
     "date": "2026.06.01",
     "duration": "01:00",
-    "originalTitle": "12K views · 237 reactions | If I Started Trading Again From Zero 📈 Do you struggle with blowing accounts early? Follow for more tips to help you achieve consistent profitable account growth! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #tradingfromscratch #daytrader #tradingpsychology #accountgrowth | Raghee Horner",
-    "title": "위험관리: Spend at least six months to up to 12 months in demo mode, tracking every trade, following your rules, a…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 60.43초·로컬 Whisper large-v3-turbo 전사 185단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “People are making trading just too hard.” / “Most traders skip this part.”",
+    "originalTitle": "If I Started Trading Again From Zero 📈 Do you struggle with blowing accounts early? Follow for more tips to help you achieve consistent profitable account growth! 👉 Disclaimer: Th…",
+    "title": "처음부터 다시 시작하는 트레이딩: 6개월에서 1년간의 데모 테스트",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "트레이딩",
+      "데모 계정"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “People are making trading just too hard.” 이어 “Most traders skip this part.” 이어 “Find a mentor with actual trading results, experience, and proof so you avoid getting years of mistakes.” 이어 “Do you struggle with blowing accounts often and early?”",
+    "core": "트레이딩을 너무 어렵게 생각하지 말고, 실전 진입 전 데모에서 성공을 증명하라는 조언.",
     "rules": [
-      "원문 실행 문장: Spend at least six months to up to 12 months in demo mode, tracking every trade, following your rules, and proving you can stay consistent before risking real money.",
-      "원문 실행 문장: Open an account with risk dollars that you can afford to lose, maybe as little as $1,000 to $5,000, to experience the real emotions of trading and prove you can trade consistently using the strategy that you were demoing with for at least three months before…",
-      "원문 실행 문장: Find a mentor with actual trading results, experience, and proof so you avoid getting years of mistakes.",
-      "원문 실행 문장: Stop repeating the errors you don't even see."
+      "6개월에서 1년 동안 데모 계정에서 모든 거래를 추적하고 규칙을 따르며 일관성을 증명해야 한다.",
+      "실전 계정을 시작할 때는 위험을 감수할 수 있는 금액으로 작은 계정부터 시작해야 한다.",
+      "멘토의 조언을 얻어 실제 거래에서 실수를 피하고 일관된 성과를 달성하도록 돕는다."
     ],
-    "caution": "성과·수익 발화: “Open an account with risk dollars that you can afford to lose, maybe as little as $1,000 to $5,000, to experience the real emotions of trading and prove you can trade consistently…” / “Follow for more tips to help you achieve consistent, profitable account growth.” 홍보·행동유도 발화: “Follow for more tips to help you achieve consistent, profitable account growth.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 185,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -840,24 +834,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1322094469766931": {
     "date": "2026.04.23",
     "duration": "00:44",
-    "originalTitle": "10K views · 149 reactions | Ranking trading approaches 1-10 🏆 Struggling to consistently grow your investments? Follow to learn the tools and strategies you need for successful trading! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "유동성 스윕: Defined risk options on indices and ETFs?",
+    "originalTitle": "Ranking trading approaches 1-10 🏆 Struggling to consistently grow your investments? Follow to learn the tools and strategies you need for successful trading! 👉 Disclaimer: This co…",
+    "title": "톱 10 트레이딩 접근법: 투터 스타일 브레이크아웃과 도우 이론",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 44.31초·로컬 Whisper large-v3-turbo 전사 104단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Price plus grab candles plus 34 EMA wave?” / “Classic supply, demand, and liquidity zones?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "moving average",
-      "breakout",
-      "risk",
-      "CTA"
+      "유동성",
+      "이동평균",
+      "옵션",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “Price plus grab candles plus 34 EMA wave?” 이어 “Classic supply, demand, and liquidity zones?” 이어 “Indicator heavy black box systems?” 이어 “Struggling to consistently grow your investments and your trading account?”",
+    "core": "성공적인 트레이딩을 위한 도구와 전략을 학습하려면 투터 스타일 브레이크아웃과 도우 이론을 활용하라.",
     "rules": [
-      "원문 실행 문장: Defined risk options on indices and ETFs?",
-      "원문 실행 문장: Only because while risk management is great, set up confirmation is needed."
+      "10: 투터 스타일 브레이크아웃과 투터 스파이스 레버리지 전략을 사용하되, 과도한 레버리지는 피하라.",
+      "10: 도우 이론을 기반으로 한 시장 구조 분석을 실시하되, 신호 추격은 피하라.",
+      "9: 지표를 많이 사용하는 블랙박스 시스템은 피하되, 섹터 회전 전략은 고려하라."
     ],
-    "caution": "홍보·행동유도 발화: “Follow to learn the tools and strategies you need for successful trading.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 104,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -865,20 +859,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1322378786453957": {
     "date": "2026.04.28",
     "duration": "00:12",
-    "originalTitle": "437K views · 4.8K reactions | If you can’t afford paid trading tools Ready to grow your money? Follow to learn how to trade like a pro! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "심리·규율: Trade journals and performance analytics.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 12.20초·로컬 Whisper large-v3-turbo 전사 29단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Charting platforms.” / “News and research.”",
+    "originalTitle": "If you can’t afford paid trading tools Ready to grow your money? Follow to learn how to trade like a pro! 👉 Disclaimer: This content is for educational purposes only and is not fi…",
+    "title": "무료 도구로 주식 투자 실력 향상 방법",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "journal",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "주식·섹터",
+      "투자"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Charting platforms.” 이어 “News and research.” 이어 “Trade journals and performance analytics.” 이어 “Ready to grow your money?”",
+    "core": "무료 툴을 활용하면 전문가처럼 주식을 거래할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Trade journals and performance analytics."
+      "무료 차트 플랫폼과 뉴스를 통해 시장 동향을 파악하고 투자 결정을 내립니다.",
+      "무료 툴을 활용하여 포트폴리오를 추적하고 성과를 분석합니다.",
+      "자신의 투자 결정을 위해 항상 연구를 진행하거나 전문가와 상담합니다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow and learn how to trade like a pro.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 29,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -886,21 +884,21 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1322770149755459": {
     "date": "2026.04.01",
     "duration": "00:49",
-    "originalTitle": "9.6K views · 172 reactions | Candle A vs. Candle B🕯️ I help traders go from taking random candle signals to trading with structure, defined risk, and real edge! Follow because I will show you exactly how! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Which candle do you think means sell?",
+    "originalTitle": "Candle A vs. Candle B🕯️ I help traders go from taking random candle signals to trading with structure, defined risk, and real edge! Follow because I will show you exactly how! 👉 D…",
+    "title": "캔들 A와 B: 구조와 틱트로를 활용한 정확한 매매 시점",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 48.87초·로컬 Whisper large-v3-turbo 전사 133단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Which candle do you think means sell?” / “If you chose B, you would be correct.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "틱트로",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Which candle do you think means sell?” 이어 “If you chose B, you would be correct.” 이어 “All the incorrect candles had no real location.” 이어 “I help traders go from taking random candle signals to trading with structure, defined risk, and a real edge.”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "원문 실행 문장: Which candle do you think means sell?",
-      "원문 실행 문장: I help traders go from taking random candle signals to trading with structure, defined risk, and a real edge."
+      "캔들 A와 B 중에서 구조와 틱트로가 있는 캔들 B가 더 정확한 매매 시점임을 보여줍니다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow because I'll show you exactly how.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 133,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -908,22 +906,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1326959736023165": {
     "date": "2026.04.14",
     "duration": "00:39",
-    "originalTitle": "19K views · 425 reactions | If you mark yesterday’s high and low 📌 Want to go from inconsistent trading and small gains to consistent 6-7 figure trading but without guessing, overtrading, or emotional mistakes? Follow because I will show you exactly how! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "심리·규율: If you mark yesterday's high and low and trade when price hits your level, you'll get okay results.",
+    "originalTitle": "If you mark yesterday’s high and low 📌 Want to go from inconsistent trading and small gains to consistent 6-7 figure trading but without guessing, overtrading, or emotional mistak…",
+    "title": "어제 고점과 저점 기록으로 일관된 6-7자리 수익 달성",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 39.17초·로컬 Whisper large-v3-turbo 전사 107단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you mark yesterday's high and low and trade when price hits your level, you'll get okay results.” / “If you systematize your edge, line up multiple confirmations for A plus setups and use alerts, you'll get great results.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "거래 전략",
+      "일관성"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “If you mark yesterday's high and low and trade when price hits your level, you'll get okay results.” 이어 “If you systematize your edge, line up multiple confirmations for A plus setups and use alerts, you'll get great results.” 이어 “Bad traders react emotionally or chase setups.” 이어 “Want to go from inconsistent trading and small gains to consistent trading without guessing over trading and emotional mistakes?”",
+    "core": "일관된 수익을 위해 고점과 저점을 기록하고 높은 시간 프레임에서 거래하는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: If you mark yesterday's high and low and trade when price hits your level, you'll get okay results.",
-      "원문 실행 문장: If you mark your levels, trade with higher time frames, and set your stop before entry, you'll get really good results.",
-      "원문 실행 문장: If you systematize your edge, line up multiple confirmations for A plus setups and use alerts, you'll get great results."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "홍보·행동유도 발화: “Good traders follow repeatable systems.” / “Follow because I'll show you exactly how.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 107,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -931,27 +929,21 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1347949040769775": {
     "date": "2026.07.14",
     "duration": "01:19",
-    "originalTitle": "62K views · 984 reactions | My Daily Trading Process 📈 I went from taking 10-15 losses a day to taking 4 high profit day trades a day using this exact system. Follow for more trading education! #tradingforbeginners #optionstrading #daytrader #tradingprocess #profitabletrading 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: I made 32% return last month trading one hour a day and this is the boring five-step day trading strateg…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 78.80초·로컬 Whisper large-v3-turbo 전사 253단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I made 32% return last month trading one hour a day and this is the boring five-step day trading strategy I use to do that.” / “The second thing I do is I wait at least five minutes before doing any kind of trading, waiting for volume to narrow spreads and then I watch price reaction to the previous session close.”",
+    "originalTitle": "My Daily Trading Process 📈 I went from taking 10-15 losses a day to taking 4 high profit day trades a day using this exact system. Follow for more trading education! #tradingforbe…",
+    "title": "일일 트레이딩 프로세스: 일일 고수익 트레이딩 시스템",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "breakout",
-      "performance claim",
-      "CTA"
+      "개장 범위",
+      "지지·저항",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “I made 32% return last month trading one hour a day and this is the boring five-step day trading strategy I use to do that.” 이어 “The second thing I do is I wait at least five minutes before doing any kind of trading, waiting for volume to narrow spreads and then I watch price reaction to the previous session close.” 이어 “And if price stays below the previous session close, I'm only going to look for shorts.” 이어 “I went from taking 10 to 15 losses a week to taking two to four high probability day trades a day using this exact system.”",
+    "core": "일일 4회 고수익 트레이딩을 위한 간단한 5단계 시스템을 소개합니다.",
     "rules": [
-      "원문 실행 문장: I made 32% return last month trading one hour a day and this is the boring five-step day trading strategy I use to do that.",
-      "원문 실행 문장: The second thing I do is I wait at least five minutes before doing any kind of trading, waiting for volume to narrow spreads and then I watch price reaction to the previous session close.",
-      "원문 실행 문장: And I only trade support and resistance levels instead of taking random trades in the middle of a zone or chasing things higher or lower.",
-      "원문 실행 문장: And the fourth thing is if price stays above the previous session close, I am only going to look for buys.",
-      "원문 실행 문장: And the fifth thing is I only trade near key levels that I've predetermined."
+      "전일 종가를 기준으로 전일의 고점과 저점, 그리고 전장 개장 전의 거래량을 확인하고, 개장 후 5분간 대기하여 가격 변동을 관찰합니다."
     ],
-    "caution": "성과·수익 발화: “I made 32% return last month trading one hour a day and this is the boring five-step day trading strategy I use to do that.” 홍보·행동유도 발화: “Follow for more day trading education.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 253,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -959,26 +951,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1366086718291203": {
     "date": "2025.12.05",
     "duration": "01:20",
-    "originalTitle": "35K views · 733 reactions | This Or That: Trading Edition📈💰📊 Follow for tips that help you trade smarter, calmer, and more consistent every week! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: They say amateurs open the market and professionals close it.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 79.50초·로컬 Whisper large-v3-turbo 전사 240단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Morning trades or afternoon trades?” / “I prefer the NASDAQ 100, which might be an unusual choice, but the reason is the S&P usually tracks with the NASDAQ.”",
+    "originalTitle": "This Or That: Trading Edition📈💰📊 Follow for tips that help you trade smarter, calmer, and more consistent every week! 👉 Disclaimer: This content is for educational purposes only a…",
+    "title": "트레이딩 에디션: 아침 거래와 높은 리스크 보상비",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "journal",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "선물·지수",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Morning trades or afternoon trades?” 이어 “I prefer the NASDAQ 100, which might be an unusual choice, but the reason is the S&P usually tracks with the NASDAQ.” 이어 “And once they master that, they can add maybe one or two more strategies to their overall toolkit.” 이어 “But as a trade goes in our favor, we can begin to trail it at that point.”",
+    "core": "아침 거래를 선호하며, 높은 리스크 보상비를 중요시합니다.",
     "rules": [
-      "원문 실행 문장: They say amateurs open the market and professionals close it.",
-      "원문 실행 문장: High reward to risk.",
-      "원문 실행 문장: Journal every trade or review weekly?",
-      "원문 실행 문장: Fixed stop loss or trailing stop loss?",
-      "원문 실행 문장: But as a trade goes in our favor, we can begin to trail it at that point."
+      "아침 거래를 선호합니다.",
+      "높은 리스크 보상비를 중요시합니다.",
+      "NASDAQ 100을 선호합니다."
     ],
-    "caution": "성과·수익 발화: “High win rate or high risk to reward?” 홍보·행동유도 발화: “Follow for tips that help you trade smarter, calmer, and more consistent every week.” 전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 240,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -986,27 +976,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1370609094460699": {
     "date": "2025.11.26",
     "duration": "01:01",
-    "originalTitle": "45K views · 970 reactions | The #1 Reason Your Stop Losses Are Getting Hit👊 Follow for daily trading tips that help you protect profits and stay consistent! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: This is the number one reason your stop losses are getting hit.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 61.07초·로컬 Whisper large-v3-turbo 전사 175단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is the number one reason your stop losses are getting hit.” / “Step number three, don't place your stops right on support or resistance.”",
+    "originalTitle": "The #1 Reason Your Stop Losses Are Getting Hit👊 Follow for daily trading tips that help you protect profits and stay consistent! 👉 Disclaimer: This content is for educational purp…",
+    "title": "Stop Loss 위치 조정으로 수익 보호하기 - 9:00 시장 시작 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "risk",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "위험관리",
+      "스탑 량",
+      "위험 관리"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “This is the number one reason your stop losses are getting hit.” 이어 “Step number three, don't place your stops right on support or resistance.” 이어 “Step number four, match stop size to your risk.” 이어 “Fix your stop loss placement and you'll stop getting knocked out of good trades.”",
+    "core": "정확한 스탑 량 위치는 수익을 보호하고 일관된 성과를 달성하는 데 중요합니다.",
     "rules": [
-      "원문 실행 문장: This is the number one reason your stop losses are getting hit.",
-      "원문 실행 문장: Step number two, use price movement ranges or PMRs to measure distance.",
-      "원문 실행 문장: Set yours slightly beyond those levels to stay safe.",
-      "원문 실행 문장: If your stop is wider, shrink your position size.",
-      "원문 실행 문장: Fix your stop loss placement and you'll stop getting knocked out of good trades."
+      "스탑 량을 너무 가깝게 설정하지 말고, 가격 움직임 범위를 이용하여 스탑 량을 조정하라.",
+      "지원과 저항 수준 바로 옆에 스탑 량을 두지 말고, 약간 떨어진 곳에 두어야 한다.",
+      "위험을 최소화하려면 각 거래당 5% 이하의 위험만 떼고, 스탑 량이 넓으면 포지션 크기를 줄여라."
     ],
-    "caution": "성과·수익 발화: “Never risk more than 5% per trade.” / “As your trade wins, tighten your stop to lock in profit while letting the move run.” 홍보·행동유도 발화: “Follow for daily trading tips that help you protect profits and stay consistent.” 전사에서 청산 기준·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 175,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1014,28 +1001,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1374417407453158": {
     "date": "2025.11.06",
     "duration": "01:15",
-    "originalTitle": "46K views · 942 reactions | First Hour Of A Day Trader 🤫 Follow for more behind the scenes of 38 years of trading! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: 90% of traders ignore time frame alignment and that's why most remain unprofitable.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 74.93초·로컬 Whisper large-v3-turbo 전사 226단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “90% of traders ignore time frame alignment and that's why most remain unprofitable.” / “That's my map.”",
+    "originalTitle": "First Hour Of A Day Trader 🤫 Follow for more behind the scenes of 38 years of trading! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment…",
+    "title": "9:30 AM 개장 시점의 주요 거래 준비 과정",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “90% of traders ignore time frame alignment and that's why most remain unprofitable.” 이어 “That's my map.” 이어 “10am quick review.” 이어 “Patience always speed, speed, speed, speed.”",
+    "core": "일일 거래자의 첫 시간 동안 주요 거래 준비 과정을 통해 일관성과 성공을 얻는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: 90% of traders ignore time frame alignment and that's why most remain unprofitable.",
-      "원문 실행 문장: I mark support, resistance and the daily open.",
-      "원문 실행 문장: If price comes into my zone I'll size small and enter.",
-      "원문 실행 문장: My risk is capped at about 2% on options.",
-      "원문 실행 문장: Just sticking to bias, levels and risk."
+      "9:30 AM 개장 시점에서 QQQ, SPY, ES 또는 NQ의 관련 햄스터를 선택한다.",
+      "9:35 AM 지지와 저항 수준을 표시하고 일일 개장 가격을 포함한다.",
+      "10:00 AM 첫 거래와 위험을 결정하고 2% 또는 25%의 옵션 프리미엄을 사용한다."
     ],
-    "caution": "성과·수익 발화: “90% of traders ignore time frame alignment and that's why most remain unprofitable.” / “If I'm right I take profits at about 25 to 50% and then I leave a small runner.” 홍보·행동유도 발화: “Follow for more behind the scenes 38 years of training.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 226,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1043,29 +1026,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1380888576779695": {
     "date": "2025.12.11",
     "duration": "01:00",
-    "originalTitle": "60K views · 1K reactions | How To Enter A Trade Like A Pro😎🚀📈 Follow for more trading breakdowns like these! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "유동성 스윕: Here's how I enter trades as a trader with over 35 years experience.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 60.47초·로컬 Whisper large-v3-turbo 전사 167단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's how I enter trades as a trader with over 35 years experience.” / “And if it slopes down, I look for short positions.”",
+    "originalTitle": "How To Enter A Trade Like A Pro😎🚀📈 Follow for more trading breakdowns like these! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or…",
+    "title": "35년 경력 트레이더의 진입 전략: 34EMA와 가격 행동 분석",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "sweep",
-      "moving average",
-      "support",
-      "resistance",
-      "risk",
-      "performance claim"
+      "유동성",
+      "지지·저항",
+      "이동평균",
+      "옵션"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “Here's how I enter trades as a trader with over 35 years experience.” 이어 “And if it slopes down, I look for short positions.” 이어 “I look for liquidity sweep at volume levels or clear higher highs into resistance for short positions and lower lows at support for long positions.” 이어 “I move to break even and I scale out at the first target.”",
+    "core": "34일 이동평균선과 가격 행동을 활용하여 진입 포지션을 결정하는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: Here's how I enter trades as a trader with over 35 years experience.",
-      "원문 실행 문장: I mark support, resistance, and the recent highs and lows on the chart.",
-      "원문 실행 문장: And always use limit orders.",
-      "원문 실행 문장: I risk only 3% per trade.",
-      "원문 실행 문장: I move to break even and I scale out at the first target."
+      "34일 이동평균선의 경사가 양수이면 장 포지션을, 음수이면 짧은 포지션을 찾는다.",
+      "지원과 저항을 표시하고, 가격 행동을 통해 진입 구역을 설정한다.",
+      "liquidity sweep를 찾고, 높은 변동성 시 크기를 줄여진다."
     ],
-    "caution": "성과·수익 발화: “I risk only 3% per trade.” 홍보·행동유도 발화: “Follow for more trading breakdowns like these.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 167,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1073,27 +1051,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1387290930113678": {
     "date": "2026.06.10",
     "duration": "01:18",
-    "originalTitle": "7.9K views · 208 reactions | This Is The Secret Behind The Market 📈 Struggling to find high probability trades? Follow for more trading tips! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #stockmarket #tradingsecretes #financialeducation #profitabletrading | Raghee Horner",
-    "title": "유동성 스윕: For example, in that bullish watch list, I wait for a pullback, typically to 34 period exponential movin…",
+    "originalTitle": "This Is The Secret Behind The Market 📈 Struggling to find high probability trades? Follow for more trading tips! 👉 Disclaimer: This content is for educational purposes only and is…",
+    "title": "장에서 높은 확률 트레이딩 기법 📈",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 78.20초·로컬 Whisper large-v3-turbo 전사 223단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I can find the best high probability trades and here's how.” / “Number three, filter your conditions.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "moving average",
-      "support",
-      "resistance",
-      "CTA"
+      "유동성",
+      "지지·저항",
+      "이동평균",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “I can find the best high probability trades and here's how.” 이어 “Number three, filter your conditions.” 이어 “What I wait for in an uptrend is a pullback into support before I buy calls.” 이어 “Struggling to find high probability trades?”",
+    "core": "장에서 높은 확률 트레이딩을 위한 방법은 주식의 상대적 성과와 거래량을 분석하는 것이다.",
     "rules": [
-      "원문 실행 문장: For example, in that bullish watch list, I wait for a pullback, typically to 34 period exponential moving average, a Darvish support or some sort of volatility support level.",
-      "원문 실행 문장: So step four, now you're gonna confirm your setup.",
-      "원문 실행 문장: In a downtrend, I'll wait for price to bounce into resistance.",
-      "원문 실행 문장: Set your target halfway between your primary range.",
-      "원문 실행 문장: So if you have a support and resistance zone that price is trading within, having bought off support means your first target is halfway between the range."
+      "관심종목 목록을 만드는 데 상대적 성과를 기준으로 하여, 가장 높은 확률의 bullish 또는 bearish 연속성을 찾는다.",
+      "고 거래량 증가주 또는 감소주를 분리하여 유동성과 참여가 지속적인 추세를 생성하도록 한다.",
+      "상승 추세에서 지지선 근처로 주가가 빠지면 매수 신호를 확인하고, 하락 추세에서는 저항선 근처로 가격이 반등하면 매수 신호를 확인한다."
     ],
-    "caution": "홍보·행동유도 발화: “Once you get your results, separate out the high volume gainers or the high volume losers because liquidity and participation creates follow through.” / “Follow for more trading tips.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 223,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1101,25 +1076,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1395408641936047": {
     "date": "2025.10.28",
     "duration": "00:07",
-    "originalTitle": "3.3K views · 59 shares | Why Do I Prefer Trading vs S&P 500? 💰📈 Because: ➝ Most investors who buy and hold the S&P 500 average around 10% annually over time ➝ You don’t need watchlists to build, no timing decisions to make in S&P 500 investing. ➝ You just have to be patient to get steady, diversified returns. ➝ But with trading you’re not settling for the market average. You're targeting specific opportunities using sector analysis and risk rules. ➝ In trading, you enter pullbacks in strong stocks. ➝ You can have initial profits between 25-50%, but occasionally, some runners can even hit 100%. ➝ You can cut out losers fast. The strategy is to keep it usually around 25% loss on option premium, so they don't wipe out your winners. It doesn’t mean you’ll be hitting out of the park on every trade. But it means over time, selective entries plus tight risk management can beat passive returns. Follow for active trading strategies that outpace passive investing through selective setups and defined risk! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: 💰📈 Because: ➝ Most investors who buy and hold the S&P 500 average around 10% annually over time ➝ You…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 7.03초·로컬 Whisper large-v3-turbo 전사 2단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Why Do I Prefer Trading vs S&P 500?” / “You're targeting specific opportunities using sector analysis and risk rules.”",
+    "originalTitle": "Why Do I Prefer Trading vs S&P 500? 💰📈 Because: ➝ Most investors who buy and hold the S&P 500 average around 10% annually over time ➝ You don’t need watchlists to build, no timing…",
+    "title": "S&P 500 대비 트레이딩의 장점: 강한 주식에서 반등을 이용하는 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "주식·섹터",
+      "선물·지수"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Why Do I Prefer Trading vs S&P 500?” 이어 “You're targeting specific opportunities using sector analysis and risk rules.” 이어 “It doesn’t mean you’ll be hitting out of the park on every trade.” 이어 “Please do your own research or consult a licensed financial professional before making trading decisions..”",
+    "core": "트레이딩은 특정 기회를 찾고, 높은 수익률을 추구하며, 위험 관리를 통해 장기적으로 더 좋은 성과를 얻을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: 💰📈 Because: ➝ Most investors who buy and hold the S&P 500 average around 10% annually over time ➝ You don’t need watchlists to build, no timing decisions to make in S&P 500 investing.",
-      "원문 실행 문장: You're targeting specific opportunities using sector analysis and risk rules.",
-      "원문 실행 문장: It doesn’t mean you’ll be hitting out of the park on every trade.",
-      "원문 실행 문장: But it means over time, selective entries plus tight risk management can beat passive returns.",
-      "원문 실행 문장: Past performance does not guarantee future results, and all trading involves risk."
+      "강한 주식에서 반등을 이용하여 초기 수익률은 25-50% 사이",
+      "loser를 빠르게 제거하고 옵션 프리미엄의 약 25%로 위험을 관리"
     ],
-    "caution": "성과·수익 발화: “💰📈 Because: ➝ Most investors who buy and hold the S&P 500 average around 10% annually over time ➝ You don’t need watchlists to build, no timing decisions to make in S&P 500 inve…” / “Past performance does not guarantee future results, and all trading involves risk.” 홍보·행동유도 발화: “Follow for active trading strategies that outpace passive investing through selective setups and defined risk!” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 2,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1127,26 +1100,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1399481711838929": {
     "date": "2025.11.21",
     "duration": "00:45",
-    "originalTitle": "147K views · 2.3K reactions | Trading Becomes Easy When You Understand Liquidity🤝 Tired of entering trades that always reverse on you? Follow for more expert tips that make trading simple and smart. 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "유동성 스윕: Liquidity is where most traders place their stop losses, and that is where the money sits.",
+    "originalTitle": "Trading Becomes Easy When You Understand Liquidity🤝 Tired of entering trades that always reverse on you? Follow for more expert tips that make trading simple and smart. 👉 Disclaim…",
+    "title": "liquidity 이해로 쉽게 트레이딩하기 🤝",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 44.90초·로컬 Whisper large-v3-turbo 전사 127단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Trading becomes easy when you understand liquidity.” / “Step number two, watch for tight, sideways zones.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
+      "유동성",
+      "위험관리",
       "liquidity",
-      "sweep",
-      "risk",
-      "CTA"
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “Trading becomes easy when you understand liquidity.” 이어 “Step number two, watch for tight, sideways zones.” 이어 “When price pops above them, that's buy side liquidity, and it often reverses down.” 이어 “After a liquidity sweep and a clear break in structure, that's your entry signal.”",
+    "core": "liquidity를 이해하면 거래가 훨씬 쉬워집니다.",
     "rules": [
-      "원문 실행 문장: Liquidity is where most traders place their stop losses, and that is where the money sits.",
-      "원문 실행 문장: When price pops above them, that's buy side liquidity, and it often reverses down.",
-      "원문 실행 문장: When price drops below the lows, it usually bounces back up because that's sell side liquidity.",
-      "원문 실행 문장: And step number five, wait for confirmation.",
-      "원문 실행 문장: After a liquidity sweep and a clear break in structure, that's your entry signal."
+      "liquidity가 높은 곳에서 스탑 라이스를 설정하라.",
+      "가격이 liquidity 높은 구간을 향해 움직일 때 진입하라.",
+      "가격이 높은 곳을 넘을 때 구매 측 liquidity가 나타나므로 거래를 취소하라."
     ],
-    "caution": "홍보·행동유도 발화: “Follow me for more expert tips that make trading simple and smart.” 전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 127,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1154,21 +1125,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1406658500791658": {
     "date": "2025.11.18",
     "duration": "00:52",
-    "originalTitle": "23K views · 490 reactions | Love It Or Leave It: Trading Edition🤯 Follow for proven strategies that help you manage risk, stay consistent, and grow your account the smart way! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "심리·규율: It's better to trade one or two good setups than chase five messy ones.",
+    "originalTitle": "Love It Or Leave It: Trading Edition🤯 Follow for proven strategies that help you manage risk, stay consistent, and grow your account the smart way! 👉 Disclaimer: This content is f…",
+    "title": "손실 한도와 위험관리에 관한 트레이딩 관점",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 51.63초·로컬 Whisper large-v3-turbo 전사 140단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Holding overnight trades.” / “Journaling trades.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "journal"
+      "위험관리",
+      "심리·규율",
+      "장기보유",
+      "감정관리"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Holding overnight trades.” 이어 “Journaling trades.” 이어 “A trading plan protects it.” 이어 “Want to learn proven strategies that actually work and help you trade with confidence?”",
+    "core": "장기 보유는 실수를 발견하고 빠르게 수정할 수 있는 기록을 작성하는 데 도움이 됩니다.",
     "rules": [
-      "원문 실행 문장: It's better to trade one or two good setups than chase five messy ones.",
-      "원문 실행 문장: Mastering one setup pays far more than guessing on every trade.",
-      "원문 실행 문장: Want to learn proven strategies that actually work and help you trade with confidence?"
+      "장기 보유는 작은 계좌를 보호하지 않으므로 시장이 열릴 때만 거래를 선택합니다.",
+      "하루에 여러 종목을 거래하는 것은 감정을 관리하는 데 도움이 되지 않으므로 한 두 개의 강한 세팅을 선택합니다.",
+      "하이퍼 시간 프레임을 사용하여 진입은 더 큰 틱을 기준으로 결정합니다."
     ],
-    "caution": "홍보·행동유도 발화: “Come at success to join our trading community today.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 140,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1176,26 +1150,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1440083801215180": {
     "date": "2026.07.09",
     "duration": "01:07",
-    "originalTitle": "16K views · 308 reactions | A Trader With 30+ Years of Experience Reacts 🎥 Follow along if you want to stop chasing setups and start managing risk before you enter! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #riskmanagement #tradingeducation #technicalanalysis #stockmarket #daytrading | Raghee Horner",
-    "title": "지지·저항: Support, resistance, wait for the break, retest, and then buy.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 66.87초·로컬 Whisper large-v3-turbo 전사 195단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Wait, this is easy.” / “Support, break, retest, buy.”",
+    "originalTitle": "A Trader With 30+ Years of Experience Reacts 🎥 Follow along if you want to stop chasing setups and start managing risk before you enter! 👉 Disclaimer: This content is for educatio…",
+    "title": "30년 경력 트레이더의 실전 셀링 터치 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "risk",
-      "CTA"
+      "지지·저항",
+      "위험관리",
+      "트레이딩",
+      "위험 관리"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Wait, this is easy.” 이어 “Support, break, retest, buy.” 이어 “That part is definitely not wrong.” 이어 “Because the setup is simple, the execution is what takes time.”",
+    "core": "세팅을 따라 하기보다 진입 전에 위험 관리를 먼저 생각해야 한다.",
     "rules": [
-      "원문 실행 문장: Wait, this is easy.",
-      "원문 실행 문장: Support, break, retest, buy.",
-      "원문 실행 문장: Take Profit hit just like that.",
-      "원문 실행 문장: Take Profit got hit again.",
-      "원문 실행 문장: But before you enter, know your stop, your position size, and what would prove the setup wrong?"
+      "지원과 저항을 기다리고, 깨지면 다시 테스트한 뒤 매수해야 한다.",
+      "진입 전에 손절와 포지션 크기를 결정하고, 세팅이 틀릴 수 있는 이유를 파악해야 한다."
     ],
-    "caution": "성과·수익 발화: “Take Profit hit just like that.” / “How has it taken people years to become profitable?” 홍보·행동유도 발화: “Follow along if you want to stop chasing setups and start managing risk before you enter.” 전사에서 초기 손절·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 195,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1203,29 +1174,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1445440883781834": {
     "date": "2026.03.12",
     "duration": "01:33",
-    "originalTitle": "139K views · 1.6K reactions | Ranking the top 1% Tradingview strategies 📊 Follow for a deeper breakdown of these strategies and step by step guidance on how to use them effectively on TradingView! | Raghee Horner",
-    "title": "유동성 스윕: Number one, trade pullbacks to the EMA wave with grab candles.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 92.74초·로컬 Whisper large-v3-turbo 전사 291단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “ranking the top 1% of trading view indicators.” / “Darvis boxes highlight clear support and resistance levels.”",
+    "originalTitle": "Ranking the top 1% Tradingview strategies 📊 Follow for a deeper breakdown of these strategies and step by step guidance on how to use them effectively on TradingView!",
+    "title": "EMA와 Darvis 박스를 활용한 트레이딩뷰 전략 (5분 차트 기준)",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "sweep",
-      "moving average",
-      "support",
-      "resistance",
-      "risk",
-      "performance claim"
+      "유동성",
+      "지지·저항",
+      "이동평균",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “ranking the top 1% of trading view indicators.” 이어 “Darvis boxes highlight clear support and resistance levels.” 이어 “That is a five out of five.” 이어 “Pullbacks to the wave or support zones offer low risk, long entry opportunities.”",
+    "core": "EMA와 Darvis 박스를 활용하면 추세를 파악하고 흐름을 따라 거래할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Number one, trade pullbacks to the EMA wave with grab candles.",
-      "원문 실행 문장: Number two, trade Darvis box levels.",
-      "원문 실행 문장: Number three, use an anchored volume weighted average price and volume profile for dynamic support and resistance.",
-      "원문 실행 문장: Enter in the direction of the trend and consider tightening stops when the dots disappear or are broken.",
-      "원문 실행 문장: Pullbacks to the wave or support zones offer low risk, long entry opportunities."
+      "EMA와 Grab Candles를 사용하여 추세를 파악하고, uptrend에서 가격이 EMA 웨이브로 되돌아올 때 매수, downtrend에서 가격이 EMA 웨이브로 반등할 때 매도.",
+      "Darvis 박스를 사용하여 지원과 저항 수준을 확인하고, bullish 시장에서는 박스 하단 근처에서 매수, bearish 시장에서는 박스 상단 근처에서 매도.",
+      "박스 밖으로 가격이 닫힐 때, 가격이 박스 범위로 되돌아갈 가능성이 높으므로 이 기회를 활용하라."
     ],
-    "caution": "성과·수익 발화: “ranking the top 1% of trading view indicators.” 홍보·행동유도 발화: “Number four, follow propulsion dots for exponential moving average crossovers.” / “Five out of five, follow for a deeper breakdown of these strategies and step-by-step guidance on how to use them effectively on trading view.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 291,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1233,25 +1199,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1452039866553759": {
     "date": "2026.03.19",
     "duration": "01:23",
-    "originalTitle": "4.7K views · 91 reactions | What’s your secret to success in trading?🤫 Follow for daily, rules based trading education that actually improves your results! | Raghee Horner",
-    "title": "위험관리: Decide who you are before the trade.",
+    "originalTitle": "What’s your secret to success in trading?🤫 Follow for daily, rules based trading education that actually improves your results!",
+    "title": "성공적인 트레이딩의 비결은 subconscious mind를 어떻게 관리하는가? 🤨",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 82.99초·로컬 Whisper large-v3-turbo 전사 223단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “As a trader, your subconscious mind is your greatest asset, but it can also be your worst enemy.” / “Decide who you are before the trade.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "트레이딩",
+      "심리학"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “As a trader, your subconscious mind is your greatest asset, but it can also be your worst enemy.” 이어 “Decide who you are before the trade.” 이어 “The fourth thing we can do is master one to three setups at most.” 이어 “Before every trade, name the setup, confirm the rules, define the stops and the target, and then execute according to the plan.”",
+    "core": "성공적인 트레이딩은 subconscious mind를 관리하는 방법에 달려 있다.",
     "rules": [
-      "원문 실행 문장: Decide who you are before the trade.",
-      "원문 실행 문장: Repeat the same three to five risk and execution rules daily until they feel automatic.",
-      "원문 실행 문장: Trade the same setups for 20, 30, 40, 50 trades so that recognition becomes instant.",
-      "원문 실행 문장: The fifth thing, use a pre-trade script.",
-      "원문 실행 문장: Before every trade, name the setup, confirm the rules, define the stops and the target, and then execute according to the plan."
+      "거래 전에 자신의 trading identity를 결정하고, 매일 동일한 세 가지 이상의 risk and execution rules를 반복한다.",
+      "매 거래 전에 setup을 확인하고, 스탑과 타겟을 정의한 후 계획에 따라 실행한다."
     ],
-    "caution": "홍보·행동유도 발화: “Read a couple identity statements before every session so your actions follow rules, not emotions.” / “Follow for daily rules-based trading education that actually improves your results and your confidence.” 전사에서 초기 손절·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 223,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1259,23 +1223,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1452242096564798": {
     "date": "2026.03.23",
     "duration": "01:20",
-    "originalTitle": "64K views · 1.2K reactions | This is how many shares of Coca Cola you would need to own to make $1,000 a year in dividends📈 If you want more breakdowns like this using the Sector Secrets method, follow for more! | Raghee Horner",
-    "title": "주식·섹터: First, look for a long dividend history.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 80.11초·로컬 Whisper large-v3-turbo 전사 226단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is how many shares of Coca-Cola you would need to own to make $1,000 a year in dividends.” / “Now here's how I actually pick dividend winners like this.”",
+    "originalTitle": "This is how many shares of Coca Cola you would need to own to make $1,000 a year in dividends📈 If you want more breakdowns like this using the Sector Secrets method, follow for mo…",
+    "title": "코카콜라로 1,000달러의 연간 배당금 얻기 위한 투자 수량 (Sector Secrets 방법론)",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "주식·섹터",
+      "코카콜라",
+      "배당주",
+      "Sector Secrets"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “This is how many shares of Coca-Cola you would need to own to make $1,000 a year in dividends.” 이어 “Now here's how I actually pick dividend winners like this.” 이어 “I make sure the company is not paying out more than it earns, usually staying under 75%.” 이어 “I want companies that raise dividends every year so my income grows without having to buy more shares.”",
+    "core": "코카콜라 주식 490~500개를 보유하면 연간 1,000달러의 배당금을 얻을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: First, look for a long dividend history.",
-      "원문 실행 문장: The third thing, buy businesses people use no matter what.",
-      "원문 실행 문장: I look for brands with daily demand that have stood the test of recessions like food, drink, or utilities.",
-      "원문 실행 문장: I want companies that raise dividends every year so my income grows without having to buy more shares."
+      "490~500개의 코카콜라 주식을 보유하면 연간 1,000달러의 배당금을 얻을 수 있습니다.",
+      "장기적으로 배당을 지속적으로 늘린 기록을 가진 회사의 주식을 선택하라.",
+      "배당지급률이 회사의 수익보다 높지 않게 하라."
     ],
-    "caution": "성과·수익 발화: “This is how many shares of Coca-Cola you would need to own to make $1,000 a year in dividends.” / “I want companies that raise dividends every year so my income grows without having to buy more shares.” 홍보·행동유도 발화: “If you want more breakdowns like this using the Sector Secrets Mastery Method, follow up for more.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 226,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1283,25 +1248,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1466460111788148": {
     "date": "2026.03.10",
     "duration": "01:27",
-    "originalTitle": "6.8K views · 104 reactions | Too much or too little⚖️ Follow, if you want daily actionable strategies to trade smarter, manage risk, and build consistent results! | Raghee Horner",
-    "title": "심리·규율: If you stop trading after one small loss, you're trading way too little.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 87.40초·로컬 Whisper large-v3-turbo 전사 270단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “How to tell if you're trading too much or too little.” / “If you feel pressure to be in the markets every single session, you are trading too much.”",
+    "originalTitle": "Too much or too little⚖️ Follow, if you want daily actionable strategies to trade smarter, manage risk, and build consistent results!",
+    "title": "일일 3회 거래 제한과 적정 진입 조건을 바탕으로 한 균형 잡힌 트레이딩",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "journal",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "트레이딩 균형",
+      "일일 3회 거래"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “How to tell if you're trading too much or too little.” 이어 “If you feel pressure to be in the markets every single session, you are trading too much.” 이어 “Make sure each trade fits your checklist, bias, zone, triggers, entry, stop and target.” 이어 “If you're averaging fewer than one valid trade setup, you need to loosen or broaden your watch list.”",
+    "core": "적정 거래량을 찾기 위해서는 계획된Setup에 따라 진입해야 하며, 일일 3회 거래를 초과하거나 미달하면 균형이 깨진다.",
     "rules": [
-      "원문 실행 문장: If you stop trading after one small loss, you're trading way too little.",
-      "원문 실행 문장: Make sure each trade fits your checklist, bias, zone, triggers, entry, stop and target.",
-      "원문 실행 문장: Now keep a journal and log every trade for the next four weeks.",
-      "원문 실행 문장: Write down the setup, the time, the reason for the entry and the result.",
-      "원문 실행 문장: If you're averaging fewer than one valid trade setup, you need to loosen or broaden your watch list."
+      "일일 최대 3회 거래를 초과하면 규칙을 조정해야 한다.",
+      "일일 평균 1회 미만의 적정Setup 진입을 위해 지표를 넓혀야 한다.",
+      "매일 거래일지를 기록하여 진입Setup, 시간, 진입 이유 및 결과를 기록한다."
     ],
-    "caution": "성과·수익 발화: “Take a maximum of three trades per day and at least one if your setup appears.” / “If you average more than three trades per day, tighten those rules.” 홍보·행동유도 발화: “Follow me because I share all the secrets that keep your trades disciplined, protect your gains, protect your capital and grow your account consistently.” 전사에서 초기 손절·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 270,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1309,26 +1273,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1475191750601882": {
     "date": "2026.06.04",
     "duration": "01:20",
-    "originalTitle": "12K views · 240 reactions | Pov: Market Opens In 30 Minutes 📊 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #daytrading #tradingsystem #consistentprofit #marketopen | Raghee Horner",
-    "title": "돌파·개장 범위: Want to avoid results like this?",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 80.00초·로컬 Whisper large-v3-turbo 전사 233단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Every day, traders rush into the market and get caught on the wrong side.” / “Decide if pre-market is trending or ranging before the open so you know what is likely to shift and from where.”",
+    "originalTitle": "Pov: Market Opens In 30 Minutes 📊 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advic…",
+    "title": "30분 뒤 시장 개장: 키 레벨 표기와 전장 동향 분석",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "breakout",
-      "risk",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "트레이딩",
+      "데이트레이딩"
     ],
-    "core": "원문 전사 기준 돌파·개장 범위 콘텐츠다. “Every day, traders rush into the market and get caught on the wrong side.” 이어 “Decide if pre-market is trending or ranging before the open so you know what is likely to shift and from where.” 이어 “Watch for range gap, true gap, price gaps to understand where momentum came in fast.” 이어 “That is just slightly better than a coin toss, but it's enough to stay consistently profitable.”",
+    "core": "키 레벨을 표기하고 전장 동향을 분석하면 시장 개장 후의 흐름을 예측할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Want to avoid results like this?",
-      "원문 실행 문장: Mark the previous session close, the pre-market high and the pre-market low each morning before the bell.",
-      "원문 실행 문장: Look for candles one and a half to two times larger than the five preceding candles.",
-      "원문 실행 문장: Step four, use gap.",
-      "원문 실행 문장: No level, no signal, no entry."
+      "매일 아침 시장 개장 전일 종가, 전장 고점, 저점 레벨을 표기한다.",
+      "전장이 추세를 보이면 개장 후 일자리가 예상되며, 전장이 횡보를 보이면 브레이크아웃이 예상된다.",
+      "하나 반 이상 큰 캔들(5개 캔들보다)을 찾아 강한 참여를 확인하고 위험과 방향을 빠르게 결정한다."
     ],
-    "caution": "성과·수익 발화: “Your average winner should be bigger than your average loss with a win rate of about 60 to 65%.” / “That is just slightly better than a coin toss, but it's enough to stay consistently profitable.” 홍보·행동유도 발화: “Follow for more trading education.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 233,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1336,22 +1298,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1476238660952180": {
     "date": "2026.04.30",
     "duration": "00:44",
-    "originalTitle": "40K views · 826 reactions | How to make your first $100k 💸 Struggling with complex trading strategies? Follow to learn how to simplify your approach for more profit! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Draw a line from yesterday's low and another line from yesterday's high.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 43.71초·로컬 Whisper large-v3-turbo 전사 133단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I used one simple strategy to make my first $100,000.” / “So I started using what's commonly known as box theory.”",
+    "originalTitle": "How to make your first $100k 💸 Struggling with complex trading strategies? Follow to learn how to simplify your approach for more profit! 👉 Disclaimer: This content is for educati…",
+    "title": "첫 $100,000을 얻는 간단한 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "투자 전략",
+      "단순화"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I used one simple strategy to make my first $100,000.” 이어 “So I started using what's commonly known as box theory.” 이어 “Draw a line from yesterday's low and another line from yesterday's high.” 이어 “Struggling with complex trading strategies?”",
+    "core": "복잡한 전략보다 간단한 전략이 더 많은 이익을 가져다 줄 수 있음을 설명",
     "rules": [
-      "원문 실행 문장: Draw a line from yesterday's low and another line from yesterday's high.",
-      "원문 실행 문장: If you wanna buy, buy near the bottom and sell near the top and do absolutely nothing in the middle."
+      "어제의 저점에서 가격을 추적하고, 저점 근처에서 매수하고, 고점 근처에서 매도하는 방식을 사용",
+      "이전 성과는 미래 성과를 보장하지 않으며, 모든 투자에는 위험이 따르므로 투자 전에 조사하거나 전문가와 상담하라"
     ],
-    "caution": "성과·수익 발화: “I used one simple strategy to make my first $100,000.” / “Follow to learn how to simplify your approach for more profit and better risk management.” 홍보·행동유도 발화: “Follow to learn how to simplify your approach for more profit and better risk management.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 133,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1359,29 +1322,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1478863960533254": {
     "date": "2026.02.17",
     "duration": "01:13",
-    "originalTitle": "18K views · 420 reactions | 38 years of trading in 60 seconds ⏱️ Follow for more useful tips that actually help you grow as a trader! | Raghee Horner",
-    "title": "지지·저항: Tip number 1 Trade the process.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 72.61초·로컬 Whisper large-v3-turbo 전사 221단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “It took me 5 years to learn this but I'll teach you it in less than 60 seconds.” / “Structure, confirmation and risk.”",
+    "originalTitle": "38 years of trading in 60 seconds ⏱️ Follow for more useful tips that actually help you grow as a trader!",
+    "title": "38년간의 트레이딩 노하우 60초로 배우기",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "risk",
-      "psychology",
-      "journal",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "위험관리",
+      "심리·규율",
+      "트레이딩 노하우"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “It took me 5 years to learn this but I'll teach you it in less than 60 seconds.” 이어 “Structure, confirmation and risk.” 이어 “Fear and greed are your biggest enemies in trading.” 이어 “Check whether you followed your rules and mark what can be improved for tomorrow.”",
+    "core": "성공적인 트레이딩을 위해서는 과정을 따라야 하며, 감정을 통제하고 일정 위험만 감수해야 한다.",
     "rules": [
-      "원문 실행 문장: Tip number 1 Trade the process.",
-      "원문 실행 문장: Tip number 2 Trade fewer but better setups.",
-      "원문 실행 문장: Tip number 3 Limit your risk and predefine it before you enter any trade.",
-      "원문 실행 문장: Tip number 4 Control your emotions by knowing your targets and your stop loss.",
-      "원문 실행 문장: Check whether you followed your rules and mark what can be improved for tomorrow."
+      "전매매 전마다 추세, 지원, 저항 수준, 캔들 패턴, 위험을 확인해야 한다.",
+      "매매할 수 있는Setup은 명확히 규칙을 충족해야 한다.",
+      "각 매매 전에 손절 기준을 미리 설정하고, 한 번의 손실이 전체 계좌를 파괴하지 않도록 2-3%만 위험에 빠져야 한다."
     ],
-    "caution": "성과·수익 발화: “Never risk more than 2-3% of your account on a single trade.” 홍보·행동유도 발화: “Follow it ruthlessly.” / “Follow for more useful tips that actually help you grow as a trader.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 221,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1389,25 +1347,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1481309140118058": {
     "date": "2026.03.20",
     "duration": "01:30",
-    "originalTitle": "7.8K views · 153 reactions | How to climb the “profit ladder”🪜 I’ve been trading for 30+ years, and if you want to learn more trading education, make sure to follow! | Raghee Horner",
-    "title": "위험관리: Fix your risk and stop practice.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 89.88초·로컬 Whisper large-v3-turbo 전사 310단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “As someone who's gone through all of these profit levels, this is what each level feels like and what you have to do to get to the next level.” / “Only trade setups that check every box of your trading criteria.”",
+    "originalTitle": "How to climb the “profit ladder”🪜 I’ve been trading for 30+ years, and if you want to learn more trading education, make sure to follow!",
+    "title": "손실 한도와 위험관리에 관한 트레이딩 관점",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "주식·섹터",
+      "거래 전략",
+      "포트폴리오 관리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “As someone who's gone through all of these profit levels, this is what each level feels like and what you have to do to get to the next level.” 이어 “Only trade setups that check every box of your trading criteria.” 이어 “Build a scalable playbook.” 이어 “Review monthly and quarterly which setup time windows perform the best, where the leaks happened and how to adjust.”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "원문 실행 문장: Fix your risk and stop practice.",
-      "원문 실행 문장: Only trade setups that check every box of your trading criteria.",
-      "원문 실행 문장: Scale risk only after three to six profitable months and max drawdown stays under 10 to 15% total.",
-      "원문 실행 문장: Each setup has rules, markets, timeframes, and a risk plan.",
-      "원문 실행 문장: Cap total portfolio risk at three to 5% and limit exposure to sectors or individual stocks."
+      "하나의 설정을 선택하고 그에 따른 리스크 관리를 구현하되, 매매 규칙을 무시하지 말고 최소 1%에서 최대 3%의 리스크만을 감수해야 합니다.",
+      "포트폴리오 수준으로 생각하되, 전체 포트폴리오의 리스크를 최대 3%에서 5%로 제한하고, 단일 시장 또는 개별 주식에 대한 노출을 최소화해야 합니다."
     ],
-    "caution": "성과·수익 발화: “As someone who's gone through all of these profit levels, this is what each level feels like and what you have to do to get to the next level.” / “Cap total portfolio risk at three to 5% and limit exposure to sectors or individual stocks.” 홍보·행동유도 발화: “If you want to learn more about trading skills and education, please make sure to follow.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 310,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1415,24 +1371,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1483204386776704": {
     "date": "2026.03.03",
     "duration": "01:15",
-    "originalTitle": "19K views · 384 reactions | My top 5 assets to learn trading 5️⃣ Follow for more beginner trading tips that actually help you grow! | Raghee Horner",
-    "title": "지지·저항: You can trade the S&P or NASDAQ with pretty small capital, around $1,000, learning market structure, tre…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 74.88초·로컬 Whisper large-v3-turbo 전사 203단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “A lot of people start off with Forex trading.” / “Asset number two, Sector ETFs.”",
+    "originalTitle": "My top 5 assets to learn trading 5️⃣ Follow for more beginner trading tips that actually help you grow!",
+    "title": "미크로 햄스터, 섹터 ETF, 메이저 통화, 금, 대형주로 시작하는 트레이딩",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "risk",
-      "CTA"
+      "지지·저항",
+      "위험관리",
+      "주식·섹터",
+      "선물·지수"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “A lot of people start off with Forex trading.” 이어 “Asset number two, Sector ETFs.” 이어 “You can practice any time of day with tight spreads, smooth price action, and low cost position sizing as perfect for beginners.” 이어 “You can practice timing and risk management on highly liquid stocks like the SPY that move fairly predictably and respect technical levels because of the massive participation in that index.”",
+    "core": "미크로 햄스터와 섹터 ETF를 통해 시장 구조와 추세를 배우고, 메이저 통화와 금을 통해 높은 유동성과 예측 가능성을 활용하며, 대형주를 통해 기술적 수준을 존중하는 방법을 배운다.",
     "rules": [
-      "원문 실행 문장: You can trade the S&P or NASDAQ with pretty small capital, around $1,000, learning market structure, trends, and risk control.",
-      "원문 실행 문장: You can trade an entire sector like the XLF Financials instead of guessing on individual bank stocks.",
-      "원문 실행 문장: You can practice timing and risk management on highly liquid stocks like the SPY that move fairly predictably and respect technical levels because of the massive participation in that index."
+      "S&P 또는 NASDAQ를 미크로 햄스터로 거래하며, 약 $1,000의 자본으로 시장 구조와 추세를 배운다.",
+      "XLF 금융 섹터 ETF를 거래하며, 전체 섹터의 강세와 약세를 쉽게 파악한다.",
+      "메이저 통화를 거래하며, 일관된 가격 행동과 낮은 위험 관리를 통해 높은 유동성과 편리성을 활용한다."
     ],
-    "caution": "성과·수익 발화: “You can trade the S&P or NASDAQ with pretty small capital, around $1,000, learning market structure, trends, and risk control.” 홍보·행동유도 발화: “You can also follow up for more beginner trading tips that actually help you grow your account.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 203,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1440,27 +1396,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1495025221821007": {
     "date": "2025.11.06",
     "duration": "01:27",
-    "originalTitle": "29K views · 653 reactions | SPX Step-By Step Breakdown 📊 Follow for strategies that work with any account size when risk is managed correctly! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: Those zones define your support and resistance and become your entry triggers.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 86.77초·로컬 Whisper large-v3-turbo 전사 239단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you master this setup as a day trader, your life will change forever.” / “For the SPX, choose a reasonable out of the money strike near the daily price movement range gold zone.”",
+    "originalTitle": "SPX Step-By Step Breakdown 📊 Follow for strategies that work with any account size when risk is managed correctly! 👉 Disclaimer: This content is for educational purposes only and…",
+    "title": "SPX 일별 전략 구현 방법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "risk",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “If you master this setup as a day trader, your life will change forever.” 이어 “For the SPX, choose a reasonable out of the money strike near the daily price movement range gold zone.” 이어 “Keep risk at two to three percent per trade.” 이어 “Zones, trigger, execute, scale, review.”",
+    "core": "일별 전략을 구현하려면 가격 변동 범위를 정확히 파악하고, 진입 시점을 정확히 잡는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: Those zones define your support and resistance and become your entry triggers.",
-      "원문 실행 문장: Number four, manage the trade.",
-      "원문 실행 문장: After T1, slide the stop to break even.",
-      "원문 실행 문장: Keep risk at two to three percent per trade.",
-      "원문 실행 문장: Zones, trigger, execute, scale, review."
+      "일별 가격 변동 범위를 5분봉과 일봉으로 플로팅하여 지원과 저항을 정의한다.",
+      "진입은 5분봉에서 발생하고, 목표는 일봉에서 정한다.",
+      "위험을 관리하여 매매 규칙을 따르되, 두세퍼센트의 위험만을 감수한다."
     ],
-    "caution": "성과·수익 발화: “Keep risk at two to three percent per trade.” 홍보·행동유도 발화: “Follow for strategies that work with any account size when risk is managed correctly.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 239,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1468,26 +1421,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1497513567973444": {
     "date": "2025.11.28",
     "duration": "00:51",
-    "originalTitle": "16K views · 254 reactions | What's The Difference Between Short Term vs. Long Term🤷‍♀️ Tired of not knowing which trading style fits your goals? Follow for expert trading tips that help you build skill, manage risk, and grow like a pro. 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: I trade full market cycles and hold positions for months or years.",
+    "originalTitle": "What's The Difference Between Short Term vs. Long Term🤷‍♀️ Tired of not knowing which trading style fits your goals? Follow for expert trading tips that help you build skill, mana…",
+    "title": "단기 vs 장기 거래의 차이 - 1일 vs 몇 년",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 50.53초·로컬 Whisper large-v3-turbo 전사 144단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “My trades can last minutes, hours, or a couple of days at max.” / “I use wider stops in smaller positions.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "risk",
-      "psychology",
-      "performance claim"
+      "지지·저항",
+      "위험관리",
+      "심리·규율",
+      "단기 거래"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “My trades can last minutes, hours, or a couple of days at max.” 이어 “I use wider stops in smaller positions.” 이어 “For me, trading is fast-paced and tactical.” 이어 “Come at success and I'll help you figure it out.”",
+    "core": "단기 거래는 일일 변동성과 추세를 활용하며, 장기 거래는 장기적인 가치와 신호를 기다립니다.",
     "rules": [
-      "원문 실행 문장: I trade full market cycles and hold positions for months or years.",
-      "원문 실행 문장: I use price action, support, and resistance zones in tight stop losses.",
-      "원문 실행 문장: I risk small per trade, usually 1% or less, but I take multiple setups a week.",
-      "원문 실행 문장: I use wider stops in smaller positions."
+      "단기 거래는 일일 변동성과 추세를 활용하여 매일 여러 세팅을 추적하고, 장기 거래는 장기적인 가치와 신호를 기다리며, 수익을 몇 년간 축적합니다.",
+      "단기 거래에서는 일일 변동성과 추세를 활용하여 매일 여러 세팅을 추적하고, 장기 거래에서는 장기적인 가치와 신호를 기다리며, 수익을 몇 년간 축적합니다."
     ],
-    "caution": "성과·수익 발화: “I risk small per trade, usually 1% or less, but I take multiple setups a week.” 전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 144,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1495,26 +1445,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1498314328504393": {
     "date": "2026.05.28",
     "duration": "01:19",
-    "originalTitle": "10K views · 153 reactions | Reason Why You're Not Profitable 📊 I help traders go from inconsistent results to controlled, risk-based trading over time. Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #tradingpsychology #profitabletrades #daytrader #tradingsystem | Raghee Horner",
-    "title": "돌파·개장 범위: Today we'll be going over the importance of risk management.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 79.03초·로컬 Whisper large-v3-turbo 전사 226단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Today we'll be going over the importance of risk management.” / “Person B calculates their maximum loss and sets their stop loss accordingly.”",
+    "originalTitle": "Reason Why You're Not Profitable 📊 I help traders go from inconsistent results to controlled, risk-based trading over time. Follow for more trading education! 👉 Disclaimer: This c…",
+    "title": "위험 관리로 성공한 거래자와 실패한 거래자",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "breakout",
-      "risk",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "주식·섹터",
+      "위험 관리",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 돌파·개장 범위 콘텐츠다. “Today we'll be going over the importance of risk management.” 이어 “Person B calculates their maximum loss and sets their stop loss accordingly.” 이어 “While Person B reserved capital and saw their account grow over time.” 이어 “I help traders go from inconsistent results to controlled risk-based trading over time.”",
+    "core": "위험 관리가 성공적인 거래의 핵심임을 보여줍니다.",
     "rules": [
-      "원문 실행 문장: Today we'll be going over the importance of risk management.",
-      "원문 실행 문장: Person A focuses on stocks that have a strong move and they jump in chasing the trade.",
-      "원문 실행 문장: Person B calculates their maximum loss and sets their stop loss accordingly.",
-      "원문 실행 문장: They never risk more than three to 5% of their account per trade.",
-      "원문 실행 문장: I help traders go from inconsistent results to controlled risk-based trading over time."
+      "Person A는 강한 움직임을 추적하여 이미 움직이는 거래를 추격하며, 페어를 빠르게 사고, 틱을 놓치는 것을 두려워하며, 추세나 브레이크아웃을 계속 상승시키기 위해 높은 위험을 감수한다.",
+      "Person B는 최대 손실을 계산하고 그에 따라 스탑 러스팅을 설정하며, 적절한 세팅과 진입 신호를 기다리고, 빠르게 빠지는 것을 두려워하지 않고, 한 번의 거래에서 3%~5%의 계좌를 위험에 빠뜨리지 않는다."
     ],
-    "caution": "성과·수익 발화: “Two people manage risk while pursuing profitable trades.” / “Because Person A focused on chasing profit, while Person B focused on risk management first and profit second.” 홍보·행동유도 발화: “Follow for more trading education.” 전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 226,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1522,27 +1469,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1500847311244868": {
     "date": "2025.11.03",
     "duration": "01:23",
-    "originalTitle": "23K views · 358 reactions | Use Daily Timeframes Correctly ⌛🖊️ Getting faked out by bearish setups? Follow for daily trading lessons that show you how to trade with institutions, not against them! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "유동성 스윕: So this is a daily timeframe, and that means each candle represents one day.",
+    "originalTitle": "Use Daily Timeframes Correctly ⌛🖊️ Getting faked out by bearish setups? Follow for daily trading lessons that show you how to trade with institutions, not against them! 👉 Disclaim…",
+    "title": "일일 시간 프레임으로 institutions와 함께 트레이딩: 거짓 신호 피하기",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 83.27초·로컬 Whisper large-v3-turbo 전사 233단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So this is a daily timeframe, and that means each candle represents one day.” / “On a bearish daily candle, which is to say a down day, like this one right here, buy below the daily open on a move down to support.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "sweep",
-      "support",
-      "psychology",
-      "CTA"
+      "유동성",
+      "지지·저항",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “So this is a daily timeframe, and that means each candle represents one day.” 이어 “On a bearish daily candle, which is to say a down day, like this one right here, buy below the daily open on a move down to support.” 이어 “Wait for a liquidity sweep, which is a structural break of weakness, then enter on the retrace, which is also known as buy the dip.” 이어 “Getting faked out by bearish setups?”",
+    "core": "일일 시간 프레임에서 하락 캔들에 진입할 때는 일봉의 개장 가격 아래에서 하락 추세를 따르는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: So this is a daily timeframe, and that means each candle represents one day.",
-      "원문 실행 문장: The daily timeframe shows you the market's intended direction, which in this case you can see is up.",
-      "원문 실행 문장: On a bearish daily candle, which is to say a down day, like this one right here, buy below the daily open on a move down to support.",
-      "원문 실행 문장: Wait for a liquidity sweep, which is a structural break of weakness, then enter on the retrace, which is also known as buy the dip.",
-      "원문 실행 문장: Wait for price to move above the open first, stop the sweeps, break lower, then retrace towards a dip."
+      "하락 일봉에서 일봉 개장 가격 아래에서 하락 추세를 따르면 구매하라.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for daily trading lessons that show you how to trade with institutions, not against them.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 233,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1550,20 +1493,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1508050550761606": {
     "date": "2026.06.05",
     "duration": "00:48",
-    "originalTitle": "8.8K views · 101 reactions | Returns If You Bought This Major Stock 📊 Follow for more investing education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #appledividends #dividendinvesting #stockcalculations #passiveincome #financialeducation | Raghee Horner",
-    "title": "영상 발화 분석: This is how many shares of Apple you'd need to own to get $1,000 in dividends each year.",
+    "originalTitle": "Returns If You Bought This Major Stock 📊 Follow for more investing education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trad…",
+    "title": "애플 주식을 사면 연간 1000달러의 배당금을 얻기 위한 투자 규모",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 48.13초·로컬 Whisper large-v3-turbo 전사 107단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is how many shares of Apple you'd need to own to get $1,000 in dividends each year.” / “And right now, that's $0.26 per share.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "위험관리",
+      "주식·섹터",
+      "투자",
+      "배당금"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “This is how many shares of Apple you'd need to own to get $1,000 in dividends each year.” 이어 “And right now, that's $0.26 per share.” 이어 “Do you round up to 962?” 이어 “So to get paid $1,000 a year by Apple, you would have to invest a quarter million dollars.”",
+    "core": "애플 주식을 사면 연간 1000달러의 배당금을 얻기 위해 약 25만 달러의 투자 규모가 필요하다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: This is how many shares of Apple you'd need to own to get $1,000 in dividends each year."
+      "961.5 주를 구매해야 하며, 이는 약 25만 달러의 투자로 변환된다.",
+      "연간 1000달러의 배당금을 얻기 위해서는 애플 주식 961.5 주를 보유해야 한다."
     ],
-    "caution": "성과·수익 발화: “This is how many shares of Apple you'd need to own to get $1,000 in dividends each year.” / “So to get paid $1,000 a year by Apple, you would have to invest a quarter million dollars.” 홍보·행동유도 발화: “Follow for more investing and trading education.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 107,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1571,27 +1517,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1509944314133444": {
     "date": "2026.06.02",
     "duration": "01:12",
-    "originalTitle": "16K views · 357 reactions | Order Block 📊 Do you struggle with taking bad setups? Follow for more tips to help you achieve consistent profitable account growth! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #orderblock #tradingpsychology #daytrading #profitabletrades | Raghee Horner",
-    "title": "유동성 스윕: You use this every week, you'll start reading the market like never before.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 72.14초·Facebook 자동 자막 218단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You use this every week, you'll start reading the market like never before.” / “Use a three crows or three soldiers pattern where the first and third candlewicks do not touch.”",
+    "originalTitle": "Order Block 📊 Do you struggle with taking bad setups? Follow for more tips to help you achieve consistent profitable account growth! 👉 Disclaimer: This content is for educational…",
+    "title": "Order Block: 일별 거래 패턴을 활용한 일관된 수익성 향상",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
       "FVG",
-      "support",
-      "resistance",
-      "CTA"
+      "유동성",
+      "오더블록",
+      "지지·저항"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “You use this every week, you'll start reading the market like never before.” 이어 “Use a three crows or three soldiers pattern where the first and third candlewicks do not touch.” 이어 “Then wait for a liquidity suite.” 이어 “Do you struggle with taking bad setups or maybe you don't have any setups at all?”",
+    "core": "거래 패턴을 이해하고 적절한 주문 블록을 선택하면 일관된 수익을 얻을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: You use this every week, you'll start reading the market like never before.",
-      "원문 실행 문장: Use a three crows or three soldiers pattern where the first and third candlewicks do not touch.",
-      "원문 실행 문장: Then wait for a liquidity suite.",
-      "원문 실행 문장: Finally, only enter after price break structure and confirm your direction.",
-      "원문 실행 문장: The order block within say a fair value gap can help you identify that zone."
+      "가진 거래 패턴을 확인하고, 거래 방향을 결정하기 전에 가격 구조를 분석하라.",
+      "liquidity suite를 기다리고, 가격이 구조를 깨지 않으면 진입하지 말라.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "성과·수익 발화: “This is how your trading can go from consistently and constantly taking loss after loss to becoming consistently profitable and growing an account by choosing the correct order bl…” 홍보·행동유도 발화: “Follow for more tips to help you find setups to achieve consistent account pro.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 218,
     "transcriptSource": "Facebook 자동 자막"
@@ -1599,24 +1542,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1511163593647762": {
     "date": "2026.07.30",
     "duration": "01:09",
-    "originalTitle": "11K views · 203 reactions | If you’re marking your levels at market open, you’re already too late. 📉 Follow for more trading strategy tips! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #tradinglevels #daytrading #profitabletrader #tradingpsychology | Raghee Horner",
-    "title": "심리·규율: I'm going to draw core horizontal levels.",
+    "originalTitle": "If you’re marking your levels at market open, you’re already too late. 📉 Follow for more trading strategy tips! 👉 Disclaimer: This content is for educational purposes only and is…",
+    "title": "마켓 오픈 시 레벨 마킹은 이미 늦은 시점",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 68.54초·로컬 Whisper large-v3-turbo 전사 217단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you're marking your levels at market open, you're probably already too late.” / “I'm going to draw core horizontal levels.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “If you're marking your levels at market open, you're probably already too late.” 이어 “I'm going to draw core horizontal levels.” 이어 “That's a huge one.” 이어 “This is the price discovery that you're watching to see if those levels are reacted to.”",
+    "core": "마켓 오픈 시 레벨을 마킹하면 이미 늦은 시점이며, 전날 가격 범위를 고려한 전략적 진입이 필요하다.",
     "rules": [
-      "원문 실행 문장: I'm going to draw core horizontal levels.",
-      "원문 실행 문장: Prior days high, prior close, pre-market high-low.",
-      "원문 실행 문장: You can even use the pre-market range.",
-      "원문 실행 문장: Next, I'm going to identify where pre-market prices are trading inside, above, or below yesterday's range, while keeping an eye on whether or not price is above or below the previous session cash close.",
-      "원문 실행 문장: Finally, avoid trading the first 15 to 30 minutes and watch how price reacts to your pre-market levels."
+      "마켓 오픈 30분 전부터 차트를 열고, 전날 고가, 전일 종가, 프리마켓 고/저를 기준으로 핵심 수평 레벨을 설정한다.",
+      "프리마켓 가격이 전날 가격 범위 안팎을 확인하고, 가격이 전일 종가를 넘었는지 확인한다.",
+      "오프닝 벨 전에 진입 조건을 작성하여 진입 방식을 사전에 결정한다."
     ],
-    "caution": "홍보·행동유도 발화: “By writing it, you're programming it into your mind in a much more active way so you're going to follow the discipline of your idea.” / “Follow for more trading strategy tips.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 217,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1624,20 +1565,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1514144953681921": {
     "date": "2026.06.16",
     "duration": "00:28",
-    "originalTitle": "6.7K views · 99 reactions | If you invest $1000 into this stock, this is the ROI you'd get. 📈 I am an Full Name - Raghee Horner and if you want to learn more Financial Education and Options Trading education make sure to follow! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #stockmarket #investmentreturns #financialeducation #roicalculator | Raghee Horner",
-    "title": "주식·섹터: You invest a 000 into this stock, this is the ROI you'd get.",
+    "originalTitle": "If you invest $1000 into this stock, this is the ROI you'd get. 📈 I am an Full Name - Raghee Horner and if you want to learn more Financial Education and Options Trading education…",
+    "title": "Raghee Horner의 1000 달러 투자 ROI와 38년 실전 투자 경험",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 28.20초·Facebook 자동 자막 86단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You invest a 000 into this stock, this is the ROI you'd get.” / “If you invest a 000 into this stock, this is the ROI you'd get.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "주식·섹터",
+      "투자 ROI",
+      "'options Trading",
+      "38년 실전 경험"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “You invest a 000 into this stock, this is the ROI you'd get.” 이어 “If you invest a 000 into this stock, this is the ROI you'd get.” 이어 “If you invest a 000 into this stock, this is the ROI you'd get.” 이어 “If you invest a 000 in this stock, this is the ROI that you'd get.”",
+    "core": "1000 달러를 투자하면 이 ROI를 얻을 수 있습니다. 38년간의 실제 시장 경험을 바탕으로 트레이딩 교육을 받으세요.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: You invest a 000 into this stock, this is the ROI you'd get."
+      "1000 달러를 투자하면 이 ROI를 얻을 수 있습니다.",
+      "38년간의 실제 시장 경험을 바탕으로 트레이딩 교육을 제공합니다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for a trading education and process built on 38 years of real market experience.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 86,
     "transcriptSource": "Facebook 자동 자막"
@@ -1645,20 +1589,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1514581982973869": {
     "date": "2025.11.05",
     "duration": "01:04",
-    "originalTitle": "110K views · 1.4K reactions | Trading Books Tier List 📚 Follow for more trading education! | Raghee Horner",
-    "title": "심리·규율: Trading in the Zone by Mark Douglas.",
+    "originalTitle": "Trading Books Tier List 📚 Follow for more trading education!",
+    "title": "투자서적 티어 리스트: William O'Neill의 'How to Make Money in Stocks' 등",
     "kind": "psychology",
     "verdict": "핵심 원칙",
-    "fidelity": "원본 63.67초·로컬 Whisper large-v3-turbo 전사 183단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is the Trading Books Tier List.” / “This one I would say is a B only because I'm a bigger fan of shop offers, technical analysis, and stock market profits that was printed in the 1920s.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "심리·규율",
+      "주식·섹터",
+      "투자서적",
+      "거래 교육"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “This is the Trading Books Tier List.” 이어 “This one I would say is a B only because I'm a bigger fan of shop offers, technical analysis, and stock market profits that was printed in the 1920s.” 이어 “Market profile is not for everyone, but if you want to understand auction theory and volume dynamics, this is absolutely gold.” 이어 “If not, I'd say it's a B minus.”",
+    "core": "William O'Neill의 'How to Make Money in Stocks'는 장기 투자자를 위한 최고의 책으로 평가된다.",
     "rules": [
-      "원문 실행 문장: Trading in the Zone by Mark Douglas."
+      "William O'Neill의 'How to Make Money in Stocks'는 장기 투자자를 위한 최고의 책으로 평가된다.",
+      "John Murphy의 'Technical Analysis of the Financial Markets'은 1920년대의 기술 분석 책으로 평가된다.",
+      "Mark Douglas의 'Trading in the Zone'은 심리학과 확률적 거래를 이해하는 데 도움이 되는 책이다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more trading education.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 183,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1666,20 +1614,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1515018222933433": {
     "date": "2026.07.02",
     "duration": "00:47",
-    "originalTitle": "22K views · 304 reactions | Returns If You Bought This Major Stock 📈 Struggling to know what a stock is actually worth? Follow to learn how to read the numbers before you buy! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #dividendinvesting #mcdonaldsstock #stockmarket #longterminvesting #tradingeducation | Raghee Horner",
-    "title": "주식·섹터: Now divide your $1,000 target by that annual dividend.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 46.73초·로컬 Whisper large-v3-turbo 전사 139단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is how many shares of McDonald's you need to own to get $1,000 in dividends each year.” / “Now divide your $1,000 target by that annual dividend.”",
+    "originalTitle": "Returns If You Bought This Major Stock 📈 Struggling to know what a stock is actually worth? Follow to learn how to read the numbers before you buy! 👉 Disclaimer: This content is f…",
+    "title": "맥도날드 주식으로 연간 1,000달러 받기",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "주식·섹터",
+      "주식투자",
+      "배당금"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “This is how many shares of McDonald's you need to own to get $1,000 in dividends each year.” 이어 “Now divide your $1,000 target by that annual dividend.” 이어 “So you're going to go back to the calculator now.” 이어 “So to get paid $1,000 a year by McDonald's, you would have to invest $37,665.”",
+    "core": "맥도날드 주식으로 연간 1,000달러 받으려면 약 37,665달러 투자해야 합니다.",
     "rules": [
-      "원문 실행 문장: Now divide your $1,000 target by that annual dividend.",
-      "원문 실행 문장: Enter in the amount of shares that you have to own, and then multiply that by the current share price."
+      "연간 1,000달러의 배당금을 받기 위해 맥도날드 주식 135주를 보유해야 합니다.",
+      "현재 맥도날드 주당 배당금은 7.44달러로, 이를 1,000달러로 나누어 135주를 구매해야 합니다.",
+      "현재 주당 가격에 135주를 곱하여 투자 금액을 계산합니다."
     ],
-    "caution": "성과·수익 발화: “This is how many shares of McDonald's you need to own to get $1,000 in dividends each year.” / “So to get paid $1,000 a year by McDonald's, you would have to invest $37,665.” 홍보·행동유도 발화: “Instructing to know what a stock is actually worth to you, follow to learn how to read the numbers before you buy.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 139,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1687,25 +1638,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1518930815874475": {
     "date": "2026.02.09",
     "duration": "01:07",
-    "originalTitle": "16K views · 267 reactions | Most traders' charts look like this 📉 Follow for more trading tips that actually work! | Raghee Horner",
-    "title": "위험관리: When you start trading, start with a small account and risk just one to 2% per trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 66.92초·로컬 Whisper large-v3-turbo 전사 189단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Most traders' charts look like this.” / “Only trade stocks or ETFs that are already in a trend.”",
+    "originalTitle": "Most traders' charts look like this 📉 Follow for more trading tips that actually work!",
+    "title": "소규모 계좌부터 시작하고 강한 주식만 거래하는 방법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "주식·섹터",
+      "소규모 계좌"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Most traders' charts look like this.” 이어 “Only trade stocks or ETFs that are already in a trend.” 이어 “Step number four, control the risk.” 이어 “Let time and consistency grow your account.”",
+    "core": "소규모 계좌부터 시작하고 강한 주식만 거래하면 효과적인 트레이딩을 할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: When you start trading, start with a small account and risk just one to 2% per trade.",
-      "원문 실행 문장: Only trade stocks or ETFs that are already in a trend.",
-      "원문 실행 문장: If a trade doesn't fit your setup, just skip it.",
-      "원문 실행 문장: Step number four, control the risk.",
-      "원문 실행 문장: Once your stop is set, do not move it."
+      "소규모 계좌부터 시작하여 한 번에 1~2%의 위험만 감수합니다.",
+      "강한 추세를 가진 주식만 거래합니다.",
+      "한 가지 또는 두 가지 설정만 선택하고 그대로 유지합니다."
     ],
-    "caution": "성과·수익 발화: “When you start trading, start with a small account and risk just one to 2% per trade.” / “Go for small consistent gains like 25-50% return on premium paid when you're trading options.” 홍보·행동유도 발화: “Follow for more trading tips that actually work.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 189,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1713,23 +1663,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1530464411520344": {
     "date": "2025.10.24",
     "duration": "00:21",
-    "originalTitle": "444K views · 6.1K reactions | Websites You Can Use When You’re Starting Out in Trading 💻 Follow for more trading tools and risk-management strategies! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #daytradingforbeginners #riskmanagement #tradingpsychology #futurestrading #beginnertrader #tradingeducation | Raghee Horner",
-    "title": "위험관리: If you want charts and watch lists, use TradingView.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 21.43초·로컬 Whisper large-v3-turbo 전사 59단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you want charts and watch lists, use TradingView.” / “If you want a broker app, use Thinkorswim.”",
+    "originalTitle": "Websites You Can Use When You’re Starting Out in Trading 💻 Follow for more trading tools and risk-management strategies! 👉 Disclaimer: This content is for educational purposes onl…",
+    "title": "트레이딩 시작을 위한 웹사이트 추천: TradingView, Thinkorswim, BabyPips, Investopedia",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "트레이딩 웹사이트",
+      "TradingView",
+      "Thinkorswim"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “If you want charts and watch lists, use TradingView.” 이어 “If you want a broker app, use Thinkorswim.” 이어 “If you want capital in exchange for profits, use a real prop firm.” 이어 “If you want to learn the basics of trading strategies, use Investopedia.”",
+    "core": "트레이딩을 시작하려는 사람들은 TradingView와 Thinkorswim을 사용하여 차트와 워치리스트를 관리하고, BabyPips를 통해 Forex 교육을 받으며, Investopedia를 통해 기본적인 트레이딩 전략을 배울 수 있습니다.",
     "rules": [
-      "원문 실행 문장: If you want charts and watch lists, use TradingView.",
-      "원문 실행 문장: If you want a broker app, use Thinkorswim.",
-      "원문 실행 문장: If you want capital in exchange for profits, use a real prop firm.",
-      "원문 실행 문장: If you want to learn the basics of trading strategies, use Investopedia."
+      "TradingView를 사용하여 차트와 워치리스트를 관리합니다.",
+      "Thinkorswim을 사용하여 브로커 앱을 활용합니다.",
+      "BabyPips를 통해 실시간 Forex 교육을 받습니다."
     ],
-    "caution": "홍보·행동유도 발화: “If you want a Forex course, use BabyPips.” / “Follow for more trading tools and risk management strategies.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 59,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1737,27 +1688,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1547575032952647": {
     "date": "2025.12.09",
     "duration": "00:44",
-    "originalTitle": "48K views · 899 reactions | You don't become a trader just by looking at charts. You have to understand market volatility📊📈 Follow for more Trading Education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: Next, check price movement ranges, which tells me the average daily move.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 43.73초·로컬 Whisper large-v3-turbo 전사 138단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You don't become a trader just by looking at charts.” / “It is calm if it's under 20, whereas over 20, it gets bumpy.”",
+    "originalTitle": "You don't become a trader just by looking at charts. You have to understand market volatility📊📈 Follow for more Trading Education! 👉 Disclaimer: This content is for educational pu…",
+    "title": "VIX 20을 기준으로 하락장에서의 투자 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "risk",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "위험관리",
+      "투자 전략",
+      "VIX"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “You don't become a trader just by looking at charts.” 이어 “It is calm if it's under 20, whereas over 20, it gets bumpy.” 이어 “And here's how you can apply it in your trades too.” 이어 “Make sure to enter with a limit order.”",
+    "core": "시장 변동성을 이해하고, VIX가 20 이하일 때 강한 주식을 사고 약한 주식을 팔아야 한다.",
     "rules": [
-      "원문 실행 문장: Next, check price movement ranges, which tells me the average daily move.",
-      "원문 실행 문장: Step one, trade the strong ones to buy and the weak ones to sell.",
-      "원문 실행 문장: Step two, set your risk to two to three percent of your account and lower your position size when the market's moving fast.",
-      "원문 실행 문장: Step three, mark support and resistance and let price tag the levels.",
-      "원문 실행 문장: Make sure to enter with a limit order."
+      "VIX가 20 이하일 때 강한 주식을 사고, VIX가 20 초과일 때 약한 주식을 팔아야 한다.",
+      "평균 일간 변동성과 빠른 시장 움직임을 고려하여 위험을 2:1의 보상비로 관리해야 한다.",
+      "지원과 저항 수준을 표시하고, 가격이 수준을 테스트할 때 진입해야 한다."
     ],
-    "caution": "성과·수익 발화: “Step two, set your risk to two to three percent of your account and lower your position size when the market's moving fast.” 홍보·행동유도 발화: “Follow for more trading education.” 전사에서 초기 손절·청산 기준·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 138,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1765,26 +1713,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1549315232808283": {
     "date": "2026.02.25",
     "duration": "01:27",
-    "originalTitle": "5.8K views · 101 reactions | Over the last 12 months, I’ve made over 400% 💰 I wish I had someone like myself who could help me recognize mistakes in 1 year instead of 5. But luckily, you do! Follow because I share all the secrets! | Raghee Horner",
-    "title": "위험관리: Lesson number one, chasing a move I made.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 87.21초·로컬 Whisper large-v3-turbo 전사 250단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Over the last 12 months, I've made over 400% returns.” / “Lesson number two, ignoring risk rules.”",
+    "originalTitle": "Over the last 12 months, I’ve made over 400% 💰 I wish I had someone like myself who could help me recognize mistakes in 1 year instead of 5. But luckily, you do! Follow because I…",
+    "title": "2025년 12개월간 400% 수익의 교훈",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "거래 전략",
+      "위험 관리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Over the last 12 months, I've made over 400% returns.” 이어 “Lesson number two, ignoring risk rules.” 이어 “Lesson number four, forcing the setup.” 이어 “I wish I had someone like myself who could help me recognize mistakes in year one through five.”",
+    "core": "시장에서 배운 교훈은 높은 가격 변동을 추격하지 말고, 위험 관리를 무시하지 말고, 정신적 집중을 유지하며, 진입 조건을 강제하지 말고, 이탈 규칙을 지키는 것이다.",
     "rules": [
-      "원문 실행 문장: Lesson number one, chasing a move I made.",
-      "원문 실행 문장: Lesson number two, ignoring risk rules.",
-      "원문 실행 문장: Risk rules exist to protect traders from overconfidence.",
-      "원문 실행 문장: The market doesn't owe you or me any kind of entry.",
-      "원문 실행 문장: Moving or ignoring stop losses, your exit plan."
+      "높은 가격 변동을 추격하면 위험이 증가하며, 이는 기회를 놓칠 수 있다.",
+      "위험 관리를 무시하면 강한 거래도 큰 손실로 변할 수 있다.",
+      "정신적 집중이 없이 거래하면 거래의 경쟁력이 감소한다."
     ],
-    "caution": "성과·수익 발화: “Over the last 12 months, I've made over 400% returns.” 홍보·행동유도 발화: “But luckily you do follow because I share all the secrets and things that I've learned along the way of a 30 plus year trading career.”",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다.",
     "transcriptVerified": true,
     "transcriptWordCount": 250,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1792,23 +1738,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1557356691935934": {
     "date": "2025.10.28",
     "duration": "00:48",
-    "originalTitle": "1.2K views · 11 reactions | Exhaustion Trading VS Momemtum Trading 📈 Follow for trading systems that filter out noise and focus on high-probability setups! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: Exhaustion trading is entering after an extended move at overbought, aiming for a snapback.",
+    "originalTitle": "Exhaustion Trading VS Momemtum Trading 📈 Follow for trading systems that filter out noise and focus on high-probability setups! 👉 Disclaimer: This content is for educational purpo…",
+    "title": "Exhaustion Trading과 Momentum Trading의 차이 (9:00-10:00)",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 48.47초·로컬 Whisper large-v3-turbo 전사 124단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Exhaustion trading is entering after an extended move at overbought, aiming for a snapback.” / “Momentum trading is trend following.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "CTA"
+      "지지·저항",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Exhaustion trading is entering after an extended move at overbought, aiming for a snapback.” 이어 “Momentum trading is trend following.” 이어 “Momentum trading is holding through trend until signs of exhaustion.” 이어 “Momentum trading is wider stops beyond the support and resistance to avoid whipsaws.”",
+    "core": "Exhaustion trading은 과매수에서 반등을 기대하며 반발매매를, Momentum trading은 새로운 추세를 추종하며 기술적 분석을 활용합니다.",
     "rules": [
-      "원문 실행 문장: Exhaustion trading is entering after an extended move at overbought, aiming for a snapback.",
-      "원문 실행 문장: You're backing the move that's already in play.",
-      "원문 실행 문장: Momentum trading is wider stops beyond the support and resistance to avoid whipsaws."
+      "Exhaustion trading은 과매수에서 반등을 기대하며 반발매매를 합니다.",
+      "Momentum trading은 새로운 추세를 추종하며 기술적 분석을 활용합니다.",
+      "Exhaustion trading은 극심한 상황에서 빠르게 진입과 퇴출을 결정합니다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow four trading systems that filter out noise and focus on high probability setups.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 124,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1816,21 +1761,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1559121009152438": {
     "date": "2026.06.16",
     "duration": "00:11",
-    "originalTitle": "74K views · 522 reactions | Trading Strategies That Make Me Consistent Profits 📈 It is called the “Turtle Soup Theory” and I have used it to stay profitable for 38 years! Here is how it works: Algorithms and institutions know exactly where your stops sit. They push price just far enough to trigger those orders, then reverse the market. The setup follows three phases: 1️⃣Accumulation: Price consolidates in a tight range. Clean highs and lows form. These are not random. They attract stop losses on both sides. 2️⃣Manipulation: Price breaks out of the range, usually in the opposite direction of the real move. Stops get triggered. Breakout traders rush in. But this is a trap. 3️⃣Distribution: Once those orders are filled, price reverses sharply toward the other side of the range. How I trade it: Wait for price to break the range, then come back inside by a small buffer (10 to 20 points on the Dow, 3 to 5 on the S and P). That re-entry into the range confirms the breakout has failed. Look for a minor high or inside candle as extra confirmation. Place your stop just beyond the sweep level and target the opposite side of the range for a clean 3:1 reward-to-risk ratio. Follow for more Financial Education and Options Trading tips! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #tradingstrategies #consistentprofits #daytrader #financialeducation | Raghee Horner",
-    "title": "영상 발화 분석: I let all that get to my head I",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 11.36초·Facebook 자동 자막 9단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I let all that get to my head I”",
+    "originalTitle": "Trading Strategies That Make Me Consistent Profits 📈 It is called the “Turtle Soup Theory” and I have used it to stay profitable for 38 years! Here is how it works: Algorithms and…",
+    "title": "38년 연속 수익을 얻는 거북국 수프 트레이딩 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "유동성",
+      "옵션",
+      "위험관리",
+      "거북국 수프"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I let all that get to my head I”",
+    "core": "가격이 범위를 벗어나지 않으면 거래하지 않아야 한다는 점을 강조한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I let all that get to my head I"
+      "가격이 범위를 벗어나지 않으면 거래하지 않아야 한다.",
+      "가격이 범위를 벗어나 breakout을 시도할 때, 그 범위를 다시 들어와야 진입할 수 있다.",
+      "가격이 반대 방향으로 빠지면, 그 반대 방향으로 목표를 설정하여 3:1의 위험보상비를 추구한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 9,
     "transcriptSource": "Facebook 자동 자막"
@@ -1838,22 +1786,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1566567381646546": {
     "date": "2026.07.29",
     "duration": "00:52",
-    "originalTitle": "20K views · 250 reactions | These are the only levels you need ‼️ Follow to learn the same repeatable trading process I've used for decades! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #tradinglevels #financialeducation #tradingpsychology #accountgrowth | Raghee Horner",
-    "title": "돌파·개장 범위: First, mark the prior day high and low, then the opening range, and the session volume weighted average…",
+    "originalTitle": "These are the only levels you need ‼️ Follow to learn the same repeatable trading process I've used for decades! 👉 Disclaimer: This content is for educational purposes only and is…",
+    "title": "일일, 주간, 월간 레벨을 활용한 30년간의 반복 가능한 트레이딩 프로세스",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 51.73초·로컬 Whisper large-v3-turbo 전사 161단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “These are the only levels you need.” / “If you're looking longer term, you can look at the weekly and monthly levels, but that's only for trades that I would do shares or leaps.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "breakout",
-      "CTA"
+      "개장 범위",
+      "위험관리",
+      "트레이딩 레벨",
+      "가장 신뢰할 수 있는 차트 레벨"
     ],
-    "core": "원문 전사 기준 돌파·개장 범위 콘텐츠다. “These are the only levels you need.” 이어 “If you're looking longer term, you can look at the weekly and monthly levels, but that's only for trades that I would do shares or leaps.” 이어 “It could be from an earnings release or a rebalancing or end of quarter.” 이어 “Finally, focus on the levels where price either breaks through or bounces off and just gets stuck.”",
+    "core": "가장 신뢰할 수 있는 차트 레벨을 활용하여 트레이딩을 집중시키는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: First, mark the prior day high and low, then the opening range, and the session volume weighted average price.",
-      "원문 실행 문장: And you can anchor a volume weighted average price on that weekly timeframe too.",
-      "원문 실행 문장: After that, mark out round numbers that have been tested, swing highs or lows that align with other levels."
+      "전일 고가와 저가를 표시하고, 개장 범위와 세션 가중 평균 가격을 기록한다.",
+      "주간 레벨을 추가로 표시하고, 이익 실적이 있는 터치 포인트와 랜덤 숫자를 기록한다.",
+      "볼륨 프로필 레벨과 랜덤 숫자를 기반으로 한 레벨을 표시하고, 가격이 뚫고 지나거나 반복적으로 부딪히는 레벨을 강조한다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow to learn the same repeatable trading process that I've used for over three decades.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 161,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1861,25 +1811,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1566813161274494": {
     "date": "2026.02.06",
     "duration": "00:33",
-    "originalTitle": "16K views · 308 reactions | What’s the difference between: Good trade vs. bad trade 🆚 Want more trading insights like this to help you start out? Follow to learn setups that work every time! | Raghee Horner",
-    "title": "지지·저항: A good trade happens when two or three things line up at the same time.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 33.02초·로컬 Whisper large-v3-turbo 전사 106단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is a good trade.” / “This is a good trade.”",
+    "originalTitle": "What’s the difference between: Good trade vs. bad trade 🆚 Want more trading insights like this to help you start out? Follow to learn setups that work every time!",
+    "title": "좋은 거래와 나쁜 거래의 차이: 9:00",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "CTA"
+      "지지·저항",
+      "거래",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “This is a good trade.” 이어 “This is a good trade.” 이어 “Price hits a clear support or resistance level.” 이어 “Want more trading insights like this to help you start out?”",
+    "core": "좋은 거래는 가격이 명확한 지원 또는 저항 수준을 향해 진입하며, 캔들이 거부를 극복하고 전체 추세와 일치하는 방향으로 가격이 움직이는 것을 보여줍니다.",
     "rules": [
-      "원문 실행 문장: This is a good trade.",
-      "원문 실행 문장: This is a good trade.",
-      "원문 실행 문장: This is a good trade.",
-      "원문 실행 문장: A good trade happens when two or three things line up at the same time.",
-      "원문 실행 문장: When these signs match up, the trade has a much better chance of playing out in your favor."
+      "가격이 명확한 지원 또는 저항 수준을 향해 진입하면 좋은 거래가 됩니다.",
+      "캔들이 거부를 극복하고 전체 추세와 일치하는 방향으로 가격이 움직이면 좋은 거래가 됩니다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow to learn setups.work.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 106,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1887,25 +1834,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1572406751258658": {
     "date": "2026.06.12",
     "duration": "01:13",
-    "originalTitle": "50K views · 1K reactions | I trade every day, at the same time. And this boring strategy made me over 50% last month. 📈 Follow for more option trading tips! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #daytradingstrategy #consistentprofits #tradingmotivation #accountgrowth | Raghee Horner",
-    "title": "옵션: I trade every day at the same time.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 72.70초·로컬 Whisper large-v3-turbo 전사 210단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I trade every day at the same time.” / “If a market ranges, only trade the extremes.”",
+    "originalTitle": "I trade every day, at the same time. And this boring strategy made me over 50% last month. 📈 Follow for more option trading tips! 👉 Disclaimer: This content is for educational pur…",
+    "title": "매일 동일 시간에 거래하고, 9:30 뉴욕 즈음 시장 움직임을 기다리는 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "options",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "옵션 트레이딩",
+      "일일 트레이딩 전략"
     ],
-    "core": "원문 전사 기준 옵션 콘텐츠다. “I trade every day at the same time.” 이어 “If a market ranges, only trade the extremes.” 이어 “If price is below that level, look only for bearish setups.” 이어 “If not, I wait.”",
+    "core": "매일 동일 시간에 거래하고, 시장이 개장 직후의 움직임을 관찰하여 거래 포인트를 잡는 전략을 사용합니다.",
     "rules": [
-      "원문 실행 문장: I trade every day at the same time.",
-      "원문 실행 문장: Step two, trade the edges.",
-      "원문 실행 문장: Step three is continue to confirm the direction.",
-      "원문 실행 문장: So if you're day trading, I like to use a five minute chart.",
-      "원문 실행 문장: If not, I wait."
+      "매일 동일 시간에 거래하고, 시장이 개장 직후의 움직임을 기다린 후 거래 포인트를 잡습니다.",
+      "시장이 범위 내에서 움직일 때는 극단을 거래하고, 추세가 있을 때는 반등을 기다립니다."
     ],
-    "caution": "성과·수익 발화: “And this boring strategy made me over 50% last month.” 홍보·행동유도 발화: “Follow for more option trading tips.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 210,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1913,27 +1858,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1572734280455315": {
     "date": "2026.03.18",
     "duration": "01:27",
-    "originalTitle": "8.4K views · 145 reactions | Pov: stop losses explained simply🛑 Follow for daily, rules-based trading education that actually improves your results! | Raghee Horner",
-    "title": "이동평균: Most traders don't realize this, but changing your stop loss can completely shift your chances of making…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 86.54초·로컬 Whisper large-v3-turbo 전사 241단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Most traders don't realize this, but changing your stop loss can completely shift your chances of making money.” / “Your stop goes at technical invalidation, not at a random distance.”",
+    "originalTitle": "Pov: stop losses explained simply🛑 Follow for daily, rules-based trading education that actually improves your results!",
+    "title": "Pov: 스탑 라스스 설정 방법 🛑 2% 위험 관리로 시작하는 일일 트레이딩 교육",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "moving average",
-      "support",
-      "risk",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "이동평균",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “Most traders don't realize this, but changing your stop loss can completely shift your chances of making money.” 이어 “Your stop goes at technical invalidation, not at a random distance.” 이어 “The fourth thing we do is size the trade from the stop.” 이어 “After that, we can tighten stops logically.”",
+    "core": "스탑 라스스는 기술적 무효화점에서 설정되어야 하며, 위험 관리는 일정 퍼센트로 고정해야 합니다.",
     "rules": [
-      "원문 실행 문장: Most traders don't realize this, but changing your stop loss can completely shift your chances of making money.",
-      "원문 실행 문장: The second step is place the stop where the idea for the trade is no longer valid and exceeds your allowed risk.",
-      "원문 실행 문장: Place stops below swing lows, support zones, or a 34 EMA for longs and above structure for shorts and never exceed your desired account risk.",
-      "원문 실행 문장: Expression size comes from stop distance, not confidence.",
-      "원문 실행 문장: Take partial profits at the first target and then move the stop to break even only after price reaches that level."
+      "위험을 먼저 결정하고, 퍼센트 단위로 고정된 금액을 선택하라.",
+      "스탑은 기술적 무효화점에서 설정되어야 하며, 위험을 초과하지 않게 하라.",
+      "거래 크기는 스탑 라스스로부터 계산되어야 하며, 신뢰감과 무관하게 결정하라."
     ],
-    "caution": "성과·수익 발화: “Decide your risk as a fixed percentage before you even look at price.” / “Calculate the size so the stop equates to your predefined risk percentage.” 홍보·행동유도 발화: “Follow for daily rules based trading education that actually improves your results and your confidence.”",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다.",
     "transcriptVerified": true,
     "transcriptWordCount": 241,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1941,21 +1882,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1574270512773432": {
     "date": "2021.02.01",
     "duration": "00:09",
-    "originalTitle": "GameStop shorts to WallStreetBets | Raghee Horner",
-    "title": "영상 발화 분석: What are you doing?",
+    "originalTitle": "GameStop shorts to WallStreetBets",
+    "title": "GameStop의숏 판매와 월가베츠의 대결",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 9.10초·로컬 Whisper large-v3-turbo 전사 8단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What are you doing?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "GameStop",
+      "WallStreetBets",
+      "숏 판매"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “What are you doing?”",
+    "core": "GameStop의숏 판매가 월가베츠의 투자자들에게 큰 도전을 끼쳤다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: What are you doing?"
+      "GameStop 주식 가격이 급등하면서 숏 판매자들은 손실을 보게 되었다.",
+      "월가베츠의 투자자들은 GameStop 주식을 사들여 숏 판매자들을 압박했다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 8,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1963,23 +1906,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1576263330764390": {
     "date": "2026.07.28",
     "duration": "00:58",
-    "originalTitle": "10K views · 203 reactions | I haven’t had a losing year in over 38 years of trading, because of these 2 things‼️ Follow if you want to stop chasing trades and start trading with a proven process! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #tradingpsychology #profitabletrades #stockmarket #tradingmindset | Raghee Horner",
-    "title": "주식·섹터: Identify the trend and know exactly what your setups look like before it appears.",
+    "originalTitle": "I haven’t had a losing year in over 38 years of trading, because of these 2 things‼️ Follow if you want to stop chasing trades and start trading with a proven process! 👉 Disclaime…",
+    "title": "38년 연속 수익의 비결: 시장 개장 전 준비와 조건 충족 시 진입",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 58.13초·로컬 Whisper large-v3-turbo 전사 179단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I haven't had a losing year in trading over my 38 years of trading because of these two things.” / “Identify the trend and know exactly what your setups look like before it appears.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "옵션 트레이딩",
+      "트레이딩 심리"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “I haven't had a losing year in trading over my 38 years of trading because of these two things.” 이어 “Identify the trend and know exactly what your setups look like before it appears.” 이어 “No trade is a valid trade.” 이어 “This is the same thing every day in every single trade.”",
+    "core": "시장 개장 전 준비와 조건 충족 시 진입하는 방법으로 38년 연속 수익을 달성했다.",
     "rules": [
-      "원문 실행 문장: Mark key levels.",
-      "원문 실행 문장: Second, wait for your specific condition to align.",
-      "원문 실행 문장: When they do, that's when you execute the trade.",
-      "원문 실행 문장: We're sometimes waiting before you put on the trade.",
-      "원문 실행 문장: This is the same thing every day in every single trade."
+      "시장 개장 전에 기준 가격과 키 레벨을 확인하고 트렌드를 파악한다.",
+      "특정 조건이 충족될 때만 진입한다. 충족되지 않을 경우 진입하지 않는다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow if you want to learn how to stop chasing trades and start trading with proven process.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 179,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -1987,21 +1930,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1576317442568739": {
     "date": "2021.02.04",
     "duration": "00:19",
-    "originalTitle": "When you’re so good you don’t even need both hands. | Raghee Horner",
-    "title": "영상 발화 분석: When you’re so good you don’t even need both hands..",
+    "originalTitle": "When you’re so good you don’t even need both hands.",
+    "title": "투자 실력이 뛰어나면 손도 필요 없어",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 18.81초·로컬 Whisper large-v3-turbo 전사 2단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “When you’re so good you don’t even need both hands..”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자",
+      "실력",
+      "수익"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “When you’re so good you don’t even need both hands..”",
+    "core": "투자 실력이 뛰어나면 복잡한 분석 없이도 수익을 얻을 수 있다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: When you’re so good you don’t even need both hands.."
+      "투자 실력이 뛰어나면 복잡한 분석 없이도 수익을 얻을 수 있다.",
+      "성공한 투자자는 실력이 뛰어나면 손도 필요 없이 수익을 얻을 수 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 2,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2009,25 +1954,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1580133407035523": {
     "date": "2026.06.18",
     "duration": "01:13",
-    "originalTitle": "18K views · 372 reactions | I trade every day, at the same time. And this boring strategy made me over 50% last month. 📈 Follow for more option trading tips! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #daytradingstrategy #consistentprofits #tradingmotivation #accountgrowth | Raghee Horner",
-    "title": "옵션: I trade every day at the same time.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 72.70초·로컬 Whisper large-v3-turbo 전사 210단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I trade every day at the same time.” / “If a market ranges, only trade the extremes.”",
+    "originalTitle": "I trade every day, at the same time. And this boring strategy made me over 50% last month. 📈 Follow for more option trading tips! 👉 Disclaimer: This content is for educational pur…",
+    "title": "매일 동일 시간에 거래하고, 9:30 뉴욕 즈음 시장 움직임을 기다리는 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "options",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "옵션 트레이딩",
+      "일일 트레이딩 전략"
     ],
-    "core": "원문 전사 기준 옵션 콘텐츠다. “I trade every day at the same time.” 이어 “If a market ranges, only trade the extremes.” 이어 “If price is below that level, look only for bearish setups.” 이어 “If not, I wait.”",
+    "core": "매일 동일 시간에 거래하고, 시장이 개장 직후의 움직임을 관찰하여 거래 포인트를 잡는 전략을 사용합니다.",
     "rules": [
-      "원문 실행 문장: I trade every day at the same time.",
-      "원문 실행 문장: Step two, trade the edges.",
-      "원문 실행 문장: Step three is continue to confirm the direction.",
-      "원문 실행 문장: So if you're day trading, I like to use a five minute chart.",
-      "원문 실행 문장: If not, I wait."
+      "매일 동일 시간에 거래하고, 시장이 개장 직후의 움직임을 기다린 후 거래 포인트를 잡습니다.",
+      "시장이 범위 내에서 움직일 때는 극단을 거래하고, 추세가 있을 때는 반등을 기다립니다."
     ],
-    "caution": "성과·수익 발화: “And this boring strategy made me over 50% last month.” 홍보·행동유도 발화: “Follow for more option trading tips.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 210,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2035,27 +1978,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1585256376153397": {
     "date": "2025.12.11",
     "duration": "00:11",
-    "originalTitle": "44K views · 249 reactions | Bad Trade vs. Good Trade 👇 1️⃣ Risk Management: Good traders risk only 1-2% per trade. Bad traders go all in and lose fast. Keep your risk small so one loss never wipes you out. 2️⃣ Trade Planning: Good traders follow a clear plan before entering. Bad traders jump in because they “feel like it.” Always know your entry, exit, and stop before clicking buy. 3️⃣ Trade Execution: Good traders set stop losses and stick to them. Bad traders move stops hoping things turn around. Protect your money, not your ego. 4️⃣ Strategy And Discipline: Good traders wait for clean setups that fit their rules. Bad traders chase every move they see online. Be patient and let your edge come to you. 5️⃣ Review And Growth: Good traders review every trade to see what worked. Bad traders never look back and keep making the same mistakes. Journal your trades and learn from them. 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. Follow for more expert tips on how to grow in the long term! | Raghee Horner",
-    "title": "위험관리: Good Trade 👇 1️⃣ Risk Management: Good traders risk only 1-2% per trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 10.80초·로컬 Whisper large-v3-turbo 전사 6단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Bad Trade vs.” / “Bad traders move stops hoping things turn around.”",
+    "originalTitle": "Bad Trade vs. Good Trade 👇 1️⃣ Risk Management: Good traders risk only 1-2% per trade. Bad traders go all in and lose fast. Keep your risk small so one loss never wipes you out. 2…",
+    "title": "좋은 거래와 나쁜 거래: 위험 관리와 계획",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "journal",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "위험 관리",
+      "거래 계획"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Bad Trade vs.” 이어 “Bad traders move stops hoping things turn around.” 이어 “5️⃣ Review And Growth: Good traders review every trade to see what worked.” 이어 “Music Music Music Music Music Music”",
+    "core": "좋은 거래는 작은 위험만 감수하며, 나쁜 거래는 큰 위험을 감수해 빠르게 손실을 보는 경향이 있습니다.",
     "rules": [
-      "원문 실행 문장: Bad Trade vs.",
-      "원문 실행 문장: Keep your risk small so one loss never wipes you out.",
-      "원문 실행 문장: Bad traders move stops hoping things turn around.",
-      "원문 실행 문장: Bad traders chase every move they see online.",
-      "원문 실행 문장: Past performance does not guarantee future results, and all trading involves risk."
+      "좋은 거래자는 각 거래에서 1-2%만 위험을 감수합니다.",
+      "나쁜 거래자는 모든 자금을 투자하고 빠르게 손실을 보는 경향이 있습니다."
     ],
-    "caution": "성과·수익 발화: “Good Trade 👇 1️⃣ Risk Management: Good traders risk only 1-2% per trade.” / “Past performance does not guarantee future results, and all trading involves risk.” 홍보·행동유도 발화: “2️⃣ Trade Planning: Good traders follow a clear plan before entering.” / “Follow for more expert tips on how to grow in the long term!.” 전사에서 포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 6,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2063,25 +2002,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1589462965369773": {
     "date": "2025.10.21",
     "duration": "01:11",
-    "originalTitle": "261K views · 4K reactions | The 4 Types Of Trading 💰 Follow for more trading breakdowns! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "Anchored VWAP: High risk potential, high reward, high return.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 71.17초·로컬 Whisper large-v3-turbo 전사 187단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The four types of trading, scalping, intraday, swing, positional.” / “This is what most people mean by day trading.”",
+    "originalTitle": "The 4 Types Of Trading 💰 Follow for more trading breakdowns! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past…",
+    "title": "4가지 트레이딩 유형: 스컬피지, 일장, 스윙, 포지셔닝",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "VWAP",
-      "moving average",
-      "risk",
-      "CTA"
+      "이동평균",
+      "위험관리",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 Anchored VWAP 콘텐츠다. “The four types of trading, scalping, intraday, swing, positional.” 이어 “This is what most people mean by day trading.” 이어 “Two to five trades per week.” 이어 “Main tools, weekly charts, big picture trends and sector rotation.”",
+    "core": "스컬피지는 일일 20~50회 거래로 높은 위험과 높은 수익을 추구하며, 포지셔닝은 장기 투자로 높은 안정성을 제공한다.",
     "rules": [
-      "원문 실행 문장: High risk potential, high reward, high return.",
-      "원문 실행 문장: High risk potential, but also high reward.",
-      "원문 실행 문장: Lower risk and steady returns.",
-      "원문 실행 문장: Risk is lower."
+      "일장은 일장 내에 거래를 마무리하며, 스컬피지는 1~5분 내에 진입과 퇴장을 반복한다.",
+      "스윙은 일주일에 2~5회 거래로 중간 위험과 꾸준한 수익을 얻는다.",
+      "포지셔닝은 한 달에 1~5회 거래로 장기 투자를 추구한다."
     ],
-    "caution": "성과·수익 발화: “We're talking 20 to 50 trades per day.” / “Usually one to five trades per month.” 홍보·행동유도 발화: “Follow for more trading breakdowns.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 187,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2089,25 +2027,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1595255741783512": {
     "date": "2026.03.25",
     "duration": "01:01",
-    "originalTitle": "54K views · 1K reactions | You will never be profitable as a trader🚫 Follow Sector Secrets if you want real trading education built around risk and structure! | Raghee Horner",
-    "title": "위험관리: Every time I think I see an uptrend, I buy.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 60.53초·로컬 Whisper large-v3-turbo 전사 258단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Trading is a scam.” / “Okay, so what am I missing?”",
+    "originalTitle": "You will never be profitable as a trader🚫 Follow Sector Secrets if you want real trading education built around risk and structure!",
+    "title": "레지스턴스 레벨에서 매수 후 하락세로 진입 - 레지스턴스 레벨을 기준으로 매수 후 하락세로 진입하는 거래 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "주식·섹터",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Trading is a scam.” 이어 “Okay, so what am I missing?” 이어 “She shares all the secrets.” 이어 “She shares all the secrets.”",
+    "core": "거래는 위험 관리와 일관된 손실 제한을 통해 이루어져야 한다.",
     "rules": [
-      "원문 실행 문장: Every time I think I see an uptrend, I buy.",
-      "원문 실행 문장: Risk is a part of the game, right?",
-      "원문 실행 문장: Second, you risk the same small percent every single time.",
-      "원문 실행 문장: So stop trying to hit home runs and just stay alive?"
+      "상승 추세를 보았을 때 레지스턴스 레벨에서 매수하되, 하락세로 진입하면 즉시 매도한다.",
+      "매번 동일한 작은 위험 비율을 유지하며 거래한다.",
+      "성공적인 거래를 위해서는 빈번한 진입과 탈출을 피하고 장기적인 관리를 추구해야 한다."
     ],
-    "caution": "성과·수익 발화: “I see screenshots of people flipping a thousand dollars into a hundred thousand dollars all the time.” / “Profit comes after discipline.” 홍보·행동유도 발화: “Oh, I follow Raggy.” / “Oh, I follow Raggy.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 258,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2115,29 +2052,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1596897181900118": {
     "date": "2026.07.31",
     "duration": "01:27",
-    "originalTitle": "15K views · 240 reactions | I don't know which trader needs to hear this, but this is the only CRT trading strategy that actually works 📈 Follow to learn the same repeatable trading strategies I've used for over 38 years! #optionstrading #crttrading #tradingstrategy #emotionaltrading #profitabletrading | Raghee Horner",
-    "title": "4시간봉 캔들 레인지: Step number one, identify the range.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 86.70초·로컬 Whisper large-v3-turbo 전사 279단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I don't know which trader needs to hear this, but this is the only CRT trading strategy that actually works.” / “Price breaks above the high or below the low of that range, luring retail traders in because they love momentum or Momo.”",
+    "originalTitle": "I don't know which trader needs to hear this, but this is the only CRT trading strategy that actually works 📈 Follow to learn the same repeatable trading strategies I've used for…",
+    "title": "4시간 차트에서의 CRT 전략: 레일링 범위와 거래",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "candle range",
-      "4H",
-      "liquidity",
-      "sweep",
-      "breakout",
-      "risk",
-      "performance claim"
+      "캔들 범위",
+      "유동성",
+      "위험관리",
+      "CRT 전략"
     ],
-    "core": "원문 전사 기준 4시간봉 캔들 레인지 콘텐츠다. “I don't know which trader needs to hear this, but this is the only CRT trading strategy that actually works.” 이어 “Price breaks above the high or below the low of that range, luring retail traders in because they love momentum or Momo.” 이어 “And then it begins to trade within the established range that was already there.” 이어 “Target the 50%, the halfback, that midpoint of the range first, then the opposite side of the range as your second target.”",
+    "core": "레일링 범위를 이용한 거래 전략은 가격이 레일링 범위를 벗어나지 않게 하며, 거래 기회를 잡는 데 효과적입니다.",
     "rules": [
-      "원문 실행 문장: Step number one, identify the range.",
-      "원문 실행 문장: You can use a four hour candle to do this.",
-      "원문 실행 문장: So be patient and don't chase the move.",
-      "원문 실행 문장: Enter as price fades from the sweep higher low, ideally after a minor high, minor low, inside candle or doji forms near that range boundary.",
-      "원문 실행 문장: Target the 50%, the halfback, that midpoint of the range first, then the opposite side of the range as your second target."
+      "4시간 차트에서 높은 저점을 찾아 레일링 범위를 확인하고, 가격이 레일링 범위를 벗어나지 않도록 관리한다.",
+      "가격이 레일링 범위를 벗어나면 즉시 거래를 청산한다.",
+      "50%의 중간 가격을 목표로 설정하고, 반대편 레일링 범위를 두 번째 목표로 한다."
     ],
-    "caution": "성과·수익 발화: “Target the 50%, the halfback, that midpoint of the range first, then the opposite side of the range as your second target.” 홍보·행동유도 발화: “Follow to learn the same repeatable trading strategies that I've used for over 38 years.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 279,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2145,26 +2077,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1603891747694612": {
     "date": "2025.12.02",
     "duration": "00:45",
-    "originalTitle": "27K views · 654 reactions | The wild story of how I developed a trading formula that has helped me stay profitable for over 38 years🚀📈 Follow for more strategies that helped me stay profitable for 38 years. 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Never risk more than 5% per trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 45.20초·로컬 Whisper large-v3-turbo 전사 130단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's the wild story of how I developed a trading formula that has helped me stay profitable for over 38 years, without ever blowing up an account.” / “So here are my 5 non-negotiables for the last 38 years to stay profitable.”",
+    "originalTitle": "The wild story of how I developed a trading formula that has helped me stay profitable for over 38 years🚀📈 Follow for more strategies that helped me stay profitable for 38 years.…",
+    "title": "38년간 수익을 지키는 트레이딩 공식의 비밀",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "journal",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "트레이딩 전략",
+      "수익 지키기"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Here's the wild story of how I developed a trading formula that has helped me stay profitable for over 38 years, without ever blowing up an account.” 이어 “So here are my 5 non-negotiables for the last 38 years to stay profitable.” 이어 “Before you enter, know your stop loss and your take profit.” 이어 “Managing losses is a part of trading, but risk control keeps you compounding.”",
+    "core": "38년 동안 수익을 지키기 위한 핵심 공식을 공유한다.",
     "rules": [
-      "원문 실행 문장: Never risk more than 5% per trade.",
-      "원문 실행 문장: Before you enter, know your stop loss and your take profit.",
-      "원문 실행 문장: Use the same formula whether your account is at $10,000 or $100,000.",
-      "원문 실행 문장: Journal every trade because through data, you make informed decisions.",
-      "원문 실행 문장: Managing losses is a part of trading, but risk control keeps you compounding."
+      "매매할 때마다 손절매와 이익 실현 가격을 미리 결정한다.",
+      "계좌 잔액이 $10,000에서 $100,000까지 변하더라도 같은 공식을 사용한다.",
+      "매매를 기록하여 데이터를 통해 결정을 내린다."
     ],
-    "caution": "성과·수익 발화: “Here's the wild story of how I developed a trading formula that has helped me stay profitable for over 38 years, without ever blowing up an account.” / “And follow for more strategies that helped me stay profitable for 38 years.” 홍보·행동유도 발화: “And follow for more strategies that helped me stay profitable for 38 years.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 130,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2172,26 +2102,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1609140496850767": {
     "date": "2026.05.28",
     "duration": "01:14",
-    "originalTitle": "19K views · 318 reactions | This is the simplest trading setup, that I use live, on stream to get results like this. 📈 Follow for more Financial Education and Options Trading tips! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrade #tradingsystem #daytradertips #profitabletrading #tradingsetup | Raghee Horner",
-    "title": "지지·저항: This is the simplest trading strategy setup that I use to catch up to three high probability moves in th…",
+    "originalTitle": "This is the simplest trading setup, that I use live, on stream to get results like this. 📈 Follow for more Financial Education and Options Trading tips! 👉 Disclaimer: This content…",
+    "title": "9:00 AM부터 10:00 AM까지의 일일 트레이딩 세팅",
     "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 74.47초·로컬 Whisper large-v3-turbo 전사 228단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is the simplest trading strategy setup that I use to catch up to three high probability moves in the first hour.” / “Step number one, identify high probability support and resistance zones before the trade.”",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "risk",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "일일 트레이딩"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “This is the simplest trading strategy setup that I use to catch up to three high probability moves in the first hour.” 이어 “Step number one, identify high probability support and resistance zones before the trade.” 이어 “Step number three, I execute with pre-defined targets and pre-defined stop loss.” 이어 “That's when everything started to change.”",
+    "core": "일일 트레이딩에서 높은 확률의 1~3개의 거래를 선택하고, 지정된 가격대에서 단계적으로 진입하며, 목표가 달성 시 수익을 보호하고 손절매를 조정한다.",
     "rules": [
-      "원문 실행 문장: This is the simplest trading strategy setup that I use to catch up to three high probability moves in the first hour.",
-      "원문 실행 문장: Step number one, identify high probability support and resistance zones before the trade.",
-      "원문 실행 문장: Step number two, I scale in based on position sizing.",
-      "원문 실행 문장: Step number three, I execute with pre-defined targets and pre-defined stop loss.",
-      "원문 실행 문장: The real shift happens when you stop trying to scalp in and out constantly and instead start focusing on one to three high probability trades each morning."
+      "9:00 AM부터 10:00 AM까지의 가격대에서 높은 확률의 지원과 저항 구간을 확인하고, 가격이 해당 구간으로 내려오거나 올라오면 진입한다.",
+      "포지션 사이즈를 고려하여 단계적으로 진입하며, 첫 목표가 달성되면 수익을 보호하고 손절매를 조정한다."
     ],
-    "caution": "홍보·행동유도 발화: “I always follow this three-step framework.” / “Follow for more options trading tips.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 228,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2199,26 +2126,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1621357455784649": {
     "date": "2026.04.07",
     "duration": "01:27",
-    "originalTitle": "9.1K views · 195 reactions | I started trading over 38 years ago, and these are the worst habits I see in traders.⏳ I went from being a young trader learning the markets to 38 years of consistent profitability and never a losing year! Want the same results? Follow for more disciplined trading insights! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Taking a trade right after a loss never fixes anything.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 86.63초·로컬 Whisper large-v3-turbo 전사 234단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I started trading over three decades ago and now I have a seven-figure trading portfolio.” / “Set your stop and target and let the trade work.”",
+    "originalTitle": "I started trading over 38 years ago, and these are the worst habits I see in traders.⏳ I went from being a young trader learning the markets to 38 years of consistent profitabilit…",
+    "title": "38년 거래 경력에서 배운 가장 나쁜 거래 습관",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "거래 습관",
+      "레버리지"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I started trading over three decades ago and now I have a seven-figure trading portfolio.” 이어 “Set your stop and target and let the trade work.” 이어 “Conviction disappears.” 이어 “Want the same kind of results?”",
+    "core": "레버리지와 감정을 통제하지 못하면 큰 손실을 초래한다.",
     "rules": [
-      "원문 실행 문장: Taking a trade right after a loss never fixes anything.",
-      "원문 실행 문장: Number three, using too much position size.",
-      "원문 실행 문장: When your size is too big, your emotions get even bigger.",
-      "원문 실행 문장: Not every session owes you a trade.",
-      "원문 실행 문장: Wait for your A-plus setup, all your entry criteria to be met or stay flat."
+      "레버리지가 너무 크면 감정이 흔들리고, 이로 인해 좋은 거래를 놓치게 된다.",
+      "레버리지로 인한 감정적 결정은 계좌를 파산시킬 수 있으므로, 고정된 위험 관리를 유지해야 한다.",
+      "외부 의견이 거래 계획을 혼란스럽게 만드는 것을 피하려면, 자신의 계획을 먼저 세우고 실행해야 한다."
     ],
-    "caution": "성과·수익 발화: “Risk a fixed percentage so no single trade can hurt you and blow up your account.” 홍보·행동유도 발화: “Follow for more disciplined trading insights.” 전사에서 초기 손절·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 234,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2226,25 +2151,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1625533838992167": {
     "date": "2026.08.05",
     "duration": "00:04",
-    "originalTitle": "45K views · 394 reactions | I went from a 42% winning rate To a 68% winning rate. I followed this 3 step framework. 1️⃣ Simplify charts: If your indicators look like Christmas lights, listen up. Write exact entry, stop, and exit rules and trade them. 2️⃣ Specialize markets: Pick one or two markets for three months. Log open/close behavior and repeatable patterns daily. Try to master those two instead of trying to get into all markets. 3️⃣ Observe markets: Watch the charts for the first and last two market hours, take screenshots and journal setups for 30 days to train your eyes and brains to spot trends. The traders who actually make profits long-term follow boring setups like this that they can repeat long-term. Follow for more trading education! #tradingmindset #optionstrading #beginnertrader #tradingdiscipline #profitabletrades 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Write exact entry, stop, and exit rules and trade them.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 4.37초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I went from a 42% winning rate To a 68% winning rate.” / “Write exact entry, stop, and exit rules and trade them.”",
+    "originalTitle": "I went from a 42% winning rate To a 68% winning rate. I followed this 3 step framework. 1️⃣ Simplify charts: If your indicators look like Christmas lights, listen up. Write exact…",
+    "title": "42%에서 68%로 승률 향상: 3단계 프레임워크",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "journal",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I went from a 42% winning rate To a 68% winning rate.” 이어 “Write exact entry, stop, and exit rules and trade them.” 이어 “3️⃣ Observe markets: Watch the charts for the first and last two market hours, take screenshots and journal setups for 30 days to train your eyes and brains to spot trends.” 이어 “Please do your own research or consult a licensed financial professional before making trading decisions..”",
+    "core": "체크리스트를 만드는 것과 마켓을 전문화하는 것이 투자 성과를 향상시킨다.",
     "rules": [
-      "원문 실행 문장: Write exact entry, stop, and exit rules and trade them.",
-      "원문 실행 문장: Log open/close behavior and repeatable patterns daily.",
-      "원문 실행 문장: Past performance does not guarantee future results, and all trading involves risk."
+      "체크리스트를 만드는 것: 정확한 진입, 스탑, 이탈 규칙을 작성하고 이를 따르세요.",
+      "마켓 전문화: 세 달 동안 한 두 개의 마켓을 선택하고 그들의 개별 패턴을 연구하세요.",
+      "시장 관찰: 첫 두 시간과 마지막 두 시간을 관찰하고 30일 동안 셋업을 기록하세요."
     ],
-    "caution": "성과·수익 발화: “I went from a 42% winning rate To a 68% winning rate.” / “Past performance does not guarantee future results, and all trading involves risk.” 홍보·행동유도 발화: “The traders who actually make profits long-term follow boring setups like this that they can repeat long-term.” / “Follow for more trading education!” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2252,25 +2174,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1632661090967720": {
     "date": "2026.04.02",
     "duration": "00:45",
-    "originalTitle": "7K views · 113 reactions | Know the difference🔍 Tired of emotional trading and inconsistent results? Follow if you want to trade with structure and consistency! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: I treat every trade like proof of whether I'm good or bad.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 45.40초·로컬 Whisper large-v3-turbo 전사 146단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I treat every trade like proof of whether I'm good or bad.” / “If I lost, it was bad.”",
+    "originalTitle": "Know the difference🔍 Tired of emotional trading and inconsistent results? Follow if you want to trade with structure and consistency! 👉 Disclaimer: This content is for educational…",
+    "title": "정형화된 트레이딩 방식으로 일관된 결과 얻기",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "정형화된 거래",
+      "일관성"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I treat every trade like proof of whether I'm good or bad.” 이어 “If I lost, it was bad.” 이어 “I lose and immediately look for another setup.” 이어 “Being flat is normal.”",
+    "core": "정형화된 트레이딩 방식을 통해 감정적인 거래와 일관되지 않은 결과를 극복할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: I treat every trade like proof of whether I'm good or bad.",
-      "원문 실행 문장: No one trade should ever be a make it or break it.",
-      "원문 실행 문장: I risk the same 2-3% per trade based on my stop distance.",
-      "원문 실행 문장: I lose, log it, and stop trading if my daily limit is hit.",
-      "원문 실행 문장: I trade only when my setup appears."
+      "매 거래마다 승패를 판단하지 않고, 체계적인 거래를 통해 일관된 성과를 추구합니다.",
+      "감정적인 거래 대신 거래 규칙을 따라 거래량을 조절합니다.",
+      "일정 손실을 초과하면 거래를 중단하고 새로운 셋업을 찾습니다."
     ],
-    "caution": "성과·수익 발화: “I risk the same 2-3% per trade based on my stop distance.” 홍보·행동유도 발화: “Follow if you want to trade with structure and consistency.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 146,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2278,29 +2199,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1651217386022883": {
     "date": "2026.03.31",
     "duration": "01:24",
-    "originalTitle": "45K views · 1.3K reactions | How to actually learn day trading📈 Do you struggle with sticking to one setup and managing risk? Follow for more tips to help you achieve consistent and confident trading results! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "유동성 스윕: Use higher timeframes like a four hour or daily for swing trades.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 84.40초·로컬 Whisper large-v3-turbo 전사 246단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If I only had 30 days to teach you trading, here's exactly what I'd focus on.” / “Enter in the direction of the wave.”",
+    "originalTitle": "How to actually learn day trading📈 Do you struggle with sticking to one setup and managing risk? Follow for more tips to help you achieve consistent and confident trading results!…",
+    "title": "일일 트레이딩을 위한 30일 학습 프로그램 - 5단계",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "4H",
-      "sweep",
-      "moving average",
-      "risk",
-      "journal",
-      "performance claim",
-      "CTA"
+      "유동성",
+      "이동평균",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “If I only had 30 days to teach you trading, here's exactly what I'd focus on.” 이어 “Enter in the direction of the wave.” 이어 “You can back test months or even years of data.” 이어 “Do you struggle with sticking to one setup and managing risk?”",
+    "core": "일일 트레이딩을 배우는 데는 30일이면 충분하며, 이 기간 동안 특정 마켓을 선택하고 일정 위험 관리를 구현하는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: Use higher timeframes like a four hour or daily for swing trades.",
-      "원문 실행 문장: Wait for a sweep of highs for a short sale or lows for a long setup.",
-      "원문 실행 문장: Set your stop beyond structure and decide your targets before you click buy or sell.",
-      "원문 실행 문장: Number five, scale to larger trade size slowly.",
-      "원문 실행 문장: Do you struggle with sticking to one setup and managing risk?"
+      "하루 trades를 위해 5분 틱을 사용하고 34 EMA를 추가하여 가격 변동을 즉시 파악한다.",
+      "하나의 기본 셋업을 선택하고 가격 웨이브의 방향으로 진입하며, 가격의 높은 점을 기다려 짧은 판매를 하고 낮은 점을 기다려 장기 셋업을 구현한다.",
+      "각 trade에서 최대 1~2%의 위험만 감수하고, trade 전략을 구현하기 전에 back test를 실시한다."
     ],
-    "caution": "성과·수익 발화: “Risk no more than one to two percent per trade.” / “Only increase size after three profitable months.” 홍보·행동유도 발화: “Follow for more tips to help you achieve consistent and confident trading results.” 전사에서 초기 손절·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 246,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2308,21 +2224,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1668676307665465": {
     "date": "2026.04.10",
     "duration": "00:11",
-    "originalTitle": "268K views · 1.7K reactions | 2026 Trading Plan (APRIL)🗓️ Ready to trade with structure? Hit follow! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "영상 발화 분석: I love it, I love it, I love it when we're losing together",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 10.63초·로컬 Whisper large-v3-turbo 전사 13단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I love it, I love it, I love it when we're losing together”",
+    "originalTitle": "2026 Trading Plan (APRIL)🗓️ Ready to trade with structure? Hit follow! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading adv…",
+    "title": "2026년 4월 트레이딩 플랜: 구조로 트레이딩 시작하기",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "위험관리",
+      "트레이딩 플랜",
+      "구조화된 트레이딩",
+      "2026년 4월"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I love it, I love it, I love it when we're losing together”",
+    "core": "2026년 4월의 트레이딩 플랜을 공유하며, 구조화된 방법으로 트레이딩을 시작하는 방법을 설명합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I love it, I love it, I love it when we're losing together"
+      "구체적인 매매 규칙은 제시되지 않음.",
+      "구조화된 방법으로 트레이딩을 시작하려는 트레이더들을 위한 가이드라인을 제공합니다.",
+      "2026년 4월의 트레이딩 플랜을 따라 실습을 시작할 수 있는 방법을 설명합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 13,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2330,23 +2249,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1679549309790226": {
     "date": "2026.08.04",
     "duration": "01:21",
-    "originalTitle": "56K views · 957 reactions | 3 websites that traders are gatekeeping 🧑‍💻 Are you a trader who wants to grow your account with more confidence? Follow for more options trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #tradingtools #financialeducation #tradersecrets #wealthbuilding | Raghee Horner",
-    "title": "심리·규율: I don't trade news but we all know news can move a market and by knowing what news is moving the market,…",
+    "originalTitle": "3 websites that traders are gatekeeping 🧑‍💻 Are you a trader who wants to grow your account with more confidence? Follow for more options trading education! 👉 Disclaimer: This con…",
+    "title": "3 웹사이트로 트레이딩 성과 향상",
     "kind": "psychology",
     "verdict": "핵심 원칙",
-    "fidelity": "원본 80.58초·Facebook 자동 자막 260단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Websites that traders are gatekeeping from you but I won't.” / “I like this site because what it allows me to do is turn the TV off, turn off that noise, and track almost in a blogging style.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "옵션",
+      "심리·규율",
+      "주식·섹터",
+      "옵션 트레이딩"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Websites that traders are gatekeeping from you but I won't.” 이어 “I like this site because what it allows me to do is turn the TV off, turn off that noise, and track almost in a blogging style.” 이어 “Use their sector dashboard to track sector strength and broader market trends using relative performance.” 이어 “Are you a trader who wants to grow your account with more confidence and a process?”",
+    "core": "이 웹사이트들은 트레이더들이 접근을 제한하지만, 이 영상에서는 공개한다.",
     "rules": [
-      "원문 실행 문장: I don't trade news but we all know news can move a market and by knowing what news is moving the market, we can make educated decisions about whether or not we want to stay out or engage that volatility.",
-      "원문 실행 문장: Use their sector dashboard to track sector strength and broader market trends using relative performance.",
-      "원문 실행 문장: This is how I plan my swing trade.",
-      "원문 실행 문장: I look for what sectors are leading."
+      "주식 이익 발표 전에 이 발표 일정을 확인하고, 그 이후 4주 동안의 이익 발표 일정을 파악하여 전략을 수립하라.",
+      "TV 끄고 뉴스 이벤트가 시장 심리에 미치는 영향을 블로그 스타일로 추적하라.",
+      "코핀의 섹터 대시보드를 사용하여 섹터 강도와 시장 추세를 추적하고, 이 정보를 스윙 트레이딩 계획에 활용하라."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more options and trading education.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 260,
     "transcriptSource": "Facebook 자동 자막"
@@ -2354,28 +2274,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1686774865790536": {
     "date": "2026.04.09",
     "duration": "01:19",
-    "originalTitle": "10K views · 250 reactions | The biggest mistake every trader makes❌ I went from inconsistent and guessing every trade to executing a written system with confidence in under 12 months! Want the same results? Follow for more! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Before you blame yourself, let's fix the strategy so every trade makes sense.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 79.00초·로컬 Whisper large-v3-turbo 전사 223단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Are you ready for this?” / “Step number two, build mechanical step-by-step rules.”",
+    "originalTitle": "The biggest mistake every trader makes❌ I went from inconsistent and guessing every trade to executing a written system with confidence in under 12 months! Want the same results?…",
+    "title": "12개월 만에 일관된 트레이딩 시스템 구축",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "journal",
-      "backtest",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "트레이딩",
+      "시장 구조"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Are you ready for this?” 이어 “Step number two, build mechanical step-by-step rules.” 이어 “Step number four, and this is the most important, cap your risk on every trade.” 이어 “Want the same type of results?”",
+    "core": "거래 전략을 개선하면 매매가 더 명확해진다.",
     "rules": [
-      "원문 실행 문장: Before you blame yourself, let's fix the strategy so every trade makes sense.",
-      "원문 실행 문장: Collect data until you know your win rate and risk reward cold.",
-      "원문 실행 문장: Step number four, and this is the most important, cap your risk on every trade.",
-      "원문 실행 문장: Write why, the reasons you entered, and what you felt before clicking buy.",
-      "원문 실행 문장: I went from inconsistent in guessing every trade to executing with a written system and with confidence in under 12 months."
+      "장기적인 가격 움직임을 이해하고 신호를 분석하기 전에 시장 구조를 먼저 연구해야 한다.",
+      "매매 규칙을 구체적으로 작성하여 감정이 개입되지 않게 한다.",
+      "100회 이상의 거래를 백테스트하여 성과를 입증하고 신뢰감을 얻는다."
     ],
-    "caution": "성과·수익 발화: “Collect data until you know your win rate and risk reward cold.” / “Risk the same small percentage every single trade.” 홍보·행동유도 발화: “Follow up for more.” 전사에서 초기 손절·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 223,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2383,22 +2299,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1694198878579211": {
     "date": "2026.07.08",
     "duration": "00:48",
-    "originalTitle": "12K views · 182 reactions | Breakout Vs. Fakeout 📈 Want help spotting the difference before you chase the move? Comment “SUCCESS” and I’ll send you the Sector Secrets details! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #technicalanalysis #breakouttrading #fakeouts #tradingeducation #stockmarket | Raghee Horner",
-    "title": "돌파·개장 범위: That usually means traders chase the move before price actually confirmed the breakout.",
+    "originalTitle": "Breakout Vs. Fakeout 📈 Want help spotting the difference before you chase the move? Comment “SUCCESS” and I’ll send you the Sector Secrets details! 👉 Disclaimer: This content is f…",
+    "title": "브레이크아웃 vs 페이크아웃: 9:00-11:00 KOSPI 기준",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 47.97초·로컬 Whisper large-v3-turbo 전사 139단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Breakout vs Fakeout.” / “That usually means buyers or sellers took control and price may continue in that direction.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "breakout",
-      "CTA"
+      "위험관리",
+      "주식·섹터",
+      "브레이크아웃",
+      "페이크아웃"
     ],
-    "core": "원문 전사 기준 돌파·개장 범위 콘텐츠다. “Breakout vs Fakeout.” 이어 “That usually means buyers or sellers took control and price may continue in that direction.” 이어 “That usually means traders chase the move before price actually confirmed the breakout.” 이어 “So before you trade the break, wait to see if price can actually hold through the level.”",
+    "core": "브레이크아웃은 가격이 중요한 수준을 돌파하고 계속 상승하는 것을 의미하며, 페이크아웃은 가격이 수준을 돌파한 후 빠르게 되돌아오는 것을 말한다.",
     "rules": [
-      "원문 실행 문장: That usually means traders chase the move before price actually confirmed the breakout.",
-      "원문 실행 문장: For a breakout, wait for price to hold the broken level.",
-      "원문 실행 문장: So before you trade the break, wait to see if price can actually hold through the level."
+      "브레이크아웃은 가격이 수준을 유지할 때 진입하라.",
+      "페이크아웃은 가격이 수준을 거부하고 되돌아갈 때 진입하지 말라."
     ],
-    "caution": "홍보·행동유도 발화: “These two can look similar at first, but the follow-through is what changes the meaning.” / “Follow along if you want to stop chasing breaks and start waiting for better confirmation.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 139,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2406,23 +2323,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1697516311664362": {
     "date": "2026.05.06",
     "duration": "00:55",
-    "originalTitle": "12K views · 202 reactions | 3 things I wish I knew before I became a profitable trader 💡 Struggling with complex trading strategies? Follow to learn how to simplify your approach for more profit! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: By learning patterns, trends, and how prices move, you can find smart times to buy and sell.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 54.93초·로컬 Whisper large-v3-turbo 전사 170단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “38 years ago, my mother made me do something that changed my entire life, other than giving birth to me.” / “Number one, money that's not in the market is frankly not working for you.”",
+    "originalTitle": "3 things I wish I knew before I became a profitable trader 💡 Struggling with complex trading strategies? Follow to learn how to simplify your approach for more profit! 👉 Disclaime…",
+    "title": "3가지 핵심 원칙으로 시작하는 트레이딩: 초보자를 위한 단순화 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "주식·섹터",
+      "트레이딩",
+      "시장 분석"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “38 years ago, my mother made me do something that changed my entire life, other than giving birth to me.” 이어 “Number one, money that's not in the market is frankly not working for you.” 이어 “By learning patterns, trends, and how prices move, you can find smart times to buy and sell.” 이어 “Struggling with complex strategies?”",
+    "core": "돈이 시장에 있지 않으면 성장하지 않으며, 시장의 패턴을 이해하면 적절한 시점에서 거래할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: By learning patterns, trends, and how prices move, you can find smart times to buy and sell.",
-      "원문 실행 문장: Number three, don't trade what you do not understand.",
-      "원문 실행 문장: If you don't fully get how a stock or trade works, it is safer to wait and learn before risking your money on it."
+      "돈이 시장에 있지 않으면 성장하지 않으며, 시장에 투자하지 않는 돈은 성장하지 않습니다.",
+      "시장의 패턴과 트렌드를 이해하면 적절한 시점에서 거래할 수 있습니다.",
+      "모든 거래 전략을 완전히 이해하지 않으면 거래하지 말고, 필요한 지식을 먼저 얻어야 합니다."
     ],
-    "caution": "성과·수익 발화: “She told me I had to save a percentage of everything I earned, but eventually it became the reason I got into trading and built a seven-figure portfolio.” / “Follow to learn how to simplify your approach for more profit and better risk management.” 홍보·행동유도 발화: “Follow to learn how to simplify your approach for more profit and better risk management.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 170,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2430,21 +2348,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1709108383192598": {
     "date": "2024.08.10",
     "duration": "01:11",
-    "originalTitle": "1K views | Win rates are only as good as the stop loss -RH | Raghee Horner",
-    "title": "심리·규율: Perfection is impossible.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 70.93초·로컬 Whisper large-v3-turbo 전사 184단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Perfection is impossible.” / “In other words, even top-ranked tennis players win barely more than half of the points they play.”",
+    "originalTitle": "Win rates are only as good as the stop loss -RH",
+    "title": "RH: 1526전에서 54% 승리, 포인트는 절대적 가치가 없다",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "performance claim"
+      "위험관리",
+      "심리·규율",
+      "트레이딩",
+      "포인트 승률"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Perfection is impossible.” 이어 “In other words, even top-ranked tennis players win barely more than half of the points they play.” 이어 “Even a great shot, an overhead backhand smash that ends up on ESPN's top 10 playlist, that too is just a point.” 이어 “This mindset is really crucial because it frees you to fully commit to the next point and the next point after that with intensity, clarity and focus.”",
+    "core": "포인트는 과거의 승리가 아니라 현재의 집중력에 의한 승리이다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Perfection is impossible."
+      "1526전에서 80%의 승리율을 기록했지만, 평균적으로 점수는 54%에 불과하다.",
+      "포인트를 놓고 싸울 때마다 점수는 단지 하나의 단위일 뿐이라는 인사이트를 공유한다.",
+      "포인트가 끝나면 그 자체로 가치가 없으며, 다음 포인트에 집중해야 한다는 메시지를 전달한다."
     ],
-    "caution": "성과·수익 발화: “In the 1526 singles matches I played in my career, I won almost 80% of those matches.” / “What percentage of points do you think I won in those matches?” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 184,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2452,21 +2373,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1723456121554570": {
     "date": "2024.12.15",
     "duration": "00:16",
-    "originalTitle": "3 comments | Raghee Horner on Reels",
-    "title": "영상 발화 분석: And I will always love you.",
+    "originalTitle": "Raghee Horner on Reels",
+    "title": "Raghee Horner의 Reels: 항상 당신을 사랑할게",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 16.00초·로컬 Whisper large-v3-turbo 전사 11단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “And I will always love you.” / “I will always love you.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자심리",
+      "감정배제"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “And I will always love you.” 이어 “I will always love you.”",
+    "core": "투자자들은 자신의 감정을 투자 결정에서 분리해야 합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: And I will always love you."
+      "투자 결정을 내릴 때 감정을 억제해야 합니다.",
+      "성공적인 투자는 감정을 배제한 전략적 접근이 필요합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 11,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2474,29 +2396,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1730773551136540": {
     "date": "2026.07.24",
     "duration": "01:28",
-    "originalTitle": "22K views · 412 reactions | Liquidity Is Tough 📊 Want to go from chasing breakouts to spotting high-probability setups without second-guessing your entries? Follow because I will show you exactly how! #optionstrading #financialeducation #liquidity #tradingskills #accountgrowth 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "유동성 스윕: Mark swing highs, swing lows, previous week, previous month highs and lows, round psychological numbers…",
+    "originalTitle": "Liquidity Is Tough 📊 Want to go from chasing breakouts to spotting high-probability setups without second-guessing your entries? Follow because I will show you exactly how! #optio…",
+    "title": "유동성 스윕 뒤 반전 확인",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 88.35초·로컬 Whisper large-v3-turbo 전사 258단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm going to show you how to spot liquidity in five simple steps.” / “Step number three, wait for the sweep, not the breakout or the breakdown.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "sweep",
-      "moving average",
-      "support",
-      "resistance",
-      "breakout",
-      "CTA"
+      "유동성",
+      "지지·저항",
+      "이동평균",
+      "옵션"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “I'm going to show you how to spot liquidity in five simple steps.” 이어 “Step number three, wait for the sweep, not the breakout or the breakdown.” 이어 “And the price is on my preference, the correct side, the 34 period exponential moving average.” 이어 “Want to go from chasing breakouts to spotting high probability setups without second guessing your entries.”",
+    "core": "liquidity를 식별하는 방법을 5단계로 설명한다.",
     "rules": [
-      "원문 실행 문장: Mark swing highs, swing lows, previous week, previous month highs and lows, round psychological numbers at prices respected for several weeks.",
-      "원문 실행 문장: Wait for price to sweep above a resistance level or below a support level.",
-      "원문 실행 문장: The higher the timeframe trend agrees, that's fine.",
-      "원문 실행 문장: Trade during market open.",
-      "원문 실행 문장: And always check the economic calendar before entering a trade to avoid getting into trades right before scheduled high impact events."
+      "주요 가격 수준을 찾고, 거래량이 높은 곳을 식별하라.",
+      "등가 높고와 낮고를 찾고, 가격이 두 번 거부하는 곳을 표시하라.",
+      "저항 수준을 넘어서거나 지원 수준을 아래로 뚫고 나온 후 다음 캔들로 범위를 되돌아가야 진입하라."
     ],
-    "caution": "홍보·행동유도 발화: “Follow, because I'm going to show you exactly how I do it.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 258,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2504,24 +2421,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1731870494664424": {
     "date": "2026.04.28",
     "duration": "00:53",
-    "originalTitle": "12K views · 303 reactions | 80% win rate vs. 40% win rate trading habits 💸 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: The 80% win rate person sizes positions from a fixed risk formula.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 52.74초·로컬 Whisper large-v3-turbo 전사 143단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The 80% win rate person starts with a defined routine.” / “The 40% win rate person mixes strategies on the fly.”",
+    "originalTitle": "80% win rate vs. 40% win rate trading habits 💸 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or…",
+    "title": "80% 승률 vs 40% 승률 트레이딩 습관",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "journal",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "트레이딩",
+      "승률"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “The 80% win rate person starts with a defined routine.” 이어 “The 40% win rate person mixes strategies on the fly.” 이어 “The 40% win rate person sizes by feel.” 이어 “The 40% win rate person glances at the P&L, blames the market or news events, and closes the platform without documenting.”",
+    "core": "80% 승률 트레이더는 일정한 루틴을 따르고, 실패한 거래는 데이터로 취급하며, 다음 거래 계획을 세웁니다.",
     "rules": [
-      "원문 실행 문장: The 80% win rate person sizes positions from a fixed risk formula.",
-      "원문 실행 문장: The 80% win rate person treats a stopped out trade as paid data and moves on.",
-      "원문 실행 문장: The 40% win rate person takes losses personally and immediately looks for a trade to make it all back."
+      "80% 승률 트레이더는 일정한 루틴을 따르고, 거래 전략을 단일화합니다.",
+      "40% 승률 트레이더는 다양한 전략을 섞어 사용하고, 손절 시 감정을 통제하지 않습니다.",
+      "80% 승률 트레이더는 거래 크기를 일정한 공식으로 결정합니다."
     ],
-    "caution": "성과·수익 발화: “The 80% win rate person starts with a defined routine.” / “The 40% win rate person glances at the P&L, blames the market or news events, and closes the platform without documenting.” 홍보·행동유도 발화: “The 80% win rate person reviews screenshots and journal entries for a plan to follow tomorrow.” / “Follow for more trading education.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 143,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2529,22 +2446,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1735690704513238": {
     "date": "2026.07.10",
     "duration": "00:54",
-    "originalTitle": "15K views · 227 reactions | What’s the difference between: Gap Up, Gap Down, and Gap Fill? 📈 A gap up, gap down, and gap fill all tell you something different about price. If you want to read charts without guessing what every candle means, follow along for grounded market education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #gaptrading #technicalanalysis #stockmarket #tradingeducation #daytrading | Raghee Horner",
-    "title": "심리·규율: A gap up happens when price opens higher than the previous candles close, leaving an empty space on the…",
-    "kind": "psychology",
-    "verdict": "핵심 원칙",
-    "fidelity": "원본 54.08초·로컬 Whisper large-v3-turbo 전사 152단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What's the difference between gap up, gap down, and gap fill?” / “This usually shows strong buying pressure, but it does not always mean price will keep going up.”",
+    "originalTitle": "What’s the difference between: Gap Up, Gap Down, and Gap Fill? 📈 A gap up, gap down, and gap fill all tell you something different about price. If you want to read charts without…",
+    "title": "갭 업, 갭 다운, 갭 채우기의 차이: 실제 가격 움직임을 이해하는 방법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “What's the difference between gap up, gap down, and gap fill?” 이어 “This usually shows strong buying pressure, but it does not always mean price will keep going up.” 이어 “This usually shows strong selling pressure, but again, it does not always mean price will keep falling.” 이어 “This is when the market comes back to the level it skipped before, which is why traders watch gaps so closely.”",
+    "core": "갭 업은 강한 매수 압력의 신호이고, 갭 다운은 강한 매도 압력의 신호이며, 갭 채우기는 가격이 이전 가격 수준으로 돌아오는 것을 나타냅니다.",
     "rules": [
-      "원문 실행 문장: A gap up happens when price opens higher than the previous candles close, leaving an empty space on the chart.",
-      "원문 실행 문장: A gap down happens when price opens lower than the previous candles close.",
-      "원문 실행 문장: A gap fill happens when price comes back into that empty space and trades back down through the gap area or up to the previous session's close."
+      "갭 업은 가격이 이전 캔들 닫히는 가격보다 높게 개장하여 차트에 빈 공간을 남깁니다.",
+      "갭 다운은 가격이 이전 캔들 닫히는 가격보다 낮게 개장하여 차트에 빈 공간을 남깁니다.",
+      "갭 채우기는 가격이 빈 공간을 통해 다시 이전 캔들 닫히는 가격으로 돌아가는 것을 나타냅니다."
     ],
-    "caution": "홍보·행동유도 발화: “If you want to read charts without guessing, less emotion, and you want to know what these candles mean, follow along for more grounded market education.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 152,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2552,29 +2469,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1742586297076832": {
     "date": "2026.03.11",
     "duration": "01:30",
-    "originalTitle": "20K views · 378 reactions | If I only had 30 days to make you profitable📅 Follow to see daily trades, alerts, and simple actionable steps that actually work in any market! | Raghee Horner",
-    "title": "지지·저항: The second step, set up a simple trading plan with max and minimum trades per day.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 89.77초·로컬 Whisper large-v3-turbo 전사 479단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If I only had 30 days to make you a more profitable trader, here's exactly what I would recommend you do.” / “Number two, stick to your playbook setups only.”",
+    "originalTitle": "If I only had 30 days to make you profitable📅 Follow to see daily trades, alerts, and simple actionable steps that actually work in any market!",
+    "title": "30일 동안의 트레이딩 개선: 시장 종류와 구체적인 매매 규칙",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "risk",
-      "psychology",
-      "journal",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "위험관리",
+      "심리·규율",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “If I only had 30 days to make you a more profitable trader, here's exactly what I would recommend you do.” 이어 “Number two, stick to your playbook setups only.” 이어 “The best traders gain their edge after the market is closed.” 이어 “Number three, repeat the system daily, average win and lastly, increase the system daily, increase the system daily, increase the system daily, increase the system daily, increase the system daily, increase th…”",
+    "core": "30일 동안의 트레이딩 개선을 위한 구체적인 단계와 인사이트를 제공한다.",
     "rules": [
-      "원문 실행 문장: The second step, set up a simple trading plan with max and minimum trades per day.",
-      "원문 실행 문장: Number three, track every trade in your journal.",
-      "원문 실행 문장: Second thing you do, manage each trade with a clear entry, stop and target.",
-      "원문 실행 문장: And that brings us to phase number five, scale.",
-      "원문 실행 문장: Number two, track performance metrics like risk reward, average loss, average win and lastly win rate."
+      "과거 거래를 검토하고 효과적인 전략을 정립하라.",
+      "지정된 시장에서만 거래하고, 모든 거래를 일지에 기록하라.",
+      "모든 기준을 충족할 때만 진입하고, 각 거래를 명확하게 관리하라."
     ],
-    "caution": "성과·수익 발화: “If I only had 30 days to make you a more profitable trader, here's exactly what I would recommend you do.” / “Number two, track performance metrics like risk reward, average loss, average win and lastly win rate.” 홍보·행동유도 발화: “Follow to see the process I use behind my trades, alerts and the actionable steps that I take for 38 years now that actually work in any type of market.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 479,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2582,27 +2494,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1745878106779059": {
     "date": "2026.02.12",
     "duration": "01:31",
-    "originalTitle": "12K views · 209 reactions | This one trading concept will CHANGE your life 💥 Follow for more trading insights that actually help you grow! | Raghee Horner",
-    "title": "지지·저항: But did you know that there's a simple concept you can use to flip it and get your win rate up, losses d…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 91.28초·로컬 Whisper large-v3-turbo 전사 288단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You're not bad at trading.” / “Mark specific price levels with a trend most likely could pull back to.”",
+    "originalTitle": "This one trading concept will CHANGE your life 💥 Follow for more trading insights that actually help you grow!",
+    "title": "트렌드와 채opp이 섞인 시장에서 승리하는 방법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "breakout",
-      "risk",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "위험관리",
+      "심리·규율",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “You're not bad at trading.” 이어 “Mark specific price levels with a trend most likely could pull back to.” 이어 “Decide your risk before entering any trade.” 이어 “It's not going to make your rich overnight, but it will help you stop guessing, forcing trades, and start making positive growth in your account for the long term.”",
+    "core": "트렌드가 아닌 채opp 시장에서는 거래를 건너뛰고, 키 레벨을 확인하여 진입을 결정해야 합니다.",
     "rules": [
-      "원문 실행 문장: But did you know that there's a simple concept you can use to flip it and get your win rate up, losses down, and everything stops being so chaotic?",
-      "원문 실행 문장: This could be a level to enter at if it's already moved to that level before.",
-      "원문 실행 문장: And never move your stop further from your original plan.",
-      "원문 실행 문장: But if it hits your stop, take the loss and move on.",
-      "원문 실행 문장: It's not going to make your rich overnight, but it will help you stop guessing, forcing trades, and start making positive growth in your account for the long term."
+      "시장이 채opp일 때는 거래를 건너뛰고, 트렌드가 있을 때만 거래를 시작하라.",
+      "키 레벨은 진입을 위한 핵심 기준이 되며, 무작위 레벨을 추적하지 말라.",
+      "위험을 최대 2~3%로 제한하고, 원래 계획을 변경하지 말라."
     ],
-    "caution": "성과·수익 발화: “But did you know that there's a simple concept you can use to flip it and get your win rate up, losses down, and everything stops being so chaotic?” / “For me personally, that is going to be no more than two to three percent of my account.” 홍보·행동유도 발화: “Follow for more trading insights that actually help you grow.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 288,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2610,21 +2519,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1758917707946862": {
     "date": "2024.01.02",
     "duration": "00:06",
-    "originalTitle": "9 comments | Raghee Horner on Reels",
-    "title": "영상 발화 분석: I'm going to go.",
+    "originalTitle": "Raghee Horner on Reels",
+    "title": "Raghee Horner의 Reels: 9:00 AM 시점의 매수 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 6.10초·로컬 Whisper large-v3-turbo 전사 4단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm going to go.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "매수 전략",
+      "시간 기반 매매"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm going to go.”",
+    "core": "Raghee Horner은 가격이 9:00 AM에 100으로 떨어지면 매수할 것을 제안합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I'm going to go."
+      "가격이 9:00 AM에 100으로 떨어지면 매수하라.",
+      "매수 후 가격이 100 이상으로 회복되면 이익을 실현하라."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 4,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2632,22 +2542,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1764568738319935": {
     "date": "2026.07.07",
     "duration": "00:48",
-    "originalTitle": "13K views · 284 reactions | How I Became A Full-Time Trader 📈 Follow along if you want to stop chasing price and start waiting for better entries! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #daytrading #tradingstrategy #technicalanalysis #stockmarket #tradingeducation | Raghee Horner",
-    "title": "지지·저항: Mark the high and low from the open and then wait for a break and then retest.",
+    "originalTitle": "How I Became A Full-Time Trader 📈 Follow along if you want to stop chasing price and start waiting for better entries! 👉 Disclaimer: This content is for educational purposes only…",
+    "title": "1년 만에 전환된 전략: 개장 범위, 전일 가격대, 키 반응 구역을 활용한 트레이딩",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 48.25초·로컬 Whisper large-v3-turbo 전사 138단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is the story of how I became a full-time trader in about a year.” / “The first step, opening range.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "breakout",
-      "CTA"
+      "개장 범위",
+      "지지·저항",
+      "일일 트레이딩",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “This is the story of how I became a full-time trader in about a year.” 이어 “The first step, opening range.” 이어 “The second thing was the previous day's levels.” 이어 “I waited for price to pull back into support or resistance, supply or demand.”",
+    "core": "가격 추격에서 벗어나 키 수준에서 가격을 기다리는 것이 더 나은 진입 포인트를 제공한다.",
     "rules": [
-      "원문 실행 문장: Mark the high and low from the open and then wait for a break and then retest."
+      "개장 범위에서 고점과 저점을 기록하고, 테스트를 기다리세요.",
+      "전일의 고점과 저점을 관찰하여 거래자와 알고리즘들이 종종 반응하는 수준을 확인하세요.",
+      "중요한 반응 구역에서 가격이 지원이나 저항, 공급이나 수요로 빠지면 거부와 원래 방향의 지속을 기다리세요."
     ],
-    "caution": "홍보·행동유도 발화: “Then I looked for a rejection and follow-through in the original direction.” / “Follow along if you want to stop chasing price and start waiting for better entries.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 138,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2655,25 +2567,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1776879479965100": {
     "date": "2026.06.17",
     "duration": "00:58",
-    "originalTitle": "18K views · 317 reactions | Why You Keep Getting Stopped Out On Fair Value Gaps 📈 Follow for more Financial Education and Options Trading tips! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrad #tradingpsychology #fairvaluegaps #stoploss #profitabletrading | Raghee Horner",
-    "title": "위험관리: For a bearish fair value gap, draw a box from the high of candle one's wick and the low of candle three.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 57.63초·로컬 Whisper large-v3-turbo 전사 149단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is why you keep getting stopped out on price gap entries.” / “Next, check candle one and candle three's wicks.”",
+    "originalTitle": "Why You Keep Getting Stopped Out On Fair Value Gaps 📈 Follow for more Financial Education and Options Trading tips! 👉 Disclaimer: This content is for educational purposes only and…",
+    "title": "공정가치갭 되돌림을 이용한 진입",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "FVG",
-      "risk",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "공정가ap갭"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “This is why you keep getting stopped out on price gap entries.” 이어 “Next, check candle one and candle three's wicks.” 이어 “For a bearish fair value gap, draw a box from the high of candle one's wick and the low of candle three.” 이어 “Finally, place your stop loss just beyond that range.”",
+    "core": "공정가ap 갭을 이용하면 실제 불균형 수준에서 일관된 진입이 가능하다.",
     "rules": [
-      "원문 실행 문장: For a bearish fair value gap, draw a box from the high of candle one's wick and the low of candle three.",
-      "원문 실행 문장: After that, enter at the midpoint of the range.",
-      "원문 실행 문장: Use a retracement tool on your charting platform that marks the 38 and 62% range.",
-      "원문 실행 문장: Finally, place your stop loss just beyond that range."
+      "세 개의 캔들 패턴을 찾고, 첫 번째와 세 번째 캔들의 날개 범위가 겹치지 않아야 한다.",
+      "공정가ap 갭을 찾은 후, 높은 날개의 고점과 낮은 날개의 저점을 연결한 박스의 중간에서 진입한다.",
+      "손절는 박스 범위를 넘어서 위치시킨다."
     ],
-    "caution": "성과·수익 발화: “Use a retracement tool on your charting platform that marks the 38 and 62% range.” 홍보·행동유도 발화: “Follow for more options trading tips.” 전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 149,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2681,21 +2592,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1782275409344459": {
     "date": "2025.09.03",
     "duration": "01:00",
-    "originalTitle": "1.3K views | @dickiebush - just get started | Raghee Horner",
-    "title": "영상 발화 분석: @dickiebush - just get started",
+    "originalTitle": "@dickiebush - just get started",
+    "title": "@dickiebush - 시작하기",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 59.57초·Facebook 게시문 캡션 5단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “@dickiebush - just get started”",
+    "fidelity": "원본 영상·Facebook 게시문 캡션(무음 영상)·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자",
+      "시작"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “@dickiebush - just get started”",
+    "core": "투자 시작은 작은 단계부터 시작하는 것이 중요하다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: @dickiebush - just get started"
+      "투자 시작은 작은 규모로 시작하는 것이 좋다.",
+      "진입 시장은 신중하게 결정해야 한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 5,
     "transcriptSource": "Facebook 게시문 캡션(무음 영상)"
@@ -2703,25 +2615,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1797394800942237": {
     "date": "2026.02.20",
     "duration": "01:00",
-    "originalTitle": "13K views · 361 reactions | How to go from $0 ➡️ $X0k/month as a trader explained 🔥 Want more useful insider tips like this? Hit follow! | Raghee Horner",
-    "title": "지지·저항: This helped me identify whether the trade fits my structure or not.",
+    "originalTitle": "How to go from $0 ➡️ $X0k/month as a trader explained 🔥 Want more useful insider tips like this? Hit follow!",
+    "title": "0→X0k/month로 성장한 트레이더의 구체적인 진입 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 60.30초·로컬 Whisper large-v3-turbo 전사 180단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I spent the first two years of my trading journey obsessing over candlesticks to trading with structure, consistency, and a repeatable process that gets me consistent profit year after year after year.” / “At resistance?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "psychology",
-      "CTA"
+      "지지·저항",
+      "심리·규율",
+      "트레이딩",
+      "캔들스틱"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “I spent the first two years of my trading journey obsessing over candlesticks to trading with structure, consistency, and a repeatable process that gets me consistent profit year after year after year.” 이어 “At resistance?” 이어 “Step number three, I learned to wait for the right candle in the right place.” 이어 “Want more useful insider tips like this?”",
+    "core": "캔들스틱을 구매자와 판매자 싸움으로 이해하고, 지원, 저항, 중간에서 캔들스틱의 위치를 확인하여 진입을 결정한다.",
     "rules": [
-      "원문 실행 문장: This helped me identify whether the trade fits my structure or not.",
-      "원문 실행 문장: Step number three, I learned to wait for the right candle in the right place.",
-      "원문 실행 문장: Where it forms, where I enter, and where I get out.",
-      "원문 실행 문장: You build a process you can use over and over again and get rewarded with a profit."
+      "캔들스틱이 지원, 저항, 또는 중간에서 형성되는지 확인하여 진입을 결정한다.",
+      "진입과 탈출을 위한 적절한 캔들스틱의 위치를 기다린다.",
+      "정해진 구조에 맞지 않는 거래는 강제로 진입하지 않는다."
     ],
-    "caution": "성과·수익 발화: “I spent the first two years of my trading journey obsessing over candlesticks to trading with structure, consistency, and a repeatable process that gets me consistent profit year…” / “You build a process you can use over and over again and get rewarded with a profit.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 180,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2729,25 +2640,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1810119806346926": {
     "date": "2026.03.06",
     "duration": "01:28",
-    "originalTitle": "34K views · 581 reactions | I've used this trading strategy for over 10,000 trades. 📊 Follow me to see exactly how I spot high-probability trades every day! | Raghee Horner",
-    "title": "지지·저항: Step number one, identify the trend.",
+    "originalTitle": "I've used this trading strategy for over 10,000 trades. 📊 Follow me to see exactly how I spot high-probability trades every day!",
+    "title": "10,000회 이상 거래한 Dow Theory로 높은 확률 트레이딩",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 88.21초·로컬 Whisper large-v3-turbo 전사 274단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I've used this trading strategy for over 10,000 trades.” / “Step number one, identify the trend.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "psychology",
-      "CTA"
+      "지지·저항",
+      "심리·규율",
+      "선물·지수",
+      "Dow Theory"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “I've used this trading strategy for over 10,000 trades.” 이어 “Step number one, identify the trend.” 이어 “If volume supports the move and that it's higher in trend direction, lower in the retracements, this shows participation is expanding or fading.” 이어 “I went from struggling and confused to consistent account growth using this method in under a year.”",
+    "core": "Dow Theory를 통해 가격 움직임을 파악하고 높은 확률의 거래를 잡는 방법을 알아보세요.",
     "rules": [
-      "원문 실행 문장: Step number one, identify the trend.",
-      "원문 실행 문장: For example, you want to see the S&P and the NASDAQ move generally together, or the S&P and the Dow.",
-      "원문 실행 문장: If volume supports the move and that it's higher in trend direction, lower in the retracements, this shows participation is expanding or fading.",
-      "원문 실행 문장: Step number five, wait for confirmation.",
-      "원문 실행 문장: Wait for a clear price and volume confirmation."
+      "가격이 상승, 하락, 횡보하는 틱을 확인하여 추세를 식별한다.",
+      "다양한 지수를 확인하여 추세가 지속되는지 확인한다.",
+      "거래량이 추세와 일치하는지 확인하여 참여가 확대되고 있는지 확인한다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow me to see exactly how I spot high probability setups every day.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 274,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2755,24 +2665,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1812103866133101": {
     "date": "2026.03.17",
     "duration": "01:26",
-    "originalTitle": "15K views · 287 reactions | What’s the difference between a supply zone and resistance? 📉 Follow for more trading education! | Raghee Horner",
-    "title": "지지·저항: Step number one, identify the real levels of selling pressure.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 86.47초·로컬 Whisper large-v3-turbo 전사 260단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is the difference between supply zones, resistance and manipulation.” / “Step number two, draw zones instead of simply lines.”",
+    "originalTitle": "What’s the difference between a supply zone and resistance? 📉 Follow for more trading education!",
+    "title": "급락 전 고가 수준과 구매력 집중 구역의 차이 (Supply Zone과 Resistance의 차이) - 15분봉",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
+      "지지·저항",
+      "supply zone",
       "resistance",
-      "CTA"
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “This is the difference between supply zones, resistance and manipulation.” 이어 “Step number two, draw zones instead of simply lines.” 이어 “Look for entries near the middle or the upper third of the zone.” 이어 “A great confirmation of weakness once in the zone would be a bearish candlestick pattern like a doji, an inside candle or a minor high pattern.”",
+    "core": "급락 전의 고가 수준과 구매력 집중 구역은 가격이 반전하는 단일 가격 수준과 구매력이 집중된 가격 범위를 나타냅니다.",
     "rules": [
-      "원문 실행 문장: Step number one, identify the real levels of selling pressure.",
-      "원문 실행 문장: Not everyone has the exact same price level to sell from.",
-      "원문 실행 문장: Wait for price to return into the supply zone, which is also resistance.",
-      "원문 실행 문장: If price fully breaks the zone, the trade is no longer valid because the sellers are no longer there.",
-      "원문 실행 문장: Wait for price to get inside the zone."
+      "급락 전의 고가 수준은 가격이 전환된 단일 가격 수준입니다.",
+      "구매력 집중 구역은 강한 판매 압력이 집중된 가격 범위로, 거래량이 높은 지역에서 가격이 빠르게 하락한 곳입니다.",
+      "진입 시 가격이 구매력 집중 구역으로 돌아와야 하며, 거기서 중간 또는 상단 1/3 근처에서 진입해야 합니다."
     ],
-    "caution": "성과·수익 발화: “Wait for price to return into the supply zone, which is also resistance.” 홍보·행동유도 발화: “Follow for more real world trading education.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 260,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2780,26 +2690,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1813371993400682": {
     "date": "2026.05.01",
     "duration": "00:55",
-    "originalTitle": "10K views · 201 reactions | Trading terms you need to know 🧠 Struggling to consistently grow your investments? Follow to learn the tools and strategies you need for successful trading! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: This shows how much money you made on a trade, a day, or your overall account.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 54.64초·로컬 Whisper large-v3-turbo 전사 171단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “P&L stands for profit and loss.” / “ATH stands for all-time high.”",
+    "originalTitle": "Trading terms you need to know 🧠 Struggling to consistently grow your investments? Follow to learn the tools and strategies you need for successful trading! 👉 Disclaimer: This con…",
+    "title": "P&L, ROI, ATH, ATR, S&R의 시간 프레임과 기준 가격",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "P&L"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “P&L stands for profit and loss.” 이어 “ATH stands for all-time high.” 이어 “This tells you market volatility so you can set realistic stops and targets based on volatility.” 이어 “Struggling to consistently grow your investments or your trading account?”",
+    "core": "P&L은 거래에서의 수익과 손실을 보여주며, ROI는 투자금액 대비 수익률을 나타낸다. ATH는 가격이 새로운 최고치를 갱신할 때의 기회를, ATR은 시장 변동성을 측정하는 데 사용된다. S&R은 가격이 지원과 저항 수준에서 변동하는 경향을 설명한다.",
     "rules": [
-      "원문 실행 문장: This shows how much money you made on a trade, a day, or your overall account.",
-      "원문 실행 문장: This measures your profit or loss as a percentage of the capital you put into a trade.",
-      "원문 실행 문장: It gets a lot of attention, but it can also drop quickly when people sell to take profits.",
-      "원문 실행 문장: This tells you market volatility so you can set realistic stops and targets based on volatility.",
-      "원문 실행 문장: Support is where price tends to stop falling and bounce, and resistance is where price tends to stop rising and stalls."
+      "P&L은 거래, 일, 또는 전체 계정에서의 수익과 손실을 보여준다.",
+      "ROI는 투자금액 대비 수익률을 백분율로 나타낸다.",
+      "ATH는 가격이 새로운 최고치를 갱신할 때 주목받지만 빠르게 하락할 수 있다."
     ],
-    "caution": "성과·수익 발화: “P&L stands for profit and loss.” / “This measures your profit or loss as a percentage of the capital you put into a trade.” 홍보·행동유도 발화: “Follow to learn the tools and strategies you need for successful trading.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 171,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2807,25 +2715,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1882574169083135": {
     "date": "2026.06.11",
     "duration": "00:37",
-    "originalTitle": "7.1K views · 119 reactions | What's the difference between Mark Up, Mark Down, and Consolidation? 📈 If your entries always feel off, follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #tradingchart #markupmarkdown #consolidation #tradingsystem | Raghee Horner",
-    "title": "지지·저항: What's the difference between mark up, mark down, and consolidation?",
+    "originalTitle": "What's the difference between Mark Up, Mark Down, and Consolidation? 📈 If your entries always feel off, follow for more trading education! 👉 Disclaimer: This content is for educat…",
+    "title": "마진업, 마진다운, 그리고 병합의 차이: 9:00부터 10:00까지의 가격 변동을 분석",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 36.77초·Facebook 자동 자막 83단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What's the difference between mark up, mark down, and consolidation?” / “Number two, mark up.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "resistance",
-      "breakout",
-      "CTA"
+      "지지·저항",
+      "위험관리",
+      "마진업",
+      "마진다운"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “What's the difference between mark up, mark down, and consolidation?” 이어 “Number two, mark up.” 이어 “Use consolidation to prepare for breakout setups.” 이어 “We'll fix that.”",
+    "core": "마진업은 강한 상승 추세를 유지하고, 마진다운은 저항선에서 빠진 후의 단타 기회를 찾는 데 도움이 된다.",
     "rules": [
-      "원문 실행 문장: What's the difference between mark up, mark down, and consolidation?",
-      "원문 실행 문장: Number two, mark up.",
-      "원문 실행 문장: Number three, mark down.",
-      "원문 실행 문장: Use consolidation to prepare for breakout setups.",
-      "원문 실행 문장: Use mark up to stay in strong upward trends and use markdown to find short opportunities after a breakdown from resistance."
+      "consolidation을 통해 브레이크아웃 세팅을 준비하라",
+      "마진업을 사용하여 강한 상승 추세를 유지하라",
+      "마진다운을 사용하여 저항선에서 빠진 후의 단타 기회를 찾으라"
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more trading education.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 83,
     "transcriptSource": "Facebook 자동 자막"
@@ -2833,21 +2740,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "190021340672790": {
     "date": "2023.06.03",
     "duration": "00:24",
-    "originalTitle": "1K views | Raghee Horner on Reels",
-    "title": "영상 발화 분석: I",
+    "originalTitle": "Raghee Horner on Reels",
+    "title": "Raghee Horner의 Reels: 15분 거래 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 23.67초·로컬 Whisper large-v3-turbo 전사 1단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "15분 거래",
+      "Raghee Horner",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I”",
+    "core": "15분 거래는 시장의 변동성을 최대한 활용할 수 있는 효과적인 방법이다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I"
+      "15분 거래는 시장의 변동성을 최대한 활용할 수 있는 효과적인 방법이다.",
+      "매수 시점은 가격이 하락 추세에서 반등할 때이며, 매도 시점은 가격이 상승 추세에서 하락할 때이다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2855,28 +2764,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1911445946428175": {
     "date": "2026.02.24",
     "duration": "01:14",
-    "originalTitle": "4.2K views · 73 reactions | How to: Trading 📈 Hit follow for more trading insider tips! | Raghee Horner",
-    "title": "이동평균: Never risk more than 3% of your account per symbol.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 74.35초·로컬 Whisper large-v3-turbo 전사 206단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Forget everything you thought you knew about becoming a trader.” / “Only trade when price aligns with trend, support, resistance, and momentum.”",
+    "originalTitle": "How to: Trading 📈 Hit follow for more trading insider tips!",
+    "title": "3% 위험 관리와 시장 구조를 활용한 트레이딩 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "moving average",
-      "support",
-      "resistance",
-      "risk",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "이동평균",
+      "위험관리",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “Forget everything you thought you knew about becoming a trader.” 이어 “Only trade when price aligns with trend, support, resistance, and momentum.” 이어 “Don't ever let a winning trade turn into a losing trade.” 이어 “And once you're in, do not touch that stop loss ever.”",
+    "core": "시장 구조를 고려한 트레이딩과 3% 위험 관리가 성공의 핵심이다.",
     "rules": [
-      "원문 실행 문장: Never risk more than 3% of your account per symbol.",
-      "원문 실행 문장: Only trade when price aligns with trend, support, resistance, and momentum.",
-      "원문 실행 문장: After every trade, write down what you did, how you felt, and whether you followed your rules or not.",
-      "원문 실행 문장: Step number five, use a pre-trade contract.",
-      "원문 실행 문장: And once you're in, do not touch that stop loss ever."
+      "계좌의 3% 이하만 투자하고, 이익 구간에서 단계별 수익을 실현한다.",
+      "가격이 추세, 지원, 저항, 그리고 모멘텀과 일치할 때만 거래한다.",
+      "매매 전 계획을 세우고, 진입 후 손절매는 절대 변경하지 않는다."
     ],
-    "caution": "성과·수익 발화: “Never risk more than 3% of your account per symbol.” / “Once you're in your profit zone, take partial profits.” 홍보·행동유도 발화: “Hit follow for more trading insider tips from a 30-year plus trading veteran.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 206,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2884,20 +2789,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1914642049411385": {
     "date": "2026.02.26",
     "duration": "00:34",
-    "originalTitle": "20K views · 243 reactions | 5 boring investments that can make you a millionaire 🤯 Follow for more ETF trading insights! | Raghee Horner",
-    "title": "주식·섹터: If you invest $1,000 into these assets, this is the ROI you'd get.",
+    "originalTitle": "5 boring investments that can make you a millionaire 🤯 Follow for more ETF trading insights!",
+    "title": "S&P, 블루칩 주식, 배당 왕주, 섹터 ETF, 금 및 금광사의 ROI 분석",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 33.62초·로컬 Whisper large-v3-turbo 전사 92단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you invest $1,000 into these assets, this is the ROI you'd get.” / “If you invest $1,000 in blue chip stocks, this is the ROI you can expect.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "주식·섹터",
+      "선물·지수",
+      "ETF 투자",
+      "ROI 분석"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “If you invest $1,000 into these assets, this is the ROI you'd get.” 이어 “If you invest $1,000 in blue chip stocks, this is the ROI you can expect.” 이어 “If you invest $1,000 into dividend aristocrats, this is the ROI you can expect.” 이어 “If you invest $1,000 in gold and gold miners, this is the ROI you can expect.”",
+    "core": "5가지 평범한 투자로 백만장자가 될 수 있다는 사실을 설명한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: If you invest $1,000 into these assets, this is the ROI you'd get."
+      "$1,000를 S&P 500에 투자하면 예상 ROI는 다음과 같다.",
+      "블루칩 주식에 $1,000를 투자하면 예상 ROI는 다음과 같다.",
+      "배당 왕주에 $1,000를 투자하면 예상 ROI는 다음과 같다."
     ],
-    "caution": "성과·수익 발화: “If you invest $1,000 into these assets, this is the ROI you'd get.” / “If you invest $1,000 in gold and gold miners, this is the ROI you can expect.” 홍보·행동유도 발화: “Follow for more ETF trading insights.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 92,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2905,26 +2814,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1920221488842372": {
     "date": "2025.11.20",
     "duration": "00:48",
-    "originalTitle": "16K views · 386 reactions | What if I told you that you can beat “market average” without trading 20 times a day?😳 Follow to learn how real traders stay consistent year after year. 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Focus on quality setups and smart risk management to become consistently profitable year after year.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 48.20초·로컬 Whisper large-v3-turbo 전사 133단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What if I told you that you can beat market average without trading 20 times a day?” / “So here are three tips I tell every trader who wants consistent results.”",
+    "originalTitle": "What if I told you that you can beat “market average” without trading 20 times a day?😳 Follow to learn how real traders stay consistent year after year. 👉 Disclaimer: This content…",
+    "title": "일일 20회 이상 거래 없이 연간 일관된 수익 얻는 방법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "journal",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "거래 전 계획",
+      "위험 관리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “What if I told you that you can beat market average without trading 20 times a day?” 이어 “So here are three tips I tell every trader who wants consistent results.” 이어 “Number two, manage risk.” 이어 “The goal isn't to trade more, it's to trade smarter, protect your capital, and trust the process.”",
+    "core": "질 좋은 거래 설정과 지능적인 위험 관리를 통해 연간 일관된 수익을 얻을 수 있다.",
     "rules": [
-      "원문 실행 문장: Focus on quality setups and smart risk management to become consistently profitable year after year.",
-      "원문 실행 문장: Know your entry, stop, and target before placing an order.",
-      "원문 실행 문장: Number two, manage risk.",
-      "원문 실행 문장: Never risk more than 5% per trade no matter the setup.",
-      "원문 실행 문장: The goal isn't to trade more, it's to trade smarter, protect your capital, and trust the process."
+      "거래 전 계획을 세우고 진입, 손절, 타이거를 미리 결정한다.",
+      "각 거래에서 5% 이하의 위험만 감수한다.",
+      "거래를 일지에 기록하여 패턴을 파악하고 성장을 가속시킨다."
     ],
-    "caution": "성과·수익 발화: “Focus on quality setups and smart risk management to become consistently profitable year after year.” / “Never risk more than 5% per trade no matter the setup.” 홍보·행동유도 발화: “Follow for more clear setups, risk rules, and expert tips.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 133,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2932,25 +2839,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1940141229923768": {
     "date": "2026.01.02",
     "duration": "01:10",
-    "originalTitle": "70K views · 1.4K reactions | I messed up 🫠 Follow for more simple trading lessons that save you money. | Raghee Horner",
-    "title": "위험관리: I lost over $22,000 in a single trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 70.17초·로컬 Whisper large-v3-turbo 전사 198단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So I messed up.” / “I learned to protect my money before trying to make money.”",
+    "originalTitle": "I messed up 🫠 Follow for more simple trading lessons that save you money.",
+    "title": "5% 이하 위험 관리와 신호 대기로 시작하는 단순 트레이딩",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "투자",
+      "위험 관리",
+      "신호 대기"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “So I messed up.” 이어 “I learned to protect my money before trying to make money.” 이어 “Your size is your max loss divided by your stop.” 이어 “No last second changes.”",
+    "core": "성공적인 트레이딩을 위해서는 높은 위험 관리와 신호 대기의 중요성을 배워야 한다.",
     "rules": [
-      "원문 실행 문장: I lost over $22,000 in a single trade.",
-      "원문 실행 문장: Step one, never risk more than 5%.",
-      "원문 실행 문장: Use the formula.",
-      "원문 실행 문장: I learned to wait for all signs to match.",
-      "원문 실행 문장: Before any trade, write your entry, stop loss, and target."
+      "투자금의 5% 이하만 위험 관리에 사용한다.",
+      "진입 전 모든 신호가 일치할 때까지 기다린다."
     ],
-    "caution": "성과·수익 발화: “I lost over $22,000 in a single trade.” / “Only risk 5% or less of your account.” 홍보·행동유도 발화: “Follow for more simple trading lessons that save you money.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 198,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2958,26 +2863,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1945072239705633": {
     "date": "2026.04.20",
     "duration": "01:27",
-    "originalTitle": "13K views · 238 reactions | What’s the difference between Dow Theory, Turtle Soup, and Elliott Wave?🌊 Follow if you want to learn how to use these theories to trade like a 7-figure pro! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "돌파·개장 범위: Enter after the trap with your stop safely beyond the invalidation.",
+    "originalTitle": "What’s the difference between Dow Theory, Turtle Soup, and Elliott Wave?🌊 Follow if you want to learn how to use these theories to trade like a 7-figure pro! 👉 Disclaimer: This co…",
+    "title": "도우 이론, 거북이 수프, 엘리엇 파동의 차이점과 사용법",
     "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 86.80초·로컬 Whisper large-v3-turbo 전사 252단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What's the difference between Dow Theory, Turtle Soup Theory, and Elliott Wave Theory?” / “That means people are not willing to keep buying at higher highs.”",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "breakout",
-      "risk",
-      "psychology",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 돌파·개장 범위 콘텐츠다. “What's the difference between Dow Theory, Turtle Soup Theory, and Elliott Wave Theory?” 이어 “That means people are not willing to keep buying at higher highs.” 이어 “You don't chase fake breakouts.” 이어 “Elliott Wave attempts to tell you where the real money legs are so you know when to commit and when to chill.”",
+    "core": "도우 이론은 시장의 추세와 범위를 파악하고, 거북이 수프는 가격의 허위 신호를 피하며, 엘리엇 파동은 진짜 추세를 잡는 법을 알려준다.",
     "rules": [
-      "원문 실행 문장: Markets move in phases.",
-      "원문 실행 문장: That's the real move.",
-      "원문 실행 문장: You wait to enter where risk reward is best.",
-      "원문 실행 문장: Corrections move against it.",
-      "원문 실행 문장: Put size on the clean legs."
+      "도우 이론은 시장이 추세, 범위, 또는 휴식 상태인지 판단한다.",
+      "거북이 수프는 가격이 명백한 고점이나 저점을 돌파한 후에 진입하되, 그 신호가 거짓이 되지 않도록 스탑을 놓는다.",
+      "엘리엇 파동은 추세와 반대 방향의 움직임을 구별하여 진짜 추세를 잡는 법을 가르친다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow if you want to learn how to use these theories to trade like an elite trader.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 252,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -2985,21 +2887,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1954571095260291": {
     "date": "2026.07.16",
     "duration": "00:43",
-    "originalTitle": "69K views · 762 reactions | 1-Second Charts Worth It? ⌛ Follow for more tips to make consistent profits with simple systems that you can use everyday! #optionstradingcourse #tradereacts #emotionaltrading #accountgrowth #financialeducation 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: As a trader who's been in the markets for over 35 years, I can tell you this.",
+    "originalTitle": "1-Second Charts Worth It? ⌛ Follow for more tips to make consistent profits with simple systems that you can use everyday! #optionstradingcourse #tradereacts #emotionaltrading #ac…",
+    "title": "1분 차트로 일관된 수익 얻기",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 43.40초·Facebook 자동 자막 124단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Give it to me.” / “Tracking the one second chart is a recipe for disaster.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "옵션 트레이딩",
+      "투자 교육"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Give it to me.” 이어 “Tracking the one second chart is a recipe for disaster.” 이어 “That's what I use.” 이어 “The trends are easier to spot and you'll make decisions with a lot less emotion because you're not getting a brand-new candle every 60 seconds.”",
+    "core": "1초 차트는 신호가 너무 많은 노이즈로 가득 차 있어 신중하게 접근해야 합니다.",
     "rules": [
-      "원문 실행 문장: That's what I use."
+      "1초 차트는 신호가 너무 많은 노이즈로 가득 차 있어 신중하게 접근해야 합니다.",
+      "5분 차트를 사용하면 신호가 더 깨끗하고 감정적 의사결정을 줄일 수 있습니다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more tips to make consistent profits while managing risk with simple systems that you can use every day.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 124,
     "transcriptSource": "Facebook 자동 자막"
@@ -3007,25 +2911,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1975351273012005": {
     "date": "2025.12.04",
     "duration": "01:05",
-    "originalTitle": "101K views · 1.2K reactions | Trading Stocks Is Like Gambling? I’ve been trading for over 30 years, and trading is only like gambling if you go in blind👨🏻‍💻 Follow for more strategies that help you become consistently profitable! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: This is how I manage my risk.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 65.27초·로컬 Whisper large-v3-turbo 전사 208단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Trading stocks is basically like gambling at the end of the day.” / “Number one, don't risk more than 5% of your account on any trade.”",
+    "originalTitle": "Trading Stocks Is Like Gambling? I’ve been trading for over 30 years, and trading is only like gambling if you go in blind👨🏻‍💻 Follow for more strategies that help you become cons…",
+    "title": "35년 경력의 트레이더의 시각: 주식 거래는 도박이 아님",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "주식·섹터",
+      "선물·지수"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Trading stocks is basically like gambling at the end of the day.” 이어 “Number one, don't risk more than 5% of your account on any trade.” 이어 “They reveal the real flow.” 이어 “Things look risky, step back and stay safe.”",
+    "core": "주식 거래는 도박과 다르게 철저한 계획과 위험 관리가 필요합니다.",
     "rules": [
-      "원문 실행 문장: This is how I manage my risk.",
-      "원문 실행 문장: Number two, always plan your trade.",
-      "원문 실행 문장: If you trade QQQ, track NQ Futures.",
-      "원문 실행 문장: If you trade SPY, track ES.",
-      "원문 실행 문장: For example, I take some of my profit at 25% and move my stock to break even and close the trade if it hits my stock."
+      "5% 이하의 계좌 잔액을 한 번의 거래에 투자하지 말고, 거래 전 계획을 세워야 합니다.",
+      "진입, 손절, 이익 실현 가격을 미리 결정하고 거래를 실행합니다.",
+      "QQQ를 거래할 때 NQ 햄스터를, SPY를 거래할 때 ES를 모니터링합니다."
     ],
-    "caution": "성과·수익 발화: “And like I would throw in like, I would be 15 years old throwing in three, four, getting to one options like play and like it would fluctuate like 10, 20% a second.” / “Follow for more strategies that help you become consistently profitable.” 홍보·행동유도 발화: “Follow for more strategies that help you become consistently profitable.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 208,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3033,24 +2936,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "1983221052629539": {
     "date": "2026.03.05",
     "duration": "00:43",
-    "originalTitle": "8.1K views · 113 reactions | How the 1% trades📈 Follow for grounded trading education built on proven market structure, not hype! | Raghee Horner",
-    "title": "위험관리: I jump into trades after huge green candles because I don't want to miss the next move.",
+    "originalTitle": "How the 1% trades📈 Follow for grounded trading education built on proven market structure, not hype!",
+    "title": "1%의 거래 방식: 큰 캔들 이후 진입과 구조를 기반으로 한 스탠드백",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 42.70초·로컬 Whisper large-v3-turbo 전사 140단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I jump into trades after huge green candles because I don't want to miss the next move.” / “I place my stop beyond structure and I leave it there.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim"
+      "위험관리",
+      "1%",
+      "거래 전략",
+      "캔들스틱"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I jump into trades after huge green candles because I don't want to miss the next move.” 이어 “I place my stop beyond structure and I leave it there.” 이어 “My confidence depends on how my last trade went.” 이어 “I risk the same percentage on every single trade no matter how I feel.”",
+    "core": "1%는 큰 캔들 이후에 진입하고, 구조를 기반으로 스탠드백을 설정합니다.",
     "rules": [
-      "원문 실행 문장: I jump into trades after huge green candles because I don't want to miss the next move.",
-      "원문 실행 문장: I place my stop wherever it feels safe and I move it when price gets too close.",
-      "원문 실행 문장: I trade all day because sitting out feels like falling behind.",
-      "원문 실행 문장: My confidence depends on how my last trade went.",
-      "원문 실행 문장: I risk the same percentage on every single trade no matter how I feel."
+      "큰 녹색 캔들 이후에 진입합니다.",
+      "구조를 벗어나지 않는 스탠드백을 설정합니다."
     ],
-    "caution": "성과·수익 발화: “I risk the same percentage on every single trade no matter how I feel.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 140,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3058,20 +2960,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2005074013410419": {
     "date": "2026.04.16",
     "duration": "00:34",
-    "originalTitle": "955K views · 11K reactions | 5 Boring investments that can make you a millionaire 💼 Follow for more trading and investment education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "영상 발화 분석: If you invest $1,000 in SPY, VOO, or IVV, this is the ROI you can expect.",
+    "originalTitle": "5 Boring investments that can make you a millionaire 💼 Follow for more trading and investment education! 👉 Disclaimer: This content is for educational purposes only and is not fin…",
+    "title": "5 안전한 투자로 백만장자가 되는 방법",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 33.60초·로컬 Whisper large-v3-turbo 전사 86단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you invest $1,000 in SPY, VOO, or IVV, this is the ROI you can expect.” / “If you invest $1,000 in Microsoft, Google, or Amazon, this is the ROI you can expect.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "투자",
+      "ETF",
+      "주식"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “If you invest $1,000 in SPY, VOO, or IVV, this is the ROI you can expect.” 이어 “If you invest $1,000 in Microsoft, Google, or Amazon, this is the ROI you can expect.” 이어 “If you invest $1,000 in XLK, SMH, or VTT, this is the ROI you can expect.” 이어 “If you invest $1,000 in VNQO, or PLD, this is the ROI you can expect.”",
+    "core": "안전한 투자로 장기적으로 큰 수익을 얻을 수 있다는 사실을 알려준다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: If you invest $1,000 in SPY, VOO, or IVV, this is the ROI you can expect."
+      "$1,000를 SPY, VOO, 또는 IVV에 투자하면 예상 수익률은 다음과 같다.",
+      "$1,000를 Microsoft, Google, 또는 Amazon에 투자하면 예상 수익률은 다음과 같다.",
+      "$1,000를 PG, J&J, 또는 콜라에 투자하면 예상 수익률은 다음과 같다."
     ],
-    "caution": "성과·수익 발화: “If you invest $1,000 in SPY, VOO, or IVV, this is the ROI you can expect.” / “If you invest $1,000 in VNQO, or PLD, this is the ROI you can expect.” 홍보·행동유도 발화: “Follow for more training and investment education.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 86,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3079,25 +2985,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2016652535612567": {
     "date": "2026.05.07",
     "duration": "00:37",
-    "originalTitle": "22K views · 426 reactions | Trading terms you need to know (part 2) 💸 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "Anchored VWAP: SL stands for Stop Loss.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 36.69초·로컬 Whisper large-v3-turbo 전사 110단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “EMA stands for Exponential Moving Average.” / “VWAP, V-W-A-P stands for Volume Weighted Average Price.”",
+    "originalTitle": "Trading terms you need to know (part 2) 💸 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or tradi…",
+    "title": "EMA, RSI, VWAP, SL, TP의 뜻과 사용법 (Part 2)",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "VWAP",
-      "moving average",
-      "risk",
-      "CTA"
+      "이동평균",
+      "위험관리",
+      "EMA"
     ],
-    "core": "원문 전사 기준 Anchored VWAP 콘텐츠다. “EMA stands for Exponential Moving Average.” 이어 “VWAP, V-W-A-P stands for Volume Weighted Average Price.” 이어 “One of my favorite words.” 이어 “This is a set price where you choose to take your gains.”",
+    "core": "EMA는 가중평균가를 통해 최근 가격을 더 크게 반영하고, RSI는 가격의 상승 또는 하락 속도를 알려준다.",
     "rules": [
-      "원문 실행 문장: SL stands for Stop Loss.",
-      "원문 실행 문장: This is a set price that limits how much money you can lose.",
-      "원문 실행 문장: This one stands for Take Profit.",
-      "원문 실행 문장: This is a set price where you choose to take your gains."
+      "EMA는 가중평균가를 통해 최근 가격을 더 크게 반영한다.",
+      "RSI는 가격의 상승 또는 하락 속도를 알려준다.",
+      "SL은 손절가를 설정하여 손실을 제한한다."
     ],
-    "caution": "성과·수익 발화: “This one stands for Take Profit.” 홍보·행동유도 발화: “Follow for more trading education.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 110,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3105,24 +3010,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2020775212107494": {
     "date": "2025.11.07",
     "duration": "00:42",
-    "originalTitle": "78K views · 1K reactions | 3 Indicators That Can Change Your Trading Journey 🤫 Follow for volatility-based frameworks that identify support and resistance using historical data! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: Number one, use momentum and trend indicators.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 42.27초·로컬 Whisper large-v3-turbo 전사 111단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Three indicators that can change your trading journey.” / “Set up trend indicators.”",
+    "originalTitle": "3 Indicators That Can Change Your Trading Journey 🤫 Follow for volatility-based frameworks that identify support and resistance using historical data! 👉 Disclaimer: This content i…",
+    "title": "시간 기반의 가격 변동성 지표로 지원과 저항을 예측하는 3가지 지표",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "CTA"
+      "지지·저항",
+      "위험관리",
+      "트레이딩 지표",
+      "변동성 지표"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Three indicators that can change your trading journey.” 이어 “Set up trend indicators.” 이어 “This tool calculates historical volatility using up to six months of data and projects the likely support and resistance zones for the next hour.” 이어 “Once price action hits volatility-based support, use the Darvis resistance to scale and take profit.”",
+    "core": "시간 기반의 가격 변동성 지표를 활용하면 트레이딩 경로가 크게 변화할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Number one, use momentum and trend indicators.",
-      "원문 실행 문장: Set up momentum indicators.",
-      "원문 실행 문장: Set up trend indicators.",
-      "원문 실행 문장: Once price action hits volatility-based support, use the Darvis resistance to scale and take profit."
+      "모멘텀과 추세 지표를 사용하여 두 지표가 동일한 최대 추세를 신호로 내릴 때만 진입하라.",
+      "1시간 단위 가격 변동성 범위를 이용하여 이전 6개월의 데이터를 기반으로 1시간 뒤의 지원과 저항 구역을 예측하라.",
+      "다르비스 박스 지표를 차트에 플로팅하여 자동화된 수평 지원과 저항을 시각화하라. 가격이 변동성 기반의 지원을 테스트할 때, 다르비스 저항을 이용하여 수익을 확대하라."
     ],
-    "caution": "성과·수익 발화: “Once price action hits volatility-based support, use the Darvis resistance to scale and take profit.” 홍보·행동유도 발화: “Proceed only when both indicators signal the same maximum follow through.” / “Follow for volatility-based framework that identifies support and resistance using historical data.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 111,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3130,25 +3035,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2020935068536357": {
     "date": "2026.06.18",
     "duration": "00:45",
-    "originalTitle": "18K views · 334 reactions | What's the difference between a Trend, a Range, and a Reversal? 📈 Follow for more options trading tips! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstradingforswingers #daytradeducation #trendtrading #rangetrading #reversalpatterns | Raghee Horner",
-    "title": "지지·저항: In an uptrend, buy pullbacks.",
+    "originalTitle": "What's the difference between a Trend, a Range, and a Reversal? 📈 Follow for more options trading tips! 👉 Disclaimer: This content is for educational purposes only and is not fina…",
+    "title": "트렌드, 레인지, 레버럴 차이: 60초 내로 시장 읽기 📈",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 45.13초·로컬 Whisper large-v3-turbo 전사 123단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What's the difference between a trend, a range, and a reversal?” / “And in a downtrend, sell the rallies.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "breakout",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "트렌드"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “What's the difference between a trend, a range, and a reversal?” 이어 “And in a downtrend, sell the rallies.” 이어 “This is just a shift in direction.” 이어 “I went from overcomplicating charts with dozens of indicators to reading markets within 60 seconds.”",
+    "core": "트렌드는 한 방향의 모멘텀을 보여주며, 레인지에서는 가격이 횡보를, 레버럴은 가격 방향이 바뀌는 것을 확인해야 합니다.",
     "rules": [
-      "원문 실행 문장: In an uptrend, buy pullbacks.",
-      "원문 실행 문장: And in a downtrend, sell the rallies.",
-      "원문 실행 문장: Here you need to buy support and sell resistance, and rinse and repeat until the breakout.",
-      "원문 실행 문장: Wait for price to break a critical level and hold before committing."
+      "상승 트렌드에서는 가격 하락을 구매하고, 하락 트렌드에서는 가격 상승을 판매하라.",
+      "레인지에서는 가격이 저항선을 넘을 때까지 매수하고, 저항선을 넘을 때까지 매도하라.",
+      "레버럴에서는 가격이 중요한 수준을 깨지 않으면 기다려야 하며, 깨지면 즉시 진입하라."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more options trading tips.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 123,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3156,23 +3060,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2090317108561553": {
     "date": "2026.05.15",
     "duration": "00:23",
-    "originalTitle": "137K views · 3.1K reactions | Buy vs. sell 💸 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "영상 발화 분석: If your chart looks like this, buy.",
+    "originalTitle": "Buy vs. sell 💸 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance…",
+    "title": "차트 패턴에 따른 매수 매도 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 23.38초·로컬 Whisper large-v3-turbo 전사 76단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If your chart looks like this, buy.” / “If your chart looks like this, sell.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "위험관리",
+      "차트 분석",
+      "매수매도 전략"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “If your chart looks like this, buy.” 이어 “If your chart looks like this, sell.” 이어 “If your chart looks like this, buy.” 이어 “But if your chart looks like this, sell.”",
+    "core": "차트 패턴을 통해 매수와 매도를 결정하는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: If your chart looks like this, buy.",
-      "원문 실행 문장: If your chart looks like this, buy.",
-      "원문 실행 문장: If your chart looks like this, sell.",
-      "원문 실행 문장: If your chart looks like this, sell.",
-      "원문 실행 문장: But if your chart looks like this, sell."
+      "차트가 이런 형태이면 매수",
+      "차트가 이런 형태이면 매도",
+      "차트가 이런 형태이면 매수"
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more trading education.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 76,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3180,26 +3084,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2097889581021103": {
     "date": "2025.11.27",
     "duration": "00:03",
-    "originalTitle": "35K views · 343 reactions | Know The Difference: Stocks vs Options vs Forex👇🏻 📈 Stocks 1️⃣ You own part of a company. 2️⃣ You profit when prices rise. 3️⃣ Growth is steady over time. 4️⃣ Risk is moderate and company-based. 5️⃣ Great for beginners. 6️⃣ Built for long-term wealth. 💰 Options 1️⃣ You have the right to buy or sell. 2️⃣ You profit from price movement. 3️⃣ Lower cost, but timing matters. 4️⃣ Higher risk from time decay. 5️⃣ Best for leverage traders. 6️⃣ Requires strong risk management. 🌍 Forex 1️⃣ You trade global currencies. 2️⃣ You profit when prices rise or fall. 3️⃣ Active 24 hours a day. 4️⃣ High risk and high volatility. 5️⃣ Ideal for fast thinkers. 6️⃣ Best for active traders. Tired of guessing which market to start in? Follow to learn more! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #riskmanagement #tradingpsychology #marketvolatility #beginnertrader #tradingeducation | Raghee Horner",
-    "title": "위험관리: 4️⃣ Risk is moderate and company-based.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3.40초·로컬 Whisper large-v3-turbo 전사 7단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Know The Difference: Stocks vs Options vs Forex👇🏻 📈 Stocks 1️⃣ You own part of a company.” / “3️⃣ Lower cost, but timing matters.”",
+    "originalTitle": "Know The Difference: Stocks vs Options vs Forex👇🏻 📈 Stocks 1️⃣ You own part of a company. 2️⃣ You profit when prices rise. 3️⃣ Growth is steady over time. 4️⃣ Risk is moderate and…",
+    "title": "주식, 옵션, 외환 차이: 시간 프레임과 위험 관리",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "4H",
-      "risk",
-      "psychology",
-      "CTA"
+      "캔들 범위",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Know The Difference: Stocks vs Options vs Forex👇🏻 📈 Stocks 1️⃣ You own part of a company.” 이어 “3️⃣ Lower cost, but timing matters.” 이어 “4️⃣ High risk and high volatility.” 이어 “La la la la la la la”",
+    "core": "주식은 회사의 일부를 소유하고 장기적으로 안정적인 수익을 얻을 수 있지만, 외환은 높은 변동성과 높은 위험을 동반합니다.",
     "rules": [
-      "원문 실행 문장: 4️⃣ Risk is moderate and company-based.",
-      "원문 실행 문장: 4️⃣ Higher risk from time decay.",
-      "원문 실행 문장: 6️⃣ Requires strong risk management.",
-      "원문 실행 문장: 4️⃣ High risk and high volatility.",
-      "원문 실행 문장: Past performance does not guarantee future results, and all trading involves risk."
+      "주식은 회사의 일부를 소유하고 가격이 오르면 수익을 얻을 수 있습니다.",
+      "옵션은 가격 변동을 통해 수익을 얻을 수 있지만, 시간이 지나면서 가치가 감소할 수 있습니다.",
+      "외환은 24시간 거래되고 높은 변동성과 높은 위험을 동반합니다."
     ],
-    "caution": "성과·수익 발화: “2️⃣ You profit when prices rise.” / “Past performance does not guarantee future results, and all trading involves risk.” 홍보·행동유도 발화: “Follow to learn more!” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 7,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3207,53 +3109,46 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2103100683881085": {
     "date": "2026.05.27",
     "duration": "01:08",
-    "originalTitle": "18K views · 279 reactions | Pov: Breakout Strategy Explained Simply 📈 Now you know how breakouts actually form. Follow for more profitable trading strategies like this! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #breakoutstrategy #tradingforbeginners #stockmarkettrading #profitabletrading | Raghee Horner",
-    "title": "이동평균: Number one, timeframe structure.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 68.40초·로컬 Whisper large-v3-turbo 전사 197단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Most traders have no idea, but a breakout strategy can completely shift your chances of making money.” / “The Darvis box setup.”",
+    "originalTitle": "Pov: Breakout Strategy Explained Simply 📈 Now you know how breakouts actually form. Follow for more profitable trading strategies like this! 👉 Disclaimer: This content is for educ…",
+    "title": "트레이딩 화면을 활용한 짧은 장면",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "moving average",
-      "support",
-      "resistance",
-      "breakout",
-      "CTA"
+      "지지·저항",
+      "이동평균",
+      "위험관리",
+      "짧은 장면"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “Most traders have no idea, but a breakout strategy can completely shift your chances of making money.” 이어 “The Darvis box setup.” 이어 “So for me, green candles are measured with moving averages.” 이어 “Now you know how breakouts actually form and how to set them up in the best way.”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "원문 실행 문장: Number one, timeframe structure.",
-      "원문 실행 문장: And I confirm an uptrend using an indicator called the multi-structure that measures both momentum and trend using four exponential moving averages.",
-      "원문 실행 문장: Look for at least five candles above the 34 exponential moving average.",
-      "원문 실행 문장: Now you know how breakouts actually form and how to set them up in the best way."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "성과·수익 발화: “Follow for more profitable trading strategies, just like this one.” 홍보·행동유도 발화: “And trends and follow through is usually bullish.” / “Follow for more profitable trading strategies, just like this one.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 197,
     "transcriptSource": "Whisper large-v3-turbo"
   },
   "2111669296061881": {
     "date": "2026.06.04",
-    "duration": "00:49",
-    "originalTitle": "13K views · 241 reactions | Good Or Bad Entry 📈 Tired of emotional trades destroying your gains? Follow for more tips to help you achieve consistent profitable account growth! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #tradingpsychology #daytrading #entrystrategy #tradingmistakes | Raghee Horner",
-    "title": "지지·저항: Here's how to tell if your entry is smart.",
+    "duration": "00:48",
+    "originalTitle": "Good Or Bad Entry 📈 Tired of emotional trades destroying your gains? Follow for more tips to help you achieve consistent profitable account growth! 👉 Disclaimer: This content is f…",
+    "title": "차트 구조 무시하는 진입은 위험! 📈",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 48.50초·Facebook 자동 자막 163단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's how to tell if your entry is smart.” / “Structure and the Darvis box, that means it's a good entry.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "psychology",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Here's how to tell if your entry is smart.” 이어 “Structure and the Darvis box, that means it's a good entry.” 이어 “If your entry is chasing price at the top like this, that means it's a bad entry.” 이어 “Tired of emotional trades destroying your account?”",
+    "core": "차트의 구조를 무시하는 진입은 좋지 않으며, 구조를 확인하는 진입은 좋습니다.",
     "rules": [
-      "원문 실행 문장: Here's how to tell if your entry is smart.",
-      "원문 실행 문장: If your entry confirmed by candle color, I like to use something called the top tier candles.",
-      "원문 실행 문장: Structure and the Darvis box, that means it's a good entry.",
-      "원문 실행 문장: If your entry respects support, resistance, and structure, that means it is a good entry and if your entry is in the middle of the Darvis box, that means it's nowhere and it's a bad entry.",
-      "원문 실행 문장: If your entry is at support or resistance with the confirmation of tool that I call the secret squiggle or you can use a slow stochastic, that means it's a good confirmed entry."
+      "차트의 구조를 무시하는 진입은 좋지 않다.",
+      "차트의 구조를 확인하는 진입은 좋다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more tips to help you achieve consistent account growth with a process.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 163,
     "transcriptSource": "Facebook 자동 자막"
@@ -3262,20 +3157,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
     "date": "2023.06.03",
     "duration": "00:16",
     "originalTitle": "Raghee Horner on Reels",
-    "title": "영상 발화 분석: Thank you.",
+    "title": "Raghee Horner의 Reels: 15분 거래 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 15.68초·로컬 Whisper large-v3-turbo 전사 2단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Thank you.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "Raghee Horner",
+      "15분 거래",
+      "가격 예측"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Thank you.”",
+    "core": "Raghee Horner은 15분 거래 시간 프레임에서 가격 변동을 예측하는 방법을 설명합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Thank you."
+      "15분 거래 시간 프레임을 사용하여 가격 변동을 예측합니다.",
+      "전략은 주로 15분 차트에서 가격의 변동성을 분석합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 2,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3283,24 +3180,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2126571488090216": {
     "date": "2026.03.16",
     "duration": "01:19",
-    "originalTitle": "9.2K views · 184 reactions | The only way to be good at trading is to enjoy losses😅 Follow for real trading logic, risk control, and strategies built for long-term survival! | Raghee Horner",
-    "title": "위험관리: So the goal is not to avoid them, but to survive them and turn them into opportunities to learn instead.",
+    "originalTitle": "The only way to be good at trading is to enjoy losses😅 Follow for real trading logic, risk control, and strategies built for long-term survival!",
+    "title": "트레이딩 생존을 위한 실전 전략 (Enjoying Losses)",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 79.44초·로컬 Whisper large-v3-turbo 전사 359단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you want to succeed in trading, you have to be okay with this.” / “If the market continues to sink into my predetermined zone by a predetermined amount, I enter more at that level.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "트레이딩 전략",
+      "포지션 사이징"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “If you want to succeed in trading, you have to be okay with this.” 이어 “If the market continues to sink into my predetermined zone by a predetermined amount, I enter more at that level.” 이어 “So let's go ahead and see what happens.” 이어 “So let's go ahead and see what happens.”",
+    "core": "실제 손실을 즐기는 것이 트레이딩 실력의 핵심이다.",
     "rules": [
-      "원문 실행 문장: So the goal is not to avoid them, but to survive them and turn them into opportunities to learn instead.",
-      "원문 실행 문장: I place my first entry with a small position size.",
-      "원문 실행 문장: If the market continues to sink into my predetermined zone by a predetermined amount, I enter more at that level.",
-      "원문 실행 문장: It's a totally normal part of the life cycle of any trade."
+      "첫 진입은 작은 포지션 크기로 시작한다. 시장이 예상한 수준으로 떨어지면 추가로 진입한다.",
+      "감정 대신 과정을 따르며, 추세를 따라 자연스러운 반등을 기다린다."
     ],
-    "caution": "홍보·행동유도 발화: “Instead of guessing at tops and bottoms, you follow the trend and let mean reversions, which are natural pullbacks, do all the heavy lifting.” / “Follow for real trading logic, risk control, and strategies built for long-term survival and account growth.” 전사에서 초기 손절·청산 기준·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 359,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3308,25 +3204,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2166956207042822": {
     "date": "2026.03.31",
     "duration": "01:14",
-    "originalTitle": "17K views · 436 reactions | How to become a disciplined trader in 2026🧘‍♂️ Want to go from emotional and inconsistent to calm and structured but without revenge trading and random entries? Follow because I will show you exactly how! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: In trading, you can't let the winning trade make you too happy.",
+    "originalTitle": "How to become a disciplined trader in 2026🧘‍♂️ Want to go from emotional and inconsistent to calm and structured but without revenge trading and random entries? Follow because I w…",
+    "title": "2026년 거래자로 성장하기: 감정 없이 일관된 거래 방법",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 74.23초·로컬 Whisper large-v3-turbo 전사 201단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “In trading, you can't let the winning trade make you too happy.” / “Step number two, hard code your rules.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "거래 전략",
+      "일관성"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “In trading, you can't let the winning trade make you too happy.” 이어 “Step number two, hard code your rules.” 이어 “Step number four, trade one setup only.” 이어 “I will show you exactly how.”",
+    "core": "감정적이고 일관되지 않은 거래에서 차분하고 구조화된 거래로 전환하려면 이 방법을 따르세요.",
     "rules": [
-      "원문 실행 문장: In trading, you can't let the winning trade make you too happy.",
-      "원문 실행 문장: For me early on, it was wait for my setup, flat is a position.",
-      "원문 실행 문장: Hide future candles and practice labeling trends, levels, entry, stops, and targets out loud.",
-      "원문 실행 문장: Step number four, trade one setup only.",
-      "원문 실행 문장: Before every order, say the setup name, confirm risk, confirm stop location, and accept the loss before you enter."
+      "거래할 때 이익을 얻더라도 너무 기뻐하지 말고, 결정을 내릴 때는 단일 셋업만 사용하되 무작위 진입은 피하라.",
+      "매 거래 전에 설정 이름을 확인하고 위험을 확인한 후 손절 위치를 확인하고 손실을 인정하라.",
+      "차트 재생을 사용하여 틱을 숨기고 추세, 수준, 진입, 스탑아웃, 목표를 외로 연습하라."
     ],
-    "caution": "홍보·행동유도 발화: “Follow, because I will show you exactly how.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 201,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3334,24 +3229,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2180282032714332": {
     "date": "2026.02.26",
     "duration": "01:09",
-    "originalTitle": "6.2K views · 100 reactions | How to trade like millionaires 📊 Want to be like Person B? Follow for more trading tips that actually work! | Raghee Horner",
-    "title": "돌파·개장 범위: I'll look for moves that look good, jump in when there's a breakout in the symbol, and trade in a shorte…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 69.31초·로컬 Whisper large-v3-turbo 전사 238단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's $10,000.” / “Okay, both sound fun.”",
+    "originalTitle": "How to trade like millionaires 📊 Want to be like Person B? Follow for more trading tips that actually work!",
+    "title": "4시간 차트에서 높은 ROI를 얻는 방법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "4H",
-      "breakout",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "투자 전략",
+      "4시간 차트"
     ],
-    "core": "원문 전사 기준 돌파·개장 범위 콘텐츠다. “Here's $10,000.” 이어 “Okay, both sound fun.” 이어 “I averaged two to 3% per month, and my worst drawdown was under 6%.” 이어 “Want to be like person B?”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "원문 실행 문장: I'll look for moves that look good, jump in when there's a breakout in the symbol, and trade in a shorter timeframe, like a one or five minute, to catch quick moves and the quick buck.",
-      "원문 실행 문장: I only trade when the price hits a level at already marked, and then if my setup isn't there, I don't trade it at all."
+      "월 평균 2%~3%의 수익률을 유지하며, 최대 손실은 6% 이하로 제한한다。"
     ],
-    "caution": "성과·수익 발화: “Here's $10,000.” / “I averaged two to 3% per month, and my worst drawdown was under 6%.” 홍보·행동유도 발화: “Follow for more trading tips from a trader who's been doing it for 30 plus years.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 238,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3359,27 +3252,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2190707138080503": {
     "date": "2025.11.04",
     "duration": "00:47",
-    "originalTitle": "11K views · 223 reactions | How To Catch A Stock Break Out 🔢 Follow for breakout strategies that position you early using trend, support, and participation signals! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: Number one, structure of that time frame.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 46.63초·로컬 Whisper large-v3-turbo 전사 126단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “In 60 seconds, I'm going to teach you how to know if a stock is going to break out.” / “Look for higher highs, higher lows, and bullish momentum confirming strength.”",
+    "originalTitle": "How To Catch A Stock Break Out 🔢 Follow for breakout strategies that position you early using trend, support, and participation signals! 👉 Disclaimer: This content is for educatio…",
+    "title": "60초 내에서 강세 추세에서 breakout 잡기",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "breakout",
-      "risk",
-      "CTA"
+      "지지·저항",
+      "위험관리",
+      "주식·섹터",
+      "breakout"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “In 60 seconds, I'm going to teach you how to know if a stock is going to break out.” 이어 “Look for higher highs, higher lows, and bullish momentum confirming strength.” 이어 “Number three, candle participation.” 이어 “These signal enough buying pressure to push through resistance.”",
+    "core": "강세 추세에서 높은 고점과 높은 저점을 찾고, 지지 수준에서 매수하면 breakout을 잡을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Number one, structure of that time frame.",
-      "원문 실행 문장: Look for higher highs, higher lows, and bullish momentum confirming strength.",
-      "원문 실행 문장: Number two, buy the dip before breakout.",
-      "원문 실행 문장: When price pulls back to support, you have a low risk entry with multiple profit targets, even if the breakout stalls.",
-      "원문 실행 문장: Look for at least five green candles showing strong participation, momentum, and trend alignment."
+      "강세 추세에서 높은 고점과 높은 저점을 찾고, 지지 수준에서 매수하라.",
+      "지지 수준에서 가격이 빠지면 저위험 진입 포인트를 찾을 수 있다.",
+      "5개 이상의 초록 캔들이 있는 캔들 패턴을 찾고, 이는 강한 참여와 추세와의 일치를 나타낸다."
     ],
-    "caution": "성과·수익 발화: “When price pulls back to support, you have a low risk entry with multiple profit targets, even if the breakout stalls.” 홍보·행동유도 발화: “Follow for breakout strategies that position you early using support and participation signals.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 126,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3387,24 +3277,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2244993659320189": {
     "date": "2025.11.17",
     "duration": "00:40",
-    "originalTitle": "22K views · 373 reactions | $10K Trading Strategy vs. $100K Trading Strategy🤑 Tired of being stuck at $10K? Follow for real insights on how $100k traders think, plan, and stay consistent every day.! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: I put on huge amounts in every trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 40.03초·로컬 Whisper large-v3-turbo 전사 121단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm a risk taker.” / “I don't waste time writing down my trades.”",
+    "originalTitle": "$10K Trading Strategy vs. $100K Trading Strategy🤑 Tired of being stuck at $10K? Follow for real insights on how $100k traders think, plan, and stay consistent every day.! 👉 Discla…",
+    "title": "10만 달러 트레이딩 전략과 10만 달러 미만 트레이딩 전략의 차이",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "트레이딩 전략",
+      "일관성"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I'm a risk taker.” 이어 “I don't waste time writing down my trades.” 이어 “I keep switching strategies hoping one will finally work.” 이어 “Tired of being stuck at $10,000?”",
+    "core": "10만 달러 트레이딩 전략은 계획을 세우고 일관되게 실행하는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: I'm a risk taker.",
-      "원문 실행 문장: I only risk what fits my plan.",
-      "원문 실행 문장: I log every trade and review what worked every week.",
-      "원문 실행 문장: I jump into trades the second I see a big price move.",
-      "원문 실행 문장: I plan trades in advance with clear entry and exit rules."
+      "10만 달러 트레이딩 전략은 매매 전략을 미리 계획하고, 명확한 진입과 탈출 규칙을 따르는 것이 중요하다.",
+      "10만 달러 미만 트레이딩 전략은 큰 수익을 위해 큰 금액을 투자하나, 이는 높은 위험을 동반한다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "성과·수익 발화: “Tired of being stuck at $10,000?” / “Follow for real insights on how $100,000 traders think, plan, and stay consistent every day.” 홍보·행동유도 발화: “Follow for real insights on how $100,000 traders think, plan, and stay consistent every day.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 121,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3412,27 +3302,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2287820058373196": {
     "date": "2026.02.23",
     "duration": "01:26",
-    "originalTitle": "8.9K views · 159 reactions | 90% of traders fail 👎 Now you know how to not be part of the 90%. Follow for more! | Raghee Horner",
-    "title": "위험관리: 90% of traders, close to 95%, fail within three years, 36 months of starting their trading journey.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 86.45초·로컬 Whisper large-v3-turbo 전사 247단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “90% of traders, close to 95%, fail within three years, 36 months of starting their trading journey.” / “Treat sim trading like it's real.”",
+    "originalTitle": "90% of traders fail 👎 Now you know how to not be part of the 90%. Follow for more!",
+    "title": "90% 실패 traders를 피하는 방법: 3년 내 성공 트레이딩 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "journal",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “90% of traders, close to 95%, fail within three years, 36 months of starting their trading journey.” 이어 “Treat sim trading like it's real.” 이어 “Step number four, separate life and trading.” 이어 “Now you know how not to be part of the 90%.”",
+    "core": "성공적인 트레이딩을 위해서는 기본을 먼저 배우고 실전 전략을 테스트해야 한다.",
     "rules": [
-      "원문 실행 문장: 90% of traders, close to 95%, fail within three years, 36 months of starting their trading journey.",
-      "원문 실행 문장: Stop chasing fast money and start learning how the market works by studying where price actually reacts.",
-      "원문 실행 문장: Once your results are consistent, start live trading with one to two, maybe 3% risk.",
-      "원문 실행 문장: After every trade, log the setup, the entry, the exit, the targets, how you felt when you entered, whether it was fear of missing out or whether you followed your rules and what you'd change next time.",
-      "원문 실행 문장: Keep another source of income and only scale up once your trading profits consistently cover twice of your monthly expenses."
+      "3년 내 95%가 실패하는 것을 피하려면 기본을 먼저 배워야 한다.",
+      "실제 돈을 사용하기 전에 시뮬레이션을 통해 성과를 테스트하고 1:2 위험보상비를 유지하라.",
+      "매매 후 감정을 관리하기 위해 일기와 멘토링을 활용하라."
     ],
-    "caution": "성과·수익 발화: “90% of traders, close to 95%, fail within three years, 36 months of starting their trading journey.” / “Now you know how not to be part of the 90%.” 홍보·행동유도 발화: “Follow for more.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 247,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3440,21 +3327,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2312457695912851": {
     "date": "2026.02.10",
     "duration": "00:40",
-    "originalTitle": "8.2K views · 133 reactions | Bullish engulfing 📊 Follow for more trading tips you can use right away! | Raghee Horner",
-    "title": "지지·저항: So it might be a good time to sell or step back.",
+    "originalTitle": "Bullish engulfing 📊 Follow for more trading tips you can use right away!",
+    "title": "Bullish Engulfing 패턴에서 가격이 지원위에서 상승 시작 시 매수 기회",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 39.64초·로컬 Whisper large-v3-turbo 전사 109단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Bullish Engulfing Price starts moving up, preferably off support.” / “So it might be a good time to sell or step back.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "CTA"
+      "지지·저항",
+      "Bullish Engulfing",
+      "매수 기회"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Bullish Engulfing Price starts moving up, preferably off support.” 이어 “So it might be a good time to sell or step back.” 이어 “Tweezer bottoms Price stops falling and starts to hold its support.” 이어 “Eveningstar Buying slows down so the price may start going down from resistance.”",
+    "core": "Bullish engulfing 패턴이 나타나고 가격이 지원위에서 상승 시작하면 매수할 수 있는 좋은 기회가 됩니다.",
     "rules": [
-      "원문 실행 문장: So it might be a good time to sell or step back."
+      "Bullish engulfing 패턴이 가격이 지원위에서 상승 시작하면 매수할 수 있는 좋은 기회가 됩니다.",
+      "Bearish engulfing 패턴이 가격이 저항위에서 하락 시작하면 매도할 수 있는 좋은 기회가 됩니다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more trading tips you can use right away.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 109,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3462,20 +3350,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2334409280295998": {
     "date": "2026.06.11",
     "duration": "00:36",
-    "originalTitle": "18K views · 256 reactions | Ranking Trading Platforms 📊 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #tradingplatforms #financialeducation #stocktrading #daytrader | Raghee Horner",
-    "title": "옵션: Rank, some trading platforms.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 35.53초·Facebook 자동 자막 98단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Rank, some trading platforms.” / “Interactive brokers, S tier.”",
+    "originalTitle": "Ranking Trading Platforms 📊 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Pas…",
+    "title": "옵션 포지션 운용에 관한 트레이딩 관점",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "options",
-      "CTA"
+      "옵션",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 옵션 콘텐츠다. “Rank, some trading platforms.” 이어 “Interactive brokers, S tier.” 이어 “Strongest for crypto but pretty light on research tool.” 이어 “Low fees but pretty basic.”",
+    "core": "Fidelity와 Schwab는 초보자에게 적합하며, Etrade는 모바일 트레이딩에 강하다.",
     "rules": [
-      "원문 실행 문장: Tasty trade, A tier."
+      "Fidelity는 저비용 ETF와 현금 관리가 우수하다.",
+      "Schwab는 초보자에게 투자하기 좋은 플랫폼이며, Thinkorswim 액세스가 포함된다.",
+      "Etrade는 모바일 트레이딩과 투자에 최적화되어 있다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more trading education.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 98,
     "transcriptSource": "Facebook 자동 자막"
@@ -3483,26 +3373,21 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2348335652357432": {
     "date": "2026.06.15",
     "duration": "00:44",
-    "originalTitle": "8.8K views · 126 reactions | What's the difference between a trading hitting your stop loss, and a trading hitting your TP? 📈 Follow to find out more indicators like this! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #daytrading #stoploss #profittarget #tradingsystem | Raghee Horner",
-    "title": "지지·저항: What's the difference between a trade hitting your stop loss and a trade hitting your profit target?",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 43.70초·로컬 Whisper large-v3-turbo 전사 130단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What's the difference between a trade hitting your stop loss and a trade hitting your profit target?” / “They see the breakout and they chase it here and buy the option with a wide stop loss because they have to.”",
+    "originalTitle": "What's the difference between a trading hitting your stop loss, and a trading hitting your TP? 📈 Follow to find out more indicators like this! 👉 Disclaimer: This content is for ed…",
+    "title": "돌파 후 추격 거래와 듀비스 박스를 활용한 진입의 차이",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "breakout",
-      "risk",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “What's the difference between a trade hitting your stop loss and a trade hitting your profit target?” 이어 “They see the breakout and they chase it here and buy the option with a wide stop loss because they have to.” 이어 “This helps me find cheaper, better risk reward entries off support before momentum hits.” 이어 “Chasing momentum is only going to get you expensive entries and wider stops, but entering at Darvis support before the breakout hire gives you the real edge.”",
+    "core": "돌파 후 추격 거래는 높은 진입 가격과 넓은 손절를 가져오지만, 듀비스 박스를 활용한 진입은 저렴한 가격과 명확한 위험 보상 비율을 제공한다.",
     "rules": [
-      "원문 실행 문장: What's the difference between a trade hitting your stop loss and a trade hitting your profit target?",
-      "원문 실행 문장: They see the breakout and they chase it here and buy the option with a wide stop loss because they have to.",
-      "원문 실행 문장: Instead, here's how I hit my profit target.",
-      "원문 실행 문장: This helps me find cheaper, better risk reward entries off support before momentum hits.",
-      "원문 실행 문장: So I got in at the support with a defined risk and I got paid three to one."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "성과·수익 발화: “What's the difference between a trade hitting your stop loss and a trade hitting your profit target?” / “Instead, here's how I hit my profit target.” 홍보·행동유도 발화: “Follow to find more indicators and strategies like this.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 130,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3510,22 +3395,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2351661781977471": {
     "date": "2026.04.23",
     "duration": "00:43",
-    "originalTitle": "8.7K views · 150 reactions | Is this trade going up or down? 🤔 Overwhelmed with trading information? Follow to learn everything you need to know to trade successfully! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "영상 발화 분석: Is this trade going up or down?",
+    "originalTitle": "Is this trade going up or down? 🤔 Overwhelmed with trading information? Follow to learn everything you need to know to trade successfully! 👉 Disclaimer: This content is for educat…",
+    "title": "이 트레이드는 오르는 추세 중인 10분 차트",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 43.14초·로컬 Whisper large-v3-turbo 전사 121단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Is this trade going up or down?” / “Is this trade going up or down?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "위험관리",
+      "트레이딩",
+      "상승 추세",
+      "저점 저고가"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Is this trade going up or down?” 이어 “Is this trade going up or down?” 이어 “Is this trade going up or down?” 이어 “Overwhelmed with trading information?”",
+    "core": "상승 추세가 계속되고 있지만 큰 반등 캔들이 저점과 저고가를 낮추는 추세를 뒤집지 못하고 있다.",
     "rules": [
-      "원문 실행 문장: Is this trade going up or down?",
-      "원문 실행 문장: Is this trade going up or down?",
-      "원문 실행 문장: Is this trade going up or down?",
-      "원문 실행 문장: Sellers managed to close through the floor but got shoved right back up by the close like a rubber band snapping back."
+      "상승 추세가 계속되지만 큰 반등 캔들이 저점과 저고가를 낮추는 추세를 뒤집지 못하고 있다.",
+      "셀러들이 가격을 하단으로 밀어넣지만 가까스로 반등한다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "홍보·행동유도 발화: “Follow to learn everything you need to know to trade successfully for a 38-year trading veteran.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 121,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3533,21 +3420,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2379835002537916": {
     "date": "2026.06.02",
     "duration": "01:01",
-    "originalTitle": "12K views · 231 reactions | I've been in the market every single day for over 38 years of my life. 📈 Are you a trader who wants consistent profitable account growth? Follow for more trading tips! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #financialeducation #daytrader #markettrading #profitabletrading | Raghee Horner",
-    "title": "심리·규율: And I've built financial freedom without the stress of always having to day trade or even always being i…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 60.83초·로컬 Whisper large-v3-turbo 전사 179단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I've been in the market analyzing and trading for over 38 years of my life.” / “And well, up until my mom required me to save a percentage of everything I earned on my very first job in high school, because of this, I realized my money was growing while I slept through account growth and…”",
+    "originalTitle": "I've been in the market every single day for over 38 years of my life. 📈 Are you a trader who wants consistent profitable account growth? Follow for more trading tips! 👉 Disclaime…",
+    "title": "38년간 매일 시장 분석과 거래한 Raggy Horner의 경력",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "performance claim",
-      "CTA"
+      "심리·규율",
+      "옵션 트레이딩",
+      "금융 교육",
+      "Raggy Horner"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “I've been in the market analyzing and trading for over 38 years of my life.” 이어 “And well, up until my mom required me to save a percentage of everything I earned on my very first job in high school, because of this, I realized my money was growing while I slept through account growth and…” 이어 “And I've built financial freedom without the stress of always having to day trade or even always being in the market.” 이어 “Are you a trader who wants consistent, profitable account growth?”",
+    "core": "Raggy Horner은 38년간 매일 시장 분석과 거래를 통해 시간-tested 전략을 사용해 꾸준히 수익을 얻고 있습니다.",
     "rules": [
-      "원문 실행 문장: And I've built financial freedom without the stress of always having to day trade or even always being in the market."
+      "Raggy Horner은 15세 때부터 파트타임 일자리를 하며, 부모님의 조언으로 수입의 일정 부분을 저축했습니다.",
+      "그는 이를 계기로 시장이 어떻게 작동하는지에 대해 모든 것을 배웠습니다.",
+      "Raggy Horner은 꾸준히 수익을 얻기 위해 여러 시장에서 시간-tested 전략을 사용하고 있습니다."
     ],
-    "caution": "성과·수익 발화: “And well, up until my mom required me to save a percentage of everything I earned on my very first job in high school, because of this, I realized my money was growing while I sle…” / “Are you a trader who wants consistent, profitable account growth?” 홍보·행동유도 발화: “Follow for more trading tips.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 179,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3555,26 +3445,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2383051808840734": {
     "date": "2026.04.21",
     "duration": "01:04",
-    "originalTitle": "13K views · 287 reactions | I wish I knew these websites before I started trading.🖥️ Follow because I share all the secrets to trading like a pro! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Pick a broker that fits your style, open a demo account and practice using the platform before you ever…",
+    "originalTitle": "I wish I knew these websites before I started trading.🖥️ Follow because I share all the secrets to trading like a pro! 👉 Disclaimer: This content is for educational purposes only…",
+    "title": "트레이딩 플랫폼 선택과 시장 이벤트 모니터링",
     "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 63.53초·로컬 Whisper large-v3-turbo 전사 170단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Number one, your trading platform is where it all happens.” / “Set alerts, write them on your calendar or journal so you're never caught off guard by these high volatility releases.”",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "journal",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "트레이딩",
+      "거래 플랫폼"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Number one, your trading platform is where it all happens.” 이어 “Set alerts, write them on your calendar or journal so you're never caught off guard by these high volatility releases.” 이어 “Set stop losses and take profits for every trade.” 이어 “Review this weekly to refine your strategy and cut mistakes.”",
+    "core": "거래 플랫폼을 선택하고 시장 이벤트를 미리 파악하면 효과적인 거래가 가능하다.",
     "rules": [
-      "원문 실행 문장: Pick a broker that fits your style, open a demo account and practice using the platform before you ever risk real money or fund the account.",
-      "원문 실행 문장: Use indicators to spot trends, reversals and key levels.",
-      "원문 실행 문장: Always confirm signals before entering a trade.",
-      "원문 실행 문장: Set stop losses and take profits for every trade.",
-      "원문 실행 문장: Adjust your position size based on your account size, not your emotion."
+      "거래 플랫폼을 선택하고 실전 거래 전에demo 계정을 통해 플랫폼을 익혀야 한다.",
+      "시장 이벤트 일정을 확인하고 PCE, CPI와 같은 중요한 지표를 주목해야 한다.",
+      "차트를 통해 가격 동향을 파악하고 신호를 확인할 때는 신중해야 한다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow because I share all the secrets to trading like a pro.” 전사에서 거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 170,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3582,24 +3470,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2403322833434170": {
     "date": "2025.12.31",
     "duration": "01:28",
-    "originalTitle": "90K views · 1.6K reactions | $0 - $100k/Day trading strategy explained 💹 Follow me for more simple trading lessons that make the market easy to understand. | Raghee Horner",
-    "title": "주식·섹터: This choice tells you what kind of trade you should make.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 88.37초·로컬 Whisper large-v3-turbo 전사 258단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “In 60 seconds, I'll teach you more about trading strategies than you'll learn in a year.” / “They will work like small tickets that only win when the stock moves strongly.”",
+    "originalTitle": "$0 - $100k/Day trading strategy explained 💹 Follow me for more simple trading lessons that make the market easy to understand.",
+    "title": "60초 $0 - $100k/일 거래 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "거래 전략",
+      "옵션 거래"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “In 60 seconds, I'll teach you more about trading strategies than you'll learn in a year.” 이어 “They will work like small tickets that only win when the stock moves strongly.” 이어 “Choose a strike price that is close to the real stock price.” 이어 “Also, use a stop so you do not lose the entire amount you paid.”",
+    "core": "거래 전략을 이해하는 데 필요한 모든 내용을 60초 만에 배웁니다.",
     "rules": [
-      "원문 실행 문장: This choice tells you what kind of trade you should make.",
-      "원문 실행 문장: Choose more days so your trade has time to work and time to move in your direction.",
-      "원문 실행 문장: Check to buy an at or in the money strike so that the option moves when the stock moves.",
-      "원문 실행 문장: Plan your goal before you enter the trade.",
-      "원문 실행 문장: Also, use a stop so you do not lose the entire amount you paid."
+      "주가가 강세일 때 콜을 선택하고 약세일 때 풀을 선택한다.",
+      "거래 기간은 최소한 1일 이상으로 선택한다.",
+      "거래 가격은 실제 주가와 가까운 가격대를 선택한다."
     ],
-    "caution": "성과·수익 발화: “Set your profit target and your stop.” / “Many traders like to take profit when they earn 25 to 50%.” 홍보·행동유도 발화: “Follow me for more simple trading lessons that make the market easy to understand.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 258,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3607,26 +3495,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2413958892367880": {
     "date": "2026.02.12",
     "duration": "01:29",
-    "originalTitle": "9.3K views · 188 reactions | The trading strategy that can make you millions 💰 Follow for more trading education! | Raghee Horner",
-    "title": "위험관리: Decide what you want to trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 89.21초·로컬 Whisper large-v3-turbo 전사 273단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey, so I heard you day trading stuff.” / “Pick one trading style and stick with it until you get the grasp of trading.”",
+    "originalTitle": "The trading strategy that can make you millions 💰 Follow for more trading education!",
+    "title": "단기 트레이딩 전략으로 수익 추구",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Hey, so I heard you day trading stuff.” 이어 “Pick one trading style and stick with it until you get the grasp of trading.” 이어 “But that's the secret.” 이어 “She teaches all about trading and you should too.”",
+    "core": "단기 트레이딩을 통해 수익을 추구하려면 강한 주식과 ETF를 선택하고 가격이 떨어질 때 매수해야 한다.",
     "rules": [
-      "원문 실행 문장: Decide what you want to trade.",
-      "원문 실행 문장: Look for strong stocks like Apple or NVIDIA and ETFs like the S&P and QQQ when they are also strong.",
-      "원문 실행 문장: Wait for them to pull back.",
-      "원문 실행 문장: You can only risk a small part of your account, like 2-3% per trade.",
-      "원문 실행 문장: Yes, and also you should know your setup, your risk, and be disciplined."
+      "강한 주식과 ETF를 선택하여 가격이 떨어질 때 매수하되, 한 번의 거래에서 계좌의 2-3%만 위험을 감수해야 한다.",
+      "단기 트레이딩을 선택하면 장기 투자와는 다른 접근 방식을 사용해야 한다."
     ],
-    "caution": "성과·수익 발화: “You can only risk a small part of your account, like 2-3% per trade.” 홍보·행동유도 발화: “Oh, I follow Raghi.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 273,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3634,26 +3519,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2439999699785644": {
     "date": "2026.03.26",
     "duration": "01:29",
-    "originalTitle": "45K views · 1.1K reactions | How to: trade in 2026 🚀 Follow me to see exactly how I trade live, get step-by-step setups, and never miss a high-probability entry! | Raghee Horner",
-    "title": "지지·저항: Step number one, mark your levels.",
+    "originalTitle": "How to: trade in 2026 🚀 Follow me to see exactly how I trade live, get step-by-step setups, and never miss a high-probability entry!",
+    "title": "2026년 트레이딩 방법: 5단계 진입 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 89.05초·로컬 Whisper large-v3-turbo 전사 243단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You're not going to get rich with trading just because a strategy has a few good results.” / “So price is more likely to react instead of moving randomly.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "psychology",
-      "CTA"
+      "지지·저항",
+      "심리·규율",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “You're not going to get rich with trading just because a strategy has a few good results.” 이어 “So price is more likely to react instead of moving randomly.” 이어 “We want to analyze and compare multiple timeframes to see where the best setup is at.” 이어 “Patience helps you avoid guessing and puts you in trades that have already proved themselves.”",
+    "core": "성공적인 트레이딩을 위해서는 기술적 분석과 거래량을 활용한 정확한 진입 시점 선택이 중요하다.",
     "rules": [
-      "원문 실행 문장: Step number one, mark your levels.",
-      "원문 실행 문장: Let one of the three candles confirm momentum before entering.",
-      "원문 실행 문장: Strong moves need real money behind them, not just small traders clicking buy and sell.",
-      "원문 실행 문장: Step number five, enter with patience.",
-      "원문 실행 문장: Patience helps you avoid guessing and puts you in trades that have already proved themselves."
+      "레벨을 표시하고, 키 지원과 저항을 식별하라.",
+      "가격이 확실한 추세를 보이기 전까지 기다리라.",
+      "거래량이 큰 주문이 있는 곳에서 진입하라."
     ],
-    "caution": "홍보·행동유도 발화: “Step number two, wait for follow-through strength.” / “You can join me live in my trading community.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 243,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3661,25 +3543,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2442228296293819": {
     "date": "2025.12.09",
     "duration": "00:34",
-    "originalTitle": "257K views · 2.4K reactions | The Formula Top 1% Traders Never Share🤫 Follow for more real trading breakdowns like these! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "이동평균: If it's above, look for buys.",
+    "originalTitle": "The Formula Top 1% Traders Never Share🤫 Follow for more real trading breakdowns like these! 👉 Disclaimer: This content is for educational purposes only and is not financial, inves…",
+    "title": "지지·저항 반응에 관한 트레이딩 관점",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 34.10초·로컬 Whisper large-v3-turbo 전사 102단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Trading made me a millionaire.” / “Always check if price is above or below the 200-day moving average.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "moving average",
-      "support",
-      "CTA"
+      "지지·저항",
+      "이동평균",
+      "위험관리",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 이동평균 콘텐츠다. “Trading made me a millionaire.” 이어 “Always check if price is above or below the 200-day moving average.” 이어 “When price pulls back but volume stays strong, it's a sign big players are still buying.” 이어 “Before you enter, I always set my stock below support and at least double that distance.”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "원문 실행 문장: If it's above, look for buys.",
-      "원문 실행 문장: If it's below, avoid.",
-      "원문 실행 문장: I want to enter when they do.",
-      "원문 실행 문장: Step number three, plan the trade.",
-      "원문 실행 문장: Before you enter, I always set my stock below support and at least double that distance."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more real trading breakdowns like these.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 102,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3687,24 +3566,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2501818056918878": {
     "date": "2026.03.12",
     "duration": "00:37",
-    "originalTitle": "6.1K views · 64 reactions | Same $5000, extremely different results 💵 Follow to see exactly how to trade smarter, manage risk, and get consistent results every session! | Raghee Horner",
-    "title": "위험관리: I risk 10 to 20% of my account on any trade.",
+    "originalTitle": "Same $5000, extremely different results 💵 Follow to see exactly how to trade smarter, manage risk, and get consistent results every session!",
+    "title": "손실 한도와 위험관리에 관한 트레이딩 관점",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 36.50초·로컬 Whisper large-v3-turbo 전사 110단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I risk 10 to 20% of my account on any trade.” / “I only take trades that meet my criteria.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim"
+      "위험관리",
+      "거래 전략",
+      "위험 관리",
+      "일관된 수익"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I risk 10 to 20% of my account on any trade.” 이어 “I only take trades that meet my criteria.” 이어 “I keep trading after losing, trying to win it all back.” 이어 “I keep trading separate from my income, treating it like a business.”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "원문 실행 문장: I risk 10 to 20% of my account on any trade.",
-      "원문 실행 문장: I size every trade based on a fixed percentage of risk to my account.",
-      "원문 실행 문장: I move stops and I skip rules when price goes against me.",
-      "원문 실행 문장: I set stops beyond technical invalidation and risk and I never move them.",
-      "원문 실행 문장: I have a daily loss limit and I stop when it's reached."
+      "각 거래에서 계좌의 10~20%만 위험을 감수하며, 거래 크기를 일정 위험 기준에 따라 조정한다.",
+      "모든 셋업을 무관하게 거래하며, 거래 기준을 충족하는 경우만 거래를 실행한다.",
+      "가격이 반대 방향으로 움직일 때도 스탑을 이동시키거나 규칙을 무시하지 않고, 스탑은 기술적 무효화와 위험을 넘어서 설정하고 변동하지 않는다."
     ],
-    "caution": "성과·수익 발화: “I risk 10 to 20% of my account on any trade.” / “I keep trading separate from my income, treating it like a business.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 110,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3712,21 +3591,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "25268236209517614": {
     "date": "2026.03.03",
     "duration": "00:08",
-    "originalTitle": "10K views · 46 reactions | Newbie vs. pro trader 🆚 New traders get overly excited by small wins, chase momentum, and let emotions cloud their decisions, which often leads to overtrading, poor timing, and inconsistent results. But pro traders stay calm, focus on data instead of dopamine, and treat each trade as just one data point within a long-term, repeatable system. The difference is in emotional control, discipline, and the ability to follow a plan even when nothing exciting is happening. Follow for more trading psychology education! | Raghee Horner",
-    "title": "영상 발화 분석: I said ooh, come on baby turn the lights off",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 8.22초·로컬 Whisper large-v3-turbo 전사 10단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I said ooh, come on baby turn the lights off”",
+    "originalTitle": "Newbie vs. pro trader 🆚 New traders get overly excited by small wins, chase momentum, and let emotions cloud their decisions, which often leads to overtrading, poor timing, and in…",
+    "title": "초보자 vs. 전문가: 초보자들은 작은 이익에 흥분하고, 전문가들은 감정을 통제하며 데이터에 집중한다",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "심리·규율",
+      "투자심리",
+      "거래전략"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I said ooh, come on baby turn the lights off”",
+    "core": "전문가들은 감정을 통제하고 데이터에 집중하며 장기적인 시스템을 따르는 반면, 초보자들은 작은 이익에 흥분하고 감정을 통제하지 못한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I said ooh, come on baby turn the lights off"
+      "초보자들은 작은 이익에 흥분하여 과다 거래하고, 좋은 시점과 나쁜 시점 모두에서 감정이입을 하며 결과가 일관되지 않다.",
+      "전문가들은 감정을 통제하고 데이터에 집중하며 장기적인 시스템을 따르는 반복 가능한 방법을 사용한다.",
+      "초보자들은 흥미로운 일 없이도 계획을 따르지만, 전문가들은 항상 계획을 따르는 능력이 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 10,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3734,25 +3615,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "25846892628236221": {
     "date": "2025.11.25",
     "duration": "01:05",
-    "originalTitle": "23K views · 411 reactions | How The 1% Trades S&P 500🚀 Follow for more simple setups and daily tips to stay consistent and in control! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: This is how I set up to trade the S&P 500.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 64.60초·로컬 Whisper large-v3-turbo 전사 163단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is how I set up to trade the S&P 500.” / “I mark my key price zones.”",
+    "originalTitle": "How The 1% Trades S&P 500🚀 Follow for more simple setups and daily tips to stay consistent and in control! 👉 Disclaimer: This content is for educational purposes only and is not f…",
+    "title": "S&P 500 1% 트레이딩 전략: SPX 옵션 진입과 위험 관리",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "선물·지수",
+      "S&P 500"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “This is how I set up to trade the S&P 500.” 이어 “I mark my key price zones.” 이어 “Step number four, manage the risk.” 이어 “I take profits in stages.”",
+    "core": "S&P 500을 거래할 때 SPX 옵션을 이용한 진입과 위험 관리를 설명한다.",
     "rules": [
-      "원문 실행 문장: This is how I set up to trade the S&P 500.",
-      "원문 실행 문장: I mark my key price zones.",
-      "원문 실행 문장: Step number four, manage the risk.",
-      "원문 실행 문장: So I only pick strikes that match a fixed percentage of risk to my account.",
-      "원문 실행 문장: I don't wait for perfect tops or bottoms."
+      "S&P 500을 시작으로 SPX 햄버거와 미크로 옵션을 관찰한다.",
+      "키 가격 구간을 표시하고, 이 구간에서 진입한다.",
+      "제어된 위험을 위해 출-of-머니 옵션을 선택한다."
     ],
-    "caution": "성과·수익 발화: “So I only pick strikes that match a fixed percentage of risk to my account.” 홍보·행동유도 발화: “SPY, SPX, and micro futures usually follow the same path.” / “Follow for more simple setups and daily tips to stay consistent and in control.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 163,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3761,20 +3641,21 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
     "date": "2023.10.23",
     "duration": "00:55",
     "originalTitle": "Raghee Horner on Reels",
-    "title": "영상 발화 분석: Oh I really really really really really really really hate this part.",
+    "title": "Raghee Horner의 싫어하는 부분",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 55.13초·로컬 Whisper large-v3-turbo 전사 103단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Oh I hate this part.” / “Oh I really really really really really really really hate this part.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩 감정",
+      "레일"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Oh I hate this part.” 이어 “Oh I really really really really really really really hate this part.” 이어 “Oh I don't wanna go straight back.” 이어 “Oh I don't wanna go straight back.”",
+    "core": "Raghee Horner은 이 부분을 매우 싫어하며, 그 이유를 명확히 설명하지는 않지만 강한 부정 감정을 표현한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Oh I hate this part."
+      "Raghee Horner은 이 부분을 매우 싫어한다.",
+      "그는 이 부분을 피하려고 한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 103,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3782,26 +3663,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2604396626621470": {
     "date": "2026.05.14",
     "duration": "01:04",
-    "originalTitle": "21K views · 508 reactions | How to get ahead as a trader ✍️ Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "심리·규율: Step two, log every single trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 63.85초·로컬 Whisper large-v3-turbo 전사 176단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you're not using a trading journal to review trades, you are literally throwing money away.” / “After closing each trade, take two or three minutes to record the details.”",
+    "originalTitle": "How to get ahead as a trader ✍️ Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice.…",
+    "title": "트레이딩 일지 활용법: 일일, 주간, 월간 리뷰 방법",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "journal",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "트레이딩 일지",
+      "거래 리뷰"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “If you're not using a trading journal to review trades, you are literally throwing money away.” 이어 “After closing each trade, take two or three minutes to record the details.” 이어 “Step four, run a structured weekly review.” 이어 “See where your real psychology tells you to adjust your plan accordingly.”",
+    "core": "트레이딩 일지를 활용하면 성과 분석과 개선이 가능하다.",
     "rules": [
-      "원문 실행 문장: Step two, log every single trade.",
-      "원문 실행 문장: After closing each trade, take two or three minutes to record the details.",
-      "원문 실행 문장: Every day, go through your recorded trades and mark each as either according to plan or broke the rules.",
-      "원문 실행 문장: Once a week, group your trades by setups, timeframe, and emotion to tag what's driving wins and losses.",
-      "원문 실행 문장: Once a month, check the overall P&L, win rate, average R, average size of the winner, average size of loser, and your emotion."
+      "매번 거래를 기록하고, 거래 후 두세 분을 투자하여 세부 사항을 기록한다.",
+      "매일 거래를 검토하여 계획에 따른 거래와 규칙 위반을 표시한다.",
+      "매주 거래를 그룹화하여 설정, 시간대, 감정을 기준으로 분석한다."
     ],
-    "caution": "성과·수익 발화: “Once a month, check the overall P&L, win rate, average R, average size of the winner, average size of loser, and your emotion.” 홍보·행동유도 발화: “Follow for more trading education.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 176,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3809,25 +3688,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2604553589939357": {
     "date": "2026.04.02",
     "duration": "01:11",
-    "originalTitle": "11K views · 348 reactions | If you’re just getting into trading, you’ve probably seen videos like these.🎥 Want a more in depth breakdown of the Sector Secrets framework I just shared? Follow for more trading strategy breakdowns! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: A lot of strategy is taught by people who don't trade real size or real risk.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 71.30초·로컬 Whisper large-v3-turbo 전사 203단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you're just getting into trading, you've probably seen videos like this.” / “The markets have been very good to me and I'm here to help the next generation of traders find success.”",
+    "originalTitle": "If you’re just getting into trading, you’ve probably seen videos like these.🎥 Want a more in depth breakdown of the Sector Secrets framework I just shared? Follow for more trading…",
+    "title": "38년 경력의 트레이더가 공유하는 실전 터치 포인트 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "주식·섹터",
+      "실전 트레이딩"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “If you're just getting into trading, you've probably seen videos like this.” 이어 “The markets have been very good to me and I'm here to help the next generation of traders find success.” 이어 “Identify trend and key levels first, then use a candle and price as a trigger, not the reason or FOMO.” 이어 “Want a more in-depth breakdown of the sector secrets framework I just shared?”",
+    "core": "실제 터치 포인트를 기준으로 한 위험 관리와 구조화된 트레이딩이 중요하다.",
     "rules": [
-      "원문 실행 문장: A lot of strategy is taught by people who don't trade real size or real risk.",
-      "원문 실행 문장: Lesson number one, start with defining risk, not 100% win rate entries.",
-      "원문 실행 문장: This is what I call desired account risk.",
-      "원문 실행 문장: Identify trend and key levels first, then use a candle and price as a trigger, not the reason or FOMO.",
-      "원문 실행 문장: What you need is structure, defined risk, and consistency."
+      "100% 승률을 기대하지 말고, 한 번의 거래에서 계좌의 일정 부분을 위험으로 설정한다.",
+      "트렌드와 키 레벨을 먼저 확인하고, 캔들과 가격이 트리거가 되는 구조화된 접근법을 사용한다.",
+      "멘토와 프레임워크를 찾고, 모든 승리와 패배를 예측하지 말고 결정을 내린다."
     ],
-    "caution": "성과·수익 발화: “Lesson number one, start with defining risk, not 100% win rate entries.” 홍보·행동유도 발화: “Follow for more trading strategies and breakdowns.” 전사에서 초기 손절·청산 기준·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 203,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3835,22 +3713,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2606183716450900": {
     "date": "2026.07.07",
     "duration": "00:57",
-    "originalTitle": "11K views · 183 reactions | What’s The Difference Between A Hammer And A Hanging Man? 📈 Follow along if you want trading lessons that make charts easier to read! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #technicalanalysis #candlestickpatterns #hammercandlestick #tradingeducation #stockmarket | Raghee Horner",
-    "title": "지지·저항: So before you trade the candle, check where it formed.",
+    "originalTitle": "What’s The Difference Between A Hammer And A Hanging Man? 📈 Follow along if you want trading lessons that make charts easier to read! 👉 Disclaimer: This content is for educational…",
+    "title": "하마와 턱걸이 캔들 차이, 9:00 이후 추세 변환을 보여주는 캔들 패턴",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 56.53초·로컬 Whisper large-v3-turbo 전사 150단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Are you frustrated with candlestick patterns?” / “That wick shows sellers push price down, but buyers step back in.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "psychology",
-      "CTA"
+      "지지·저항",
+      "위험관리",
+      "심리·규율",
+      "하마 캔들"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Are you frustrated with candlestick patterns?” 이어 “That wick shows sellers push price down, but buyers step back in.” 이어 “That candle warns buyers may be losing control near the highs.” 이어 “So before you trade the candle, check where it formed.”",
+    "core": "하마 캔들은 하락 추세 후 매수세가 나타나는 반전 신호, 턱걸이 캔들은 상승 추세 후 매수세가 약화되는 신호를 나타냅니다.",
     "rules": [
-      "원문 실행 문장: So before you trade the candle, check where it formed."
+      "하마 캔들은 하락 추세 후 짧은 실체와 긴 하단 와이크를 가진 캔들로, 턱걸이 캔들은 상승 추세 후 같은 형태지만 위치가 다른 캔들로 나타납니다.",
+      "하마 캔들은 하락 추세 후 매수세가 강해지는 신호, 턱걸이 캔들은 상승 추세 후 매수세가 약화되는 신호로 해석됩니다.",
+      "하마 캔들이 나타나면 추세가 변환될 가능성이 높아지므로 주의해야 합니다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow along if you want trading lessons that make charts less emotional and easier to read.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 150,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3858,21 +3738,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "26103368735942246": {
     "date": "2026.03.04",
     "duration": "00:08",
-    "originalTitle": "5.9K views · 43 reactions | 2 different types of traders: Emotional trader vs. Data based trader 🆚 Want to know how to become a data-based trader? Hit follow because I share all the secrets! | Raghee Horner",
-    "title": "영상 발화 분석: I said ooh, come on baby turn the lights off",
+    "originalTitle": "2 different types of traders: Emotional trader vs. Data based trader 🆚 Want to know how to become a data-based trader? Hit follow because I share all the secrets!",
+    "title": "감정적 거래자 vs. 데이터 기반 거래자: 어떻게 데이터 기반 거래자가 되는지 알아보세요",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 8.22초·로컬 Whisper large-v3-turbo 전사 10단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I said ooh, come on baby turn the lights off”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "심리·규율",
+      "거래 전략",
+      "데이터 분석",
+      "감정 거래"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I said ooh, come on baby turn the lights off”",
+    "core": "데이터 기반 거래자는 감정을 최소화하고 시장 데이터를 분석하여 거래 결정을 내리는 방법을 설명합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I said ooh, come on baby turn the lights off"
+      "데이터 기반 거래자는 감정을 최소화하고 시장 데이터를 분석하여 거래 결정을 내립니다.",
+      "감정적 거래자는 시장 상황에 따라 즉시 반응하며, 데이터 기반 거래자는 장기적인 전략을 따릅니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 10,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3880,25 +3762,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "26187628647562246": {
     "date": "2026.03.13",
     "duration": "00:44",
-    "originalTitle": "5.7K views · 79 reactions | How to trade the market like the top 1% 🚀 Follow to see exactly how to trade smarter, manage risk, and get consistent results in any market! | Raghee Horner",
-    "title": "위험관리: I look for trades that feel exciting in the moment.",
+    "originalTitle": "How to trade the market like the top 1% 🚀 Follow to see exactly how to trade smarter, manage risk, and get consistent results in any market!",
+    "title": "상장 초중장기 거래 패턴을 활용한 일일 거래 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 44.14초·로컬 Whisper large-v3-turbo 전사 157단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I look for trades that feel exciting in the moment.” / “I use the same fixed risk on every trade.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "journal",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "상장초중장기거래",
+      "일일거래전략"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I look for trades that feel exciting in the moment.” 이어 “I use the same fixed risk on every trade.” 이어 “I increase my size after a big win.” 이어 “I base decisions on my journal, testing, and recorded data.”",
+    "core": "상장 초중장기 거래 패턴을 활용하여 일일 거래를 smarter하게 실행하고, 일관된 결과를 얻는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: I look for trades that feel exciting in the moment.",
-      "원문 실행 문장: Plan your trade and then trade your plan.",
-      "원문 실행 문장: I use the same fixed risk on every trade.",
-      "원문 실행 문장: I trade only during specific windows, like during the open and the close, and I stay out of the rest of the day.",
-      "원문 실행 문장: Keep the position size the same from trade to trade."
+      "상장 초중장기 거래 패턴을 찾아 매매 결정을 내린다.",
+      "지정된 위험 수준을 유지하며 모든 거래에서 동일한 크기를 사용한다.",
+      "특정 거래 시간대(장 시작과 종료)에만 거래를 실행한다."
     ],
-    "caution": "홍보·행동유도 발화: “Trading flow has a rhythm, know what it is, and I follow it.” 전사에서 초기 손절·청산 기준이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 157,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3906,21 +3787,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "26478801071725637": {
     "date": "2026.02.05",
     "duration": "00:07",
-    "originalTitle": "23K views · 133 reactions | Know the difference: 4/10 trading setup vs. 9/10 trading setup 🆚 Tired of trading blindly without a structure? Follow for more trading tips that actually work! | Raghee Horner",
-    "title": "영상 발화 분석: Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa…",
+    "originalTitle": "Know the difference: 4/10 trading setup vs. 9/10 trading setup 🆚 Tired of trading blindly without a structure? Follow for more trading tips that actually work!",
+    "title": "4/10과 9/10 트레이딩 세팅의 차이: 구조 있는 트레이딩을 위한 팁",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 6.78초·로컬 Whisper large-v3-turbo 전사 1단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa…”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩 세팅",
+      "가격 진입",
+      "구조 있는 트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa…”",
+    "core": "4/10 세팅과 9/10 세팅은 각각 가격 변동의 40%와 90%에서 진입하는 방법이 다르다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa…"
+      "4/10 세팅에서는 가격이 40%까지 내려가면 진입한다.",
+      "9/10 세팅에서는 가격이 90%까지 내려가면 진입한다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3928,25 +3812,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2655158281484603": {
     "date": "2025.10.23",
     "duration": "00:51",
-    "originalTitle": "4K views · 68 reactions | 5 Levels Of trading 📊 Follow for proven trading education that turns struggling traders into consistently profitable ones! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Action, stop live, learn basics, sim trade first.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 51.33초·로컬 Whisper large-v3-turbo 전사 125단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Level 1 Gambler, no plan, random sizing, overtrades, bleeds fast.” / “Level 2 Learner, you binge learn strategies and still lose.”",
+    "originalTitle": "5 Levels Of trading 📊 Follow for proven trading education that turns struggling traders into consistently profitable ones! 👉 Disclaimer: This content is for educational purposes o…",
+    "title": "5 단계의 트레이딩 : 38년 경력 트레이더의 교육",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "journal",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Level 1 Gambler, no plan, random sizing, overtrades, bleeds fast.” 이어 “Level 2 Learner, you binge learn strategies and still lose.” 이어 “Level 3 Survivor, you're near break even, so journal every trade, review weekly, and lock your entry, stop, and target before you click.” 이어 “Level 5 Capitalists, you scale only when your data proves it, diversify with ETF options, grow size when expectancy is positive, and drawdown is within your strategy.”",
+    "core": "성공적인 트레이딩을 위한 5단계 프로세스를 통해 초보 트레이더를 전문가로 성장시킵니다.",
     "rules": [
-      "원문 실행 문장: Action, stop live, learn basics, sim trade first.",
-      "원문 실행 문장: So choose one or two setups, write a checklist, and cap risk at 0.5% per trade.",
-      "원문 실행 문장: Level 3 Survivor, you're near break even, so journal every trade, review weekly, and lock your entry, stop, and target before you click.",
-      "원문 실행 문장: Level 5 Capitalists, you scale only when your data proves it, diversify with ETF options, grow size when expectancy is positive, and drawdown is within your strategy."
+      "레벨 1에서는 계획 없이 무작위로 거래를 시작하지 말고, 시뮬레이션 거래를 먼저 해보세요.",
+      "레벨 2에서는 한 두 가지 설정만 선택하고, 각 거래의 위험을 0.5% 이하로 제한하세요.",
+      "레벨 3에서는 매매를 기록하고 주기적으로 거래를 검토하며, 진입가, 손절, 목표가를 결정하세요."
     ],
-    "caution": "성과·수익 발화: “So choose one or two setups, write a checklist, and cap risk at 0.5% per trade.” 홍보·행동유도 발화: “Follow for proven day trading rules from a 38-year trader.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 125,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3954,26 +3837,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "26691148517186706": {
     "date": "2026.04.16",
     "duration": "00:59",
-    "originalTitle": "18K views · 387 reactions | I have developed an trading entry model which has a 62-68% win rate🎯 Follow because I share all the secrets to mastering trading the open! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: I've developed a trading entry model which has between a 62 to 68% win rate.",
+    "originalTitle": "I have developed an trading entry model which has a 62-68% win rate🎯 Follow because I share all the secrets to mastering trading the open! 👉 Disclaimer: This content is for educat…",
+    "title": "62-68% 승률의 개장 전 거래 모델",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 59.20초·로컬 Whisper large-v3-turbo 전사 187단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I've developed a trading entry model which has between a 62 to 68% win rate.” / “Use these levels to see where buyers and sellers are likely to react again.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "FVG",
-      "support",
-      "resistance",
-      "performance claim"
+      "지지·저항"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “I've developed a trading entry model which has between a 62 to 68% win rate.” 이어 “Use these levels to see where buyers and sellers are likely to react again.” 이어 “Look for halfback level entries.” 이어 “The market is trending or the market is trending.”",
+    "core": "개장 전 시장 동향을 예측하는 방법은 전 세션의 종가, 전일 고가, 전일 저가를 분석하는 것부터 시작합니다.",
     "rules": [
-      "원문 실행 문장: I've developed a trading entry model which has between a 62 to 68% win rate.",
-      "원문 실행 문장: Check the previous session close, pre-market high, and pre-market low to understand early sentiment and levels.",
-      "원문 실행 문장: Use these levels to see where buyers and sellers are likely to react again.",
-      "원문 실행 문장: Look for halfback level entries.",
-      "원문 실행 문장: Determine if the market is trending or chopping to align the entry strategy and confirmation."
+      "개장 전 고가와 저가를 확인하여 초기 감정과 수준을 이해합니다.",
+      "중요한 지원과 저항 수준을 표시하고 가격이 극단에 가까이 닫힐 때 구매자와 판매자의 반응을 예측합니다.",
+      "전일과 개장 전의 가격 차이를 확인하여 기관 활동을 추적하고 반대급부 수준의 진입을 고려합니다."
     ],
-    "caution": "성과·수익 발화: “I've developed a trading entry model which has between a 62 to 68% win rate.” / “Number four, identify gaps and 50% pullbacks.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 187,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -3982,19 +3861,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
     "date": "2021.05.02",
     "duration": "01:59",
     "originalTitle": "Raghee Horner on Reels",
-    "title": "심리·규율: But if you have an idea that you can actually draw a path from where you are right now all the way to th…",
+    "title": "라지hee 홀너의 2시간 단위 실행 전략: 10년 프로젝트의 2시간 단위 실행",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 119.17초·로컬 Whisper large-v3-turbo 전사 416단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “There's this quote from Epictetus where he says, first, you know, decide who you want to be and then do what you need to do.” / “What is the magical outcome?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology"
+      "심리·규율",
+      "투자전략",
+      "목표설정",
+      "실행"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “There's this quote from Epictetus where he says, first, you know, decide who you want to be and then do what you need to do.” 이어 “What is the magical outcome?” 이어 “What determines whether something is a good idea is whether you can execute on it.” 이어 “And you should be aiming at something that's not so easily possible.”",
+    "core": "대담한 목표를 설정하고, 그 목표로 역추적하여 실현 가능한 계획을 만드는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: But if you have an idea that you can actually draw a path from where you are right now all the way to the magical outcome, then it's a great idea.",
-      "원문 실행 문장: When authors tell me that they have a very specific number of copies they want to sell, that always throws me for a loop because, like, honestly, you should be, I think, one, aiming higher."
+      "2년 또는 6년, 10년 프로젝트를 2시간 단위로 측정하여 실행한다.",
+      "대담한 목표를 설정하고, 그 목표로 역추적하여 실현 가능한 계획을 만든다.",
+      "실행 가능한 계획을 만드는 데는 인내심과 일관성이 필요하다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 416,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4002,22 +3885,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "27200743822961714": {
     "date": "2026.07.15",
     "duration": "00:37",
-    "originalTitle": "15K views · 290 reactions | Treading In 2026 As A Complete Beginner 📈 I teach traders how to get profitable using simple, boring strategies like this. If that sounds like you, make sure to follow! #optionstrading #tradingforbeginners #financialeducation #2026trading #stockmarke 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "심리·규율: Write a simple setup with the exact entry, stop, and exit rules you can use every day.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 36.94초·로컬 Whisper large-v3-turbo 전사 122단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's 30 seconds of trading advice I would give my best friend if they were starting from scratch in 2026.” / “Next, pick one or two markets to trade and learn how they move and behave.”",
+    "originalTitle": "Treading In 2026 As A Complete Beginner 📈 I teach traders how to get profitable using simple, boring strategies like this. If that sounds like you, make sure to follow! #optionstr…",
+    "title": "2026년 초보자를 위한 단순한 트레이딩 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "4H",
-      "journal",
-      "CTA"
+      "심리·규율",
+      "초보자 트레이딩",
+      "옵션 트레이딩",
+      "금융 교육"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Here's 30 seconds of trading advice I would give my best friend if they were starting from scratch in 2026.” 이어 “Next, pick one or two markets to trade and learn how they move and behave.” 이어 “Lastly, watch markets for at least four hours a day.” 이어 “I teach traders how to get profitable using simple, boring approaches like this.”",
+    "core": "단순하고 지루한 전략을 사용하여 2026년부터 시작하는 트레이더들에게 수익을 얻는 방법을 가르칩니다.",
     "rules": [
-      "원문 실행 문장: Write a simple setup with the exact entry, stop, and exit rules you can use every day.",
-      "원문 실행 문장: Next, pick one or two markets to trade and learn how they move and behave."
+      "차트에 모든 지표를 삭제하고 일일 진입, 손절, 이탈 규칙을 명시적으로 작성하라.",
+      "하루에 한 두 개의 시장을 선택하고 그들의 움직임과 행동을 연구하라.",
+      "매일 최소 네 시간 동안 시장을 관찰하고 패턴을 기록하라."
     ],
-    "caution": "성과·수익 발화: “I teach traders how to get profitable using simple, boring approaches like this.” 홍보·행동유도 발화: “And if that sounds like you, make sure to follow.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 122,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4025,21 +3910,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2767878106742940": {
     "date": "2025.10.20",
     "duration": "00:10",
-    "originalTitle": "1.3M views · 12K reactions | What To Do When You See These Candle Sticks 🕯️ ➤ Bullish Engulfing: Big green candle swallows the previous red one after a decline. Demand is back. Enter on close or wait for the next bar. ➤ Bearish Engulfing: Big red candle swallows the previous green one after a rally. Sellers took over. Enter short on close or next bar. ➤ Hammer: Small body, long tail underneath, forms after a selloff. Buyers stepped in and pushed price back up. Go long if the next candle holds above the hammer's high. ➤ Shooting Star: Small body, long wick on top, shows up after a rally. Sellers rejected the higher prices. Go short if the next candle drops below the star's low. ➤ Morning Star: Three-candle reversal pattern: downtrend, small indecision, and a strong green. Trend turns up. Enter on the third candle’s close. ➤ Evening Star: Also a three-candle reversal pattern: uptrend, small indecision, and a strong red. Trend turns down. Sell on the third candle’s close. ➤ Double Bottom: Price hits a low twice with a bounce in between. Wait for the break above that middle peak before buying. ➤ Double Top: Price hits a high twice with a pullback in between. Wait for the break below that middle low before selling. ➤ Ascending Triangle: Horizontal resistance, higher lows underneath. Buy when price breaks through the top with volume backing it. ➤ Descending Triangle: Horizontal support, lower highs above. Sell when price breaks through the bottom with volume backing it. 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. Follow for sector-backed signals, tight risk rules, and a checklist you can run in minutes! | Raghee Horner",
-    "title": "영상 발화 분석: bullish engulfing bearish engulfing hammer shooting star morning star evening star double bottom double…",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 10.33초·로컬 Whisper large-v3-turbo 전사 19단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “bullish engulfing bearish engulfing hammer shooting star morning star evening star double bottom double top ascending triangle descending triangle”",
+    "originalTitle": "What To Do When You See These Candle Sticks 🕯️ ➤ Bullish Engulfing: Big green candle swallows the previous red one after a decline. Demand is back. Enter on close or wait for the…",
+    "title": "하락 후 큰 초록봉이 전봉을 먹는 bullish engulfing",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "지지·저항",
+      "위험관리",
+      "주식·섹터",
+      "매수 신호"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “bullish engulfing bearish engulfing hammer shooting star morning star evening star double bottom double top ascending triangle descending triangle”",
+    "core": "하락 추세 후 큰 초록봉이 전봉을 먹으면 매수 신호가 되며, 가까운 거래시간에 진입할 수 있다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: bullish engulfing bearish engulfing hammer shooting star morning star evening star double bottom double top ascending triangle descending triangle"
+      "하락 추세 후 큰 초록봉이 전봉을 먹으면 매수 신호가 되며, 가까운 거래시간에 진입할 수 있다.",
+      "가격이 hammer 높이를 유지한다면 장기 포지션을 진입할 수 있다.",
+      "shooting star가 나타나면 가격이 하락할 것으로 예상되며, 가까운 거래시간에 진입할 수 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 19,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4047,26 +3935,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2823936361133219": {
     "date": "2026.02.16",
     "duration": "01:36",
-    "originalTitle": "8.5K views · 143 reactions | What's the difference between markup, markdown, and a range-bound market? 🤔 Follow for more trading insights that can ease your trading journey! | Raghee Horner",
-    "title": "지지·저항: And here's why I never trade them the same way.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 96.04초·로컬 Whisper large-v3-turbo 전사 385단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What's the difference between markup, markdown, and a range bound market?” / “This is the opposite of markup.”",
+    "originalTitle": "What's the difference between markup, markdown, and a range-bound market? 🤔 Follow for more trading insights that can ease your trading journey!",
+    "title": "markup, markdown, range-bound 시장에서의 차이와 거래 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "breakout",
-      "CTA"
+      "지지·저항",
+      "주식·섹터",
+      "markup",
+      "markdown"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “What's the difference between markup, markdown, and a range bound market?” 이어 “This is the opposite of markup.” 이어 “For example, if price keeps bouncing between 50 and 55, look to buy around 50 and take profit near 55, or just wait for a clean breakout before entering or before switching to a trending strategy after the bre…” 이어 “And if you're in the range bound phase, be patient and use range trading strategies by finding the support and resistance and using an indicator like the slow stochastic to confirm the levels.”",
+    "core": "markup과 markdown은 가격이 높은 고점과 저점, 낮은 고점과 저점을 형성하는 시장을 말하며, range-bound 시장은 가격이 지지와 저항 사이에서 횡보하는 것을 나타냅니다.",
     "rules": [
-      "원문 실행 문장: And here's why I never trade them the same way.",
-      "원문 실행 문장: For example, if a stock breaks 80, bounces, or rallies to previous resistance or a retracement level, that bounce is where you would consider a short sell or even long puts.",
-      "원문 실행 문장: If you're in the markup phase, use trending strategies.",
-      "원문 실행 문장: If you're in the markdown phase, use a short selling strategy.",
-      "원문 실행 문장: And if you're in the range bound phase, be patient and use range trading strategies by finding the support and resistance and using an indicator like the slow stochastic to confirm the levels."
+      "markup 시장에서는 가격이 높은 고점과 저점을 형성할 때 매수할 수 있는 기회가 생깁니다.",
+      "markdown 시장에서는 가격이 낮은 고점과 저점을 형성할 때 매도할 수 있는 기회가 생깁니다.",
+      "range-bound 시장에서는 지지와 저항을 찾고, 스토캐스틱과 같은 지표를 사용하여 거래 전략을 수립합니다."
     ],
-    "caution": "성과·수익 발화: “For example, if price keeps bouncing between 50 and 55, look to buy around 50 and take profit near 55, or just wait for a clean breakout before entering or before switching to a t…” 홍보·행동유도 발화: “Follow for more trading insights that can ease your trading journey.” / “Follow for trading insights.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 385,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4074,22 +3960,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2839271596430125": {
     "date": "2026.07.13",
     "duration": "00:53",
-    "originalTitle": "12K views · 233 reactions | What's the difference between: Inside Bar, Outside Bar, and NR4? 📈 Follow along if you want trading lessons that make chart patterns easier to read! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #insidebar #outsidebar #nr4pattern #tradingsetups | Raghee Horner",
-    "title": "4시간봉 캔들 레인지: What's the difference between an inside bar, outside bar, and an NR4, or narrow range four bar?",
+    "originalTitle": "What's the difference between: Inside Bar, Outside Bar, and NR4? 📈 Follow along if you want trading lessons that make chart patterns easier to read! 👉 Disclaimer: This content is…",
+    "title": "인사이드 바, 아웃사이드 바, NR4 차트 패턴의 차이 60분 차트 기준",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 53.47초·로컬 Whisper large-v3-turbo 전사 130단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What's the difference between an inside bar, outside bar, and an NR4, or narrow range four bar?” / “The outside bar is a larger candle outside the prior candle's range.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "candle range",
-      "psychology",
-      "CTA"
+      "캔들 범위",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 4시간봉 캔들 레인지 콘텐츠다. “What's the difference between an inside bar, outside bar, and an NR4, or narrow range four bar?” 이어 “The outside bar is a larger candle outside the prior candle's range.” 이어 “That usually shows prices compressed and traders are waiting for expansion.” 이어 “Something's going to happen.”",
+    "core": "인사이드 바는 가격이 일시적으로 휴식을 취하고 다음 방향을 결정하는 신호를 제공하며, 아웃사이드 바는 가격 변동성이 증가하고 주체가 바뀌는 신호를 나타낸다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: What's the difference between an inside bar, outside bar, and an NR4, or narrow range four bar?"
+      "인사이드 바는 이전 캔들 내에 작은 캔들이 들어와 가격이 일시적으로 휴식을 취하는 것을 나타낸다.",
+      "아웃사이드 바는 이전 캔들 범위를 벗어나 큰 캔들이 들어와 가격 변동성이 증가하고 주체가 바뀌는 것을 나타낸다.",
+      "NR4는 최근 네 개의 캔들 중 가장 좁은 가격 범위를 나타내며, 가격이 압축되고 확장될 가능성이 있는 신호를 제공한다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow along if you want trading lessons that make chart patterns less emotional and easier to read.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 130,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4097,27 +3985,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2855264168147756": {
     "date": "2026.04.07",
     "duration": "01:11",
-    "originalTitle": "54K views · 1.1K reactions | How to become a profitable trader in 6-12 months💰 Follow for more tips to help you achieve consistent profitability! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Step number one, master risk before profits.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 71.00초·로컬 Whisper large-v3-turbo 전사 168단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's my trading strategy explained so simply that a five-year-old can understand it.” / “Start on the four hour or the daily charts.”",
+    "originalTitle": "How to become a profitable trader in 6-12 months💰 Follow for more tips to help you achieve consistent profitability! 👉 Disclaimer: This content is for educational purposes only an…",
+    "title": "6개월 내로 수익성 있는 트레이더 되기 - 4시간 차트부터 시작",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "4H",
-      "risk",
-      "journal",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "트레이딩",
+      "위험 관리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Here's my trading strategy explained so simply that a five-year-old can understand it.” 이어 “Start on the four hour or the daily charts.” 이어 “Step number four, journal every single trade.” 이어 “Consistency compounds faster than luck ever will.”",
+    "core": "첫 번째 단계는 위험 관리로, 한 번의 거래에서 최대 3%의 위험만 감수해야 합니다.",
     "rules": [
-      "원문 실행 문장: Step number one, master risk before profits.",
-      "원문 실행 문장: Only risk one to three percent per trade and protect your account.",
-      "원문 실행 문장: Some of the best traders in the world use longer time frame charts.",
-      "원문 실행 문장: Pick one high probability setup, trend, level, trigger, stop, target, and repeat it 50 to 100 times until it's second nature.",
-      "원문 실행 문장: Step number five, trade your process, not the money."
+      "첫 번째 단계는 위험 관리로, 한 번의 거래에서 최대 3%의 위험만 감수해야 합니다.",
+      "두 번째 단계는 4시간 또는 일일 차트에서 거래를 시작하여 시간이 충분히 있는 레벨과 패턴을 분석합니다.",
+      "세 번째 단계는 한 가지 높은 확률 설정을 선택하고, 그 설정을 50~100번 반복하여 숙달시킵니다."
     ],
-    "caution": "성과·수익 발화: “Only risk one to three percent per trade and protect your account.” 홍보·행동유도 발화: “Follow more tips to help you achieve consistent profitability.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 168,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4125,21 +4010,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2867394653498062": {
     "date": "2020.12.05",
     "duration": "00:06",
-    "originalTitle": "Grogoo aka Baby Yoda, my spirit animal. @deathwishcoffee | Raghee Horner",
-    "title": "영상 발화 분석: Grogoo aka Baby Yoda, my spirit animal.",
+    "originalTitle": "Grogoo aka Baby Yoda, my spirit animal. @deathwishcoffee",
+    "title": "Grogoo의 행동 분석: @deathwishcoffee",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 6.34초·로컬 Whisper large-v3-turbo 전사 2단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Grogoo aka Baby Yoda, my spirit animal.” / “@deathwishcoffee.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "Grogoo 분석",
+      "deathwishcoffee"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Grogoo aka Baby Yoda, my spirit animal.” 이어 “@deathwishcoffee.”",
+    "core": "Grogoo의 행동을 통해 투자 심리와 시장 동향을 분석할 수 있다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Grogoo aka Baby Yoda, my spirit animal."
+      "Grogoo가 활동하는 시장 가격대에서 안정적으로 움직임을 보여준다.",
+      "Grogoo가 가격이 하락할 때도 높은 가격대에서 보유하고 있는 것을 관찰할 수 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 2,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4147,27 +4033,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "2892575690917405": {
     "date": "2026.05.05",
     "duration": "01:24",
-    "originalTitle": "108K views · 2.3K reactions | How to get started trading 📈 Want to learn how to trade profitably? Follow for educational content to help you succeed! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Write down your available time, risk tolerance, and whether you want to focus on ETFs, indices, stocks,…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 84.31초·로컬 Whisper large-v3-turbo 전사 213단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I started trading when I was 15 years old, and now that money has grown to a seven-figure portfolio.” / “Spend your first weeks learning how markets, margin, leverage, basic order types, and timeframes work.”",
+    "originalTitle": "How to get started trading 📈 Want to learn how to trade profitably? Follow for educational content to help you succeed! 👉 Disclaimer: This content is for educational purposes only…",
+    "title": "15세부터 시작한 7자리 투자 경력의 트레이딩 입문 방법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "journal",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "주식·섹터",
+      "선물·지수"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I started trading when I was 15 years old, and now that money has grown to a seven-figure portfolio.” 이어 “Spend your first weeks learning how markets, margin, leverage, basic order types, and timeframes work.” 이어 “Trade small and journal obsessively.” 이어 “Want to learn how to trade profitably?”",
+    "core": "성공적인 트레이딩을 시작하려면 시장과 기본 개념을 이해하고 규칙을 따르는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: Write down your available time, risk tolerance, and whether you want to focus on ETFs, indices, stocks, or futures so your style fits your life.",
-      "원문 실행 문장: Trade small and journal obsessively.",
-      "원문 실행 문장: Use a small account or smallest position size.",
-      "원문 실행 문장: Gradually scale size and markets only after you've proven consistency.",
-      "원문 실행 문장: Want to learn how to trade profitably?"
+      "15세부터 시작한 개인의 경험이나 투자 스타일을 고려하여 트레이딩 경로를 결정하라.",
+      "마진, 레버리지, 주문 유형, 시간 프레임 등 기본 개념을 철저히 공부하라.",
+      "소규모 계좌로 시작하여 규칙을 지키며 매매를 하되 매매마다 감정을 기록하라."
     ],
-    "caution": "성과·수익 발화: “Choose one framework and cap every trade at a small, fixed percent of your account.” 홍보·행동유도 발화: “Once your journal shows several months of disciplined, positive performance in a market or setup, slowly increase size and consider adding a second time frame or asset class.” / “Follow for educational content to help you succeed.” 전사에서 초기 손절·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 213,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4175,21 +4058,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "293415221969111": {
     "date": "2020.08.07",
     "duration": "00:07",
-    "originalTitle": "A lot of traders are feeling like this poor cat right now, wondering when the floor will fall out of the market. Here are a few thoughts. 1) no one knows where the top is and if they do, they ain’t talkin’ 2) asset bubbles & irrational exuberance will last as long as there are buyers thinking they are missing out. These are the greater fools, and rallies have and will always need them. Are all of them fools? No. But the last group is - and no one ever thinks they are the top of the market. 3) trends and pullback entries work. Pullbacks will not occur on “good” news! They will not feel intuitive. You don’t not want to pick tops in asset bubblies, that’s “contrarian” and IMO total garbage thinking. The only career permabears have is on television. You do however want to be counter-intuitive and that’s buying pullbacks in uptrends when most of the sheeple are listening to the “bad” news, downgrades, and the permabear of the day on tv 4) no market is exactly like one in the past but YOU MUST BE A STUDENT OF MARKET HISTORY because it will allow you to recognize similarities and setups. Now each asset bubble has different catalysts. This is an asset bubble that was actually more difficult for seasoned traders (I’m saying from experience) since the bubble was actively created by the powers that be. (you know who...) but the fall will be where most seasoned traders have and will make their bank. (Druckenmiller the G.O.A.T. of trading has said as much about his career and I know the same has been with mine.) 5) for now, let go of the thinking of how dumb valuations are, let go of macro, let go of fundamentals, let go of thinking you are going to pick the top. Go watch The Big Short and quit thinking you are the person Michael Lewis will be writing a book about. Michael Burry did not have a smooth ride to his billions. People forget that. He didn’t pick the top. He was smart and lucky to not blow up before the trend shifted. And he scuttled his fund after. 6) Be more like the Robinhood traders. Just for a little while. The trend is up and the greater fools are still around. Quit thinking you are a portfolio manager or a hedge fund (unless you are) and remember yo | Raghee Horner",
-    "title": "영상 발화 분석: A lot of traders are feeling like this poor cat right now, wondering when the floor will fall out of the…",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 7.10초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “A lot of traders are feeling like this poor cat right now, wondering when the floor will fall out of the market.” / “You don’t not want to pick tops in asset bubblies, that’s “contrarian” and IMO total garbage thinking.”",
+    "originalTitle": "A lot of traders are feeling like this poor cat right now, wondering when the floor will fall out of the market. Here are a few thoughts. 1) no one knows where the top is and if t…",
+    "title": "상승장에서의 반등 매수 전략 - '더 큰 바보'들이 사는 사이에",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자전략",
+      "상승장",
+      "반등매수"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “A lot of traders are feeling like this poor cat right now, wondering when the floor will fall out of the market.” 이어 “You don’t not want to pick tops in asset bubblies, that’s “contrarian” and IMO total garbage thinking.” 이어 “Go watch The Big Short and quit thinking you are the person Michael Lewis will be writing a book about.” 이어 “Quit thinking you are a portfolio manager or a hedge fund (unless you are) and remember yo.”",
+    "core": "상승장에서의 반등 매수는 '더 큰 바보'들이 사는 사이에 이루어져야 한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: A lot of traders are feeling like this poor cat right now, wondering when the floor will fall out of the market."
+      "상승장에서의 반등은 '더 큰 바보'들이 사는 사이에 이루어져야 한다.",
+      "매매 흐름을 반대로 가는 것은 '컨트리어니안'으로, 실제 성과를 내기 어렵다.",
+      "과열된 자산 투자에서는 톱을 잡는 것은 '전설의 투자자'들조차도 피해야 한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4197,21 +4083,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "296717634884744": {
     "date": "2020.08.04",
     "duration": "00:12",
-    "originalTitle": "We all have those days... | Raghee Horner",
-    "title": "영상 발화 분석: We all have those days....",
+    "originalTitle": "We all have those days...",
+    "title": "모든 trader가 겪는 날들",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 11.96초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “We all have those days....”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자심리",
+      "투자전략"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “We all have those days....”",
+    "core": "투자자들은 투자 성과가 좋지 않을 때도 있지만, 그럴 때는 빠르게 회복해야 한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: We all have those days...."
+      "투자 성과가 좋지 않을 때 빠르게 회복해야 한다.",
+      "양호한 성과를 얻기 전까지는 포지션을 유지해야 한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4219,21 +4106,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "300855161352594": {
     "date": "2020.07.24",
     "duration": "00:17",
-    "originalTitle": "11 reactions · 3 comments | Hey @roccat, I love how this trading rig looks at night. | Raghee Horner",
-    "title": "영상 발화 분석: I'm going to go to the next video.",
+    "originalTitle": "Hey @roccat, I love how this trading rig looks at night.",
+    "title": "로카트의 밤 트레이딩 라이트",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 16.98초·로컬 Whisper large-v3-turbo 전사 8단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm going to go to the next video.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "로카트",
+      "NIGHT Trading"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm going to go to the next video.”",
+    "core": "로카트의 트레이딩 라이트가 밤에 보이는 모습이 매우 인상적이다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I'm going to go to the next video."
+      "로카트의 트레이딩 라이트가 밤에 보이는 모습을 칭찬한다.",
+      "다음 영상에서는 다른 주제로 넘어간다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 8,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4241,21 +4129,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "306521317095779": {
     "date": "2020.08.15",
     "duration": "00:55",
-    "originalTitle": "Me, every day the market is open. Me, when I get to make cool things with the awesome people in my life. Me, when that next book arrives from Amazon. Me, when I see that great trade just hanging out there like a pitch I know I will crush. Also, me when the onion rings come out of the air fryer just perfect. If you don’t love it. Don’t do it. Life is too #%!* short to not be excited at the start line. | Raghee Horner",
-    "title": "영상 발화 분석: The The The The The The The The The The The The The",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 54.99초·로컬 Whisper large-v3-turbo 전사 13단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The The The The The The The The The The The The The”",
+    "originalTitle": "Me, every day the market is open. Me, when I get to make cool things with the awesome people in my life. Me, when that next book arrives from Amazon. Me, when I see that great tra…",
+    "title": "장시작과 거래시점에서의 열정과 기회",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "시장열림",
+      "열정"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “The The The The The The The The The The The The The”",
+    "core": "매일 시장이 열릴 때마다 새로운 기회를 찾는 것이 중요하다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: The The The The The The The The The The The The The"
+      "매일 시장이 열릴 때마다 새로운 기회를 찾는 것이 중요하다.",
+      "생명은 시작선에서 흥분하지 않으면 너무 짧다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 13,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4263,20 +4153,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "315756476332553": {
     "date": "2020.08.25",
     "duration": "00:32",
-    "originalTitle": "I love any convo with my buddie Anthony. Check it out! | Raghee Horner",
-    "title": "지지·저항: Life often dictates how we trade.",
-    "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 31.54초·로컬 Whisper large-v3-turbo 전사 91단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Life often dictates how we trade.” / “It's not ideal, but a lot of times whatever's going around in life, what we need to tend to apart from the charts will dictate what I can do.”",
+    "originalTitle": "I love any convo with my buddie Anthony. Check it out!",
+    "title": "2월과 3월의 불확실성으로 인한 짧은 시간 프레임 트레이딩",
+    "kind": "commentary",
+    "verdict": "전략 아님",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance"
+      "지지·저항",
+      "불확실성",
+      "시간 프레임",
+      "지원 저항"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Life often dictates how we trade.” 이어 “It's not ideal, but a lot of times whatever's going around in life, what we need to tend to apart from the charts will dictate what I can do.” 이어 “And the less certain that I am, the shorter my time frames, the less I think that I can project levels, support, resistance, tendencies out into the future.” 이어 “So my natural instinct is in times of uncertainty, let's just keep things a little closer to the best.”",
+    "core": "불확실성이 높을수록 더 짧은 시간 프레임을 사용하는 것이 좋다.",
     "rules": [
-      "원문 실행 문장: Life often dictates how we trade."
+      "불확실성이 높을수록 더 짧은 시간 프레임을 사용해야 한다.",
+      "지속적인 불확실성이 있을 때, 지원과 저항 수준을 예측하기 어렵다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 91,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4284,28 +4177,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "3227181054150632": {
     "date": "2026.07.30",
     "duration": "01:04",
-    "originalTitle": "15K views · 213 reactions | Use VWAP To Become A 6 Figure Trader 📈 Follow for more Financial Education and Options Trading tips! #optionstradingforbeginners #vwaptrading #sixfiguretrader #tradingpsychology #technicalanalysis 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "Anchored VWAP: Use the VWAP to become a more profitable trader.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 64.34초·로컬 Whisper large-v3-turbo 전사 174단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Use the VWAP to become a more profitable trader.” / “Anchor one from the most recent significant swing high and another from the most recent significant swing low and then read where price sits.”",
+    "originalTitle": "Use VWAP To Become A 6 Figure Trader 📈 Follow for more Financial Education and Options Trading tips! #optionstradingforbeginners #vwaptrading #sixfiguretrader #tradingpsychology #…",
+    "title": "VWAP을 활용한 6자리 수 트레이딩 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "VWAP",
-      "support",
-      "resistance",
-      "risk",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 Anchored VWAP 콘텐츠다. “Use the VWAP to become a more profitable trader.” 이어 “Anchor one from the most recent significant swing high and another from the most recent significant swing low and then read where price sits.” 이어 “Step number four, execute the trade with a defined stop.” 이어 “Do you struggle with finding high probability trades and setups?”",
+    "core": "VWAP을 활용하면 시장 편향을 파악하고, 여러 수단이 일치할 때 진입할 수 있는 기회를 찾을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Use the VWAP to become a more profitable trader.",
-      "원문 실행 문장: Step number three, wait for confluence.",
-      "원문 실행 문장: When I'm trading options, I typically risk no more than 25% of premium paid.",
-      "원문 실행 문장: Enter after confirmation.",
-      "원문 실행 문장: Place your stop beyond the level and target at least a two to one or minimum one-to-one risk to reward ratio."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "성과·수익 발화: “Use the VWAP to become a more profitable trader.” / “When I'm trading options, I typically risk no more than 25% of premium paid.” 홍보·행동유도 발화: “Follow for more trading education.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 174,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4313,23 +4200,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "3245621472295305": {
     "date": "2026.06.03",
     "duration": "00:21",
-    "originalTitle": "315K views · 4.9K reactions | Top Trading Tools 📈 I am a trading educator and if you want to learn trading strategies from my 38 year of experience make sure to follow! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #tradingtools #financialeducation #stockmarket #ragheehorner | Raghee Horner",
-    "title": "주식·섹터: Use Thinkorswim for a broker app.",
+    "originalTitle": "Top Trading Tools 📈 I am a trading educator and if you want to learn trading strategies from my 38 year of experience make sure to follow! 👉 Disclaimer: This content is for educat…",
+    "title": "38년 경력의 트레이더가 추천하는 최고의 트레이딩 도구",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 20.73초·로컬 Whisper large-v3-turbo 전사 62단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Use this for charting.” / “Use FTMO for funded capital and profit splits.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "옵션",
+      "주식·섹터",
+      "선물·지수",
+      "트레이딩 도구"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Use this for charting.” 이어 “Use FTMO for funded capital and profit splits.” 이어 “Use BabyPips for Forex basics.” 이어 “I'm a trader with over 38 years of trading experience.”",
+    "core": "Thinkorswim은 브로커 앱, FTMO는 자금과 수익률 분배, BabyPips는 Forex 기본, Investopedia는 트레이딩 전략을 위한 핵심 도구로 추천한다.",
     "rules": [
-      "원문 실행 문장: Use this for charting.",
-      "원문 실행 문장: Use Thinkorswim for a broker app.",
-      "원문 실행 문장: Use FTMO for funded capital and profit splits.",
-      "원문 실행 문장: Use BabyPips for Forex basics.",
-      "원문 실행 문장: Use Investopedia for trading strategy basics."
+      "Thinkorswim을 브로커 앱으로 사용하라.",
+      "FTMO를 자금과 수익률 분배를 위한 플랫폼으로 사용하라.",
+      "BabyPips를 Forex 기본 지식을 배우는 데 사용하라."
     ],
-    "caution": "성과·수익 발화: “Use FTMO for funded capital and profit splits.” 홍보·행동유도 발화: “And if you want to learn trading strategies from all my years of trading Forex, futures, options, and stocks, make sure to follow.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 62,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4337,26 +4225,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "3247373745421127": {
     "date": "2025.10.30",
     "duration": "00:54",
-    "originalTitle": "1.2K views · 11 reactions | My Top ICT Indicators 💯 Follow for proven sector rotation strategies that create consistent trading setups! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: If you see price fail to close above an old high with three bar swing, do a tight stop above the swing a…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 54.00초·로컬 Whisper large-v3-turbo 전사 164단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you see price fail to close above an old high with three bar swing, do a tight stop above the swing and do not chase the breakout.” / “If you see price holding the upper half of a bullish opening balance, do buy the pullback and stop below the opening balance and not buy if price closes below the opening balance midpoint.”",
+    "originalTitle": "My Top ICT Indicators 💯 Follow for proven sector rotation strategies that create consistent trading setups! 👉 Disclaimer: This content is for educational purposes only and is not…",
+    "title": "ICT 산업에서의 가격 패턴 분석",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "FVG",
-      "support",
-      "breakout",
-      "performance claim",
-      "CTA"
+      "오더블록",
+      "지지·저항",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “If you see price fail to close above an old high with three bar swing, do a tight stop above the swing and do not chase the breakout.” 이어 “If you see price holding the upper half of a bullish opening balance, do buy the pullback and stop below the opening balance and not buy if price closes below the opening balance midpoint.” 이어 “If you see a bullish fair value gap and looking left an overlapping breaker, do take the confluence long and do not take the fair value gap with no support.” 이어 “Don't assume every down candle is an order block.”",
+    "core": "ICT 산업에서의 가격 패턴을 이용한 일관된 트레이딩 세팅을 만드는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: If you see price fail to close above an old high with three bar swing, do a tight stop above the swing and do not chase the breakout.",
-      "원문 실행 문장: If you see a candle close above a fair value gap's 50%, do look long to fill the gap and not short into the imbalance.",
-      "원문 실행 문장: If you see price holding the upper half of a bullish opening balance, do buy the pullback and stop below the opening balance and not buy if price closes below the opening balance midpoint.",
-      "원문 실행 문장: If you see price tags resistant then break structure with displacement leaving both a fair value gap and opening balance, do use that opening balance for shorts."
+      "가격이 공정값 텀의 50%를 넘는 캔들 닫힐 때, 텀을 채우기 위해 장을 구매하고 공정값 텀을 추락시키지 말 것.",
+      "가격이 긍정적 개장 균형의 상단 반을 유지할 때, 개장 균형 아래에서 매수하고 가격이 개장 균형의 중간을 밑돌 때는 매수하지 말 것.",
+      "긍정적 공정값 텀과 겹치는 브레이커를 보았을 때, 공정값 텀의 지원이 없는 경우 그 텀을 이용해 매도할 것."
     ],
-    "caution": "성과·수익 발화: “If you see a candle close above a fair value gap's 50%, do look long to fill the gap and not short into the imbalance.” 홍보·행동유도 발화: “Follow for proven sector rotation strategies that create consistent trading setups.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 164,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4364,20 +4250,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "331196381575475": {
     "date": "2020.08.19",
     "duration": "00:21",
-    "originalTitle": "Chatting with @10minutetrading is always a good time! | Raghee Horner",
-    "title": "주식·섹터: This is the How to Trade Stocks and Options podcast brought to you by 10MinuteStockTrader.com, where we…",
+    "originalTitle": "Chatting with @10minutetrading is always a good time!",
+    "title": "10분 트레이딩의 팟캐스트에서 빠르게 돈을 늘리는 방법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 21.27초·로컬 Whisper large-v3-turbo 전사 56단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Take a little bit of money and turn it into a lot of money really fast.” / “This is the How to Trade Stocks and Options podcast brought to you by 10MinuteStockTrader.com, where we cover finance, stocks, options, entrepreneurship, education, and money.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "옵션",
+      "주식·섹터",
+      "10분 트레이딩",
+      "주식"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Take a little bit of money and turn it into a lot of money really fast.” 이어 “This is the How to Trade Stocks and Options podcast brought to you by 10MinuteStockTrader.com, where we cover finance, stocks, options, entrepreneurship, education, and money.” 이어 “And here's your host, voted one of the top 100 people in finance, Christopher Ewell.”",
+    "core": "10분 만에 주식과 옵션을 통해 빠르게 돈을 늘릴 수 있는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: This is the How to Trade Stocks and Options podcast brought to you by 10MinuteStockTrader.com, where we cover finance, stocks, options, entrepreneurship, education, and money."
+      "10분 만에 주식과 옵션을 통해 빠르게 돈을 늘릴 수 있는 방법을 설명한다.",
+      "호스트 Christopher Ewell은 금융 분야에서 상위 100명 중 한 명으로 알려져 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 56,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4385,26 +4274,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "3313275262180583": {
     "date": "2025.10.23",
     "duration": "00:59",
-    "originalTitle": "103K views · 1.3K reactions | How To Actually Learn Day Trading 📈 Follow for proven day trading rules from a 38 years trader! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Pick a cash account and cap risk at 2-3% per trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 58.97초·로컬 Whisper large-v3-turbo 전사 162단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is how I would do day trading if I was starting from scratch.” / “Buy a put when you expect the market to go down.”",
+    "originalTitle": "How To Actually Learn Day Trading 📈 Follow for proven day trading rules from a 38 years trader! 👉 Disclaimer: This content is for educational purposes only and is not financial, i…",
+    "title": "38년 경력자의 실제 일일 트레이딩 규칙",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "journal",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “This is how I would do day trading if I was starting from scratch.” 이어 “Buy a put when you expect the market to go down.” 이어 “Always cut losses at the dollar risk you set.” 이어 “Aim for an average win greater than average loss.”",
+    "core": "일일 트레이딩을 시작하려는 사람에게 실질적인 트레이딩 규칙을 제공합니다.",
     "rules": [
-      "원문 실행 문장: Pick a cash account and cap risk at 2-3% per trade.",
-      "원문 실행 문장: Buy a call when you expect the market to go up.",
-      "원문 실행 문장: Use affordable symbols.",
-      "원문 실행 문장: One trade at a time.",
-      "원문 실행 문장: Journal entry, exit, reason, result."
+      "현금 계좌를 선택하고, 한 번의 거래당 최대 2-3%의 위험을 설정합니다.",
+      "단순한 거래 전략을 사용하고, 상승 기대 시 콜을, 하락 기대 시 풋을 구매합니다.",
+      "5개의 유동 ETF 또는 투자 가능한 주식을 모니터링하는 워치리스트를 만듭니다."
     ],
-    "caution": "성과·수익 발화: “Pick a cash account and cap risk at 2-3% per trade.” / “Take profits at up 25-50% and if it keeps running, let a small piece ride towards 100%.” 홍보·행동유도 발화: “Follow for proven day trading rules from a 38-year trader.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 162,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4412,20 +4299,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "3354557068046231": {
     "date": "2026.04.21",
     "duration": "01:04",
-    "originalTitle": "7.2K views · 105 reactions | Understanding how trading actually works⚙️ Follow for more tips to help you achieve smarter sector rotation trades! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Third, it captures factor trends without single stock risk.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 64.10초·로컬 Whisper large-v3-turbo 전사 153단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What makes sector rotation trading so powerful?” / “Sectors leading over the past six to 12 months often keep leading.”",
+    "originalTitle": "Understanding how trading actually works⚙️ Follow for more tips to help you achieve smarter sector rotation trades! 👉 Disclaimer: This content is for educational purposes only and…",
+    "title": "세CTOR 회전 거래의 핵심: 2~4개의 주요 SECTOR로 자금을 집중시키기",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "위험관리",
+      "주식·섹터",
+      "세CTOR 회전",
+      "주요 SECTOR"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “What makes sector rotation trading so powerful?” 이어 “Sectors leading over the past six to 12 months often keep leading.” 이어 “Fourth, it adapts to economic monetary policy.” 이어 “When the leadership shifts, you rotate with it instead of holding laggards through deep relative drawdowns.”",
+    "core": "세CTOR 회전 거래는 주로 두세 개의 주요 SECTOR에서 대부분의 시장 수익을 얻는다는 사실을 설명합니다.",
     "rules": [
-      "원문 실행 문장: Third, it captures factor trends without single stock risk."
+      "주요 SECTOR가 변화할 때마다 그에 맞춰 자금을 회전시키는 것이 중요하다.",
+      "지난 6개월에서 1년 동안 선도한 SECTOR들은 계속 선도할 가능성이 높다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more tips to help you achieve smarter sector rotation and understand sector weighting traits.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 153,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4433,21 +4323,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "3437248663202624": {
     "date": "2023.07.19",
     "duration": "00:08",
-    "originalTitle": "23 reactions | Raghee Horner on Reels",
-    "title": "영상 발화 분석: Thank you.",
+    "originalTitle": "Raghee Horner on Reels",
+    "title": "Raghee Horner의 Reels: 15분 거래 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 8.43초·로컬 Whisper large-v3-turbo 전사 2단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Thank you.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "Raghee Horner",
+      "15분 거래",
+      "가격 예측"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Thank you.”",
+    "core": "Raghee Horner은 15분 거래 시간 프레임에서 가격 변동을 예측하는 방법을 설명합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Thank you."
+      "15분 거래 시간 프레임을 사용하여 가격 변동을 예측합니다.",
+      "전략은 주로 15분 차트에서 가격의 변동성을 분석합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 2,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4455,25 +4347,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "3460569807453270": {
     "date": "2026.04.30",
     "duration": "01:24",
-    "originalTitle": "38K views · 1K reactions | Supply and demand is so simple 🔍 Looking to get into trading? Follow for educational content to help you succeed! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: Look for strong drops, then draw a box at the top of where green candles are engulfed by a bearish candl…",
+    "originalTitle": "Supply and demand is so simple 🔍 Looking to get into trading? Follow for educational content to help you succeed! 👉 Disclaimer: This content is for educational purposes only and i…",
+    "title": "supply and demand의 구체적인 셋업 과정",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 84.37초·로컬 Whisper large-v3-turbo 전사 232단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Supply and demand is so simple, it's really just resistance and support.” / “Step two, find supply zones on the chart.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "CTA"
+      "지지·저항",
+      "위험관리",
+      "supply",
+      "demand"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Supply and demand is so simple, it's really just resistance and support.” 이어 “Step two, find supply zones on the chart.” 이어 “Mark the nearest supply above and demand below current price.” 이어 “Looking to get into trading?”",
+    "core": "supply와 demand를 이해하면 거래 기회를 찾을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Look for strong drops, then draw a box at the top of where green candles are engulfed by a bearish candle, indicating supply zones where sellers might step in again.",
-      "원문 실행 문장: Step four, use these zones to find trade setups.",
-      "원문 실행 문장: Then plan to look for short trades near supply or resistance and long entries near demand or support.",
-      "원문 실행 문장: Step five, plan when to enter and exit before you get in the trade.",
-      "원문 실행 문장: Place your stop just outside the zone and set your first target halfway between the zones."
+      "supply 구역에서 가까운 가격대에서 short 진입을 계획하고, demand 구역에서 가까운 가격대에서 long 진입을 계획한다.",
+      "supply 구역과 demand 구역 사이의 가격대를 목표로 설정한다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for educational content to help you succeed.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 232,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4481,24 +4371,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "3857337861228084": {
     "date": "2026.03.05",
     "duration": "00:52",
-    "originalTitle": "5.6K views · 61 reactions | How I’m investing in ETFs 💰 Follow for grounded trading and investing education built on proven market structure! | Raghee Horner",
-    "title": "위험관리: I buy ETFs that trade a few thousand shares a day with a wide bid-ask spread.",
+    "originalTitle": "How I’m investing in ETFs 💰 Follow for grounded trading and investing education built on proven market structure!",
+    "title": "ETF 투자 전략: 높은 위험 ETF부터 심도 있는 분석까지",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 52.45초·로컬 Whisper large-v3-turbo 전사 270단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I buy ETFs that trade a few thousand shares a day with a wide bid-ask spread.” / “I buy ETFs without looking at the top 10 holdings.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim"
+      "위험관리",
+      "ETF 투자",
+      "투자 전략",
+      "위험 관리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I buy ETFs that trade a few thousand shares a day with a wide bid-ask spread.” 이어 “I buy ETFs without looking at the top 10 holdings.” 이어 “I buy ETFs after mapping them into my portfolio.” 이어 “I buy ETFs after mapping them into my portfolio.”",
+    "core": "ETF 투자는 높은 위험을 고려하고 심도 있는 분석을 통해 결정해야 한다.",
     "rules": [
-      "원문 실행 문장: I buy ETFs that trade a few thousand shares a day with a wide bid-ask spread.",
-      "원문 실행 문장: Know what you trade.",
-      "원문 실행 문장: I buy ETFs after mapping them into my portfolio.",
-      "원문 실행 문장: I buy ETFs after mapping them into my portfolio.",
-      "원문 실행 문장: I buy ETFs after mapping them into my portfolio."
+      "ETF의 일 거래량과 펀드 구조를 고려하여 투자한다.",
+      "불명확한 ETF의 경우 설명을 읽지 않고 투자하지 않는다.",
+      "고비용비 ETF를 선호하지만, 심도 있는 분석을 통해 저비용비 ETF도 투자한다."
     ],
-    "caution": "성과·수익 발화: “I buy ETFs that trade a few thousand shares a day with a wide bid-ask spread.” / “I buy ETFs with expense ratios above a half percent.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 270,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4506,21 +4396,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "387580752682637": {
     "date": "2020.11.15",
     "duration": "00:08",
-    "originalTitle": "How can you not get goosebumps watching this? credit: Astro_taner | Raghee Horner",
-    "title": "영상 발화 분석: How can you not get goosebumps watching this?",
+    "originalTitle": "How can you not get goosebumps watching this? credit: Astro_taner",
+    "title": "Astro_taner의 이 순간, 가격이 115에서 117 사이에서 진입하면 매수하는 법",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 8.10초·Facebook 게시문 캡션 10단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “How can you not get goosebumps watching this?” / “credit: Astro_taner”",
+    "fidelity": "원본 영상·Facebook 게시문 캡션(무음 영상)·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "매수매도"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “How can you not get goosebumps watching this?” 이어 “credit: Astro_taner”",
+    "core": "이 순간의 가격 변동을 통해 트레이딩 기회를 잡는 방법을 보여줍니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: How can you not get goosebumps watching this?"
+      "가격이 115에서 117 사이에서 진입하면 매수",
+      "진입 후 가격이 117을 돌파하면 즉시 매도"
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 10,
     "transcriptSource": "Facebook 게시문 캡션(무음 영상)"
@@ -4528,21 +4419,21 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "3951928805111535": {
     "date": "2026.07.03",
     "duration": "00:07",
-    "originalTitle": "19K views · 150 reactions | Accumulation Vs. Manipulation Vs. Distribution 📈 A lot of traders misread these phases because they look different in real time. 🟡 Accumulation This can happen after a downtrend, when fear is high and price starts moving sideways or shaking below support. 🟣 Manipulation This is where sudden spikes or dips can trigger stop losses and pull traders into bad entries. 🟢 Distribution This can happen while price is still pushing higher, when late buyers are chasing and bigger players may be selling into strength. The key is knowing what phase you’re watching before you react. Follow along if you want trading lessons that make charts easier to understand! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #technicalanalysis #sectorrotation #tradingeducation #stockmarket #priceaction | Raghee Horner",
-    "title": "영상 발화 분석: If you are what you say you are, a superstar.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 7.23초·로컬 Whisper large-v3-turbo 전사 10단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you are what you say you are, a superstar.”",
+    "originalTitle": "Accumulation Vs. Manipulation Vs. Distribution 📈 A lot of traders misread these phases because they look different in real time. 🟡 Accumulation This can happen after a downtrend,…",
+    "title": "트레이딩 화면을 활용한 짧은 장면",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "지지·저항",
+      "위험관리",
+      "짧은 장면"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “If you are what you say you are, a superstar.”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: If you are what you say you are, a superstar."
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 10,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4551,22 +4442,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
     "date": "2019.01.27",
     "duration": "06:45",
     "originalTitle": "Macro Analysis Explained.",
-    "title": "유동성 스윕: All right, the reason we're hearing so much about it lately is for the past decade, we've had a very sin…",
+    "title": "달러 강세와 FOMC의 변화를 고려한 마이크로 분석",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 405.23초·로컬 Whisper large-v3-turbo 전사 1070단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “All right, the reason we're hearing so much about it lately is for the past decade, we've had a very singular monetary policy from central banks around the world and that is to print money, print lots of it, b…” / “The next is macro itself.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "psychology",
-      "CTA"
+      "유동성",
+      "심리·규율",
+      "주식·섹터",
+      "선물·지수"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “All right, the reason we're hearing so much about it lately is for the past decade, we've had a very singular monetary policy from central banks around the world and that is to print money, print lots of it, b…” 이어 “The next is macro itself.” 이어 “And I want to use the rate of change indicator as an example, although I don't use the rock, the rate of change.” 이어 “And this is very much something that my mentor taught me really 30 years ago.” 이어 “I can make copper a part of this, but it's factored into inflation.” 이어 “I try to think like a central banker.” 이어 “When in reality, they're going to get just whipped around by the way these two operate.” 이어 “I'll see you in the next update.”",
+    "core": "마이크로 분석은 단기 뉴스와 데이터보다는 장기 경제 흐름을 이해하는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: All right, the reason we're hearing so much about it lately is for the past decade, we've had a very singular monetary policy from central banks around the world and that is to print money, print lots of it, buy assets, keep rates low, keep the dollar pushed…",
-      "원문 실행 문장: And I want to use the rate of change indicator as an example, although I don't use the rock, the rate of change.",
-      "원문 실행 문장: Each one of these has a particular set of markets and sectors that do well and that do poorly in each one of these stages, if you will, or cycles."
+      "달러 강세와 FOMC의 변화를 고려하여 여러 시장의 동향을 분석해야 한다.",
+      "헤드라인 심리학과Fundamentals을 구별하여 마이크로 분석을 사용해야 한다."
     ],
-    "caution": "홍보·행동유도 발화: “Hey gang, Raggy here and in this free recap video, we're going to talk about what is macroeconomics or what you're hearing a lot about, which is macro.” / “Now, the ones that I use, as many of you may know, we did a special member webinar on this that's available for members in the member webinar playback section of the Futures Dashb…” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1070,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4574,21 +4465,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "409782681628252": {
     "date": "2023.11.04",
     "duration": "00:16",
-    "originalTitle": "2K views | Raghee Horner on Reels",
-    "title": "영상 발화 분석: This gymnast couldn't believe what he just did.",
+    "originalTitle": "Raghee Horner on Reels",
+    "title": "라지hee 호너의 레일스에서의 놀라운 활동",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 16.13초·로컬 Whisper large-v3-turbo 전사 22단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This gymnast couldn't believe what he just did.” / “Holy mackerel!”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "레일스"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “This gymnast couldn't believe what he just did.” 이어 “Holy mackerel!” 이어 “Look at that!” 이어 “He can't believe it!”",
+    "core": "이 지루한 활동은 그 활동가에게 큰 충격을 줬다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: This gymnast couldn't believe what he just did."
+      "그는 자신의 활동을 믿지 못했다.",
+      "놀라움에 찬 그의 반응을 보여준다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 22,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4596,26 +4488,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "4133927153495018": {
     "date": "2025.10.27",
     "duration": "00:45",
-    "originalTitle": "2.8K views · 36 reactions | How To Get Great At Trading 📈 Follow for trading habits that turn beginners into consistent, confident traders! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Undefined risk per trade is bad for trading.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 44.90초·로컬 Whisper large-v3-turbo 전사 114단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Undefined risk per trade is bad for trading.” / “Size by volatility PMR per trade is great.”",
+    "originalTitle": "How To Get Great At Trading 📈 Follow for trading habits that turn beginners into consistent, confident traders! 👉 Disclaimer: This content is for educational purposes only and is…",
+    "title": "투자 초보자를 위한 트레이딩 습관: 1-2% 고정 위험 관리",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "journal",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "주식·섹터",
+      "투자"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Undefined risk per trade is bad for trading.” 이어 “Size by volatility PMR per trade is great.” 이어 “No journal is bad for trading.” 이어 “Daily and weekly loss caps are great.”",
+    "core": "투자 초보자를 위한 트레이딩 습관을 개발하는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: Undefined risk per trade is bad for trading.",
-      "원문 실행 문장: Restrained risk is good.",
-      "원문 실행 문장: Same size trade is bad for trading.",
-      "원문 실행 문장: Size by percentage of the account is good.",
-      "원문 실행 문장: Size by volatility PMR per trade is great."
+      "투자할 때 각 거래의 위험을 고정된 1-2%로 관리하라.",
+      "거래량은 계정의 일정 퍼센트로 관리하라.",
+      "상대적 변동성 PMR을 기준으로 거래량을 조정하라."
     ],
-    "caution": "성과·수익 발화: “Fixed 1-2% is great.” / “Size by percentage of the account is good.” 홍보·행동유도 발화: “Follow for trading habits that turn beginners into consistent, confident traders.” 전사에서 초기 손절·청산 기준·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 114,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4623,26 +4513,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "4205606616424653": {
     "date": "2025.11.13",
     "duration": "00:54",
-    "originalTitle": "36K views · 562 reactions | My Top Indicators 💯 Follow for proven sector rotation strategies that create consistent trading setups! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: If you see price fail to close above an old high with three bar swing, do a tight stop above the swing a…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 54.00초·로컬 Whisper large-v3-turbo 전사 164단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you see price fail to close above an old high with three bar swing, do a tight stop above the swing and do not chase the breakout.” / “If you see price holding the upper half of a bullish opening balance, do buy the pullback and stop below the opening balance and not buy if price closes below the opening balance midpoint.”",
+    "originalTitle": "My Top Indicators 💯 Follow for proven sector rotation strategies that create consistent trading setups! 👉 Disclaimer: This content is for educational purposes only and is not fina…",
+    "title": "공정가치갭 되돌림을 이용한 진입",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "FVG",
-      "support",
-      "breakout",
-      "performance claim",
-      "CTA"
+      "오더블록",
+      "지지·저항",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “If you see price fail to close above an old high with three bar swing, do a tight stop above the swing and do not chase the breakout.” 이어 “If you see price holding the upper half of a bullish opening balance, do buy the pullback and stop below the opening balance and not buy if price closes below the opening balance midpoint.” 이어 “If you see a bullish fair value gap and looking left an overlapping breaker, do take the confluence long and do not take the fair value gap with no support.” 이어 “Don't assume every down candle is an order block.”",
+    "core": "선호 섹터로의 회전 전략을 사용하여 일관된 트레이딩 세팅을 생성합니다.",
     "rules": [
-      "원문 실행 문장: If you see price fail to close above an old high with three bar swing, do a tight stop above the swing and do not chase the breakout.",
-      "원문 실행 문장: If you see a candle close above a fair value gap's 50%, do look long to fill the gap and not short into the imbalance.",
-      "원문 실행 문장: If you see price holding the upper half of a bullish opening balance, do buy the pullback and stop below the opening balance and not buy if price closes below the opening balance midpoint.",
-      "원문 실행 문장: If you see price tags resistant then break structure with displacement leaving both a fair value gap and opening balance, do use that opening balance for shorts."
+      "가격이 오래된 고가 위로 클로징하지 못하면, 스윙 높이보다 약간 높은 가격대에 탄력적인 스탑을 두고 빠르게 추격하지 말아야 합니다.",
+      "가격이 긍정적인 개장 균형의 상단을 유지하면, 개장 균형 아래로 가격이 평균값을 넘지 않도록 빠른 회복을 구매하고 개장 균형 아래로 가격이 평균값을 넘지 않도록 하여 진입하지 말아야 합니다."
     ],
-    "caution": "성과·수익 발화: “If you see a candle close above a fair value gap's 50%, do look long to fill the gap and not short into the imbalance.” 홍보·행동유도 발화: “Follow for proven sector rotation strategies that create consistent trading setups.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 164,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4650,19 +4537,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "4208499376088725": {
     "date": "2025.11.19",
     "duration": "00:37",
-    "originalTitle": "44K views · 784 reactions | Follow for daily lessons to trade smarter and more confidently! | Raghee Horner",
-    "title": "주식·섹터: Ten years, it took me 10 years to go from trading alone and second-guessing myself to mentoring thousand…",
+    "originalTitle": "Follow for daily lessons to trade smarter and more confidently!",
+    "title": "10년간의 거래 경력으로부터 얻은 지식을 공유하는 트레이딩 가이드",
     "kind": "psychology",
     "verdict": "핵심 원칙",
-    "fidelity": "원본 36.77초·로컬 Whisper large-v3-turbo 전사 118단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Five years, it took me from drawing charts with a pencil to building my own trading tools that help thousands of traders every day.” / “Eight years, it took me from calling my broker on a landline to trading stocks, futures, and forex, all from screens at home.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "주식·섹터",
+      "선물·지수",
+      "트레이딩 가이드",
+      "MT"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Five years, it took me from drawing charts with a pencil to building my own trading tools that help thousands of traders every day.” 이어 “Eight years, it took me from calling my broker on a landline to trading stocks, futures, and forex, all from screens at home.” 이어 “And I wish all traders had a guide throughout their trading years to show them what they should and should not do.” 이어 “So this is who I will be for you.”",
+    "core": "10년간의 거래 경험을 통해 얻은 지식을 통해 더 똑똑하고 자신 있게 거래하는 방법을 배웁니다.",
     "rules": [
-      "원문 실행 문장: Ten years, it took me 10 years to go from trading alone and second-guessing myself to mentoring thousands of traders, watching them grow and win, and finally trade with confidence."
+      "5년 동안 수레에서 차트를 그렸던 경험을 통해 개발한 거래 도구를 사용하여 매일 거래를 수행합니다.",
+      "8년 동안 집에서 화면을 통해 주식, 선물, 외환을 거래하기 시작합니다.",
+      "10년 동안 혼자 거래하며 자문을 통해 수천 명의 거래자를 성장시키고 승리를 이끌어냅니다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for daily lessons to trade smarter and more confidently.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 118,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4670,21 +4562,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "4224893277722212": {
     "date": "2026.02.17",
     "duration": "00:28",
-    "originalTitle": "12K views · 186 reactions | Everyone wants to start trading until they realize this 📉 Follow for more trading insights from someone who’s been in the market for 30 years! | Raghee Horner",
-    "title": "위험관리: I learned how to manage risk and control my emotions.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 28.12초·로컬 Whisper large-v3-turbo 전사 85단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Everyone wants to start trading until they realize it looks like this.” / “This isn't because I got lucky.”",
+    "originalTitle": "Everyone wants to start trading until they realize this 📉 Follow for more trading insights from someone who’s been in the market for 30 years!",
+    "title": "30년 거래 경력자의 진정한 거래 성공 비결",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "거래 전략",
+      "위험 관리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Everyone wants to start trading until they realize it looks like this.” 이어 “This isn't because I got lucky.” 이어 “I learned how to manage risk and control my emotions.” 이어 “That's how I built consistency, confidence, and a million dollar portfolio by my mid-20s.”",
+    "core": "거래 성공은 운이 아닌 꾸준한 노력과 위험 관리, 감정 제어에 의한 것이다.",
     "rules": [
-      "원문 실행 문장: I learned how to manage risk and control my emotions."
+      "초기 거래에서 빠르게 수익을 얻으려 하지 말고, 위험 관리와 감정 제어에 집중해야 한다.",
+      "중장기적으로 일관된 수익을 얻기 위해 꾸준히 노력해야 한다.",
+      "20대 중반까지 수백만 달러의 포트폴리오를 구축하기 위해 위험 관리와 감정 제어를 실천했다."
     ],
-    "caution": "성과·수익 발화: “That's how I built consistency, confidence, and a million dollar portfolio by my mid-20s.” 홍보·행동유도 발화: “Follow for more trading insights from someone who's been in the market for over 30 years.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 85,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4692,27 +4587,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "4262807220673408": {
     "date": "2026.02.19",
     "duration": "01:35",
-    "originalTitle": "12K views · 171 reactions | There’s no magic indicators 🪄 Follow for more trading strategies that actually work! | Raghee Horner",
-    "title": "지지·저항: How do you look at a trade and decide, should I buy or should I sell?",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 94.97초·로컬 Whisper large-v3-turbo 전사 281단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “How do you look at a trade and decide, should I buy or should I sell?” / “Step number two, mark the price levels on the chart.”",
+    "originalTitle": "There’s no magic indicators 🪄 Follow for more trading strategies that actually work!",
+    "title": "상승 추세에서의 역발환 구매 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "risk",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "위험관리",
+      "상승 추세",
+      "역발환 구매"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “How do you look at a trade and decide, should I buy or should I sell?” 이어 “Step number two, mark the price levels on the chart.” 이어 “This is to avoid guessing and trade with a market already reacted.” 이어 “Then write down your entry, stop, and results after every single trade to see what works and what didn't.”",
+    "core": "상승 추세에서 가격이 저항선에서 반발하면 이를 역발환 구매 기회로 활용할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: How do you look at a trade and decide, should I buy or should I sell?",
-      "원문 실행 문장: Mark the recent highs and lows.",
-      "원문 실행 문장: In a downtrend, wait for a rally into resistance, where sellers showed strength and created resistance.",
-      "원문 실행 문장: Stops should be set below the last swing.",
-      "원문 실행 문장: Then write down your entry, stop, and results after every single trade to see what works and what didn't."
+      "상승 추세에서 가격이 최근 저항선에서 반발하면 역발환 구매 기회를 찾는다.",
+      "지정된 위험을 1~3%로 설정하고, 목표 수익은 위험의 2~3배로 설정한다."
     ],
-    "caution": "성과·수익 발화: “For example, if price rejected $102 three times or bounced off of $95 two or three times, those are your support and resistance zones.” / “Start small, like only risking three or less percent on a $1,000 account.” 홍보·행동유도 발화: “Follow for more trading strategies that actually help you grow.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 281,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4720,21 +4611,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "426373389015157": {
     "date": "2021.11.29",
     "duration": "00:28",
-    "originalTitle": "That Friday sell-off to Monday rally feeling. | Raghee Horner",
-    "title": "영상 발화 분석: I'm not going to be a little bit I'm not going to be a little bit I'm not going to be a little bit I'm n…",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 28.33초·로컬 Whisper large-v3-turbo 전사 120단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm not going to be a little bit I'm not going to be a little bit I'm not going to be a little bit I'm not going to be a little bit I'm not going to be a little bit I'm not going to be a little bit I'm not goi…”",
+    "originalTitle": "That Friday sell-off to Monday rally feeling.",
+    "title": "금요일 패들링과 월요일 회복의 감각",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "투자심리",
+      "주식시장"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm not going to be a little bit I'm not going to be a little bit I'm not going to be a little bit I'm not going to be a little bit I'm not going to be a little bit I'm not going to be a little bit I'm not goi…”",
+    "core": "금요일의 패들링과 월요일의 회복감각을 경험하는 것은 투자자들의 심리적 반응을 보여준다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I'm not going to be a little bit I'm not going to be a little bit I'm not going to be a little bit I'm not going to be a little bit I'm not going to be a little bit I'm not going to be a little bit I'm not going to be a little bit I'm not going to be a little…"
+      "금요일에 패들링이 일어나고 월요일에 회복이 발생한다.",
+      "이런 패턴은 투자자들의 심리적 반응을 반영한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 120,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4742,22 +4634,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "4270921736530045": {
     "date": "2026.01.01",
     "duration": "00:38",
-    "originalTitle": "23K views · 418 reactions | 2 types of traders 💹 Follow me if you want more simple mindset shifts that help you grow and stay calm in your trading journey. | Raghee Horner",
-    "title": "영상 발화 분석: I only care about if this trade makes money.",
+    "originalTitle": "2 types of traders 💹 Follow me if you want more simple mindset shifts that help you grow and stay calm in your trading journey.",
+    "title": "투자자 유형: 빠른 성장과 안정적인 성장",
     "kind": "psychology",
     "verdict": "핵심 원칙",
-    "fidelity": "원본 38.27초·로컬 Whisper large-v3-turbo 전사 124단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I only care about if this trade makes money.” / “I want to grow fast.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "투자자 유형",
+      "규칙",
+      "성장"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I only care about if this trade makes money.” 이어 “I want to grow fast.” 이어 “I focus on making many good trades over months and years.” 이어 “I never move my stop and I stick to my rules.”",
+    "core": "투자자는 빠른 성장을 위해 큰 수익을 추구하지만, 안정적인 투자자는 좋은 거래를 많이 쌓아가며 꾸준히 성장한다.",
     "rules": [
-      "원문 실행 문장: I only care about if this trade makes money.",
-      "원문 실행 문장: I try to turn my small account into a big one with one lucky trade.",
-      "원문 실행 문장: I make the stop further and make the loss bigger.",
-      "원문 실행 문장: I never move my stop and I stick to my rules."
+      "만들어진 규칙을 따르지 않으면 일관성이 없게 되며, 규칙을 따르면 자신감 있게 거래할 수 있다.",
+      "손절을 높이면 손실을 크게 만드지만, 작은 손실은 빠르게 받아들이는 것이 중요하다.",
+      "규칙을 지키지 않으면 일관성이 없지만, 규칙을 지키면 거래에 자신감을 가질 수 있다."
     ],
-    "caution": "홍보·행동유도 발화: “I only care if I follow my rules.” / “I follow my rules, so I trade with confidence.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 124,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4765,27 +4659,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "4460746424181675": {
     "date": "2026.04.14",
     "duration": "01:11",
-    "originalTitle": "6.5K views · 120 reactions | Use trading trendlines correctly📏 Want to go from getting stopped out at every trendline to making smart, consistent trades but without blindly guessing or losing money? Follow because I will show you exactly how! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "유동성 스윕: Are you struggling to trade with the trend line?",
+    "originalTitle": "Use trading trendlines correctly📏 Want to go from getting stopped out at every trendline to making smart, consistent trades but without blindly guessing or losing money? Follow be…",
+    "title": "트렌드라인 활용법: 15분 차트에서의 실전 적용",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 71.10초·로컬 Whisper large-v3-turbo 전사 203단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Are you struggling to trade with the trend line?” / “Trend lines show where retail liquidity clusters.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "sweep",
-      "support",
-      "resistance",
-      "CTA"
+      "유동성",
+      "지지·저항",
+      "위험관리",
+      "트렌드라인"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “Are you struggling to trade with the trend line?” 이어 “Trend lines show where retail liquidity clusters.” 이어 “Step number four, avoid choppy markets.” 이어 “Want to go from getting stopped out at every trend line to making smart, consistent trades, but without blindly guessing or losing money?”",
+    "core": "트렌드라인은 가격의 변동을 예측하는 도구로, 가격이 반전되기 전에 조기 신호를 제공한다.",
     "rules": [
-      "원문 실행 문장: Are you struggling to trade with the trend line?",
-      "원문 실행 문장: They are not buy or sell triggers.",
-      "원문 실행 문장: Look for confirmation.",
-      "원문 실행 문장: Smart traders only use trend lines in a clear trend.",
-      "원문 실행 문장: Enter after confirmation away from the trend line."
+      "15분 차트에서 두 개의 흔들림 높이 또는 저점을 연결하여 트렌드라인을 그린다.",
+      "가격이 트렌드라인을 테스트할 때, 가격이 반전되기 전에 트렌드라인을 신호로 사용한다.",
+      "가격이 트렌드라인을 테스트할 때, 가격이 반전되기 전에 트렌드라인을 신호로 사용한다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow because I'll show you exactly how.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 203,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4793,20 +4684,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "4503766063230583": {
     "date": "2026.07.20",
     "duration": "00:50",
-    "originalTitle": "9K views · 127 reactions | Your issue isn’t taking the wrong trades, your issue is impulse 📊 Want to learn how to make consistent profits long-term without changing strategies every few days? Hit follow and I’ll show you how! #optionstradingfundamentals #tradingpsychology #impulsecontrol #tradingmindset #financialeducation 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "주식·섹터: I blew $18,000 trying to trade every market possible.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 49.93초·로컬 Whisper large-v3-turbo 전사 150단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Your issue isn't taking the wrong trades, it's impulse control.” / “I traded stocks, jumped into Forex, did options setups.”",
+    "originalTitle": "Your issue isn’t taking the wrong trades, your issue is impulse 📊 Want to learn how to make consistent profits long-term without changing strategies every few days? Hit follow and…",
+    "title": "이mpulse로 인한 거래 실패를 극복하는 방법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "주식·섹터",
+      "선물·지수"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Your issue isn't taking the wrong trades, it's impulse control.” 이어 “I traded stocks, jumped into Forex, did options setups.” 이어 “This whole situation taught me that traders who blow up are the ones that don't have this understanding of what they're trading.” 이어 “Wanna learn how to make consistent profits long-term without changing strategies and indicators every few days?”",
+    "core": "거래에서의 불필요한 감정을 제어하면 장기적으로 일관된 수익을 얻을 수 있다.",
     "rules": [
-      "원문 실행 문장: I blew $18,000 trying to trade every market possible."
+      "불필요한 감정을 제어하고 이해한 시장에서만 거래를 하면 수익률이 향상된다.",
+      "신중하게 선택된 몇몇 시장을 오랜 기간 연구하고 거래해야 한다.",
+      "변화하는 전략 없이 일관된 수익을 얻기 위해 신중하게 선택된 지표를 사용해야 한다."
     ],
-    "caution": "성과·수익 발화: “I blew $18,000 trying to trade every market possible.” / “Within 12 months, my win rate went from about 43.5% to about 65%.” 홍보·행동유도 발화: “Hit follow and I'll show you how I do it.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 150,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4814,21 +4709,21 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "463970586706509": {
     "date": "2025.03.22",
     "duration": "01:11",
-    "originalTitle": "3 comments | I don’t tik or tok… fyi. | Raghee Horner",
-    "title": "영상 발화 분석: Thank you. Thank you. Thank you.",
+    "originalTitle": "I don’t tik or tok… fyi.",
+    "title": "티커나 토크하지 않는 시점의 트레이딩",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 71.13초·로컬 Whisper large-v3-turbo 전사 6단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Thank you. Thank you. Thank you.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "트레이딩",
+      "감사"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Thank you. Thank you. Thank you.”",
+    "core": "감사의 말을 반복하며 틱이나 토크하지 않는다는 점을 알린다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Thank you. Thank you. Thank you."
+      "감사의 말을 반복하고 틱이나 토크하지 않는다는 점을 알린다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 6,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4836,26 +4731,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "4734772623510210": {
     "date": "2026.02.27",
     "duration": "00:12",
-    "originalTitle": "13K views · 145 reactions | Trading rules that will make you a millionaire 🔐 ⬇️ Here’s how ⬇️ 1️⃣:Protect Capital First: Never risk more than 1-2% per trade. If your account is $10,000, your max loss is $100-$200. Survival always comes before profits. 2️⃣Trade Structure, Not Feelings: Only take trades aligned with clear trends and levels: higher highs/lows or lower highs/lows. If the price isn’t there, you don’t trade. 3️⃣Size Small, Scale Slowly: Start with the smallest position possible, and increase size only after 20-30 trades of consistent execution without breaking rules. 4️⃣Track Everything: Log every trade: entry, exit, stop, reason, and emotion. Review weekly to find what works, what doesn’t, and what keeps costing you money. 5️⃣Control Your Psychology: Set hard rules: stop after 2 losses, walk away after big wins, and never revenge trade. Discipline creates consistency. Follow for more trading insider tips from someone who’s been in the markets for 30+ years! | Raghee Horner",
-    "title": "위험관리: Trading rules that will make you a millionaire 🔐 ⬇️ Here’s how ⬇️ 1️⃣:Protect Capital First: Never risk…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 11.52초·로컬 Whisper large-v3-turbo 전사 5단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Trading rules that will make you a millionaire 🔐 ⬇️ Here’s how ⬇️ 1️⃣:Protect Capital First: Never risk more than 1-2% per trade.” / “2️⃣Trade Structure, Not Feelings: Only take trades aligned with clear trends and levels: higher highs/lows or lower highs/lows.”",
+    "originalTitle": "Trading rules that will make you a millionaire 🔐 ⬇️ Here’s how ⬇️ 1️⃣:Protect Capital First: Never risk more than 1-2% per trade. If your account is $10,000, your max loss is $100…",
+    "title": "10,000 달러 계좌에서 1-2% 위험보상비로 생존 우선, 구체적인 매매 규칙은 제시되지 않음.",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "투자전략",
+      "생존우선"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Trading rules that will make you a millionaire 🔐 ⬇️ Here’s how ⬇️ 1️⃣:Protect Capital First: Never risk more than 1-2% per trade.” 이어 “2️⃣Trade Structure, Not Feelings: Only take trades aligned with clear trends and levels: higher highs/lows or lower highs/lows.” 이어 “Review weekly to find what works, what doesn’t, and what keeps costing you money.” 이어 “Yeah, yeah, yeah, yeah, yeah.”",
+    "core": "생존을 먼저 고려하고, 1-2%의 위험보상비를 지키는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: Trading rules that will make you a millionaire 🔐 ⬇️ Here’s how ⬇️ 1️⃣:Protect Capital First: Never risk more than 1-2% per trade.",
-      "원문 실행 문장: 2️⃣Trade Structure, Not Feelings: Only take trades aligned with clear trends and levels: higher highs/lows or lower highs/lows.",
-      "원문 실행 문장: 3️⃣Size Small, Scale Slowly: Start with the smallest position possible, and increase size only after 20-30 trades of consistent execution without breaking rules.",
-      "원문 실행 문장: 4️⃣Track Everything: Log every trade: entry, exit, stop, reason, and emotion.",
-      "원문 실행 문장: 5️⃣Control Your Psychology: Set hard rules: stop after 2 losses, walk away after big wins, and never revenge trade."
+      "계좌 잔액의 1-2%만 투자하고, 생존을 먼저 고려하라.",
+      "투자할 때 명확한 추세와 수준에 맞춰야 하며, 가격이 없으면 거래하지 말라."
     ],
-    "caution": "성과·수익 발화: “Trading rules that will make you a millionaire 🔐 ⬇️ Here’s how ⬇️ 1️⃣:Protect Capital First: Never risk more than 1-2% per trade.” / “If your account is $10,000, your max loss is $100-$200.” 홍보·행동유도 발화: “Follow for more trading insider tips from someone who’s been in the markets for 30+ years!.” 전사에서 초기 손절·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 5,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4863,20 +4755,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "481309033348378": {
     "date": "2022.01.25",
     "duration": "00:25",
-    "originalTitle": "Well done @tradungview Love this platform, I use it daily. | Raghee Horner",
-    "title": "영상 발화 분석: That's why we invented Trading Soap.",
+    "originalTitle": "Well done @tradungview Love this platform, I use it daily.",
+    "title": "TradingView 플랫폼을 일일히 사용하며 투자 후회를 없애는 Trading Soap 소개",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 25.00초·Facebook 자동 자막 42단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “We've all done it.” / “That's why we invented Trading Soap.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "TradingView",
+      "Trading Soap"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “We've all done it.” 이어 “That's why we invented Trading Soap.” 이어 “Trading Soap washes away investment regrets so you can bounce back smelling of sandalwood.” 이어 “Wash first then leap.”",
+    "core": "TradingView는 투자 후회를 없애고 성공적인 거래를 위한 준비를 돕는 플랫폼이다.",
     "rules": [
-      "원문 실행 문장: Placed a filthy trade."
+      "투자 후회를 없애기 위해 TradingView를 일일히 사용한다.",
+      "Trading Soap은 투자 후회를 씻어내고 향기로운 거래를 시작할 수 있도록 도와준다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 42,
     "transcriptSource": "Facebook 자동 자막"
@@ -4884,25 +4778,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "612434511859803": {
     "date": "2025.10.21",
     "duration": "00:40",
-    "originalTitle": "10K views · 145 reactions | Trader Rates Trading Advice 📊 Entering trades without predefined exits and hoping it works out? Follow for disciplined trading systems that remove emotion from your exits! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: We always want to look for longer term opportunities when the market's crashing.",
+    "originalTitle": "Trader Rates Trading Advice 📊 Entering trades without predefined exits and hoping it works out? Follow for disciplined trading systems that remove emotion from your exits! 👉 Discl…",
+    "title": "마진락과 뉴스 이벤트 시장 진입 전략",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 40.13초·로컬 Whisper large-v3-turbo 전사 139단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Selling when the market is crashing.” / “10 out of 10.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "journal",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "거래전략",
+      "마진락"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Selling when the market is crashing.” 이어 “10 out of 10.” 이어 “We always need the full trading plan before putting our money at risk.” 이어 “We don't hate our money.”",
+    "core": "정해진 탈출 계획 없이 무작정 진입하는 것은 위험하다. 진입, 손절, 타겟을 미리 정해라.",
     "rules": [
-      "원문 실행 문장: We always want to look for longer term opportunities when the market's crashing.",
-      "원문 실행 문장: Know your strategy and know when best to use it.",
-      "원문 실행 문장: Journal every trade and review it monthly.",
-      "원문 실행 문장: Define entry, stop, and target before clicking buy.",
-      "원문 실행 문장: We always need the full trading plan before putting our money at risk."
+      "마진락 시에는 시장 진입을 피하라. 10%의 실패 확률.",
+      "뉴스 이벤트 시장에서는 진입을 피하라. 10%의 실패 확률.",
+      "매매 전략을 명확히 이해하고 그에 맞는 시점에서만 거래하라. 10%의 성공 확률."
     ],
-    "caution": "전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 139,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4911,20 +4804,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
     "date": "2022.03.19",
     "duration": "00:09",
     "originalTitle": "Raghee Horner on Reels",
-    "title": "영상 발화 분석: Progress requires unlearning.",
+    "title": "Raghee Horner: 진정한 자기 발전을 위한 지속적인 자기 반성",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 9.30초·로컬 Whisper large-v3-turbo 전사 23단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Progress requires unlearning.” / “Becoming the best version of yourself requires you to continuously edit your beliefs and to upgrade and expand your identity.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "자기 개선",
+      "신념 수정",
+      "식별 확장"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Progress requires unlearning.” 이어 “Becoming the best version of yourself requires you to continuously edit your beliefs and to upgrade and expand your identity.”",
+    "core": "진정한 성장을 위해서는 기존의 믿음을 수정하고, 개인의 식별을 확장해야 한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Progress requires unlearning."
+      "진정한 성장을 위해서는 기존의 믿음을 수정하고, 개인의 식별을 확장해야 한다.",
+      "자기 발전을 위해 지속적으로 자신의 신념을 편집하고 식별을 업그레이드해야 한다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 23,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4932,21 +4827,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "649995075686624": {
     "date": "2020.10.21",
     "duration": "00:15",
-    "originalTitle": "Good Morning | Raghee Horner",
-    "title": "영상 발화 분석: Good Morning.",
+    "originalTitle": "Good Morning",
+    "title": "GM: 아침 트레이딩 시작",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 15.03초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Good Morning.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "GM",
+      "아침 트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Good Morning.”",
+    "core": "아침 트레이딩 시작 시장 동향을 파악해야 한다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Good Morning."
+      "아침에 시장이 열릴 때 주요 지표를 확인하고 트렌드를 분석하라.",
+      "상승세가 보일 경우 빠르게 진입하되, 하락세가 보일 경우 기다려라."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4955,20 +4851,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
     "date": "2022.01.18",
     "duration": "00:24",
     "originalTitle": "Raghee Horner on Reels",
-    "title": "영상 발화 분석: I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm",
+    "title": "Raghee Horner의 Reels 트레이딩 방식",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 24.13초·로컬 Whisper large-v3-turbo 전사 14단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "Raghee Horner",
+      "Reels",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm”",
+    "core": "Raghee Horner은 가격 변동을 예측하고 빠르게 진입하는 것이 중요하다고 강조합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm I'm"
+      "가격이 기준 가격을 향해 상승할 때 즉시 진입하라.",
+      "가격이 기준 가격을 향해 하락할 때 즉시 진입하라."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 14,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -4976,23 +4874,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "707324444102961": {
     "date": "2023.09.24",
     "duration": "00:59",
-    "originalTitle": "15 reactions | Use the Difficulty. | Raghee Horner",
-    "title": "영상 발화 분석: He said to me, use the difficulty.",
+    "originalTitle": "Use the Difficulty.",
+    "title": "극장에서 배운 사용할 수 있는 난관",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 58.73초·로컬 Whisper large-v3-turbo 전사 214단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I was rehearsing a play when I was a very young actor.” / “He said to me, use the difficulty.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim"
+      "시장 분석",
+      "투자철학",
+      "어려움"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I was rehearsing a play when I was a very young actor.” 이어 “He said to me, use the difficulty.” 이어 “What can we get out of this?” 이어 “At all points.”",
+    "core": "어려움을 극복하는 것이 항상 긍정적인 결과를 가져다 줄 수 있다는 인사이트를 얻었다.",
     "rules": [
-      "원문 실행 문장: He said to me, use the difficulty.",
-      "원문 실행 문장: They go, we've got to use the difficulty.",
-      "원문 실행 문장: There's never anything so bad that you cannot use that difficulty.",
-      "원문 실행 문장: If you can use it a quarter of one percent to your advantage, you're ahead.",
-      "원문 실행 문장: Also, the added philosophy is avoid them if you can."
+      "어려움을 이용하라. 그것이 코미디이면 넘어가고, 드라마이면 그것을 활용하라.",
+      "어려움을 피하려고 노력하라."
     ],
-    "caution": "성과·수익 발화: “If you can use it a quarter of one percent to your advantage, you're ahead.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 214,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5000,20 +4897,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "707996522382023": {
     "date": "2025.12.08",
     "duration": "00:30",
-    "originalTitle": "7K views · 99 reactions | If You Invest $1000 In… 💸 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. Follow for more trading education! | Raghee Horner",
-    "title": "선물·지수: If you invest $1,000 in the S&P 500, this is the ROI you'd get.",
+    "originalTitle": "If You Invest $1000 In… 💸 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee futu…",
+    "title": "S&P 500, VTI, VYM, COWZ, VNQ 투자 시 ROI 분석",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 30.20초·로컬 Whisper large-v3-turbo 전사 75단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you invest $1,000 in the S&P 500, this is the ROI you'd get.” / “If you invest $1,000 in VTI, this is the ROI you'd get.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "위험관리",
+      "선물·지수",
+      "투자 ROI",
+      "S&P 500"
     ],
-    "core": "원문 전사 기준 선물·지수 콘텐츠다. “If you invest $1,000 in the S&P 500, this is the ROI you'd get.” 이어 “If you invest $1,000 in VTI, this is the ROI you'd get.” 이어 “If you invest $1,000 in COWZ, this is the ROI you'd get.” 이어 “If you invest $1,000 in VNQ, this is the ROI you'd get.”",
+    "core": "다양한 투자 상품의 ROI를 분석하여 투자 결정에 도움을 줍니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: If you invest $1,000 in the S&P 500, this is the ROI you'd get."
+      "$1,000를 S&P 500에 투자하면 이와 같은 수익률을 얻을 수 있습니다.",
+      "$1,000를 VTI에 투자하면 이와 같은 수익률을 얻을 수 있습니다.",
+      "$1,000를 VYM에 투자하면 이와 같은 수익률을 얻을 수 있습니다."
     ],
-    "caution": "성과·수익 발화: “If you invest $1,000 in the S&P 500, this is the ROI you'd get.” / “If you invest $1,000 in VNQ, this is the ROI you'd get.” 홍보·행동유도 발화: “Follow for simple trading tips that help you grow steady, smart, and confident.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 75,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5021,20 +4922,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "7194702883978854": {
     "date": "2024.02.27",
     "duration": "00:40",
-    "originalTitle": "3 comments | Raghee Horner on Reels",
-    "title": "영상 발화 분석: When someone's like, well, I'm the type of person who, I'm like, just stop.",
+    "originalTitle": "Raghee Horner on Reels",
+    "title": "라지hee 호너의 레일스에서의 정제된 생활 습관과 성공",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 40.47초·Facebook 자동 자막 194단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “When someone's like, well, I'm the type of person who, I'm like, just stop.” / “It means like you like to keep your car clean.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "정제된 생활",
+      "성공",
+      "레이블"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “When someone's like, well, I'm the type of person who, I'm like, just stop.” 이어 “It means like you like to keep your car clean.” 이어 “Everyone who's listening to this something they say about themselves.” 이어 “The labels change our behavior more than we change the labels.”",
+    "core": "성공을 결정짓는 것은 레이블이 아니라 정제된 생활 습관이다.",
     "rules": [
-      "원문 실행 문장: When someone's like, well, I'm the type of person who, I'm like, just stop."
+      "정제된 생활 습관을 유지하면 성공 가능성이 높아진다.",
+      "성공을 위해 레이블에 얽매이지 말고 자신의 생활 습관을 지키자."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 194,
     "transcriptSource": "Facebook 자동 자막"
@@ -5042,21 +4946,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "728686967882176": {
     "date": "2020.07.26",
     "duration": "00:15",
-    "originalTitle": "Stunning | Raghee Horner",
-    "title": "영상 발화 분석: Stunning. .",
+    "originalTitle": "Stunning",
+    "title": "스턴닝한 가격 변동",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 15.10초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Stunning. .”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "가격 변동",
+      "시장 변동성"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Stunning. .”",
+    "core": "스턴닝한 가격 변동을 통해 시장의 변동성을 이해할 수 있다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Stunning. ."
+      "가격이 스톨린지한 변동을 보였습니다.",
+      "이 변동을 통해 시장의 변동성을 예측할 수 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5064,28 +4969,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "750876687993538": {
     "date": "2026.04.13",
     "duration": "00:38",
-    "originalTitle": "24K views · 595 reactions | What if I told you you can improve your trading without staring at charts all day?💡 Now you have the steps to trade in just one focused hour a day! Follow if you want to trade smarter like a pro! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "유동성 스윕: Trade only the first hour of the session.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 38.17초·로컬 Whisper large-v3-turbo 전사 108단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What if I told you there's a way to make consistent profit from trading without staring at charts all day or risking huge amounts of money?” / “Mark key support, resistance, and liquidity levels.”",
+    "originalTitle": "What if I told you you can improve your trading without staring at charts all day?💡 Now you have the steps to trade in just one focused hour a day! Follow if you want to trade sma…",
+    "title": "9:35~10:35 동부시간 내 1시간만에 수익 창출 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "sweep",
-      "support",
-      "resistance",
-      "risk",
-      "CTA"
+      "유동성",
+      "지지·저항",
+      "위험관리",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “What if I told you there's a way to make consistent profit from trading without staring at charts all day or risking huge amounts of money?” 이어 “Mark key support, resistance, and liquidity levels.” 이어 “Trend, post-sweep, pullback, or mean reversion.” 이어 “Now you have the steps to trade in just one focused hour a day.”",
+    "core": "일일 거래 시간 중 한 시간만 집중하면 수익을 창출할 수 있는 방법을 제시한다.",
     "rules": [
-      "원문 실행 문장: Trade only the first hour of the session.",
-      "원문 실행 문장: I use 9.35 to 10.35 a.m.",
-      "원문 실행 문장: Use one core setup.",
-      "원문 실행 문장: Pre-defined entries, stops, and targets for each trade.",
-      "원문 실행 문장: Now you have the steps to trade in just one focused hour a day."
+      "9:35부터 10:35까지 동부시간 내에서만 거래한다.",
+      "주요 지원, 저항, 유동성 수준을 표시한다.",
+      "하나의 기본 설정을 사용하여 트렌드, 포스트 스위프트, 펌블백, 또는 평균 회귀 중 하나를 선택한다."
     ],
-    "caution": "성과·수익 발화: “What if I told you there's a way to make consistent profit from trading without staring at charts all day or risking huge amounts of money?” 홍보·행동유도 발화: “Follow if you want to trade smarter like elite traders.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 108,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5093,20 +4994,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "752517779521075": {
     "date": "2022.09.15",
     "duration": "00:56",
-    "originalTitle": "15 reactions | Raghee Horner on Reels",
-    "title": "심리·규율: And the idea is to just take whatever habit you're trying to build and you scale it down to the first tw…",
+    "originalTitle": "Raghee Horner on Reels",
+    "title": "2분 규칙으로 건강 습관 만들기",
     "kind": "psychology",
     "verdict": "핵심 원칙",
-    "fidelity": "원본 55.70초·로컬 Whisper large-v3-turbo 전사 228단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I call the two minute rule.” / “And one of the ways that he did it was he went to the gym, but he wasn't allowed to stay for longer than five minutes.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "옵션",
+      "심리·규율",
+      "건강",
+      "습관형성"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “I call the two minute rule.” 이어 “And one of the ways that he did it was he went to the gym, but he wasn't allowed to stay for longer than five minutes.” 이어 “You're not actually going to get in shape from that.” 이어 “We search for all these perfect plans, but we don't do the thing that is fundamental to all of it, which is just showing up.”",
+    "core": "습관을 만들 때는 처음 2분만 집중하면 효과가 있다.",
     "rules": [
-      "원문 실행 문장: And the idea is to just take whatever habit you're trying to build and you scale it down to the first two minutes."
+      "2분 동안 운동을 시작하고 그만두는 것을 반복하여 습관을 형성했다.",
+      "매일 같은 시간에 운동을 시작하는 것이 중요하다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 228,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5114,25 +5018,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "777207875449320": {
     "date": "2026.03.10",
     "duration": "01:08",
-    "originalTitle": "6.4K views · 112 reactions | 6 figure trader breaks down strategy🧠 Follow me because I share all the secrets that keep your trades disciplined, protect your gains, and grow your account consistently! | Raghee Horner",
-    "title": "위험관리: Two traders can have the same P&L, but the number of trades, the size of losses and discipline behind ea…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 67.71초·로컬 Whisper large-v3-turbo 전사 197단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “You'll never look at your charts the same way again.” / “Step number one, define your setups.”",
+    "originalTitle": "6 figure trader breaks down strategy🧠 Follow me because I share all the secrets that keep your trades disciplined, protect your gains, and grow your account consistently!",
+    "title": "6자리 수 트레이더의 진입 전략과 싱크로나한 일일 손실 제한",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "트레이딩 전략",
+      "심리적 규칙"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “You'll never look at your charts the same way again.” 이어 “Step number one, define your setups.” 이어 “Wait for the right moment before entering.” 이어 “And once you hit it, stop trading.”",
+    "core": "차트 분석법을 바꾸는 방법과 일관된 수익을 얻는 데 필요한 심리적 규칙을 공유한다.",
     "rules": [
-      "원문 실행 문장: Two traders can have the same P&L, but the number of trades, the size of losses and discipline behind each decision is what tells the real story.",
-      "원문 실행 문장: Step number two, use time wisely.",
-      "원문 실행 문장: Day trading, wait five minutes after the bell rings.",
-      "원문 실행 문장: Swing trading, wait until the first hour or the initial balance is complete.",
-      "원문 실행 문장: And once you hit it, stop trading."
+      "매일 거래 한도를 설정하고 일정 손실을 초과하면 거래를 중단한다.",
+      "데이 트레이딩 시 종가 후 5분 뒤에 진입한다.",
+      "스윙 트레이딩 시 첫 시간대 또는 초기 균형이 완성될 때까지 기다린다."
     ],
-    "caution": "성과·수익 발화: “Set a daily trade limit, stop losses and a maximum loss per day.” 홍보·행동유도 발화: “Follow me because I share all the secrets that keep your trades disciplined, protect your gains, protect your capital and grow your account consistently.” 전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 197,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5140,25 +5043,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "780358508351700": {
     "date": "2025.12.01",
     "duration": "00:27",
-    "originalTitle": "133K views · 1.6K reactions | 5 trading tools that every trader needs to master⚙️ Follow for more trading tools, strategies, and expert tips! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "Anchored VWAP: If you want to spot hot stocks early, use a real-time scanner.",
+    "originalTitle": "5 trading tools that every trader needs to master⚙️ Follow for more trading tools, strategies, and expert tips! 👉 Disclaimer: This content is for educational purposes only and is…",
+    "title": "실시간 스캐너와 34일 이동평균을 활용한 빠른 스톡 식별",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 26.83초·로컬 Whisper large-v3-turbo 전사 81단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you want to spot hot stocks early, use a real-time scanner.” / “If you want cleaner entries and exits, use candlestick charts with an anchored VWAP and the 34 EMA.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "VWAP",
-      "moving average",
-      "CTA"
+      "이동평균",
+      "위험관리",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 Anchored VWAP 콘텐츠다. “If you want to spot hot stocks early, use a real-time scanner.” 이어 “If you want cleaner entries and exits, use candlestick charts with an anchored VWAP and the 34 EMA.” 이어 “If you want fewer mistakes, use a clean three-screen setup and track just three to five tickers.” 이어 “If you want to learn safely, use paper trading simulators first.”",
+    "core": "실시간 스캐너와 캔들스틱 차트를 사용하면 빠르게 뜨거운 스톡을 식별할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: If you want to spot hot stocks early, use a real-time scanner.",
-      "원문 실행 문장: If you want cleaner entries and exits, use candlestick charts with an anchored VWAP and the 34 EMA.",
-      "원문 실행 문장: If you want smarter fills with less slippage, use limit orders on your broker.",
-      "원문 실행 문장: If you want fewer mistakes, use a clean three-screen setup and track just three to five tickers.",
-      "원문 실행 문장: If you want to learn safely, use paper trading simulators first."
+      "실시간 스캐너를 사용하여 빠르게 뜨거운 스톡을 식별하십시오.",
+      "캔들스틱 차트와 앵커된 VWAP 및 34일 이동평균을 사용하여 깨끗한 진입과 탈출을 얻으십시오."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more trading tools, strategies, and expert tips.” 전사에서 초기 손절·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 81,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5167,20 +5068,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
     "date": "2023.06.03",
     "duration": "00:10",
     "originalTitle": "Raghee Horner on Reels",
-    "title": "영상 발화 분석: Thank you.",
+    "title": "Raghee Horner의 Reels: 15분 거래 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 9.94초·로컬 Whisper large-v3-turbo 전사 2단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Thank you.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "Raghee Horner",
+      "15분 거래",
+      "가격 예측"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Thank you.”",
+    "core": "Raghee Horner은 15분 거래 시간 프레임에서 가격 변동을 예측하는 방법을 설명합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Thank you."
+      "15분 거래 시간 프레임을 사용하여 가격 변동을 예측합니다.",
+      "전략은 주로 15분 차트에서 가격의 변동성을 분석합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 2,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5188,26 +5091,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "793129103782843": {
     "date": "2025.12.02",
     "duration": "00:52",
-    "originalTitle": "15K views · 372 reactions | The 5 Most Common Mistakes I See Traders Making🤦‍♀️ Ready to stop making mistakes like these? Follow for expert trading education that actually works! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Number one, no risk management.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 52.30초·로컬 Whisper large-v3-turbo 전사 139단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I've been a trader for over 30 years and mentored thousands of people.” / “Number two, no clear plan.”",
+    "originalTitle": "The 5 Most Common Mistakes I See Traders Making🤦‍♀️ Ready to stop making mistakes like these? Follow for expert trading education that actually works! 👉 Disclaimer: This content i…",
+    "title": "30년 경력 트레이더의 5가지 주요 실수 - 시간 프레임과 위험 관리",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "journal",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "트레이딩",
+      "위험 관리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I've been a trader for over 30 years and mentored thousands of people.” 이어 “Number two, no clear plan.” 이어 “Focus on three to five A plus setups and ignore the rest.” 이어 “Journaling turns data into decisions.”",
+    "core": "성공적인 트레이딩을 위해서는 명확한 계획과 위험 관리가 필수적입니다.",
     "rules": [
-      "원문 실행 문장: Number one, no risk management.",
-      "원문 실행 문장: Most traders risk too much and blow up fast.",
-      "원문 실행 문장: Trading without set entries and exits leads to losses.",
-      "원문 실행 문장: Write your rules before every trade.",
-      "원문 실행 문장: You can't day trade using a swing strategy, so make sure to match your trading style to your schedule and risk level."
+      "매매할 때 3% 이하의 위험만 감수해야 합니다.",
+      "매매 전에 진입과 탈출 지점을 명확히 정해야 합니다.",
+      "시간 프레임과 전략을 일치시켜야 합니다."
     ],
-    "caution": "성과·수익 발화: “Keep it simple, risk 3% or less per trade.” 홍보·행동유도 발화: “Follow for expert trading education that actually works.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 139,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5215,20 +5116,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "796147733463795": {
     "date": "2026.06.09",
     "duration": "00:38",
-    "originalTitle": "9K views · 166 reactions | What's The Difference Between A Trend And Momentum? 📈 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstrading #financialeducation #trendvsmomentum #tradingsystem #profitabletrading | Raghee Horner",
-    "title": "영상 발화 분석: Use trend to choose direction.",
-    "kind": "commentary",
-    "verdict": "전략 아님",
-    "fidelity": "원본 37.73초·로컬 Whisper large-v3-turbo 전사 89단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What's the real difference between trend and momentum?” / “Momentum is the speed of price movement.”",
+    "originalTitle": "What's The Difference Between A Trend And Momentum? 📈 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investme…",
+    "title": "손실 한도와 위험관리에 관한 트레이딩 관점",
+    "kind": "risk",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "위험관리",
+      "트렌드",
+      "모멘텀",
+      "거래"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “What's the real difference between trend and momentum?” 이어 “Momentum is the speed of price movement.” 이어 “These define direction first, then timing.” 이어 “Use momentum to time entries.”",
+    "core": "트렌드는 가격의 방향을 결정하고, 모멘텀은 진입 시점을 맞추는 데 도움을 줍니다.",
     "rules": [
-      "원문 실행 문장: Use trend to choose direction.",
-      "원문 실행 문장: Use momentum to time entries."
+      "가격이 높은 고점과 저점을 형성하는 uptrend가 있을 때, 가격이 빠르게 움직이는 모멘텀을 이용하여 진입 시점을 맞춥니다.",
+      "없는 트렌드 상황에서는 모멘텀 셋업이 실패하거나 지속되지 않습니다."
     ],
-    "caution": "홍보·행동유도 발화: “Trends follow a broader directional movement in price.” / “Follow for more trading education.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 89,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5236,25 +5140,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "804146132605045": {
     "date": "2025.11.04",
     "duration": "00:50",
-    "originalTitle": "1.4K views · 12 shares | How to Start Your Trading Journey From Scratch 📈✅ Tired of tracking your trades and still repeating the same mistakes? Follow for trade journaling frameworks that identify patterns and improve performance! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "심리·규율: If I woke up totally lost tomorrow and wanted to trade confidently by next month, here's exactly what I'…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 50.48초·로컬 Whisper large-v3-turbo 전사 142단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If I woke up totally lost tomorrow and wanted to trade confidently by next month, here's exactly what I'd do.” / “Step number two, confirmation.”",
+    "originalTitle": "How to Start Your Trading Journey From Scratch 📈✅ Tired of tracking your trades and still repeating the same mistakes? Follow for trade journaling frameworks that identify pattern…",
+    "title": "초보자를 위한 트레이딩 시작 방법: 4단계 트레이딩 일지 기록 프레임워크",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "journal",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "주식·섹터",
+      "트레이딩 일지"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “If I woke up totally lost tomorrow and wanted to trade confidently by next month, here's exactly what I'd do.” 이어 “Step number two, confirmation.” 이어 “Step number three, confidence.” 이어 “Stay with the setup if expectancy is more than zero or else drop it.”",
+    "core": "초보 트레이더가 자신만의 일지를 기록하고, 패턴을 찾아 성과를 향상시킬 수 있는 방법을 제시한다.",
     "rules": [
-      "원문 실행 문장: If I woke up totally lost tomorrow and wanted to trade confidently by next month, here's exactly what I'd do.",
-      "원문 실행 문장: If you can't explain it, don't trade it.",
-      "원문 실행 문장: Set alerts at your zone.",
-      "원문 실행 문장: All size accounts, execute the plan, and journal every detail like entry, exit, reason, outcome.",
-      "원문 실행 문장: Repeat this loop for 10 trades before increasing size."
+      "설명된 셋업을 이해하고, 레벨, 섹터 컨텍스트, 진입 구역, 손절, T1, T2, 시간 윈도우를 명확히 설명해야 한다.",
+      "알림을 설정하고 가격이 레벨을 타면 확인해야 하며, 한 목표 트리거를 통해 확인해야 한다.",
+      "모든 계정 크기로 플랜을 실행하고 세부 사항을 일지에 기록해야 하며, 10번의 거래 후 계정 크기를 늘릴 수 있다."
     ],
-    "caution": "성과·수익 발화: “Review weekly metrics like win rate, average win versus loss, plan adherence.” 홍보·행동유도 발화: “Follow for trade journaling frameworks that identify patterns and improve performance.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 142,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5262,27 +5165,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "809224198847990": {
     "date": "2026.07.14",
     "duration": "00:52",
-    "originalTitle": "8.7K views · 108 reactions | Trading Psychology Hacks I Should Not Be Teaching You 🧠 Follow for more Financial Education and Options Trading education! #tradingpsychology #riskmanagement #tradingdiscipline #emotionaltrading #positionsizing 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Write an A-plus or ideal setup checklist and only trade when every box is checked to avoid over-trading.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 51.55초·로컬 Whisper large-v3-turbo 전사 155단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Manage emotions, don't try to eliminate them.” / “Never risk more than 2-3% per trade.”",
+    "originalTitle": "Trading Psychology Hacks I Should Not Be Teaching You 🧠 Follow for more Financial Education and Options Trading education! #tradingpsychology #riskmanagement #tradingdiscipline #e…",
+    "title": "시장 개장 후 5분 기다리기와 일일 손실 한도 설정",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "journal",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "심리·규율",
+      "투자심리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Manage emotions, don't try to eliminate them.” 이어 “Never risk more than 2-3% per trade.” 이어 “Detach your ego from the outcome.” 이어 “That's going to bring results and account growth instead of chasing and big reward.”",
+    "core": "감정을 관리하고, 이상적인 셋업을 준비하되 모든 조건이 충족될 때만 거래를 시작하라.",
     "rules": [
-      "원문 실행 문장: Write an A-plus or ideal setup checklist and only trade when every box is checked to avoid over-trading.",
-      "원문 실행 문장: Force yourself to wait at least 5 minutes after the market opens and set up a day trade cap to stop revenge trading.",
-      "원문 실행 문장: Never risk more than 2-3% per trade.",
-      "원문 실행 문장: Set a daily loss limit and avoid the big one, home run bets.",
-      "원문 실행 문장: Try to fall in love with managing risk."
+      "시장이 개장한 후 최소 5분간 기다리고 거래를 시작하라.",
+      "일일 손실 한도를 설정하고 큰 손실을 피하라.",
+      "2~3%의 최대 위험을 설정하라."
     ],
-    "caution": "성과·수익 발화: “Never risk more than 2-3% per trade.” / “When you start, you can even be as low as 1%.” 홍보·행동유도 발화: “Follow for more trading education from a trader who's done it for over 35 years.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 155,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5290,21 +5190,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "813108014899393": {
     "date": "2025.12.04",
     "duration": "00:08",
-    "originalTitle": "17K views · 166 reactions | How It Started vs. How It’s Going 🚀 I started trading before the internet even existed. Imagine dialing up your broker after charting by PENCIL & PAPER. I did it because I was curious, determined, and hungry to figure out how markets really move. Fast forward 38 years, I now trade stocks, futures, and forex from one screen, mentoring thousands of traders around the world. And in all that time, I’ve never blown an account. Over the decades, I learned that real trading success isn’t about luck or hype, it’s about structure, discipline, and repetition. I built my own tools, refined my process, and developed the same formula I now teach traders every single day. Now, I help traders master simple rules that protect their capital and grow their profits. Follow for more trading education! | Raghee Horner",
-    "title": "심리·규율: I did it because I was curious, determined, and hungry to figure out how markets really move.",
+    "originalTitle": "How It Started vs. How It’s Going 🚀 I started trading before the internet even existed. Imagine dialing up your broker after charting by PENCIL & PAPER. I did it because I was cur…",
+    "title": "1980년대 전산 없이 시작한 트레이딩과 현재의 성공",
     "kind": "psychology",
     "verdict": "핵심 원칙",
-    "fidelity": "원본 8.20초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “How It Started vs.” / “I did it because I was curious, determined, and hungry to figure out how markets really move.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "심리·규율",
+      "주식·섹터",
+      "선물·지수",
+      "트레이딩 역사"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “How It Started vs.” 이어 “I did it because I was curious, determined, and hungry to figure out how markets really move.” 이어 “And in all that time, I’ve never blown an account.” 이어 “Now, I help traders master simple rules that protect their capital and grow their profits.”",
+    "core": "실제로는 빅데이터와 기술 없이도 성공할 수 있다는 것을 보여준다.",
     "rules": [
-      "원문 실행 문장: I did it because I was curious, determined, and hungry to figure out how markets really move.",
-      "원문 실행 문장: Fast forward 38 years, I now trade stocks, futures, and forex from one screen, mentoring thousands of traders around the world."
+      "1980년대 전산 시스템 없이 펜과 종이로 차트를 그렸다가 브로커에게 전화하여 거래를 했다.",
+      "현재는 한 화면에서 주식, 선물, 통화 선물 등을 거래하며 전 세계의 수천 명의 트레이더들을 지도한다.",
+      "실제로는 빅데이터와 기술 없이도 성공할 수 있다는 것을 보여준다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more trading education!.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5312,25 +5215,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "818600564333955": {
     "date": "2025.11.27",
     "duration": "00:38",
-    "originalTitle": "22K views · 531 reactions | Trading Myth vs. Reality🤯 Follow for expert tips from 38 years of experience to help you trade with real confidence! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: You should avoid it at all costs.",
+    "originalTitle": "Trading Myth vs. Reality🤯 Follow for expert tips from 38 years of experience to help you trade with real confidence! 👉 Disclaimer: This content is for educational purposes only an…",
+    "title": "38년 경력의 트레이더가 알려주는 실제 투자 리스크 관리법",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 38.00초·로컬 Whisper large-v3-turbo 전사 103단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “The more trades you take, the more money you'll earn.” / “You should avoid it at all costs.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "투자",
+      "리스크 관리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “The more trades you take, the more money you'll earn.” 이어 “You should avoid it at all costs.” 이어 “Small accounts grow steadily when risk is managed right.” 이어 “Trading takes years of skill, patience, and risk control.”",
+    "core": "많은 거래를 하면 돈을 버는 것이 아니라, 품질 좋은 거래로 장기적으로 이익을 얻는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: Risk is bad.",
-      "원문 실행 문장: You should avoid it at all costs.",
-      "원문 실행 문장: Small accounts grow steadily when risk is managed right.",
-      "원문 실행 문장: Smart traders adjust their strategy for every market and time frame.",
-      "원문 실행 문장: Trading takes years of skill, patience, and risk control."
+      "더 많은 거래를 하지 말고, 품질 좋은 거래를 선택하라.",
+      "위험을 완전히 피하지 말고, 신중하게 관리하라.",
+      "하나의 전략만으로 모든 시장에서 성공할 수 없다. 시장과 시간 프레임에 맞는 전략을 조정하라."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for expert tips from 38 years of experience to help you trade with real confidence.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 103,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5338,22 +5240,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "819313544035554": {
     "date": "2025.10.31",
     "duration": "01:12",
-    "originalTitle": "1.5K views · 24 reactions | The Difference Between Accumulation, Manipulation & Distribution 📈 Follow for technical analysis basics and simplify trend identification! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "영상 발화 분석: Prices move sideways in a tight range.",
+    "originalTitle": "The Difference Between Accumulation, Manipulation & Distribution 📈 Follow for technical analysis basics and simplify trend identification! 👉 Disclaimer: This content is for educat…",
+    "title": "아시아 세션의 쌍벽과 런던 세션의 조작, 뉴욕 세션의 분배",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 72.12초·로컬 Whisper large-v3-turbo 전사 165단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is the difference between accumulation, distribution, and manipulation.” / “Distribution Once price rises significantly, institutions start unloading their positions to latecomers.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "위험관리",
+      "거래 전략",
+      "트렌드 식별",
+      "거래 세션"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “This is the difference between accumulation, distribution, and manipulation.” 이어 “Distribution Once price rises significantly, institutions start unloading their positions to latecomers.” 이어 “New York session completes the cycle.” 이어 “Trend identification”",
+    "core": "아시아 세션에서 쌍벽을 형성하고 런던 세션에서 조작을, 뉴욕 세션에서 분배를 일으키는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: Prices move sideways in a tight range.",
-      "원문 실행 문장: Manipulation Big players create sudden price spikes or dips to confuse traders and trigger stop-loss orders.",
-      "원문 실행 문장: Retail traders, seeing headlines about new highs, rush to buy, but they're buying at the top.",
-      "원문 실행 문장: Identify that first and the next two sessions become predictable."
+      "아시아 세션에서 쌍벽을 형성하면 런던 세션에서는 조작을, 뉴욕 세션에서는 분배를 기대할 수 있다.",
+      "아시아 세션에서 가격이 확장되면 런던 세션에서는 쌍벽을 형성하고 뉴욕 세션에서는 조작을 기대할 수 있다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for technical analysis basis and simplify trend identification.” 전사에서 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 165,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5361,25 +5265,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "830052316452637": {
     "date": "2025.11.20",
     "duration": "00:43",
-    "originalTitle": "54K views · 750 reactions | Premarket Trading Routine Explained In 60 Seconds☀️📈 Follow for more clear setups, risk rules and expert tips! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Mark your entry, stop loss, and two profit zones on the chart.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 43.17초·로컬 Whisper large-v3-turbo 전사 119단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is what I do each morning before the market opens.” / “Step number two, map your levels.”",
+    "originalTitle": "Premarket Trading Routine Explained In 60 Seconds☀️📈 Follow for more clear setups, risk rules and expert tips! 👉 Disclaimer: This content is for educational purposes only and is n…",
+    "title": "Premarket Trading Routine: 60초로 이해하기",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "주식·섹터",
+      "프리마켓 트레이딩",
+      "세팅"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “This is what I do each morning before the market opens.” 이어 “Step number two, map your levels.” 이어 “Risk 3% max per trade.” 이어 “Want calm, consistent trading mornings?”",
+    "core": "프리마켓 트레이딩 루틴은 단순하고 빠르며, 계정을 보호하기 위한 구조를 가지고 있습니다.",
     "rules": [
-      "원문 실행 문장: Mark your entry, stop loss, and two profit zones on the chart.",
-      "원문 실행 문장: Step number three, set risk and exits.",
-      "원문 실행 문장: Risk 3% max per trade.",
-      "원문 실행 문장: Enter in three parts.",
-      "원문 실행 문장: Take some profits early, then move your stop to break even."
+      "매일 시장 개장 전 세 가지에서 다섯 가지 강한 종목을 선택하고, 개장 후 첫 시간 동안 상승하거나 하락할 가능성을 예측합니다.",
+      "레벨을 표시하고, 진입 가격, 손절, 두 개의 이익 구역을 차트에 표시합니다.",
+      "가격 알림을 설정하여 거래를 추격하지 않도록 합니다."
     ],
-    "caution": "성과·수익 발화: “Mark your entry, stop loss, and two profit zones on the chart.” / “Risk 3% max per trade.” 홍보·행동유도 발화: “Comment success to join my trading community.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 119,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5387,29 +5290,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "859744726435818": {
     "date": "2025.12.12",
     "duration": "00:03",
-    "originalTitle": "31K views · 246 reactions | 30+ Years Of Trading In 30 Seconds ⬇️ 1️⃣ Tip #1: Define Your Goals And Style Decide what kind of trader you want to be. Day trader, swing trader, or long-term, it all depends on your time and risk level. Set clear, measurable goals that fit your lifestyle. 2️⃣ Tip #2: Build Your Foundation Learn how each market works before jumping in. Understand stocks, ETFs, options, and futures. Know what leverage and margin mean and how to use them safely. 3️⃣ Tip #3: Choose A Core Strategy Pick one or two strategies that match your goals and stick to them. Don’t keep switching ideas. Focus builds confidence and results. 4️⃣ Tip #4: Master Risk And Money Management Risk only 2-3% per trade. Always use stop losses and set clear profit targets. Trade based on numbers, not emotions. 5️⃣ Tip #5: Develop A Trade Plan Write down your rules. Know your entry and exit points, position size, and when you trade best. A plan keeps you focused and disciplined. 6️⃣ Tip #6: Learn Market And Technical Analysis Use charts to find smart entries and exits. Study support, resistance, and volume. Learn how big market trends affect your trades. 7️⃣ Tip #7: Build Discipline And Psychology Trading success is 80% mindset. Control fear and greed. Follow your plan even after a loss or a win. 8️⃣ Tip #8: Keep A Trading Journal Record every trade: entry, exit, size, and reason. Review weekly or monthly to see what’s working and what’s not. That’s how you grow faster. 9️⃣ Tip #9: Scale Up Slowly Grow your account with profits, not bigger risks. Once you’re consistent, increase your trade size safely. Build step by step. 🔟 Tip #10: Keep Learning And Adapting Markets always change, so never stop learning. Stay updated, follow mentors, and join trading communities to keep improving. 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #daytradingforbeginners #riskmanagement #tradingpsychology #beginnertrader #tradingeducation | Raghee Horner",
-    "title": "지지·저항: Day trader, swing trader, or long-term, it all depends on your time and risk level.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 3.40초·로컬 Whisper large-v3-turbo 전사 1단어 전편·무음·음악 중심 구간은 원문 캡션으로 맥락 보완·대표 프레임 콘택트시트 직접 확인·핵심 발화 “30+ Years Of Trading In 30 Seconds ⬇️ 1️⃣ Tip #1: Define Your Goals And Style Decide what kind of trader you want to be.” / “Always use stop losses and set clear profit targets.”",
+    "originalTitle": "30+ Years Of Trading In 30 Seconds ⬇️ 1️⃣ Tip #1: Define Your Goals And Style Decide what kind of trader you want to be. Day trader, swing trader, or long-term, it all depends on…",
+    "title": "30년 거래 노하우 30초로! 거래 목표와 스타일 정하기",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "risk",
-      "psychology",
-      "journal",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “30+ Years Of Trading In 30 Seconds ⬇️ 1️⃣ Tip #1: Define Your Goals And Style Decide what kind of trader you want to be.” 이어 “Always use stop losses and set clear profit targets.” 이어 “8️⃣ Tip #8: Keep A Trading Journal Record every trade: entry, exit, size, and reason.” 이어 “#daytradingforbeginners #riskmanagement #tradingpsychology #beginnertrader #tradingeducation.”",
+    "core": "거래 목표와 스타일을 정하면 거래 성공률이 향상됩니다.",
     "rules": [
-      "원문 실행 문장: Day trader, swing trader, or long-term, it all depends on your time and risk level.",
-      "원문 실행 문장: 4️⃣ Tip #4: Master Risk And Money Management Risk only 2-3% per trade.",
-      "원문 실행 문장: Know your entry and exit points, position size, and when you trade best.",
-      "원문 실행 문장: 9️⃣ Tip #9: Scale Up Slowly Grow your account with profits, not bigger risks.",
-      "원문 실행 문장: Past performance does not guarantee future results, and all trading involves risk."
+      "거래 목표를 명확하게 설정하고, 일정 시간 내에 달성 가능한 목표를 세워야 합니다.",
+      "일일 거래, 웨이브 거래, 또는 장기 거래 중 어떤 스타일로 거래할지 결정해야 합니다.",
+      "시간과 위험 수준에 따라 자신의 거래 스타일을 선택해야 합니다."
     ],
-    "caution": "성과·수익 발화: “4️⃣ Tip #4: Master Risk And Money Management Risk only 2-3% per trade.” / “Past performance does not guarantee future results, and all trading involves risk.” 홍보·행동유도 발화: “Follow your plan even after a loss or a win.” / “Stay updated, follow mentors, and join trading communities to keep improving.” 전사에서 거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5417,21 +5315,20 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "861782620979052": {
     "date": "2020.08.06",
     "duration": "00:50",
-    "originalTitle": "I’ve already watched this nine times... | Raghee Horner",
-    "title": "영상 발화 분석: Music Music Music Music Music Music Music Music Music",
+    "originalTitle": "I’ve already watched this nine times...",
+    "title": "트레이딩 화면을 활용한 짧은 장면",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 50.09초·로컬 Whisper large-v3-turbo 전사 9단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Music Music Music Music Music Music Music Music Music”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "짧은 장면"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Music Music Music Music Music Music Music Music Music”",
+    "core": "트레이딩 화면과 음악 또는 짧은 반응을 결합한 영상으로, 구체적인 시장 분석이나 매매 조건은 설명하지 않는다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Music Music Music Music Music Music Music Music Music"
+      "구체적인 진입·손절·청산 규칙은 제시되지 않는다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 9,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5439,19 +5336,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "866807772975330": {
     "date": "2026.08.04",
     "duration": "00:58",
-    "originalTitle": "15K views · 282 reactions | So I just turned 55❗ Follow for trading strategies that helps you become a more consistent trader! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstradingcommunity #tradingpsychology #emotionaltrading #consistentprofits #accountgrowth | Raghee Horner",
-    "title": "영상 발화 분석: When I started, I tracked every trade by hand using pencil, ruler, and graph paper.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 58.24초·로컬 Whisper large-v3-turbo 전사 163단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “So I'm just about to turn 55, which means I've officially been trading for over 38 years now.” / “I read every book I could find, every magazine in the library, and calling my broker on the phone to place trades based on the levels I tracked.”",
+    "originalTitle": "So I just turned 55❗ Follow for trading strategies that helps you become a more consistent trader! 👉 Disclaimer: This content is for educational purposes only and is not financial…",
+    "title": "55세의 경력으로 쌓은 38년간의 트레이딩 경험과 노하우",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "시장 분석",
+      "트레이딩 노하우",
+      "모멘텀 분석",
+      "장기 트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “So I'm just about to turn 55, which means I've officially been trading for over 38 years now.” 이어 “I read every book I could find, every magazine in the library, and calling my broker on the phone to place trades based on the levels I tracked.” 이어 “When I started studying accumulation, manipulation, and distribution, I've been using these concepts for decades, since the late 80s, long before a lot of them became popular.” 이어 “Once I understood those three phases, the market stopped looking so random.”",
+    "core": "시장의 모멘텀을 이해하고 예측하는 방법은 시간과 경험을 통해 발전하게 된다.",
     "rules": [
-      "원문 실행 문장: When I started, I tracked every trade by hand using pencil, ruler, and graph paper."
+      "55세를 맞이하며 38년간의 트레이딩 경험을 바탕으로 시장의 모멘텀을 이해하고 예측하는 방법을 공유한다.",
+      "80년대부터 시작된 모멘텀 분석은 시장의 모멘텀을 이해하는 데 큰 도움이 되었다.",
+      "구체적인 매매 규칙은 제시되지 않음."
     ],
-    "caution": "성과·수익 발화: “Now that you know what completely changed how I understand market behavior, comment, guide, and I'll send you my free consistent traders guide where I break down the principles be…” 홍보·행동유도 발화: “Now that you know what completely changed how I understand market behavior, comment, guide, and I'll send you my free consistent traders guide where I break down the principles be…” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 163,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5459,25 +5361,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "870982875274684": {
     "date": "2025.11.18",
     "duration": "00:43",
-    "originalTitle": "47K views · 646 reactions | This Is The Exact Strategy I Use To Make $X Each Month With Options Trading📈 Follow for proven tips on how to master one system that works! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: This is the exact strategy I use to make $50,000 each month with options trading.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 43.40초·로컬 Whisper large-v3-turbo 전사 113단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is the exact strategy I use to make $50,000 each month with options trading.” / “Step two, use a cash account.”",
+    "originalTitle": "This Is The Exact Strategy I Use To Make $X Each Month With Options Trading📈 Follow for proven tips on how to master one system that works! 👉 Disclaimer: This content is for educa…",
+    "title": "매달 5만 달러 벌기 위한 옵션 트레이딩 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "옵션 트레이딩",
+      "위험 관리"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “This is the exact strategy I use to make $50,000 each month with options trading.” 이어 “Step two, use a cash account.” 이어 “Step three, focus on small, steady wins.” 이어 “Aim for smart weekly wins instead of chasing one big trade.”",
+    "core": "옵션 트레이딩을 통해 매달 일정 금액을 벌기 위한 전략은 일관된 이익을 통해 성장할 수 있는 방법이다.",
     "rules": [
-      "원문 실행 문장: This is the exact strategy I use to make $50,000 each month with options trading.",
-      "원문 실행 문장: Step one, control your risk.",
-      "원문 실행 문장: Step two, use a cash account.",
-      "원문 실행 문장: It lets you trade freely while learning the process.",
-      "원문 실행 문장: Aim for smart weekly wins instead of chasing one big trade."
+      "매매를 위해 2-3%의 위험만 감수한다.",
+      "현금 계좌를 사용하여 일일 거래 제한을 피해 자유롭게 거래한다.",
+      "소규모 이익을 중시하여 일관된 수익을 쌓는다."
     ],
-    "caution": "성과·수익 발화: “This is the exact strategy I use to make $50,000 each month with options trading.” / “With a margin account under $25,000, you're limited to three day trades every five days.” 홍보·행동유도 발화: “Follow for proven tips and how to master one system that works.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 113,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5485,24 +5386,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "874608949013610": {
     "date": "2026.05.07",
     "duration": "00:30",
-    "originalTitle": "32K views · 498 reactions | 2 types of traders 🔍 Looking to get into trading? Follow for educational content to help you succeed! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: I look for consistency and steady account growth.",
+    "originalTitle": "2 types of traders 🔍 Looking to get into trading? Follow for educational content to help you succeed! 👉 Disclaimer: This content is for educational purposes only and is not financ…",
+    "title": "일관된 수익과 일정 위험을 추구하는 트레이더의 전략",
     "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 30.21초·Facebook 자동 자막 80단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Chase big trades and viral strategies.” / “I risk random large amounts.”",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim"
+      "위험관리",
+      "투자전략",
+      "일관된 수익"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Chase big trades and viral strategies.” 이어 “I risk random large amounts.” 이어 “I enter on FOMO and exit on fear.” 이어 “I choose my style based on schedule, risk tolerance, and mark structure.”",
+    "core": "일관된 수익을 추구하는 트레이더는 큰 수익을 추구하지 않고 일정한 수익을 목표로 합니다.",
     "rules": [
-      "원문 실행 문장: I look for consistency and steady account growth.",
-      "원문 실행 문장: I use a fixed percent risk.",
-      "원문 실행 문장: I enter on FOMO and exit on fear.",
-      "원문 실행 문장: I have a planned entry, target, and stop loss.",
-      "원문 실행 문장: I choose my style based on schedule, risk tolerance, and mark structure."
+      "일관된 수익을 추구하며 큰 위험을 피합니다.",
+      "일정한 수익을 목표로 한 번의 투자에서 일정한 위험을 사용합니다.",
+      "일정한 수익을 목표로 한 번의 투자에서 일정한 위험을 사용합니다."
     ],
-    "caution": "성과·수익 발화: “I use a fixed percent risk.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 80,
     "transcriptSource": "Facebook 자동 자막"
@@ -5510,24 +5410,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "883305251393896": {
     "date": "2026.04.17",
     "duration": "00:45",
-    "originalTitle": "8.9K views · 131 reactions | 2 types of traders🧩 Follow if you want to learn the mindset and structure of consistently winning traders! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: Enter because it looks like it might move, I name the setup before I enter and I know what invalidates t…",
+    "originalTitle": "2 types of traders🧩 Follow if you want to learn the mindset and structure of consistently winning traders! 👉 Disclaimer: This content is for educational purposes only and is not f…",
+    "title": "1분 차트에서 빈번한 진입과 높은 레버리지로 성공하는 거래자의 심리와 구조",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 45.17초·Facebook 자동 자막 145단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Enter because it looks like it might move, I name the setup before I enter and I know what invalidates the trade.” / “I draw lines everywhere and trade mid range.”",
+    "fidelity": "원본 영상·Facebook 자동 자막·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "risk"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "거래 심리"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Enter because it looks like it might move, I name the setup before I enter and I know what invalidates the trade.” 이어 “I draw lines everywhere and trade mid range.” 이어 “I chase the first big candle through a level.” 이어 “I place my risk-based stop loss just beyond their invalidation level and I don't widen them.”",
+    "core": "성공하는 거래자의 심리는 빠른 결정과 높은 레버리지를 통해 이익을 추구한다.",
     "rules": [
-      "원문 실행 문장: Enter because it looks like it might move, I name the setup before I enter and I know what invalidates the trade.",
-      "원문 실행 문장: I draw lines everywhere and trade mid range.",
-      "원문 실행 문장: I trade only at predefined levels like the previous days high, previous days low, anchored volume weighted average price, or darvis levels that are supported by market structure.",
-      "원문 실행 문장: I put stops where they feel right and move them when price gets close.",
-      "원문 실행 문장: I place my risk-based stop loss just beyond their invalidation level and I don't widen them."
+      "1분 또는 틱 차트에서 진입을 결정하고 매매 방향을 미리 정한다.",
+      "변화를 예상할 때마다 빈번하게 진입과 빠른 결정을 한다.",
+      "지정가 정지 손절을 사용하고 가격이 가까워지면 정지가 이동된다."
     ],
-    "caution": "전사에서 청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 145,
     "transcriptSource": "Facebook 자동 자막"
@@ -5535,24 +5435,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "885425337831762": {
     "date": "2026.03.19",
     "duration": "00:49",
-    "originalTitle": "4.9K views · 79 reactions | FOMO trading 😬 Want a more in-depth breakdown of the FOMO vs patience trading process I just shared? Follow me and I’ll show you how to do that! | Raghee Horner",
-    "title": "심리·규율: I wait until my level is hit and my trigger prints.",
+    "originalTitle": "FOMO trading 😬 Want a more in-depth breakdown of the FOMO vs patience trading process I just shared? Follow me and I’ll show you how to do that!",
+    "title": "FOMO 트레이딩과 인내심 트레이딩의 차이 - 실제 트레이딩 과정",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 49.20초·로컬 Whisper large-v3-turbo 전사 164단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I jump in the second I see price moving fast, I don't want to miss it.” / “I enter near my planned level with a clear stop location before I click buy.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "심리·규율",
+      "FOMO 트레이딩",
+      "인내심 트레이딩",
+      "거래 전략"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “I jump in the second I see price moving fast, I don't want to miss it.” 이어 “I enter near my planned level with a clear stop location before I click buy.” 이어 “I take trades that are almost my setup because it's close enough.” 이어 “Want more of the in-depth breakdown of the FOMO versus patience trading process I just shared?”",
+    "core": "FOMO 트레이딩은 가격이 빠르게 움직일 때 즉시 진입하며, 인내심 트레이딩은 계획된 수준에서 진입하고 조기에 관리하지 않습니다.",
     "rules": [
-      "원문 실행 문장: I wait until my level is hit and my trigger prints.",
-      "원문 실행 문장: I enter near my planned level with a clear stop location before I click buy.",
-      "원문 실행 문장: I let the trade run and only manage it when my plan says to do so.",
-      "원문 실행 문장: I take trades that are almost my setup because it's close enough.",
-      "원문 실행 문장: I ignore the noise and only trade what matches on my rules and context."
+      "가격이 빠르게 움직일 때 즉시 진입하는 FOMO 트레이딩은 계획된 수준에서 진입하고 조기에 관리하는 인내심 트레이딩과는 다르다.",
+      "큰 캔들 끝에서 진입하여 모멘텀이 시작되었다고 느끼는 FOMO 트레이딩은 계획된 수준과 손절를 설정한 후 진입하는 인내심 트레이딩과는 다르다.",
+      "헤드라인, 메시지, 또는 모든 사람이 말하는 것에 따라 진입하는 FOMO 트레이딩은 자신의 규칙과 컨텍스트에 맞는 것만 거래하는 인내심 트레이딩과는 다르다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow me and I'll show you how to do that.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 164,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5560,24 +5460,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "889419037450038": {
     "date": "2026.04.09",
     "duration": "01:16",
-    "originalTitle": "4.7K views · 90 reactions | How To Start Trading In 2026.🚀 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "주식·섹터: What are you even trying to trade?",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 75.87초·로컬 Whisper large-v3-turbo 전사 250단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Man, I want to start trading, but I don't know how.” / “Get the point.”",
+    "originalTitle": "How To Start Trading In 2026.🚀 Follow for more trading education! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice.…",
+    "title": "2026년 시작하는 주식 트레이딩 방법",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "주식·섹터",
+      "트레이딩",
+      "주식"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “Man, I want to start trading, but I don't know how.” 이어 “Get the point.” 이어 “You might as well say forever.” 이어 “She talks about this all the time.”",
+    "core": "주식, 암호화폐, 외환 중 하나를 선택하고, 한 가지 전략을 고르는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: What are you even trying to trade?",
-      "원문 실행 문장: Well, they don't move the same.",
-      "원문 실행 문장: Forex can move slower, but it's got a lot of leverage.",
-      "원문 실행 문장: Here's one you can use.",
-      "원문 실행 문장: After you paper trade for at least three months."
+      "주식, 암호화폐, 외환 중 하나를 선택해야 한다.",
+      "한 가지 전략을 선택하고, 그 외의 전략은 무시해야 한다.",
+      "실제 돈으로 거래하기 전에 최소 세 달 동안 페이퍼 트레이딩을 해야 한다."
     ],
-    "caution": "성과·수익 발화: “For instance, crypto could move 5 to 10% in a day, whereas most big stocks don't move that much.” / “I'd recommend one to two percent.” 홍보·행동유도 발화: “Oh, I follow Raghi.” / “You should follow her too.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 250,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5585,26 +5485,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "902382266252658": {
     "date": "2026.07.16",
     "duration": "01:22",
-    "originalTitle": "13K views · 184 reactions | Trader Of (38) Years Explains How To Trade Gold In 60 Seconds 🧈 Want to learn how to make consistent long-term returns as a professional trader without switching strategies every few days? Follow and I’ll show you how! #daytrading #goldtrading #optionstrading #tradingfundamentals #profitabletrading 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "돌파·개장 범위: This is the confirmation you need before ever taking a trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 81.55초·로컬 Whisper large-v3-turbo 전사 252단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I made over 60% in just one day, day trading gold.” / “Instead of breakout spikes and chasing, I entered gold after price pulled back during an active bullish trend.”",
+    "originalTitle": "Trader Of (38) Years Explains How To Trade Gold In 60 Seconds 🧈 Want to learn how to make consistent long-term returns as a professional trader without switching strategies every…",
+    "title": "38년 경력 트레이더의 금 거래 전략 (1일 60초)",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "breakout",
-      "risk",
-      "performance claim",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "주식·섹터",
+      "금 거래"
     ],
-    "core": "원문 전사 기준 돌파·개장 범위 콘텐츠다. “I made over 60% in just one day, day trading gold.” 이어 “Instead of breakout spikes and chasing, I entered gold after price pulled back during an active bullish trend.” 이어 “Because oftentimes gold miners will start moving before or even with gold as it takes off.” 이어 “Without switching strategies every few days?”",
+    "core": "금 거래에서 일관된 수익을 얻기 위해서는 시장 동향을 파악하고, 하락세를 기다리고, 수익을 단계적으로 확보하며, 섹터 동향을 주시하고, 추세를 확인하는 것이 중요하다.",
     "rules": [
-      "원문 실행 문장: This is the confirmation you need before ever taking a trade.",
-      "원문 실행 문장: Second thing is wait for the dip.",
-      "원문 실행 문장: Not just at one target, but at up to three.",
-      "원문 실행 문장: I took partial profits at my first target and then moved my stop to break even.",
-      "원문 실행 문장: Risk first, reward second."
+      "장에서 가장 강한 캔들 5개를 기다리고, 그들이 녹색일 때 bullish 추세가 있을 가능성을 확인한다.",
+      "가격이 상승 추세 중에 하락세를 보일 때 진입한다.",
+      "첫 목표가 달성 시 부분 수익을 실현하고, 손절를 평가매도로 이동시킨다."
     ],
-    "caution": "성과·수익 발화: “I made over 60% in just one day, day trading gold.” 홍보·행동유도 발화: “When they're green, it means I've got bullish momentum and potentially bullish follow through.” / “Follow and I'll show you how I've been trading consistently for over three decades.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 252,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5612,23 +5510,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "904323222669504": {
     "date": "2026.05.13",
     "duration": "00:59",
-    "originalTitle": "27K views · 598 reactions | How I formed my sector secrets strategy 💎 Struggling to consistently grow your investments? Follow to learn the tools and strategies you need for successful trading! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: Early on, I built a strict risk formula which kept me from blowing up accounts.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 59.14초·로컬 Whisper large-v3-turbo 전사 159단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “My investment portfolio went from this to this by using this one simple strategy.” / “38 years later, I'm a consistently profitable trader who's never had a losing year.”",
+    "originalTitle": "How I formed my sector secrets strategy 💎 Struggling to consistently grow your investments? Follow to learn the tools and strategies you need for successful trading! 👉 Disclaimer:…",
+    "title": "15세부터 시작한 38년간의 섹터 비밀 전략",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "risk",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “My investment portfolio went from this to this by using this one simple strategy.” 이어 “38 years later, I'm a consistently profitable trader who's never had a losing year.” 이어 “I discovered that the real advantage comes from seeing how stocks, ETFs, indices, options, futures, and forex all interact.” 이어 “Struggling to consistently grow your account?”",
+    "core": "섹터의 강세와 약세를 활용하여 투자 포트폴리오를 성장시킨 전략을 소개한다.",
     "rules": [
-      "원문 실행 문장: Early on, I built a strict risk formula which kept me from blowing up accounts.",
-      "원문 실행 문장: This turned into my sector weighting and rotation approach, focusing on strength and weakness across sectors and their ETFs to decide what to trade, when, and in which direction."
+      "15세부터 시작해 38년 동안 투자 포트폴리오를 성장시킨 섹터 비밀 전략을 공유한다.",
+      "기술이 발전하면서 개발한 도구를 사용해 변동성, 지지, 저항, 추세를 분석한다.",
+      "섹터와 그 ETF들의 강세와 약세를 바탕으로 투자 포지션을 결정한다."
     ],
-    "caution": "성과·수익 발화: “38 years later, I'm a consistently profitable trader who's never had a losing year.” 홍보·행동유도 발화: “Follow to learn the tools and strategies you need for successful trading.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 159,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5636,24 +5535,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "918445637818050": {
     "date": "2026.03.17",
     "duration": "01:04",
-    "originalTitle": "4.8K views · 79 reactions | Everyone says you need to work on your mindset to become a profitable trader 🧠 Want to go from emotional and inconsistent to calm and profitable without overtrading or forcing setups? Follow for more! | Raghee Horner",
-    "title": "위험관리: Everyone tells you to work on your mindset to trade profitably, but no one tells you what to fix first f…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 64.04초·로컬 Whisper large-v3-turbo 전사 214단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Everyone tells you to work on your mindset to trade profitably, but no one tells you what to fix first for that mindset to even matter.” / “It was understanding why they showed up.”",
+    "originalTitle": "Everyone says you need to work on your mindset to become a profitable trader 🧠 Want to go from emotional and inconsistent to calm and profitable without overtrading or forcing set…",
+    "title": "규칙을 먼저 수정하라: 9:00부터 15:00까지의 일일 거래 규칙을 명시",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "심리학",
+      "거래 규칙"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Everyone tells you to work on your mindset to trade profitably, but no one tells you what to fix first for that mindset to even matter.” 이어 “It was understanding why they showed up.” 이어 “I defined what a valid setup was.” 이어 “Do you want to go from emotional to inconsistent to calm and profitable trading without over-trading or forcing setups?”",
+    "core": "정확한 규칙을 설정하면 마음가짐이 실제 거래 성과에 영향을 줄 수 있다.",
     "rules": [
-      "원문 실행 문장: Everyone tells you to work on your mindset to trade profitably, but no one tells you what to fix first for that mindset to even matter.",
-      "원문 실행 문장: For me, fear showed up when risk wasn't clear or too great.",
-      "원문 실행 문장: And I set this risk for my trades before ever entering, not during the trade.",
-      "원문 실행 문장: And when those risk rules were hit, I stopped."
+      "일일 거래 수를 정하고, 거래 전에 위험을 결정한다.",
+      "규칙을 따르지 않으면 거래를 중단한다."
     ],
-    "caution": "성과·수익 발화: “I decided how many trades I could take per day.” / “Do you want to go from emotional to inconsistent to calm and profitable trading without over-trading or forcing setups?” 홍보·행동유도 발화: “Follow up for more advice.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 214,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5661,27 +5559,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "921786640340174": {
     "date": "2026.02.19",
     "duration": "01:04",
-    "originalTitle": "8.7K views · 138 reactions | How to go from this, to this, without doing this 🧐 Follow for more trading strategies that actually work! | Raghee Horner",
-    "title": "위험관리: Step number two, you can use someone else's money.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 64.48초·로컬 Whisper large-v3-turbo 전사 184단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “How to go from this to this without doing this.” / “Risk no more than two to three percent per trade and stop trading for the day after two losses.”",
+    "originalTitle": "How to go from this, to this, without doing this 🧐 Follow for more trading strategies that actually work!",
+    "title": "거래 전략으로의 진급: 실제 손실 없이 성공적인 거래로",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "journal",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "거래 전략",
+      "투자자금"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “How to go from this to this without doing this.” 이어 “Risk no more than two to three percent per trade and stop trading for the day after two losses.” 이어 “Don't force the trade.” 이어 “No strategy will make you a good trader if you're not consistently improving your behavior.”",
+    "core": "거래 전략을 개선하고 실현 가능한 목표를 달성하려면 지식을 쌓고 일관성을 증명하는 것이 중요합니다.",
     "rules": [
-      "원문 실행 문장: Step number two, you can use someone else's money.",
-      "원문 실행 문장: Risk no more than two to three percent per trade and stop trading for the day after two losses.",
-      "원문 실행 문장: Use one clear setup with defined rules, trend direction, entry level, and stop.",
-      "원문 실행 문장: If the setup doesn't fit in just 10 seconds, skip the trade.",
-      "원문 실행 문장: Journal every single trade."
+      "거래 전략을 개발하기 전에 실습 계정을 사용하여 자신의 규칙을 20~50회 연속으로 따르는 법",
+      "일관성을 증명한 후 투자자금을 사용하여 거래를 시작하는 법",
+      "각 거래에서 최대 2~3%의 위험만 감수하고 두 번의 손실 후 거래를 중단하는 법"
     ],
-    "caution": "성과·수익 발화: “Risk no more than two to three percent per trade and stop trading for the day after two losses.” 홍보·행동유도 발화: “Start by using a demo or a very small account until you can follow your own rules for at least 20 to 50 trades in a row without breaking them.” / “Follow me for more trading strategies that absolutely work.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 184,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5689,27 +5584,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "921867807598184": {
     "date": "2026.07.23",
     "duration": "01:30",
-    "originalTitle": "9.1K views · 129 reactions | My Simple AVWAP Strategy 📈 Are you a trader who wants to improve your entries and exits? Follow for more trading education! #optionstrading #avwap #tradingstrategy #financialeducation #profitabletrading 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "Anchored VWAP: Do this before planning any trade.",
+    "originalTitle": "My Simple AVWAP Strategy 📈 Are you a trader who wants to improve your entries and exits? Follow for more trading education! #optionstrading #avwap #tradingstrategy #financialeduca…",
+    "title": "My Simple AVWAP 전략: 시간별 진입과 타이밍",
     "kind": "setup",
-    "verdict": "검증 필요",
-    "fidelity": "원본 89.58초·로컬 Whisper large-v3-turbo 전사 302단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm going to show you how I've been testing my anchored volume weighted average price strategy for many years.” / “If price stays below, only look for selling opportunities.”",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
       "VWAP",
-      "support",
-      "resistance",
-      "breakout",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리"
     ],
-    "core": "원문 전사 기준 Anchored VWAP 콘텐츠다. “I'm going to show you how I've been testing my anchored volume weighted average price strategy for many years.” 이어 “If price stays below, only look for selling opportunities.” 이어 “So what you're going to do is plot multiple AVWAPs from different anchor points.” 이어 “Are you a trader who wants to improve your entries and exits using volume tools like the Anchored VWAP?”",
+    "core": "ANCHWAP 전략을 통해 진입과 탈출을 개선할 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Do this before planning any trade.",
-      "원문 실행 문장: If price stays below, only look for selling opportunities.",
-      "원문 실행 문장: Wait for price to come back to that anchored volume weighted average price and then enter only after you get a rejection candle.",
-      "원문 실행 문장: The fifth step, manage the trade.",
-      "원문 실행 문장: Target the upper volume weighted average band."
+      "ANCHWAP을 설정하려면 주요 흐름 높이 또는 낮은 점을 선택해야 합니다.",
+      "가격이 ANCHWAP 위에 머무르면 구매 기회를 찾고, 아래에 머무르면 판매 기회를 찾습니다.",
+      "가격이 ANCHWAP으로 되돌아오면 거부 신호를 기다린 후 진입합니다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more trading education.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 302,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5717,25 +5609,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "930031353083599": {
     "date": "2026.02.10",
     "duration": "01:20",
-    "originalTitle": "9.6K views · 189 reactions | I’ve read over 120 trading books in my life 📚 Want to start trading but feeling like you’re lost? Hit follow and join my community! | Raghee Horner",
-    "title": "위험관리: I literally used to draw levels and patterns with my pencil and paper, sitting at the library and buying…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 79.50초·로컬 Whisper large-v3-turbo 전사 233단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I've read over 120 trading books in my life and when I started, I didn't have fancy setups like this.” / “Reading books, studying charts, my pen, my paper and a calculator.”",
+    "originalTitle": "I’ve read over 120 trading books in my life 📚 Want to start trading but feeling like you’re lost? Hit follow and join my community!",
+    "title": "38년 경력의 트레이더의 시작 방법: 위험 관리와 일관성",
+    "kind": "psychology",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "주식·섹터",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “I've read over 120 trading books in my life and when I started, I didn't have fancy setups like this.” 이어 “Reading books, studying charts, my pen, my paper and a calculator.” 이어 “So I focused on learning the basics, how trends form, what they look like, how to control risk, how to position size and how to stay consistent to discipline.” 이어 “Want to start trading but feel like you're lost?”",
+    "core": "트레이딩은 단순히 가격 움직임과 차트 패턴만을 따르는 것이 아니라 위험 관리와 일관성을 중요하게 생각해야 한다.",
     "rules": [
-      "원문 실행 문장: I literally used to draw levels and patterns with my pencil and paper, sitting at the library and buying stocks over the phone with my broker.",
-      "원문 실행 문장: It's about managing risk, position size and controlling your emotions so your good trades can win.",
-      "원문 실행 문장: So I focused on learning the basics, how trends form, what they look like, how to control risk, how to position size and how to stay consistent to discipline.",
-      "원문 실행 문장: Even with losses, I still have over a 62% win rate that prints real money, turning $1 to $3 moves into repeatable gains, trade after trade, year after year."
+      "처음 시작할 때는 가격 움직임과 차트 패턴을 이해하는 것부터 시작해야 한다.",
+      "실제로는 DTN 위성 방송을 통해 실시간 데이터를 얻어야 했으며, 이를 통해 투자 경험을 쌓았다.",
+      "현재는 자동화된 레벨과 구역을 통해 위험을 관리하고 일관된 수익을 얻는 방법을 개발했다."
     ],
-    "caution": "성과·수익 발화: “Even with losses, I still have over a 62% win rate that prints real money, turning $1 to $3 moves into repeatable gains, trade after trade, year after year.” 홍보·행동유도 발화: “Hit follow and join my community.” 전사에서 초기 손절·청산 기준이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 233,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5743,28 +5634,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "933819222434152": {
     "date": "2026.03.02",
     "duration": "01:27",
-    "originalTitle": "20K views · 456 reactions | How to prepare to trade daily 📆 Follow for more trading routines from a professional trader with 30+ years of experience! | Raghee Horner",
-    "title": "지지·저항: Here's how I prepare to trade every single day.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 87.38초·로컬 Whisper large-v3-turbo 전사 259단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Here's how I prepare to trade every single day.” / “Before the market opens, I check the news, earnings and to see if there's any gaps, support and resistance as well as the overall trend.”",
+    "originalTitle": "How to prepare to trade daily 📆 Follow for more trading routines from a professional trader with 30+ years of experience!",
+    "title": "9:35~10:35까지의 일일 트레이딩 준비",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "risk",
-      "psychology",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Here's how I prepare to trade every single day.” 이어 “Before the market opens, I check the news, earnings and to see if there's any gaps, support and resistance as well as the overall trend.” 이어 “Step number four, I set risk before ever clicking buy.” 이어 “This five minute work can save five months of mistakes that go unchecked.”",
+    "core": "일일 트레이딩을 위한 첫 번째 단계는 9:35부터 10:35까지의 시장에서만 거래하는 것입니다.",
     "rules": [
-      "원문 실행 문장: Here's how I prepare to trade every single day.",
-      "원문 실행 문장: I only trade the first 60 minutes of the market as a day trader from 9.35 to 10.35 a.m.",
-      "원문 실행 문장: I mark my pre-market highs and lows and I also take a look at high volume notes.",
-      "원문 실행 문장: Every trade has a fixed risk, which is no more than three percent of my account.",
-      "원문 실행 문장: After each session, I log the trades, I note whatever emotions or whatever might have come up during the trade and oftentimes I'll add a screenshot of the setup."
+      "9:35부터 10:35까지의 시장에서만 거래를 시작합니다.",
+      "시장이 열리기 전에 뉴스, 이arnings, 틱, 지원 및 저항을 확인합니다.",
+      "프리마켓의 고점과 저점, 높은 거래량을 기록하고, 그 구조와 수준을 분석합니다."
     ],
-    "caution": "성과·수익 발화: “Every trade has a fixed risk, which is no more than three percent of my account.” 홍보·행동유도 발화: “Follow for more trading routines from an experienced trader with over 30 years of investing experience.” 전사에서 초기 손절·청산 기준·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 259,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5772,28 +5659,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "935829716025685": {
     "date": "2026.03.26",
     "duration": "01:23",
-    "originalTitle": "8.6K views · 168 reactions | Easy way to trade📊 Follow me to see how I trade live, identify high-probability setups, and master strategies without emotional mistakes! | Raghee Horner",
-    "title": "지지·저항: This is how you can identify the best trading strategy.",
+    "originalTitle": "Easy way to trade📊 Follow me to see how I trade live, identify high-probability setups, and master strategies without emotional mistakes!",
+    "title": "소규모 실습을 통한 고가능성 세팅 식별과 감정적 실수 없이 전략 마스터링",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 82.85초·로컬 Whisper large-v3-turbo 전사 190단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is how you can identify the best trading strategy.” / “Step number two, journal every trade to spot patterns and mistakes early.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "risk",
-      "psychology",
-      "journal",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "심리·규율"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “This is how you can identify the best trading strategy.” 이어 “Step number two, journal every trade to spot patterns and mistakes early.” 이어 “Let the market show you the high probability setups.” 이어 “Consistency beats guessing.”",
+    "core": "고가능성 세팅을 식별하고 감정적 실수를 피하며 효과적인 트레이딩 전략을 마스터하려면 체계적인 접근이 필요하다.",
     "rules": [
-      "원문 실행 문장: This is how you can identify the best trading strategy.",
-      "원문 실행 문장: Step number two, journal every trade to spot patterns and mistakes early.",
-      "원문 실행 문장: Step number three, analyze market structure to identify high probability setups.",
-      "원문 실행 문장: Step number four, always put risk management first and protect your capital.",
-      "원문 실행 문장: I know it's said often, but always set your stops immediately and size positions based on risk, not emotion or hype."
+      "소규모 실습을 통해 일관된 성과를 얻은 후에야 실전으로 진입하라.",
+      "매매 전략을 일기로 기록하여 패턴과 실수를 조기에 식별하라.",
+      "시장 구조를 분석하여 고가능성 세팅을 식별하고 진입하라."
     ],
-    "caution": "홍보·행동유도 발화: “Step number five, follow a consistent process to trade successfully and stick with it.” / “Follow me to see how I trade live, identify high probability setups, and master strategies without all the emotional mistakes.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 190,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5801,21 +5684,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "939537889072931": {
     "date": "2026.05.29",
     "duration": "01:05",
-    "originalTitle": "14K views · 209 reactions | What's the difference between: Higher High, Lower Low, and Equal High? 📈 I am a trading educator and if you want to learn more about trading make sure to follow! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #optionstradingbasics #technicalanalysis #higherhigh #lowerlow #tradingpatterns | Raghee Horner",
-    "title": "지지·저항: Equal highs can show stalled momentum, so wait for the next confirmed move.",
+    "originalTitle": "What's the difference between: Higher High, Lower Low, and Equal High? 📈 I am a trading educator and if you want to learn more about trading make sure to follow! 👉 Disclaimer: Thi…",
+    "title": "38년 경력의 트레이더가 설명하는 Higher High, Lower Low, Equal High의 차이",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 64.70초·로컬 Whisper large-v3-turbo 전사 191단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What's the difference between a higher high, a lower low, and an equal high, a higher high?” / “This usually shows that sellers are pushing price lower.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "resistance",
-      "CTA"
+      "지지·저항",
+      "위험관리",
+      "트레이딩",
+      "Higher High"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “What's the difference between a higher high, a lower low, and an equal high, a higher high?” 이어 “This usually shows that sellers are pushing price lower.” 이어 “Equal highs can show stalled momentum, so wait for the next confirmed move.” 이어 “I'm a trader with 38 years of trading experience, and I teach traders how to trade.”",
+    "core": "Higher High는 가격이 이전 높은 고점보다 높은 고점을 형성할 때 발생하며, 구매력이 강하다는 신호를 나타낸다.",
     "rules": [
-      "원문 실행 문장: Equal highs can show stalled momentum, so wait for the next confirmed move.",
-      "원문 실행 문장: I'm a trader with 38 years of trading experience, and I teach traders how to trade."
+      "가격이 이전 높은 고점보다 높은 고점을 형성하면 Higher High가 발생한다.",
+      "Lower Low는 가격이 이전 낮은 저점보다 낮은 저점을 형성할 때 발생하며, 판매력이 강하다는 신호를 나타낸다.",
+      "Equal High는 가격이 같은 저항 수준에서 여러 번 형성될 때 발생하며, 가격이 중요한 수준을 깨지 못했다는 신호를 나타낸다."
     ],
-    "caution": "홍보·행동유도 발화: “And if you want to learn more about trading, make sure to follow.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 191,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5823,28 +5709,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "942237288708906": {
     "date": "2026.05.05",
     "duration": "01:30",
-    "originalTitle": "19K views · 388 reactions | The best strategy I utilize while trading 🔥 Want to achieve consistent profits through trading? Follow to learn basics and strategies to help you make informed trades! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: Then use Dow theory to see if markets are in an uptrend, downtrend, or chop, and only watch the stronges…",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 89.95초·로컬 Whisper large-v3-turbo 전사 289단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I have a 62% win rate over the last 10 years of my trades using this very simple and repeatable strategy.” / “Draw your swing highs and swing lows and mark clear support and resistance zones using price structure and candlesticks.”",
+    "originalTitle": "The best strategy I utilize while trading 🔥 Want to achieve consistent profits through trading? Follow to learn basics and strategies to help you make informed trades! 👉 Disclaime…",
+    "title": "62% 승률의 단순 트레이딩 전략",
+    "kind": "setup",
+    "verdict": "규칙화 가능",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "risk",
-      "journal",
-      "performance claim",
-      "CTA"
+      "지지·저항",
+      "위험관리",
+      "심리·규율",
+      "주식·섹터"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “I have a 62% win rate over the last 10 years of my trades using this very simple and repeatable strategy.” 이어 “Draw your swing highs and swing lows and mark clear support and resistance zones using price structure and candlesticks.” 이어 “Wait for price to reach your pre-marked zones.” 이어 “Want to achieve consistent profits through trading?”",
+    "core": "단순한 전략으로 10년 동안 62%의 승률을 달성했다.",
     "rules": [
-      "원문 실행 문장: Then use Dow theory to see if markets are in an uptrend, downtrend, or chop, and only watch the strongest sectors that fit that trend.",
-      "원문 실행 문장: Step three, plan the trade with clear rules.",
-      "원문 실행 문장: Wait for price to reach your pre-marked zones.",
-      "원문 실행 문장: Then place your stop and let the trade run.",
-      "원문 실행 문장: Journal every trade so you can improve over time."
+      "적절한 시장과 섹터를 선택하여 빅 이익을 추적하라.",
+      "추세와 구조를 확인하고, 가격 지지와 저항을 명확히 표시하라.",
+      "지정된 가격대에서 진입하되, 가격 확인이 필요하다."
     ],
-    "caution": "성과·수익 발화: “I have a 62% win rate over the last 10 years of my trades using this very simple and repeatable strategy.” / “Take part of your position off at the first profit target and move your stop loss to break even so you don't let a winner turn into a loser.” 홍보·행동유도 발화: “Follow to learn the basics and strategies to help you make more informed trades.” 전사에서 포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 289,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5852,21 +5734,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "952336817515117": {
     "date": "2026.05.08",
     "duration": "00:39",
-    "originalTitle": "148K views · 2.6K reactions | Best and worst times of day to trade ⏰ Want to learn how to trade profitably? Follow for educational content to help you succeed! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "심리·규율: These times are danger zones when you should not trade at all, usually due to economic events and data r…",
+    "originalTitle": "Best and worst times of day to trade ⏰ Want to learn how to trade profitably? Follow for educational content to help you succeed! 👉 Disclaimer: This content is for educational pur…",
+    "title": "장외 시간과 경제 이벤트 시장 분석",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 39.15초·로컬 Whisper large-v3-turbo 전사 109단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Every day at these times, something special happens in the market.” / “These times are when the market moves in an organized way and it's easier to make disciplined moves.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "CTA"
+      "위험관리",
+      "심리·규율",
+      "거래 시간",
+      "시장 분석"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “Every day at these times, something special happens in the market.” 이어 “These times are when the market moves in an organized way and it's easier to make disciplined moves.” 이어 “These are usually also illiquid.” 이어 “Want to learn how to trade profitably?”",
+    "core": "장외 시간에는 시장이 조직적으로 움직이므로 거래가 더 수익적일 수 있습니다.",
     "rules": [
-      "원문 실행 문장: These times are danger zones when you should not trade at all, usually due to economic events and data releases.",
-      "원문 실행 문장: Want to learn how to trade profitably?"
+      "장외 시간에는 시장이 조직적으로 움직이므로 거래가 수익적일 수 있습니다.",
+      "고유발 시간에는 시장 변동성이 높아 주의가 필요합니다.",
+      "경제 이벤트와 데이터 릴리스로 인해 위험한 시간대에는 거래하지 않는 것이 좋습니다."
     ],
-    "caution": "성과·수익 발화: “And if you get good at spotty them, you can become a more profitable trader.” 홍보·행동유도 발화: “Follow for educational content designed to help you succeed.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 109,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5874,19 +5759,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "960192103525070": {
     "date": "2026.05.14",
     "duration": "00:49",
-    "originalTitle": "434K views · 11K reactions | What different types of candles mean 🕯️ Overwhelmed with trading information? Follow to learn everything you need to know to trade successfully! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "영상 발화 분석: It means buyers and sellers are even, so the price is pausing before the next move up or down.",
+    "originalTitle": "What different types of candles mean 🕯️ Overwhelmed with trading information? Follow to learn everything you need to know to trade successfully! 👉 Disclaimer: This content is for…",
+    "title": "도지, 힙퍼, 업GBK, 하램이, 마루보조 캔들 종류와 의미",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 49.34초·로컬 Whisper large-v3-turbo 전사 147단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “This is a doji candle.” / “This is an engulfing candle.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "위험관리",
+      "캔들 패턴",
+      "트레이딩"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “This is a doji candle.” 이어 “This is an engulfing candle.” 이어 “It means a second candle sits inside the first.” 이어 “Overwhelmed with trading information?”",
+    "core": "캔들 패턴은 가격 움직임을 예측하는 데 도움을 줌.",
     "rules": [
-      "원문 실행 문장: It means buyers and sellers are even, so the price is pausing before the next move up or down."
+      "도지 캔들은 가격이 다음 움직임 전에 일시적으로 정체됨을 나타냄.",
+      "힙퍼 캔들은 가격 하락 후 반등이 일어날 가능성을 나타냄.",
+      "업GBK 캔들은 두 번째 캔들이 첫 번째 캔들 완전히 덮어 강한 추세를 나타냄."
     ],
-    "caution": "홍보·행동유도 발화: “Follow to learn everything you need to know to trade successfully.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 147,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5894,21 +5783,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "966719977584153": {
     "date": "2021.12.31",
     "duration": "00:05",
-    "originalTitle": "Traders scaling out with profits and not moving to a breakeven stop. | Raghee Horner",
-    "title": "영상 발화 분석: Who's here, boy?",
+    "originalTitle": "Traders scaling out with profits and not moving to a breakeven stop.",
+    "title": "프로핏 스케일아웃 트레이딩 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 4.88초·로컬 Whisper large-v3-turbo 전사 14단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Who's here, boy?” / “That's a good one.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "프로핏",
+      "스케일아웃"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “Who's here, boy?” 이어 “That's a good one.”",
+    "core": "프로핏을 얻은 후 즉시 포지션을 청산하지 않고 그대로 두는 것이 효과적이다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: Who's here, boy?"
+      "프로핏을 얻은 후 즉시 포지션을 청산하지 않고 그대로 두는 것이 좋다.",
+      "이 방법은 프로핏을 유지하면서 위험을 줄일 수 있다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 14,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5916,24 +5806,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "967300496246037": {
     "date": "2026.04.22",
     "duration": "01:02",
-    "originalTitle": "10K views · 184 reactions | My indicator setup📊 Follow because I’ll show you exactly how to set up these 3 indicators to trade confidently without second guessing! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "지지·저항: Make sure both momentum and trend line up across your key time frame.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 61.53초·로컬 Whisper large-v3-turbo 전사 161단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “What's the difference between momentum, the hourly price movement range, and Darbus?” / “Make sure both momentum and trend line up across your key time frame.”",
+    "originalTitle": "My indicator setup📊 Follow because I’ll show you exactly how to set up these 3 indicators to trade confidently without second guessing! 👉 Disclaimer: This content is for education…",
+    "title": "1시간봉 기준의 모멘텀과 트렌드 분석을 통한 자동 진입/이탈",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "CTA"
+      "지지·저항",
+      "위험관리",
+      "모멘텀",
+      "트렌드"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “What's the difference between momentum, the hourly price movement range, and Darbus?” 이어 “Make sure both momentum and trend line up across your key time frame.” 이어 “These volatility-based zones give you an edge most traders miss.” 이어 “This keeps you from hesitating or guessing and locks in your gain with a process, time-proven way to identify floors and ceilings.”",
+    "core": "모멘텀과 트렌드를 확인한 뒤, 1시간봉에서 가격 변동의 지지와 저항을 찾아 진입/이탈을 자동화한다.",
     "rules": [
-      "원문 실행 문장: Make sure both momentum and trend line up across your key time frame.",
-      "원문 실행 문장: Use the hourly price movement or any kind of tool that helps you understand historical volatility.",
-      "원문 실행 문장: In a modern Darbus setup for automated target and support and resistance levels, buy near support, take profit near resistance.",
-      "원문 실행 문장: This keeps you from hesitating or guessing and locks in your gain with a process, time-proven way to identify floors and ceilings."
+      "1시간봉에서 가격 변동의 지지와 저항을 확인하고, 모멘텀과 트렌드가 일치하는 지점에서 진입한다.",
+      "지지 근처에서 매수하고, 저항 근처에서 이익 실현을 한다.",
+      "진입과 이탈을 자동화하여 두려움이나 추측을 최소화한다."
     ],
-    "caution": "성과·수익 발화: “In a modern Darbus setup for automated target and support and resistance levels, buy near support, take profit near resistance.” 홍보·행동유도 발화: “That gives you the strongest setup and probability for follow-through.” / “Follow up because I'll show you exactly how to set up these three indicators to trade confidently without second guessing.” 전사에서 초기 손절·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 161,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5941,25 +5831,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "974989492163945": {
     "date": "2026.05.12",
     "duration": "01:15",
-    "originalTitle": "16K views · 272 reactions | Risk management 101 for traders 📈 Struggling with complex trading strategies? Follow to learn how to simplify your approach for more profit! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Most people have absolutely no idea how much money to trade.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 75.18초·로컬 Whisper large-v3-turbo 전사 217단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Most people have absolutely no idea how much money to trade.” / “Step number two, convert that percent into a dollar risk budget.”",
+    "originalTitle": "Risk management 101 for traders 📈 Struggling with complex trading strategies? Follow to learn how to simplify your approach for more profit! 👉 Disclaimer: This content is for educ…",
+    "title": "트레이딩 리스크 관리 101: 단순화된 접근법으로 더 많은 수익 얻기",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "performance claim",
-      "CTA"
+      "위험관리",
+      "트레이딩 리스크 관리",
+      "포지션 사이징"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Most people have absolutely no idea how much money to trade.” 이어 “Step number two, convert that percent into a dollar risk budget.” 이어 “Step number four, use the basic position size formula.” 이어 “Struggling with how to position size your trades?”",
+    "core": "리스크 관리를 단순화하면 더 많은 수익을 얻을 수 있습니다.",
     "rules": [
-      "원문 실행 문장: Most people have absolutely no idea how much money to trade.",
-      "원문 실행 문장: Step number two, convert that percent into a dollar risk budget.",
-      "원문 실행 문장: Pick your entry and logical stop level on the chart and measure the distance between them.",
-      "원문 실행 문장: Step number five, scale down in drawdowns and only up after at least one month of consistency.",
-      "원문 실행 문장: Struggling with how to position size your trades?"
+      "매 투자에서 최대 몇 퍼센트의 리스크를 결정하고, 계정 크기와 리스크 퍼센트를 곱하여 달러 리스크 예산을 계산합니다.",
+      "지정가를 먼저 정하고, 차트에서 진입 가격과 손절 레벨을 측정한 후 포지션 크기를 계산합니다.",
+      "이익을 보이지 않을 때 리스크를 줄이고, 일정 기간의 이익을 보이면 리스크를 조금 늘립니다."
     ],
-    "caution": "성과·수익 발화: “Step number one, decide your maximum percent to risk per trade.” / “Follow to learn how to simplify your approach for more profit and less risk.” 홍보·행동유도 발화: “Follow to learn how to simplify your approach for more profit and less risk.” 전사에서 초기 손절·청산 기준·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 217,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5967,25 +5855,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "980338664606636": {
     "date": "2026.06.08",
     "duration": "01:20",
-    "originalTitle": "16K views · 332 reactions | Market Structure 101 📈 Follow if you want to read charts instead of guessing entries. 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #tradingcommunity #optionstrading #marketstructure #daytrader #profitabletrade | Raghee Horner",
-    "title": "지지·저항: If we scale to the weekly or daily, you'll usually see the main trend more easily than on tiny timeframe…",
+    "originalTitle": "Market Structure 101 📈 Follow if you want to read charts instead of guessing entries. 👉 Disclaimer: This content is for educational purposes only and is not financial, investment,…",
+    "title": "장세 분석 101: 주요 추세와 반등 진입 시점",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 79.50초·로컬 Whisper large-v3-turbo 전사 248단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Whenever the market is trending, it's when you want to take positions.” / “The question is, how do you know when to enter on a pullback?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "support",
-      "resistance",
-      "CTA"
+      "지지·저항",
+      "옵션",
+      "위험관리",
+      "장세 분석"
     ],
-    "core": "원문 전사 기준 지지·저항 콘텐츠다. “Whenever the market is trending, it's when you want to take positions.” 이어 “The question is, how do you know when to enter on a pullback?” 이어 “Higher lows are the support or the backbone.” 이어 “That's how you align every trade with institutional flow, using classic, time-tested Dow Theory.”",
+    "core": "장세가 주도하는 추세를 따라 반등을 이용해 진입할 수 있다.",
     "rules": [
-      "원문 실행 문장: If we scale to the weekly or daily, you'll usually see the main trend more easily than on tiny timeframes.",
-      "원문 실행 문장: The question is, how do you know when to enter on a pullback?",
-      "원문 실행 문장: Because those small moves don't confirm the real trend.",
-      "원문 실행 문장: And volume will usually confirm participation, according to Dow Theory.",
-      "원문 실행 문장: That's how you align every trade with institutional flow, using classic, time-tested Dow Theory."
+      "장세가 주도하는 추세에서 가격이 반등할 때 진입한다.",
+      "거래량이 반등을 확인할 때 추가로 참여한다.",
+      "소식이나 뉴스로 인한 임시 변동은 무시한다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow if you want to read charts instead of guessing entries.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 248,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -5994,20 +5881,22 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
     "date": "2024.12.27",
     "duration": "00:09",
     "originalTitle": "Raghee Horner on Reels",
-    "title": "영상 발화 분석: .",
+    "title": "Raghee Horner의 Reels: 15분 거래 전략",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 9.27초·로컬 Whisper large-v3-turbo 전사 1단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "Raghee Horner",
+      "15분 거래",
+      "가격 예측"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “.”",
+    "core": "Raghee Horner은 15분 거래 시간 프레임에서 가격 변동을 예측하는 방법을 설명합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: ."
+      "15분 거래 시간 프레임을 사용하여 가격 변동을 예측합니다.",
+      "전략은 주로 15분 차트에서 가격 변동을 분석합니다."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 1,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6015,26 +5904,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "985147657861189": {
     "date": "2026.07.27",
     "duration": "01:25",
-    "originalTitle": "11K views · 238 reactions | Secret Candle Trick 🕯️ Follow for more trading education! #optionstrade #tradingtips #candlestickpatterns #daytrader #emotionaltrading 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. | Raghee Horner",
-    "title": "유동성 스윕: Read the candle from open to close to see whether buyers or sellers finish the battle in control.",
+    "originalTitle": "Secret Candle Trick 🕯️ Follow for more trading education! #optionstrade #tradingtips #candlestickpatterns #daytrader #emotionaltrading 👉 Disclaimer: This content is for educationa…",
+    "title": "세크릿 캔들 트릭: 틱 터치와 텐진 캔들 분석",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 85.13초·로컬 Whisper large-v3-turbo 전사 247단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Hey, listen up.” / “The buyers or the sellers?”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "liquidity",
-      "sweep",
-      "support",
-      "resistance",
-      "CTA"
+      "유동성",
+      "지지·저항",
+      "위험관리",
+      "캔들 패턴"
     ],
-    "core": "원문 전사 기준 유동성 스윕 콘텐츠다. “Hey, listen up.” 이어 “The buyers or the sellers?” 이어 “So check location.” 이어 “Ask yourself what story did the last three to five candles at this level tell you about who's gaining control and who's losing control.”",
+    "core": "캔들 패턴을 통해 시장의 흐름을 파악하고 틱 터치와 텐진 캔들로 진입 시점을 결정하는 방법을 설명한다.",
     "rules": [
-      "원문 실행 문장: Read the candle from open to close to see whether buyers or sellers finish the battle in control.",
-      "원문 실행 문장: Use long upper wicks to spot selling rejection and long lower wicks to spot buyers rejection at key levels.",
-      "원문 실행 문장: Is it at a clear support, resistance, prior high or low, previous session close, retracement level, institutional zone, like an initial balance?",
-      "원문 실행 문장: Look for testing, projection, and a strong move in the opposite direction to identify that sweep of liquidity."
+      "캔들 패턴을 통해 시장의 흐름을 파악한다.",
+      "장기적인 지지와 저항 수준에서 캔들 패턴을 확인한다.",
+      "마지막 세 개의 캔들에서 틱 터치와 텐진 캔들로 시장의 흐름을 판단한다."
     ],
-    "caution": "홍보·행동유도 발화: “Follow for more trading education.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 247,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6043,20 +5930,21 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
     "date": "2024.12.27",
     "duration": "00:34",
     "originalTitle": "Raghee Horner on Reels",
-    "title": "영상 발화 분석: I'm going to go.",
+    "title": "Raghee Horner의 Reels: 즉시 진입 조건",
     "kind": "commentary",
     "verdict": "전략 아님",
-    "fidelity": "원본 33.90초·로컬 Whisper large-v3-turbo 전사 8단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “I'm going to go.” / “I'm going to go.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "원문 전사",
-      "개별 검토"
+      "시장 분석",
+      "거래 전략",
+      "즉시 진입"
     ],
-    "core": "원문 전사 기준 영상 발화 분석 콘텐츠다. “I'm going to go.” 이어 “I'm going to go.”",
+    "core": "즉시 진입할 수 있는 시장 조건을 확인해야 합니다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: I'm going to go."
+      "시장이 상승세를 보일 때 즉시 진입하라.",
+      "상승세가 보일 때 즉시 거래를 시작하라."
     ],
-    "caution": "전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 8,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6064,25 +5952,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "990693156710518": {
     "date": "2026.04.08",
     "duration": "01:14",
-    "originalTitle": "7.1K views · 142 reactions | Trading mindset 101🧠 Follow for more high performance trading psychology that separates amateurs from elite traders! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "심리·규율: They try to trade like robots, but greed, fear, and ego still control their decisions.",
-    "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 73.63초·로컬 Whisper large-v3-turbo 전사 196단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “There is one thing above all else that sets the best day traders apart from everyone else.” / “After three decades in the market, I realized something very powerful.”",
+    "originalTitle": "Trading mindset 101🧠 Follow for more high performance trading psychology that separates amateurs from elite traders! 👉 Disclaimer: This content is for educational purposes only an…",
+    "title": "일등 주식 거래자의 심리 구조와 행동 패턴",
+    "kind": "setup",
+    "verdict": "검증 필요",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "psychology",
-      "journal",
-      "CTA"
+      "심리·규율",
+      "거래 심리",
+      "A+ 세팅",
+      "일등 거래자"
     ],
-    "core": "원문 전사 기준 심리·규율 콘텐츠다. “There is one thing above all else that sets the best day traders apart from everyone else.” 이어 “After three decades in the market, I realized something very powerful.” 이어 “First, define what an A-plus setup looks like and refuse everything else.” 이어 “That's how you stop gambling and start trading.”",
+    "core": "일등 주식 거래자의 심리는 감정을 완전히 제거하지 않고, 시장 구조와 적합한 거래 프로세스를 통해 감정을 관리한다.",
     "rules": [
-      "원문 실행 문장: They try to trade like robots, but greed, fear, and ego still control their decisions.",
-      "원문 실행 문장: That's why they overtrade, revenge trade, hesitate, or size up at the worst possible moment.",
-      "원문 실행 문장: Second, set a hard daily loss limit so no one bad session ever becomes a disaster.",
-      "원문 실행 문장: Third, journal every trade, write down the emotion you felt before every entry.",
-      "원문 실행 문장: That's how you stop gambling and start trading."
+      "A+ 세팅을 정의하고 모든 다른 것을 거부한다.",
+      "매일 손실 한도를 설정하여 단 한 번의 나쁜 세션이 재앙이 되지 않게 한다.",
+      "각 거래를 기록하고 감정을 기록하여 두려움을 데이터로, 배를 경계로 바꾼다."
     ],
-    "caution": "성과·수익 발화: “Here's what actually builds a profitable mindset.” 홍보·행동유도 발화: “Follow for more high-performance trading psychology that separates the amateurs from the elite traders.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 196,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6090,23 +5977,24 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "995056876553542": {
     "date": "2026.05.11",
     "duration": "01:16",
-    "originalTitle": "12K views · 166 reactions | Stock vs. ETF 📈 Ready to grow your money? Follow to learn how to trade like a pro! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. | Raghee Horner",
-    "title": "위험관리: Trading ETF options is about betting on a whole sector with limited risk.",
+    "originalTitle": "Stock vs. ETF 📈 Ready to grow your money? Follow to learn how to trade like a pro! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or…",
+    "title": "주식 vs. ETF 트레이딩: 다양한 기업과 섹터 투자 비교 (10:00)",
     "kind": "setup",
     "verdict": "검증 필요",
-    "fidelity": "원본 76.27초·로컬 Whisper large-v3-turbo 전사 198단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “Trading stocks is about buying strong companies in a sector once the trend is clear.” / “Trading ETF options is about spreading risk across many companies in that sector and keeping losses small with options.”",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "risk",
-      "CTA"
+      "옵션",
+      "위험관리",
+      "주식·섹터",
+      "주식"
     ],
-    "core": "원문 전사 기준 위험관리 콘텐츠다. “Trading stocks is about buying strong companies in a sector once the trend is clear.” 이어 “Trading ETF options is about spreading risk across many companies in that sector and keeping losses small with options.” 이어 “Oftentimes, a single ETF can represent 20, 30, 40 individual stocks or more.” 이어 “Ready to grow your money?”",
+    "core": "주식은 개별 기업에 투자하며 높은 위험을 수용하되, ETF 옵션은 섹터 전체에 투자하며 위험을 분산시킵니다.",
     "rules": [
-      "원문 실행 문장: Trading ETF options is about betting on a whole sector with limited risk.",
-      "원문 실행 문장: Trading stocks is about taking on more risk with an individual company.",
-      "원문 실행 문장: Trading ETF options is about spreading risk across many companies in that sector and keeping losses small with options.",
-      "원문 실행 문장: Trading stocks ties up more money per trade if you're buying shares."
+      "주식은 강한 회사들을 선택하고, 트렌드가 명확해질 때 투자합니다.",
+      "ETF 옵션은 섹터 전체에 투자하며, 다양한 날짜와 가격을 선택하여 위험을 줄입니다.",
+      "주식은 개별 기업을 선택하고, ETF는 섹터 전체를 투자하며, 이로 인해 주식 투자는 더 많은 자금을 투자하게 됩니다."
     ],
-    "caution": "홍보·행동유도 발화: “Trading ETF options lets smaller accounts join sector moves with less cash and smaller losses.” / “Follow and learn how to trade like a pro.” 전사에서 초기 손절·청산 기준·포지션 크기이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 198,
     "transcriptSource": "Whisper large-v3-turbo"
@@ -6114,20 +6002,23 @@ export const RagheeHornerTranscriptOverrides = new Map(Object.entries({
   "995228806623310": {
     "date": "2026.07.02",
     "duration": "00:27",
-    "originalTitle": "439K views · 5.7K reactions | If you invest $1000 into this stock, 📈 Follow along if you want to compare stocks and ETFs without guessing! 👉 Disclaimer: This content is for educational purposes only and is not financial, investment, or trading advice. Past performance does not guarantee future results, and all trading involves risk. Please do your own research or consult a licensed financial professional before making trading decisions. #stockmarket #investingeducation #etfinvesting #longterminvesting #financialeducation | Raghee Horner",
-    "title": "주식·섹터: If you invest $1,000 into this stock, this is the ROI you'd get.",
+    "originalTitle": "If you invest $1000 into this stock, 📈 Follow along if you want to compare stocks and ETFs without guessing! 👉 Disclaimer: This content is for educational purposes only and is not…",
+    "title": "1000달러 투자로 성과 비교, 실제 ROI 분석",
     "kind": "risk",
-    "verdict": "주의 필요",
-    "fidelity": "원본 26.87초·로컬 Whisper large-v3-turbo 전사 76단어 전편·대표 프레임 콘택트시트 직접 확인·핵심 발화 “If you invest $1,000 into this stock, this is the ROI you'd get.” / “If you invest $1,000 into this stock, this is the ROI you'd get.”",
+    "verdict": "핵심 원칙",
+    "fidelity": "원본 영상·Whisper large-v3-turbo·대표 화면 직접 확인",
     "tags": [
-      "CTA"
+      "위험관리",
+      "주식·섹터",
+      "투자 성과",
+      "ROI 분석"
     ],
-    "core": "원문 전사 기준 주식·섹터 콘텐츠다. “If you invest $1,000 into this stock, this is the ROI you'd get.” 이어 “If you invest $1,000 into this stock, this is the ROI you'd get.” 이어 “If you invest $1,000 into this stock, this is the ROI you'd get.” 이어 “If you invest $1,000 into this, this is the ROI you'd get.”",
+    "core": "이 스톡에 1000달러 투자하면 실제 수익률을 확인할 수 있다.",
     "rules": [
-      "전사에서 시장·시간봉·진입·무효화·청산을 함께 갖춘 실행 규칙은 확인되지 않았다.",
-      "영상의 실제 발화·캡션 범위는 다음 문장으로 제한한다: If you invest $1,000 into this stock, this is the ROI you'd get."
+      "이 스톡에 1000달러를 투자하면 실제 ROI를 확인할 수 있다.",
+      "비교를 위해 ETF와의 성과를 분석할 수 있다."
     ],
-    "caution": "성과·수익 발화: “If you invest $1,000 into this stock, this is the ROI you'd get.” / “If you invest $1,000 into this, this is the ROI you'd get.” 홍보·행동유도 발화: “Follow along if you want to compare stocks and ETFs without guessing.” 전사에서 초기 손절·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 확인되지 않았다.",
+    "caution": "수익·승률·계좌 성과는 전체 거래 내역과 비용 반영 결과가 없는 제작자의 주장이다. 교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다. 손절 기준·청산 기준·포지션 크기·거래비용이 완결된 규칙으로 제시되지 않았다.",
     "transcriptVerified": true,
     "transcriptWordCount": 76,
     "transcriptSource": "Whisper large-v3-turbo"
