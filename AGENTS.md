@@ -19,4 +19,4 @@ The rules below are mandatory for every future Facebook Reels or YouTube researc
 9. A completion report must distinguish audited inventory, analyzed/rendered items, deferred items, and pending items. Do not claim “all videos” unless infinite-scroll saturation and the count invariants have both been verified.
 10. The canonical source is `/Users/masterp/Projects/superwork/hiddenriches-mimic/output_research`. The public deployment repository is `/Users/masterp/Projects/superwork/signal-note`. After approved publication, sync managed source files while excluding `.git`, `node_modules`, `dist`, `.DS_Store`, and `artifacts`; re-run validation in the deployment repository; then commit and push `signal-note/main`.
 
-The detailed 2026-08-26 baseline audit is in `docs/reels/transcript-rework-audit-2026-08-26.md`.
+The detailed 2026-08-26 baseline audit is in the research project's `docs/reels/transcript-rework-audit-2026-08-26.md`.
