@@ -81,7 +81,6 @@ export function ResearchShell({ children }) {
           <NavLink to="/" end>아카이브 홈</NavLink>
           <NavLink to="/reels">릴스 리서치</NavLink>
           <NavLink to="/youtube">유튜브 분석</NavLink>
-          <Link className="rs-nav-cta" to="/reels">리서치 열기 <ArrowRight size={15} /></Link>
         </nav>
         <div className="rs-header-actions">
           <ThemeToggle />
