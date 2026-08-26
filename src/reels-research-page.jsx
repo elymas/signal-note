@@ -41,14 +41,18 @@ function loadSource(source) {
   return sourceCache.get(source.slug);
 }
 
-function ReelCard({ reel, order, sourceSlug }) {
+function ReelCard({ reel, order, sourceSlug, fresh }) {
   const [expanded, setExpanded] = useState(false);
   const detailId = `rs-reel-detail-${sourceSlug}-${reel.id}`;
   const kind = kindById.get(reel.kind);
   const tone = verdictTone[reel.verdict] ?? 'verify';
 
   return (
-    <article className={`rs-reel-card kind-${reel.kind} ${expanded ? 'expanded' : ''}`}>
+    <article
+      className={`rs-reel-card kind-${reel.kind} ${expanded ? 'expanded' : ''}`}
+      data-fresh={fresh === undefined ? undefined : ''}
+      style={fresh === undefined ? undefined : { '--rs-i': Math.min(fresh, 7) }}
+    >
       <header>
         <div className="rs-reel-meta">
           <span>REEL {String(order).padStart(3, '0')}</span>
@@ -69,13 +73,13 @@ function ReelCard({ reel, order, sourceSlug }) {
         <span>분석 노트 {expanded ? '접기' : '펼치기'}</span>
         <ChevronDown size={16} aria-hidden="true" />
       </button>
-      {expanded ? (
+      <div className="rs-detail-wrap" data-open={expanded ? '' : undefined} inert={!expanded}>
         <div className="rs-reel-detail" id={detailId}>
           <div><h3>실행·검토 규칙</h3><ol>{reel.rules.map((rule, index) => <li key={`${reel.id}-${index}`}>{rule}</li>)}</ol></div>
           <aside><ShieldAlert size={17} /><p><b>검증 메모</b>{reel.caution}</p></aside>
           <footer><span>분석 근거 <b>{reel.fidelity}</b></span><a href={reel.sourceUrl} target="_blank" rel="noreferrer">원본 영상 <ArrowUpRight size={14} /></a></footer>
         </div>
-      ) : null}
+      </div>
     </article>
   );
 }
@@ -103,6 +107,7 @@ export default function ReelsResearchPage() {
   const [activeKind, setActiveKind] = useState('all');
   const [query, setQuery] = useState('');
   const [visibleCount, setVisibleCount] = useState(24);
+  const [batchStart, setBatchStart] = useState(-1);
   const activeSourceDefinition = reelsSourcesBySlug.get(activeSourceSlug) ?? reelsSources[0];
 
   useEffect(() => {
@@ -119,6 +124,9 @@ export default function ReelsResearchPage() {
       current = false;
     };
   }, [activeSourceDefinition]);
+
+  // a filter change re-mounts the whole list; only a "load more" batch staggers
+  useEffect(() => { setBatchStart(-1); }, [activeSourceSlug, activeKind, query]);
 
   const isSourceReady = activeSource?.slug === activeSourceSlug;
 
@@ -249,12 +257,20 @@ export default function ReelsResearchPage() {
 
           {filteredRows.length ? (
             <div className="rs-reels-grid">
-              {filteredRows.slice(0, visibleCount).map(({ reel, order }) => <ReelCard reel={reel} order={order} sourceSlug={activeSource.slug} key={`${activeSource.slug}-${reel.id}`} />)}
+              {filteredRows.slice(0, visibleCount).map(({ reel, order }, index) => (
+                <ReelCard
+                  reel={reel}
+                  order={order}
+                  sourceSlug={activeSource.slug}
+                  fresh={batchStart >= 0 && index >= batchStart ? index - batchStart : undefined}
+                  key={`${activeSource.slug}-${reel.id}`}
+                />
+              ))}
             </div>
           ) : (
             <div className="rs-empty-state"><Search size={22} /><b>일치하는 리서치가 없습니다.</b><p>검색어를 줄이거나 다른 분류를 선택해 보세요.</p></div>
           )}
-          {visibleCount < filteredRows.length ? <button className="rs-more-button" type="button" onClick={() => setVisibleCount((count) => count + 24)}>다음 24개 노트 <ArrowDown size={15} /></button> : null}
+          {visibleCount < filteredRows.length ? <button className="rs-more-button" type="button" onClick={() => { setBatchStart(visibleCount); setVisibleCount((count) => count + 24); }}>다음 24개 노트 <ArrowDown size={15} /></button> : null}
         </section>
 
         <section className="rs-method-note"><FlaskConical size={22} /><div><b>콘텐츠 해석 원칙</b><p>릴스에서 소개된 규칙은 연구 가설입니다. 성과 수치가 없는 셋업에는 수익성을 부여하지 않았으며, 실제 적용 전 심볼·세션·수수료·슬리피지·표본 외 구간을 고정한 별도 검증이 필요합니다.</p></div></section>

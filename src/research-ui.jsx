@@ -36,11 +36,12 @@ export function ScrollTopButton() {
     return () => window.removeEventListener('scroll', update);
   }, []);
 
-  if (!visible) return null;
   return (
     <button
       type="button"
       className="rs-scroll-top"
+      data-visible={visible ? '' : undefined}
+      inert={!visible}
       onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
       aria-label="목록 맨 위로"
     >

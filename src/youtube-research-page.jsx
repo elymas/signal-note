@@ -21,13 +21,17 @@ import { ScrollTopButton } from './research-ui.jsx';
 
 const channelById = new Map(youtubeResearchChannels.map((channel) => [channel.id, channel]));
 
-function YoutubeCard({ video, order }) {
+function YoutubeCard({ video, order, fresh }) {
   const [expanded, setExpanded] = useState(false);
   const pattern = youtubeVideoPatterns[video.pattern];
   const detailId = `rs-youtube-detail-${video.channelSlug}-${video.id}`;
 
   return (
-    <article className={`rs-youtube-card ${expanded ? 'expanded' : ''}`}>
+    <article
+      className={`rs-youtube-card ${expanded ? 'expanded' : ''}`}
+      data-fresh={fresh === undefined ? undefined : ''}
+      style={fresh === undefined ? undefined : { '--rs-i': Math.min(fresh, 7) }}
+    >
       <header>
         <div className="rs-reel-meta">
           <span>VIDEO {String(order).padStart(3, '0')}</span>
@@ -49,7 +53,7 @@ function YoutubeCard({ video, order }) {
         <span>실행·검증 규칙 {expanded ? '접기' : '펼치기'}</span>
         <ChevronDown size={16} aria-hidden="true" />
       </button>
-      {expanded ? (
+      <div className="rs-detail-wrap" data-open={expanded ? '' : undefined} inert={!expanded}>
         <div className="rs-youtube-detail" id={detailId}>
           <div><small>셋업</small><p>{pattern.setup}</p></div>
           <div><small>진입</small><p>{pattern.entry}</p></div>
@@ -57,7 +61,7 @@ function YoutubeCard({ video, order }) {
           <aside><ShieldAlert size={15} /><span><small>이 영상의 검증 포인트</small><p>{video.risk}</p></span></aside>
           <footer><span>분석 근거 <b>{video.transcriptSource}</b></span><a href={video.url} target="_blank" rel="noreferrer">원본 영상 <ExternalLink size={13} /></a></footer>
         </div>
-      ) : null}
+      </div>
     </article>
   );
 }
@@ -68,12 +72,16 @@ export default function YoutubeResearchPage() {
   const [theme, setTheme] = useState('전체');
   const [query, setQuery] = useState('');
   const [visibleCount, setVisibleCount] = useState(24);
+  const [batchStart, setBatchStart] = useState(-1);
 
   useEffect(() => {
     if (window.location.hash !== '#all-videos') return undefined;
     const frame = window.requestAnimationFrame(() => document.getElementById('all-videos')?.scrollIntoView());
     return () => window.cancelAnimationFrame(frame);
   }, []);
+
+  // a filter change re-mounts the whole list; only a "load more" batch staggers
+  useEffect(() => { setBatchStart(-1); }, [channelId, kind, theme, query]);
 
   const selectedAudit = channelId === 'all' ? youtubeResearchAudit : channelById.get(channelId);
 
@@ -170,12 +178,19 @@ export default function YoutubeResearchPage() {
 
           {filteredVideos.length ? (
             <div className="rs-youtube-grid">
-              {filteredVideos.slice(0, visibleCount).map((video, index) => <YoutubeCard video={video} order={index + 1} key={`${video.channelSlug}-${video.id}`} />)}
+              {filteredVideos.slice(0, visibleCount).map((video, index) => (
+                <YoutubeCard
+                  video={video}
+                  order={index + 1}
+                  fresh={batchStart >= 0 && index >= batchStart ? index - batchStart : undefined}
+                  key={`${video.channelSlug}-${video.id}`}
+                />
+              ))}
             </div>
           ) : (
             <div className="rs-empty-state"><Search size={22} /><b>일치하는 영상이 없습니다.</b><p>검색어를 줄이거나 다른 분류를 선택해 보세요.</p></div>
           )}
-          {visibleCount < filteredVideos.length ? <button className="rs-more-button" type="button" onClick={() => setVisibleCount((count) => count + 24)}>다음 24편 더 보기 <ArrowDown size={15} /></button> : null}
+          {visibleCount < filteredVideos.length ? <button className="rs-more-button" type="button" onClick={() => { setBatchStart(visibleCount); setVisibleCount((count) => count + 24); }}>다음 24편 더 보기 <ArrowDown size={15} /></button> : null}
         </section>
       </div>
       <ScrollTopButton />

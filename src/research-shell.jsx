@@ -33,11 +33,14 @@ function ThemeToggle() {
     <button
       type="button"
       className="rs-theme-toggle"
+      data-dark={isDark ? '' : undefined}
       onClick={toggleTheme}
       aria-label={isDark ? '라이트 테마로 전환' : '다크 테마로 전환'}
       title={isDark ? '라이트 테마로 전환' : '다크 테마로 전환'}
     >
-      {isDark ? <Sun size={17} /> : <Moon size={17} />}
+      {/* both icons stay mounted so the swap can crossfade instead of hard-cutting */}
+      <Sun size={17} aria-hidden="true" />
+      <Moon size={17} aria-hidden="true" />
     </button>
   );
 }
