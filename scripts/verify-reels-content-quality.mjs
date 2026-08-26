@@ -22,7 +22,7 @@ const placeholderPatterns = [
   /원문 실행 문장/,
   /시장 분석에 관한 트레이딩 관점/,
   /트레이딩 화면을 활용한 짧은 장면/,
-  /스tone\s+Ages|오mar|이mpulse|세CTOR|레TAIL|플lux|퍼फ리/i,
+  /스tone\s+Ages|오mar|이mpulse|세CTOR|레TAIL|플lux|퍼फ리|스윗/i,
 ];
 const foreignTextPattern = /[\u3400-\u4DBF\u4E00-\u9FFF\u3040-\u30ff\u0400-\u04ff\ufffd]/;
 const koreanPattern = /[가-힣]/;

@@ -775,10 +775,10 @@ export const ahmedOnChartResearch = {
     },
     {
       id: '1246837690669907', sourceUrl: 'https://www.facebook.com/reel/1246837690669907/', date: '2026.06.03', duration: '01:06',
-      title: '2개월 range 상단·volume-profile POC 돌파 실패의 유동성 스윗 short', originalTitle: 'Follow @ahmedonchart for more trade breakdowns 👀🚨',
+      title: '2개월 range 상단·volume-profile POC 돌파 실패의 유동성 스윕 short', originalTitle: 'Follow @ahmedonchart for more trade breakdowns 👀🚨',
       kind: 'setup', verdict: '검증 필요', fidelity: '원본 영상·영어 음성 전사·일봉·volume profile POC·2개월 consolidation·상단 breakout failure·short 유동성 청산·long trap·14K 주장 화면 직접 확인', tags: ['volume profile', 'POC', 'liquidity sweep', 'false breakout', 'contrarian short'],
       core: '일봉의 2개월 횟보 range와 fixed-range volume profile의 point of control를 표시한다. 가격이 range 상단과 POC 영역 위를 쓸어 기존 short의 stop을 건드린 후 breakout을 유지하지 못하면, 추격 long이 갇혔다고 보고 반대 short한 사례다.',
-      rules: ['일봉 range의 시작·종료·상하단과 volume-profile 세션·bin·POC를 고정한다.', '상단 스윗 및 POC 접촉 후 다시 range 내로 닫히는 종가를 breakout failure로 정의한다.', '확정 종가 후 short하고 stop은 sweep high 밖, target은 range POC·중단·하단 중 사전 고정한다.', 'gap·slippage·funding과 모든 실패 돌파를 포함해 검증한다.'],
+      rules: ['일봉 range의 시작·종료·상하단과 volume-profile 세션·bin·POC를 고정한다.', '상단 스윕 및 POC 접촉 후 다시 range 내로 닫히는 종가를 breakout failure로 정의한다.', '확정 종가 후 short하고 stop은 sweep high 밖, target은 range POC·중단·하단 중 사전 고정한다.', 'gap·slippage·funding과 모든 실패 돌파를 포함해 검증한다.'],
       caution: '영상은 정확한 진입가·stop·target·position size를 말하지 않고 14,000달러 winner만 보여 준다. POC는 data feed·세션·range 선택에 따라 바뀌며 유동성 청산·long trap 설명은 체결 자료 없이 확정할 수 없다.',
     },
     {
