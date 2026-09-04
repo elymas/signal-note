@@ -1,0 +1,151 @@
+{
+  "auditedAt": "2026-09-04",
+  "timezone": "Asia/Seoul",
+  "method": "Aside authenticated infinite-scroll saturation for Facebook and full public Videos/Shorts inventory comparison for YouTube",
+  "facebook": [
+    {
+      "slug": "ahmed-on-chart",
+      "profileUrl": "https://www.facebook.com/people/Ahmed-On-Chart/61588303147986/?sk=reels_tab",
+      "baselineCount": 130,
+      "currentPublicCount": 143,
+      "newIds": ["29227615316827744", "1057168593570134", "1092165647084907", "1055566387249071", "28764942616436592", "899031119670250", "1869935277710616", "2283180165764452", "4400995406778774", "2276611063289523", "1392184579035568", "2545152222666787", "1359884592880757"],
+      "missingIds": [],
+      "consecutiveStableChecks": 8
+    },
+    {
+      "slug": "travis-woo",
+      "profileUrl": "https://www.facebook.com/traviswooofficial/reels/",
+      "baselineCount": 702,
+      "currentPublicCount": 733,
+      "newIds": ["4087990581334607", "4619708374917101", "912996368121840", "2256042741900954", "911447278323361", "1595860178940776", "2142342853366601", "1770413024162470", "2145307299718506", "4463254563938544", "2115902528996819", "1747553383169664", "1774448350238970", "1095760089561478", "1418617966821769", "1740591024745532", "2082140059061467", "1039933498939386", "1043451901647349", "1082926704245286", "2651329405320405", "2558347447930397", "1735504154321243", "1396556512664067", "1086233657275442", "1765861694541316", "1786707742635311", "1976022190021294", "4532222300370500", "2008636943190857", "991830977199601"],
+      "missingIds": [],
+      "consecutiveStableChecks": 8
+    },
+    {
+      "slug": "tarzan-trading-tt",
+      "profileUrl": "https://www.facebook.com/profile.php?id=61580432620692&sk=reels_tab",
+      "baselineCount": 396,
+      "currentPublicCount": 403,
+      "newIds": ["2458581397960246", "1620488166103347", "1597850831921787", "1558334852998488", "3390776771082798", "1588323575987945", "1575139687683700"],
+      "missingIds": [],
+      "consecutiveStableChecks": 8
+    },
+    {
+      "slug": "erick-jablonski",
+      "profileUrl": "https://www.facebook.com/erickjablonski/reels/",
+      "baselineCount": 979,
+      "currentPublicCount": 987,
+      "newIds": ["28611960875106274", "1386888816962641", "957759484039240", "1046371821371094", "1418803523510290", "1931892827972741", "3193297634198214", "1468123022002787"],
+      "missingIds": [],
+      "consecutiveStableChecks": 8
+    },
+    {
+      "slug": "luxalgo",
+      "profileUrl": "https://www.facebook.com/luxalgo/reels/",
+      "baselineCount": 224,
+      "currentPublicCount": 227,
+      "newIds": ["935964995600463", "2293139231458401", "1361587779296232"],
+      "missingIds": [],
+      "consecutiveStableChecks": 8
+    },
+    {
+      "slug": "trader-note-jason",
+      "profileUrl": "https://www.facebook.com/tradersnotes/reels/",
+      "baselineCount": 132,
+      "currentPublicCount": 139,
+      "newIds": ["1605082664323077", "1060255206739084", "1411082701151990", "2298934217522284", "1064657876290959", "1604436331291534", "1624239992557050"],
+      "missingIds": [],
+      "consecutiveStableChecks": 8
+    },
+    {
+      "slug": "dumb-hunter",
+      "profileUrl": "https://www.facebook.com/DumbHuntertrading/reels/",
+      "baselineCount": 1783,
+      "currentPublicCount": 1802,
+      "newIds": ["1053059180822555", "1428278982506554", "1255737289991462", "1069470232722691", "1510214280790730", "949687390761177", "1081263497781243", "2286958115454067", "1614963143562038", "2183472692510395", "1692866241794535", "918751814181144", "1054622003951204", "1097094396025184", "2317877282290254", "1688051705601655", "1605694191218391", "1050590551217496", "1057979786640019"],
+      "missingIds": [],
+      "consecutiveStableChecks": 8
+    },
+    {
+      "slug": "max-anthony",
+      "profileUrl": "https://www.facebook.com/maxxanthonyofficial/reels/",
+      "baselineCount": 856,
+      "currentPublicCount": 867,
+      "newIds": ["1511140191030794", "1999862397319930", "1032972616242802", "1827846774851954", "4141520136139116", "1034021466141850", "1409096717863579", "816276491534619", "2033248233988078", "3737296446451186", "1749235636398384"],
+      "missingIds": [],
+      "consecutiveStableChecks": 8
+    },
+    {
+      "slug": "yostrades",
+      "profileUrl": "https://www.facebook.com/profile.php?id=61590091542659&sk=reels_tab",
+      "baselineCount": 36,
+      "currentPublicCount": 38,
+      "newIds": ["1743658303537624", "2178999099637421"],
+      "missingIds": [],
+      "consecutiveStableChecks": 8
+    },
+    {
+      "slug": "trade-with-pat",
+      "profileUrl": "https://www.facebook.com/tradewithpatty/reels/",
+      "baselineCount": 121,
+      "currentPublicCount": 124,
+      "newIds": ["1050931344611994", "1059998350100513", "1718243689460111"],
+      "missingIds": [],
+      "consecutiveStableChecks": 8
+    },
+    {
+      "slug": "novo-legacy",
+      "profileUrl": "https://www.facebook.com/novo.legacy/reels/",
+      "baselineCount": 106,
+      "currentPublicCount": 107,
+      "newIds": ["4390993294507652"],
+      "missingIds": [],
+      "consecutiveStableChecks": 8
+    },
+    {
+      "slug": "official-20-minute-trader",
+      "profileUrl": "https://www.facebook.com/Official20MinuteTrader/reels/",
+      "baselineCount": 371,
+      "currentPublicCount": 375,
+      "newIds": ["916969611038589", "2640784909689114", "906551278853010", "1910742683236053", "1748296289775978", "1753509132404383", "1611350143976846", "1066613312421807", "1703303000745093", "2576291902793866", "28514944838193586", "925095683973321", "1046824744762956", "1851726369142314", "2520461475130640", "1028461916623186"],
+      "missingIds": ["1066216143022182", "1359899435608688", "1351082473669663", "2278642192944343", "2608498649615024", "1856471155379137", "2103150617223826", "1511440570668717", "1760711781941063", "1785716699277726", "1015237098019707", "1345085930581016"],
+      "consecutiveStableChecks": 8
+    }
+  ],
+  "facebookUnchanged": [
+    {"slug": "omar-agag", "profileUrl": "https://www.facebook.com/omar.agag.official/reels/", "baselineCount": 49, "currentPublicCount": 49},
+    {"slug": "raghee-horner", "profileUrl": "https://www.facebook.com/raghee/reels/", "baselineCount": 247, "currentPublicCount": 247}
+  ],
+  "facebookDeferred": [
+    {"slug": "coin-announcer", "profileUrl": "https://www.facebook.com/profile.php?id=61575861656077&sk=reels_tab", "baselineCount": 276, "reason": "Signed-in profile returned This content isn't available right now; no deletion inference made"}
+  ],
+  "youtube": [
+    {
+      "slug": "hidden-riches",
+      "channelId": "UC9u1oiGsAYwk6OKgfR5jRkA",
+      "channelUrl": "https://www.youtube.com/channel/UC9u1oiGsAYwk6OKgfR5jRkA",
+      "baselinePublicCount": 90,
+      "currentPublicCount": 98,
+      "longForm": 87,
+      "shorts": 11,
+      "newIds": ["CDa2r2mkWW0", "-fTbnjfmP0A", "7PH2bVmTi4k", "xwtW6KUWJfk", "l6SujXDSSMw", "cWirm9AqUXc", "qayRLXwQkTY", "QQFkcLOGiNw"]
+    },
+    {
+      "slug": "stock-is-joogwangil",
+      "channelId": "UCloBYBi2uqRBDYIehpOhVrw",
+      "channelUrl": "https://youtube.com/@a4dpdl",
+      "baselinePublicCount": 31,
+      "currentPublicCount": 37,
+      "longForm": 37,
+      "shorts": 0,
+      "newIds": ["4kt4ZGrdZOw", "FDHDHw-IDwQ", "zzqTsq5_LIs", "OS31hdt64JQ", "KmQklGKv2iM", "yD-asA8IQcE"]
+    }
+  ],
+  "summary": {
+    "facebookNew": 121,
+    "youtubeNew": 14,
+    "totalNew": 135,
+    "facebookCurrentUnavailable": 12,
+    "facebookDeferredChannels": 1
+  }
+}

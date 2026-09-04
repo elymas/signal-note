@@ -3,6 +3,7 @@ import {
   hiddenRichesVideos,
   videoPatterns as stockVideoPatterns,
 } from './hidden-riches-video-data.js';
+import { youtubeUpdate20260904 } from './youtube-updates/update-2026-09-04.js';
 
 const cryptoVideoPatterns = {
   signal: {
@@ -177,10 +178,10 @@ export const youtubeResearchChannels = [
     name: '주식해서한강뷰삼촌',
     url: 'https://www.youtube.com/channel/UC9u1oiGsAYwk6OKgfR5jRkA',
     ...hiddenRichesAudit,
-    autoCaptioned: 90,
+    autoCaptioned: 98,
     audioTranscribed: 0,
-    dateRange: '2026.05.06–2026.08.18',
-    note: '채널 표기 91편 중 공개 Videos 79편과 Shorts 11편을 전수 분석했습니다. 공개 목록에 없는 1편은 비공개·삭제·예약·집계 지연 여부를 외부에서 확정할 수 없습니다.',
+    dateRange: '2026.05.06–2026.09.03',
+    note: '공개 Videos 87편과 Shorts 11편을 전수 분석했습니다. 기존 공개 목록 밖 1편은 비공개·삭제·예약·집계 지연 여부를 외부에서 확정할 수 없습니다.',
   },
   {
     id: 'UC9kFKSIHmlyWfFqyYeOar8A',
@@ -221,17 +222,17 @@ export const youtubeResearchChannels = [
     slug: 'stock-is-joogwangil',
     name: '주식은주광일',
     url: 'https://youtube.com/@a4dpdl',
-    channelReported: 31,
-    publicVideos: 31,
-    longForm: 31,
+    channelReported: 37,
+    publicVideos: 37,
+    longForm: 37,
     shorts: 0,
-    captioned: 31,
-    autoCaptioned: 31,
+    captioned: 37,
+    autoCaptioned: 37,
     audioTranscribed: 0,
     unavailableGap: 0,
-    auditedAt: '2026.08.25',
-    dateRange: '2026.05.28–2026.08.21',
-    note: 'Aside로 채널 동영상 탭을 확인하고, 공개 영상 31편의 제목·설명·자동자막과 yt-dlp 메타데이터를 대조했습니다. 시장 테마와 종목·목표가 주장은 영상 주장으로 분리했습니다.',
+    auditedAt: '2026.09.04',
+    dateRange: '2026.05.28–2026.09.04',
+    note: 'Aside로 채널 동영상 탭을 끝까지 확인하고, 공개 영상 37편의 제목·설명·자동자막·대표 화면과 yt-dlp 메타데이터를 대조했습니다. 시장 테마와 종목·목표가 주장은 영상 주장으로 분리했습니다.',
   },
 ];
 
@@ -276,11 +277,12 @@ const attachChannel = (videos, channel) => videos.map((video) => ({
 }));
 
 export const youtubeResearchVideos = youtubeResearchChannels.flatMap((channel) => {
+  const update = youtubeUpdate20260904.filter((video) => video.channelSlug === channel.slug);
   if (channel.slug === 'hidden-riches') {
-    return attachChannel(hiddenRichesVideos.map((video) => ({ ...video, transcriptSource: '자동자막' })), channel);
+    return [...attachChannel(hiddenRichesVideos.map((video) => ({ ...video, transcriptSource: '자동자막' })), channel), ...attachChannel(update, channel)];
   }
   if (channel.slug === 'ten-billion-trader') return attachChannel(tenBillionTraderVideos, channel);
-  if (channel.slug === 'stock-is-joogwangil') return attachChannel(stockDawnVideos, channel);
+  if (channel.slug === 'stock-is-joogwangil') return [...attachChannel(stockDawnVideos, channel), ...attachChannel(update, channel)];
   return attachChannel(tradingStandardVideos, channel);
 });
 
@@ -291,8 +293,8 @@ export const youtubeResearchAudit = {
   shorts: youtubeResearchChannels.reduce((sum, channel) => sum + channel.shorts, 0),
   captioned: youtubeResearchChannels.reduce((sum, channel) => sum + channel.captioned, 0),
   unavailableGap: youtubeResearchChannels.reduce((sum, channel) => sum + channel.unavailableGap, 0),
-  auditedAt: '2026.08.25',
-  note: '4개 채널의 공개 영상 185편을 모두 분석했습니다. 로그인·연령·멤버십 제한으로 불완전한 분석은 0편이며, 기존 채널의 공개 목록 밖 1편만 미확인 상태입니다.',
+  auditedAt: '2026.09.04',
+  note: '4개 채널의 공개 영상 199편을 모두 분석했습니다. 로그인·연령·멤버십 제한으로 불완전한 분석은 0편이며, 기존 채널의 공개 목록 밖 1편만 미확인 상태입니다.',
 };
 
 export const youtubeVideoKinds = ['전체', ...Array.from(new Set(youtubeResearchVideos.map((video) => video.kind)))];

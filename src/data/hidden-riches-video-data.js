@@ -1,11 +1,11 @@
 export const hiddenRichesAudit = {
-  channelReported: 91,
-  publicVideos: 90,
-  longForm: 79,
+  channelReported: 99,
+  publicVideos: 98,
+  longForm: 87,
   shorts: 11,
-  captioned: 90,
+  captioned: 98,
   unavailableGap: 1,
-  auditedAt: '2026.08.19',
+  auditedAt: '2026.09.04',
 };
 
 export const videoPatterns = {

@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url';
 const rootDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const inventoryPath = path.join(
   rootDir,
-  'research/reels-inventory/facebook-login-2026-08-21.json',
+  'research/reels-inventory/facebook-login-2026-09-04.json',
 );
 const checkpointPath = path.join(rootDir, 'research/reels-analysis/checkpoint.json');
 const sourceFiles = {
@@ -35,13 +35,14 @@ const options = process.argv.slice(2).reduce(
     if (name === '--source') result.sources.push(value);
     if (name === '--id') result.ids.push(value);
     if (name === '--output') result.output = path.resolve(value);
+    if (name === '--audit') result.audit = path.resolve(value);
     if (name === '--concurrency') result.concurrency = Number(value);
     if (name === '--offset') result.offset = Number(value);
     if (name === '--reprocess') result.reprocess = true;
     if (name === '--skip-visuals') result.visuals = false;
     return result;
   },
-  { perSource: 1, sources: [], ids: [], output: null, concurrency: 3, offset: 0, reprocess: false, visuals: true },
+  { perSource: 1, sources: [], ids: [], output: null, audit: null, concurrency: 3, offset: 0, reprocess: false, visuals: true },
 );
 
 if (!Number.isInteger(options.perSource) || options.perSource < 1) {
@@ -76,14 +77,22 @@ const analyzedIdsBySource = new Map(
   }),
 );
 
-const selection = inventory.sources.flatMap((source) => {
+const auditSelection = options.audit
+  ? JSON.parse(fs.readFileSync(options.audit, 'utf8')).facebook.map((source) => ({
+      slug: source.slug,
+      reelIds: source.newIds,
+    }))
+  : null;
+const inventorySources = auditSelection ?? inventory.sources;
+
+const selection = inventorySources.flatMap((source) => {
   if (!selectedSources.has(source.slug)) return [];
   const analyzedIds = analyzedIdsBySource.get(source.slug);
   const candidates = source.reelIds
     .filter((id) => !requestedIds.size || requestedIds.has(id))
     .filter((id) => (options.reprocess || !analyzedIds.has(id)) && !deferredIds.has(id))
     .slice(options.offset);
-  return (requestedIds.size ? candidates : candidates.slice(0, options.perSource))
+  return (requestedIds.size || auditSelection ? candidates : candidates.slice(0, options.perSource))
     .map((id) => ({
       slug: source.slug,
       id,

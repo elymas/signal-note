@@ -58,8 +58,10 @@ function YoutubeCard({ video, order, fresh }) {
           <div><small>셋업</small><p>{pattern.setup}</p></div>
           <div><small>진입</small><p>{pattern.entry}</p></div>
           <div><small>청산</small><p>{pattern.exit}</p></div>
+          {video.rules?.length ? <div><small>영상별 실행 규칙</small><ul>{video.rules.map((rule) => <li key={rule}>{rule}</li>)}</ul></div> : null}
+          {video.cta && video.cta !== '없음' ? <div><small>CTA</small><p>{video.cta}</p></div> : null}
           <aside><ShieldAlert size={15} /><span><small>이 영상의 검증 포인트</small><p>{video.risk}</p></span></aside>
-          <footer><span>분석 근거 <b>{video.transcriptSource}</b></span><a href={video.url} target="_blank" rel="noreferrer">원본 영상 <ExternalLink size={13} /></a></footer>
+          <footer><span>분석 근거 <b>{video.transcriptSource}{video.transcriptWordCount ? ` · ${video.transcriptWordCount.toLocaleString('ko-KR')}단어` : ''}</b></span><a href={video.url} target="_blank" rel="noreferrer">원본 영상 <ExternalLink size={13} /></a></footer>
         </div>
       </div>
     </article>

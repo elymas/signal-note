@@ -6,7 +6,7 @@ import { reelsSources } from '../src/data/reels-sources.js';
 const rootDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const inventoryPath = path.join(
   rootDir,
-  'research/reels-inventory/facebook-login-2026-08-21.json',
+  'research/reels-inventory/facebook-login-2026-09-04.json',
 );
 const checkpointPath = path.join(rootDir, 'research/reels-analysis/checkpoint.json');
 

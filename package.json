@@ -11,7 +11,9 @@
     "reels:prepare": "node scripts/reels-analysis-prepare.mjs",
     "reels:generate-transcripts": "python3 scripts/generate-reels-korean-overrides.py",
     "reels:progress": "node scripts/reels-analysis-progress.mjs",
-    "reels:verify-quality": "node scripts/verify-reels-content-quality.mjs"
+    "reels:verify-quality": "node scripts/verify-reels-content-quality.mjs",
+    "reels:dumb-hunter:verify": "node scripts/verify-dumb-hunter-recovery.mjs",
+    "video:update:verify": "node scripts/verify-video-update-quality.mjs"
   },
   "dependencies": {
     "lucide-react": "1.25.0",

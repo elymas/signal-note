@@ -200,16 +200,25 @@ def source_candidates(artifact_root: Path, source: str) -> list[dict]:
             continue
         info = json.loads(info_path.read_text())
         transcript = correct_asr(transcript_path.read_text(errors="replace"))
+        visual_path = directory / f"{reel_id}.visual.txt"
+        visual_text = correct_asr(visual_path.read_text(errors="replace")) if visual_path.exists() else ""
         description = correct_asr(clean_description(info.get("description") or ""))
         # 게시 설명에는 음성에 없는 시간대·가격 기준·화면 문구가 들어가는 경우가
         # 많다. 음악이나 반복 음성이 길다는 이유로 설명을 버리면 실제 조건이 있는
         # 릴스를 빈 영상으로 오판하므로 항상 전사와 함께 판단 근거에 포함한다.
-        full_text = f"{transcript}. {description}" if description else transcript
+        evidence_parts = [transcript]
+        if description:
+            evidence_parts.append(description)
+        if visual_text:
+            evidence_parts.append(visual_text)
+        full_text = ". ".join(evidence_parts)
         records.append({
             "id": reel_id,
             "info": info,
             "text": full_text,
             "context": select_context(full_text),
+            "transcript": select_context(transcript, 4400),
+            "visual_text": truncate(visual_text, 1600),
             "source": transcript_source,
             "word_count": len(transcript.split()),
             "has_sheet": (directory / f"{reel_id}.sheet.jpg").exists(),
@@ -249,13 +258,16 @@ def make_prompt(record: dict) -> str:
 [게시 설명]
 {truncate(clean_description(info.get('description')), 500) or '없음'}
 [영상 전사]
-{record['context']}
+{record['transcript']}
+[대표 프레임 화면 문자]
+{record['visual_text'] or '식별 가능한 화면 문자 없음'}
 
 아래 스키마의 짧고 유효한 JSON 객체만 작성하라.
 {{
   "title": "다른 영상과 구별되는 시간 프레임·기준 가격·행동을 담은 한글 제목",
   "core": "영상이 말하는 핵심 원리와 인사이트를 1~2개의 완결된 한글 문장으로 요약",
   "rules": ["영상에서 실제 제시한 조건·행동을 완결된 한글 문장으로 작성", "다음 조건·행동"],
+  "cta": "댓글·팔로우·강의·커뮤니티·링크 등 실제 CTA, 없으면 없음",
   "tags": ["한글 중심 태그", "필요한 표준 약어"]
 }}
 rules는 1~3개의 JSON 문자열 배열이다. 셋업이면 진입 순서를 보존한다. 제목이나
@@ -373,7 +385,7 @@ def build_caution(text: str) -> str:
     if CTA_RE.search(text):
         cautions.append("교육 상품·커뮤니티·팔로우 유도가 포함되어 있어 정보와 홍보를 분리해야 한다.")
     if missing:
-        cautions.append(f"{'·'.join(missing)}이 완결된 규칙으로 제시되지 않았다.")
+        cautions.append(f"{'·'.join(missing)} 항목이 완결된 규칙으로 제시되지 않았다.")
     if not cautions:
         cautions.append("단일 영상 사례이므로 다른 시장·세션과 실패 거래를 포함한 별도 검증이 필요하다.")
     return " ".join(cautions)
@@ -424,7 +436,10 @@ def finalize(record: dict, raw_card: dict | None) -> dict:
             tags.append(truncate(tag, 28))
 
     info = record["info"]
-    fidelity = ["원본 영상", record["source"], "대표 화면 직접 확인" if record["has_sheet"] else "영상 메타데이터 확인"]
+    cta = normalize_korean(card.get("cta"))
+    if not cta or not KOREAN_RE.search(cta) or FOREIGN_TEXT_RE.search(cta):
+        cta = "홍보 또는 참여 유도 문구가 확인되지 않는다." if not CTA_RE.search(text) else "댓글·팔로우·교육 상품 참여 유도가 포함된다."
+    fidelity = ["원본 영상", record["source"], "대표 화면 OCR·콘택트시트 확인" if record["has_sheet"] else "영상 메타데이터 확인"]
     return {
         "date": format_date(info.get("upload_date")),
         "duration": format_duration(info.get("duration")),
@@ -436,6 +451,7 @@ def finalize(record: dict, raw_card: dict | None) -> dict:
         "tags": tags[:4],
         "core": core,
         "rules": rules[:3],
+        "cta": truncate(cta, 220),
         "caution": build_caution(text),
         "transcriptVerified": True,
         "transcriptWordCount": record["word_count"],
@@ -447,6 +463,7 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--source", required=True)
     parser.add_argument("--artifact", required=True, type=Path)
+    parser.add_argument("--output-dir", type=Path)
     parser.add_argument("--model", default=DEFAULT_MODEL)
     parser.add_argument("--batch-size", type=int, default=8)
     parser.add_argument("--fresh", action="store_true")
@@ -514,7 +531,7 @@ def main() -> None:
             ]
             if args.strict_retry:
                 response_texts = [
-                    generate(model, tokenizer, prompt, max_tokens=340, sampler=sampler, verbose=False)
+                    generate(model, tokenizer, prompt, max_tokens=460, sampler=sampler, verbose=False)
                     for prompt in prompts
                 ]
             else:
@@ -522,7 +539,7 @@ def main() -> None:
                     model,
                     tokenizer,
                     [tokenizer.encode(prompt) for prompt in prompts],
-                    max_tokens=260,
+                    max_tokens=360,
                     sampler=sampler,
                     verbose=False,
                 )
@@ -544,7 +561,7 @@ def main() -> None:
                         tokenize=False,
                         add_generation_prompt=True,
                     )
-                    parsed = parse_json(generate(model, tokenizer, retry_chat, max_tokens=340, sampler=sampler, verbose=False))
+                    parsed = parse_json(generate(model, tokenizer, retry_chat, max_tokens=460, sampler=sampler, verbose=False))
                 responses[record["id"]] = parsed
         for record in batch:
             generated[record["id"]] = finalize(record, responses.get(record["id"]))
@@ -553,7 +570,8 @@ def main() -> None:
 
     export_name = re.sub(r"-([a-z0-9])", lambda match: match.group(1).upper(), args.source)
     export_name = export_name[0].upper() + export_name[1:] + "TranscriptOverrides"
-    output_path = ROOT / "src/data/reels-transcripts" / f"{args.source}.js"
+    output_dir = args.output_dir.resolve() if args.output_dir else ROOT / "src/data/reels-transcripts"
+    output_path = output_dir / f"{args.source}.js"
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(
         "// 자동 생성 파일: 전사와 대표 화면에서 추출한 한국어 콘텐츠 요약\n"

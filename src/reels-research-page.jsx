@@ -76,8 +76,9 @@ function ReelCard({ reel, order, sourceSlug, fresh }) {
       <div className="rs-detail-wrap" data-open={expanded ? '' : undefined} inert={!expanded}>
         <div className="rs-reel-detail" id={detailId}>
           <div><h3>실행·검토 규칙</h3><ol>{reel.rules.map((rule, index) => <li key={`${reel.id}-${index}`}>{rule}</li>)}</ol></div>
+          {reel.cta ? <div><h3>CTA</h3><p>{reel.cta}</p></div> : null}
           <aside><ShieldAlert size={17} /><p><b>검증 메모</b>{reel.caution}</p></aside>
-          <footer><span>분석 근거 <b>{reel.fidelity}</b></span><a href={reel.sourceUrl} target="_blank" rel="noreferrer">원본 영상 <ArrowUpRight size={14} /></a></footer>
+          <footer><span>분석 근거 <b>{reel.fidelity}{Number.isFinite(reel.transcriptWordCount) ? ` · ${reel.transcriptWordCount.toLocaleString('ko-KR')}단어` : ''}</b></span><a href={reel.sourceUrl} target="_blank" rel="noreferrer">원본 영상 <ArrowUpRight size={14} /></a></footer>
         </div>
       </div>
     </article>

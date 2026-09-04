@@ -5,12 +5,15 @@
 // notes 는 목록 칩에 먼저 표시되는 힌트 값이고, 데이터가 로드되면 실제 값으로 대체됩니다.
 
 import { DumbHunterTranscriptOverrides } from './reels-transcripts/dumb-hunter.js';
+import { DumbHunterRecoveredEvidence } from './reels-transcripts/dumb-hunter-recovered-evidence.js';
 import { ErickJablonskiTranscriptOverrides } from './reels-transcripts/erick-jablonski.js';
 import { LuxalgoTranscriptOverrides } from './reels-transcripts/luxalgo.js';
 import { legacyPlaceholderCorrections } from './reels-transcripts/legacy-placeholder-corrections.js';
 import { MaxAnthonyTranscriptOverrides } from './reels-transcripts/max-anthony.js';
 import { recentKoreanCorrections } from './reels-transcripts/recent-korean-corrections.js';
 import { TraderNoteJasonTranscriptOverrides } from './reels-transcripts/trader-note-jason.js';
+import { reelsUpdate20260904 } from './reels-updates/update-2026-09-04.js';
+import { DumbHunterNoAudioEditorialOverrides } from './reels-updates/dumb-hunter-no-audio-overrides.js';
 
 const recoveredTranscriptOverrides = new Map([
   ['dumb-hunter', DumbHunterTranscriptOverrides],
@@ -253,12 +256,21 @@ const normalizeEditorialKorean = (value) => {
 };
 
 const applyRecoveredTranscript = (slug, reel) => {
+  const recoveredEvidence = slug === 'dumb-hunter'
+    ? DumbHunterRecoveredEvidence.get(String(reel.id))
+    : null;
   const merged = {
     ...reel,
+    ...(recoveredEvidence ?? {}),
+    ...(slug === 'dumb-hunter' ? DumbHunterNoAudioEditorialOverrides.get(String(reel.id)) : null),
     ...(recoveredTranscriptOverrides.get(slug)?.get(String(reel.id)) ?? {}),
     ...(legacyPlaceholderCorrections.get(slug)?.get(String(reel.id)) ?? {}),
     ...(recentKoreanCorrections.get(slug)?.get(String(reel.id)) ?? {}),
   };
+  if (recoveredEvidence?.evidenceLabel) {
+    merged.fidelity = `${merged.fidelity}; ${recoveredEvidence.evidenceLabel}`;
+    delete merged.evidenceLabel;
+  }
   if (!koreanReworkSources.has(slug)) return merged;
   return {
     ...merged,
@@ -270,6 +282,22 @@ const applyRecoveredTranscript = (slug, reel) => {
       ? [...new Set(merged.tags.map(normalizeEditorialKorean).filter(Boolean))]
       : merged.tags,
   };
+};
+
+const updateAuditDate = '2026.09.04';
+
+const sortReelsNewestFirst = (reels) => [...reels].sort((left, right) => {
+  const dateOrder = String(right.date ?? '').localeCompare(String(left.date ?? ''));
+  if (dateOrder !== 0) return dateOrder;
+  return String(right.id ?? '').localeCompare(String(left.id ?? ''), 'en', { numeric: true });
+});
+
+const getPublishedRange = (reels, fallback) => {
+  const dates = reels
+    .map((reel) => String(reel.date ?? ''))
+    .filter((date) => /^\d{4}\.\d{2}\.\d{2}$/.test(date))
+    .sort();
+  return dates.length ? `${dates[0]}–${dates.at(-1)}` : fallback;
 };
 
 async function loadStandardResearch(modulePromise) {
@@ -292,36 +320,47 @@ async function loadStandardResearch(modulePromise) {
   }
 
   const reelsById = new Map(
-    [...research.reels, ...misplacedReels].map((reel) => [String(reel.id), reel]),
+    [...research.reels, ...misplacedReels, ...(reelsUpdate20260904.get(research.slug) ?? [])]
+      .map((reel) => [String(reel.id), reel]),
   );
-  normalized.reels = [...reelsById.values()].map((reel) =>
-    applyRecoveredTranscript(normalized.slug, reel));
+  normalized.reels = sortReelsNewestFirst(
+    [...reelsById.values()].map((reel) => applyRecoveredTranscript(normalized.slug, reel)),
+  );
   normalized.reelCount = normalized.reels.length;
+  normalized.publishedRange = getPublishedRange(normalized.reels, normalized.publishedRange);
+  normalized.analyzedAt = updateAuditDate;
   return normalized;
 }
 
 export const reelsSources = [
-  { slug: 'ahmed-on-chart', profileName: 'Ahmed On Chart', notes: 130, load: () => loadStandardResearch(import('./reels-pages/ahmed-on-chart.js')) },
-  { slug: 'travis-woo', profileName: 'Travis Woo', notes: 702, load: () => loadStandardResearch(import('./reels-pages/travis-woo.js')) },
-  { slug: 'tarzan-trading-tt', profileName: 'Tarzan Trading TT', notes: 396, load: () => loadStandardResearch(import('./reels-pages/tarzan-trading-tt.js')) },
-  { slug: 'erick-jablonski', profileName: 'Erick Jablonski', notes: 979, load: () => loadStandardResearch(import('./reels-pages/erick-jablonski.js')) },
-  { slug: 'luxalgo', profileName: 'LuxAlgo', notes: 224, load: () => loadStandardResearch(import('./reels-pages/luxalgo.js')) },
-  { slug: 'trader-note-jason', profileName: 'TradersNotes Jason', notes: 132, load: () => loadStandardResearch(import('./reels-pages/trader-note-jason.js')) },
-  { slug: 'dumb-hunter', profileName: 'Dumb Hunter', notes: 525, load: () => loadStandardResearch(import('./reels-pages/dumb-hunter.js')) },
+  { slug: 'ahmed-on-chart', profileName: 'Ahmed On Chart', notes: 143, load: () => loadStandardResearch(import('./reels-pages/ahmed-on-chart.js')) },
+  { slug: 'travis-woo', profileName: 'Travis Woo', notes: 733, load: () => loadStandardResearch(import('./reels-pages/travis-woo.js')) },
+  { slug: 'tarzan-trading-tt', profileName: 'Tarzan Trading TT', notes: 403, load: () => loadStandardResearch(import('./reels-pages/tarzan-trading-tt.js')) },
+  { slug: 'erick-jablonski', profileName: 'Erick Jablonski', notes: 987, load: () => loadStandardResearch(import('./reels-pages/erick-jablonski.js')) },
+  { slug: 'luxalgo', profileName: 'LuxAlgo', notes: 227, load: () => loadStandardResearch(import('./reels-pages/luxalgo.js')) },
+  { slug: 'trader-note-jason', profileName: 'TradersNotes Jason', notes: 139, load: () => loadStandardResearch(import('./reels-pages/trader-note-jason.js')) },
+  { slug: 'dumb-hunter', profileName: 'Dumb Hunter', notes: 1800, load: () => loadStandardResearch(import('./reels-pages/dumb-hunter.js')) },
   { slug: 'coin-announcer', profileName: '코인하는 아나운서', notes: 275, load: () => loadStandardResearch(import('./reels-pages/coin-announcer.js')) },
   {
     slug: 'max-anthony',
     profileName: 'Max Anthony',
-    notes: 856,
+    notes: 867,
     load: async () => {
       const { getReelUrl: createReelUrl, reelResearch, reelsResearchMeta } = await import('./reels-research-data.js');
+      const reels = sortReelsNewestFirst([
+        ...reelResearch.map((reel) => applyRecoveredTranscript('max-anthony', {
+          ...reel,
+          sourceUrl: createReelUrl(reel.id),
+        })),
+        ...(reelsUpdate20260904.get('max-anthony') ?? []),
+      ]);
       return {
         slug: 'max-anthony',
         profileName: reelsResearchMeta.profileName,
         canonicalProfileUrl: reelsResearchMeta.profileUrl,
-        analyzedAt: reelsResearchMeta.analyzedAt,
-        publishedRange: reelsResearchMeta.publishedRange,
-        reelCount: reelResearch.length,
+        analyzedAt: updateAuditDate,
+        publishedRange: getPublishedRange(reels, reelsResearchMeta.publishedRange),
+        reelCount: reels.length,
         totalDuration: reelsResearchMeta.totalDuration,
         methodology: '공개 릴스 탭 전체를 수집한 뒤 자동 전사와 영상 맥락을 교차 확인하고, 재현 가능한 조건이 없는 영상은 전략 아님으로 분리했다.',
         commonPrinciples: [
@@ -330,18 +369,15 @@ export const reelsSources = [
           { code: 'RE-ENTRY', title: '가설과 주문을 분리', copy: '첫 주문이 끝나도 가설이 유효하면 새 트리거에서 제한적으로 재진입합니다.' },
           { code: 'VALIDATE', title: '이름보다 규칙', copy: 'FVG·오더플로 같은 용어는 진입·무효화·비용 규칙으로 번역한 뒤 검증합니다.' },
         ],
-        reels: reelResearch.map((reel) => applyRecoveredTranscript('max-anthony', {
-          ...reel,
-          sourceUrl: createReelUrl(reel.id),
-        })),
+        reels,
       };
     },
   },
   { slug: 'omar-agag', profileName: 'Omar Agag', notes: 49, load: () => loadStandardResearch(import('./reels-pages/omar-agag.js')) },
-  { slug: 'yostrades', profileName: 'yostrades', notes: 36, load: () => loadStandardResearch(import('./reels-pages/yostrades.js')) },
-  { slug: 'trade-with-pat', profileName: 'Trade with Pat', notes: 121, load: () => loadStandardResearch(import('./reels-pages/trade-with-pat.js')) },
-  { slug: 'novo-legacy', profileName: 'Novo Legacy', notes: 106, load: () => loadStandardResearch(import('./reels-pages/novo-legacy.js')) },
-  { slug: 'official-20-minute-trader', profileName: '20-Minute Trader', notes: 371, load: () => loadStandardResearch(import('./reels-pages/official-20-minute-trader.js')) },
+  { slug: 'yostrades', profileName: 'yostrades', notes: 38, load: () => loadStandardResearch(import('./reels-pages/yostrades.js')) },
+  { slug: 'trade-with-pat', profileName: 'Trade with Pat', notes: 124, load: () => loadStandardResearch(import('./reels-pages/trade-with-pat.js')) },
+  { slug: 'novo-legacy', profileName: 'Novo Legacy', notes: 107, load: () => loadStandardResearch(import('./reels-pages/novo-legacy.js')) },
+  { slug: 'official-20-minute-trader', profileName: '20-Minute Trader', notes: 387, load: () => loadStandardResearch(import('./reels-pages/official-20-minute-trader.js')) },
   { slug: 'raghee-horner', profileName: 'Raghee Horner', notes: 247, load: () => loadStandardResearch(import('./reels-pages/raghee-horner.js')) },
 ];
 
